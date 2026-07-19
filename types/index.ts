@@ -37,3 +37,42 @@ export interface LessonSummary {
   description: string;
   count: number;
 }
+
+export type HomeTab = Section | "test";
+
+export const questionTypes = [
+  "reading",
+  "meaning",
+  "word",
+  "kanji",
+  "sentence",
+  "recognition",
+] as const;
+export type QuestionType = (typeof questionTypes)[number];
+
+export interface TestQuestion {
+  id: number;
+  questionType: QuestionType;
+  question: string;
+  word: string;
+  choices: [string, string, string, string];
+  correctAnswer: 0 | 1 | 2 | 3;
+  explanation: string;
+  /** Optional; used during generation/validation only. */
+  covers?: string[];
+}
+
+export interface TestLesson {
+  title: string;
+  type: Section;
+  lesson?: string;
+  questions: TestQuestion[];
+}
+
+export interface TestSummary {
+  section: Section;
+  slug: string;
+  title: string;
+  questionCount: number;
+  isFinal: boolean;
+}

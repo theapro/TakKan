@@ -144,6 +144,15 @@ try {
   await mkdir(outputDir, { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(lessonJson, null, 2)}\n`, "utf8");
   console.log(`Saved ${outputPath}`);
+
+  // Keep tests synchronized with study data.
+  const { spawnSync } = await import("node:child_process");
+  const result = spawnSync(process.execPath, [path.join(process.cwd(), "scripts", "generate-tests.mjs")], {
+    stdio: "inherit",
+  });
+  if (result.status !== 0) {
+    process.exit(result.status ?? 1);
+  }
 } catch (error) {
   console.error(error instanceof Error ? error.message : error);
   process.exit(1);

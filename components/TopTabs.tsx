@@ -1,44 +1,49 @@
 "use client";
 
-import type { Section } from "@/types";
+import type { HomeTab } from "@/types";
 import { cn } from "@/lib/utils";
+
+const tabs = [
+  { id: "kanji", label: "Kanji" },
+  { id: "goi", label: "Goi" },
+  { id: "test", label: "Test" },
+] as const;
 
 export function TopTabs({
   value,
   onChange,
 }: {
-  value: Section;
-  onChange: (value: Section) => void;
+  value: HomeTab;
+  onChange: (value: HomeTab) => void;
 }) {
+  const activeIndex = tabs.findIndex((tab) => tab.id === value);
+
   return (
     <div
-      className="relative inline-flex rounded-xl bg-zinc-100 p-1"
+      className="relative inline-grid grid-cols-3 rounded-xl bg-zinc-100 p-1"
       role="tablist"
       aria-label="Sections"
     >
       <span
         aria-hidden="true"
-        className={cn(
-          "absolute bottom-1 left-1 top-1 w-24 rounded-lg bg-white shadow-sm transition-transform duration-300 ease-out",
-          "ring-1 ring-[var(--brand)]/20",
-          value === "goi" && "translate-x-full",
-        )}
+        className="absolute bottom-1 top-1 w-[calc((100%-0.5rem)/3)] rounded-lg bg-white shadow-sm ring-1 ring-[var(--brand)]/20 transition-transform duration-300 ease-out"
+        style={{ transform: `translateX(calc(${Math.max(activeIndex, 0)} * 100%))`, left: "0.25rem" }}
       />
-      {(["kanji", "goi"] as const).map((section) => (
+      {tabs.map((tab) => (
         <button
-          key={section}
+          key={tab.id}
           type="button"
           role="tab"
-          aria-selected={value === section}
-          onClick={() => onChange(section)}
+          aria-selected={value === tab.id}
+          onClick={() => onChange(tab.id)}
           className={cn(
             "relative z-10 min-w-24 rounded-lg px-5 py-2.5 text-sm font-medium transition-colors",
-            value === section
+            value === tab.id
               ? "text-[var(--brand)]"
               : "text-zinc-500 hover:text-zinc-700",
           )}
         >
-          {section === "kanji" ? "Kanji" : "Goi"}
+          {tab.label}
         </button>
       ))}
     </div>
