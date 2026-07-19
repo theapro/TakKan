@@ -9,7 +9,7 @@ export function ProgressBar({ current, total }: { current: number; total: number
         aria-valuemin={1}
         aria-valuemax={total}
         aria-valuenow={current + 1}
-        aria-label="Kanji group progress"
+        aria-label="Example progress"
       >
         {segments.map((segment) => (
           <span

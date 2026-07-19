@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import type { Example, KanjiInfo } from "@/types";
+import { highlightKanji } from "@/lib/highlightKanji";
 import { cn } from "@/lib/utils";
 
 type FlashCardProps =
@@ -15,6 +16,7 @@ type FlashCardProps =
   | {
       variant: "example";
       data: Example;
+      highlight?: string;
       flipped: boolean;
       onFlip: () => void;
       className?: string;
@@ -50,7 +52,9 @@ export function FlashCard(props: FlashCardProps) {
                 : "text-[clamp(1.35rem,3.2vw,2rem)]",
             )}
           >
-            {props.data.word}
+            {props.variant === "example"
+              ? highlightKanji(props.data.word, props.highlight ?? "")
+              : props.data.word}
           </span>
         </div>
 

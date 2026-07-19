@@ -126,6 +126,19 @@ export function StudyDeck({
   const currentExample = currentGroup.examples[exampleIndex] ?? currentGroup.examples[0];
   const exampleCount = currentGroup.examples.length;
 
+  const totalExamples = useMemo(
+    () => order.reduce((sum, id) => sum + (groupMap.get(id)?.examples.length ?? 0), 0),
+    [groupMap, order],
+  );
+
+  const exampleProgress = useMemo(() => {
+    let absolute = 0;
+    for (let i = 0; i < groupIndex; i += 1) {
+      absolute += groupMap.get(order[i])?.examples.length ?? 0;
+    }
+    return absolute + exampleIndex;
+  }, [exampleIndex, groupIndex, groupMap, order]);
+
   const isFirst = groupIndex === 0 && exampleIndex === 0;
   const isLast = groupIndex === order.length - 1 && exampleIndex === exampleCount - 1;
 
@@ -203,10 +216,10 @@ export function StudyDeck({
       className="flex min-h-0 flex-1 flex-col justify-center"
     >
       <div className="shrink-0">
-        <ProgressBar current={groupIndex} total={order.length} />
+        <ProgressBar current={exampleProgress} total={totalExamples} />
       </div>
 
-      <div className="mt-5 grid shrink-0 grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-5">
+      <div className="mt-5 grid shrink-0 grid-cols-1 items-start gap-4 sm:grid-cols-[minmax(0,32fr)_minmax(0,68fr)] sm:gap-5">
         <div className="min-w-0">
           <FlashCard
             variant="kanji"
@@ -219,6 +232,7 @@ export function StudyDeck({
           <FlashCard
             variant="example"
             data={currentExample}
+            highlight={currentGroup.kanji.word}
             flipped={exampleFlipped}
             onFlip={() => setExampleFlipped((value) => !value)}
           />

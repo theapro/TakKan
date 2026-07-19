@@ -3,110 +3,128 @@
   "groups": [
     {
       "id": 1,
-      "kanji": {
-        "word": "おはよう",
-        "reading": "おはよう",
-        "meaning": "xayrli tong",
-        "onyomi": "",
-        "kunyomi": ""
-      },
+      "kanji": { "word": "俺", "reading": "おれ", "meaning": "men (erkaklar tilida, dag'alroq)", "onyomi": "", "kunyomi": "" },
       "examples": [
-        {
-          "id": 1,
-          "word": "おはようございます",
-          "reading": "おはようございます",
-          "meaning": "xayrli tong (rasmiy)"
-        }
+        { "id": 1, "word": "俺", "reading": "おれ", "meaning": "men (erkaklar tilida, dag'alroq)" }
       ]
     },
     {
       "id": 2,
-      "kanji": {
-        "word": "こんにちは",
-        "reading": "こんにちは",
-        "meaning": "salom, xayrli kun",
-        "onyomi": "",
-        "kunyomi": ""
-      },
+      "kanji": { "word": "過去", "reading": "かこ", "meaning": "o'tmish", "onyomi": "", "kunyomi": "" },
       "examples": [
-        {
-          "id": 1,
-          "word": "こんにちは",
-          "reading": "こんにちは",
-          "meaning": "salom, xayrli kun"
-        }
+        { "id": 1, "word": "過去", "reading": "かこ", "meaning": "o'tmish" }
       ]
     },
     {
       "id": 3,
-      "kanji": {
-        "word": "ありがとう",
-        "reading": "ありがとう",
-        "meaning": "rahmat",
-        "onyomi": "",
-        "kunyomi": ""
-      },
+      "kanji": { "word": "質問", "reading": "しつもん", "meaning": "savol", "onyomi": "", "kunyomi": "" },
       "examples": [
-        {
-          "id": 1,
-          "word": "ありがとうございます",
-          "reading": "ありがとうございます",
-          "meaning": "rahmat (rasmiy)"
-        }
+        { "id": 1, "word": "質問", "reading": "しつもん", "meaning": "savol" }
       ]
     },
     {
       "id": 4,
-      "kanji": {
-        "word": "すみません",
-        "reading": "すみません",
-        "meaning": "kechirasiz",
-        "onyomi": "",
-        "kunyomi": ""
-      },
+      "kanji": { "word": "知識", "reading": "ちしき", "meaning": "bilim", "onyomi": "", "kunyomi": "" },
       "examples": [
-        {
-          "id": 1,
-          "word": "すみません",
-          "reading": "すみません",
-          "meaning": "kechirasiz"
-        }
+        { "id": 1, "word": "知識", "reading": "ちしき", "meaning": "bilim" }
       ]
     },
     {
       "id": 5,
-      "kanji": {
-        "word": "はい",
-        "reading": "はい",
-        "meaning": "ha",
-        "onyomi": "",
-        "kunyomi": ""
-      },
+      "kanji": { "word": "物価", "reading": "ぶっか", "meaning": "narx-navo (umumiy narxlar darajasi)", "onyomi": "", "kunyomi": "" },
       "examples": [
-        {
-          "id": 1,
-          "word": "はい",
-          "reading": "はい",
-          "meaning": "ha"
-        }
+        { "id": 1, "word": "物価", "reading": "ぶっか", "meaning": "narx-navo (umumiy narxlar darajasi)" }
       ]
     },
     {
       "id": 6,
-      "kanji": {
-        "word": "いいえ",
-        "reading": "いいえ",
-        "meaning": "yo‘q",
-        "onyomi": "",
-        "kunyomi": ""
-      },
+      "kanji": { "word": "利便性", "reading": "りべんせい", "meaning": "qulaylik (darajasi)", "onyomi": "", "kunyomi": "" },
       "examples": [
-        {
-          "id": 1,
-          "word": "いいえ",
-          "reading": "いいえ",
-          "meaning": "yo‘q"
-        }
+        { "id": 1, "word": "利便性", "reading": "りべんせい", "meaning": "qulaylik (darajasi)" }
+      ]
+    },
+    {
+      "id": 7,
+      "kanji": { "word": "雑な", "reading": "ざつな", "meaning": "pala-partish, dag'al (ish)", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "雑な", "reading": "ざつな", "meaning": "pala-partish, dag'al (ish)" }
+      ]
+    },
+    {
+      "id": 8,
+      "kanji": { "word": "質素な", "reading": "しっそな", "meaning": "kamtarona, sodda", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "質素な", "reading": "しっそな", "meaning": "kamtarona, sodda" }
+      ]
+    },
+    {
+      "id": 9,
+      "kanji": { "word": "荒らす", "reading": "あらす", "meaning": "buzmoq, tartibsiz holga keltirmoq", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "荒らす", "reading": "あらす", "meaning": "buzmoq, tartibsiz holga keltirmoq" }
+      ]
+    },
+    {
+      "id": 10,
+      "kanji": { "word": "叶う", "reading": "かなう", "meaning": "amalga oshmoq (orzu)", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "叶う", "reading": "かなう", "meaning": "amalga oshmoq (orzu)" }
+      ]
+    },
+    {
+      "id": 11,
+      "kanji": { "word": "口を利く", "reading": "くちをきく", "meaning": "gaplashmoq/muloqot qilmoq", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "口を利く", "reading": "くちをきく", "meaning": "gaplashmoq/muloqot qilmoq" }
+      ]
+    },
+    {
+      "id": 12,
+      "kanji": { "word": "骨折する", "reading": "こっせつする", "meaning": "suyagi sinmoq", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "骨折する", "reading": "こっせつする", "meaning": "suyagi sinmoq" }
+      ]
+    },
+    {
+      "id": 13,
+      "kanji": { "word": "信頼する", "reading": "しんらいする", "meaning": "ishonmoq", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "信頼する", "reading": "しんらいする", "meaning": "ishonmoq" }
+      ]
+    },
+    {
+      "id": 14,
+      "kanji": { "word": "散らかる", "reading": "ちらかる", "meaning": "sochilib yotmoq, to'zib ketmoq", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "散らかる", "reading": "ちらかる", "meaning": "sochilib yotmoq, to'zib ketmoq" }
+      ]
+    },
+    {
+      "id": 15,
+      "kanji": { "word": "相談に乗る", "reading": "そうだんにのる", "meaning": "maslahat bermoq, dardini eshitmoq", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "相談に乗る", "reading": "そうだんにのる", "meaning": "maslahat bermoq, dardini eshitmoq" }
+      ]
+    },
+    {
+      "id": 16,
+      "kanji": { "word": "万引きする", "reading": "まんびきする", "meaning": "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "万引きする", "reading": "まんびきする", "meaning": "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)" }
+      ]
+    },
+    {
+      "id": 17,
+      "kanji": { "word": "どうせ", "reading": "どうせ", "meaning": "baribir (nima bo'lgan taqdirda xam)", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "どうせ", "reading": "どうせ", "meaning": "baribir (nima bo'lgan taqdirda xam)" }
+      ]
+    },
+    {
+      "id": 18,
+      "kanji": { "word": "目が覚める", "reading": "めがさめる", "meaning": "uyg'onmoq (ko'zi ochilmoq)", "onyomi": "", "kunyomi": "" },
+      "examples": [
+        { "id": 1, "word": "目が覚める", "reading": "めがさめる", "meaning": "uyg'onmoq (ko'zi ochilmoq)" }
       ]
     }
   ]
