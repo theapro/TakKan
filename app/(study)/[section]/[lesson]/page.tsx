@@ -34,21 +34,21 @@ export default async function LessonPage({ params }: { params: PageParams }) {
   if (!data) notFound();
 
   return (
-    <div className="flex h-dvh flex-col overflow-hidden bg-white dark:bg-zinc-950">
+    <div className="flex h-dvh flex-col overflow-hidden bg-white">
       <header className="mx-auto grid w-full max-w-[640px] shrink-0 grid-cols-[2.5rem_1fr_4rem] items-center gap-3 px-5 pt-5 sm:px-6 sm:pt-6">
         <Link
           href="/"
-          className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700 dark:text-zinc-500 dark:hover:text-zinc-300"
+          className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
           aria-label="Back to lessons"
         >
           <ArrowLeft className="size-4" />
         </Link>
 
-        <h1 className="min-w-0 truncate text-center text-[22px] font-semibold leading-tight tracking-tight text-zinc-950 dark:text-zinc-50">
+        <h1 className="min-w-0 truncate text-center text-[22px] font-semibold leading-tight tracking-tight text-zinc-950">
           {data.title}
         </h1>
 
-        <span className="justify-self-end rounded-full border border-zinc-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-zinc-500 dark:border-zinc-700 dark:text-zinc-400">
+        <span className="justify-self-end rounded-full border border-zinc-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-zinc-500">
           {section === "kanji" ? "Kanji" : "Goi"}
         </span>
       </header>

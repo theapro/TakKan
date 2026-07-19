@@ -50,7 +50,6 @@ export function StudyDeck({
   const [flipped, setFlipped] = useState(false);
   const [shuffled, setShuffled] = useState(false);
   const [ready, setReady] = useState(false);
-  const [direction, setDirection] = useState(0);
   const storageKey = `takkan:progress:${section}:${lesson}`;
 
   useEffect(() => {
@@ -113,13 +112,11 @@ export function StudyDeck({
   }, [current, lesson, order, ready, section, shuffled, storageKey]);
 
   const goPrevious = useCallback(() => {
-    setDirection(-1);
     setCurrent((value) => Math.max(0, value - 1));
     setFlipped(false);
   }, []);
 
   const goNext = useCallback(() => {
-    setDirection(1);
     setCurrent((value) => Math.min(order.length - 1, value + 1));
     setFlipped(false);
   }, [order.length]);
@@ -168,18 +165,11 @@ export function StudyDeck({
       </div>
 
       <div className="mt-5 flex shrink-0 justify-center">
-        <motion.div
-          key={order[current]}
-          initial={{ opacity: 0, x: direction > 0 ? 50 : -50 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
-        >
-          <FlashCard
-            item={item}
-            flipped={flipped}
-            onFlip={() => setFlipped((value) => !value)}
-          />
-        </motion.div>
+        <FlashCard
+          item={item}
+          flipped={flipped}
+          onFlip={() => setFlipped((value) => !value)}
+        />
       </div>
 
       <div className="mt-6 shrink-0">
@@ -195,7 +185,7 @@ export function StudyDeck({
         <button
           type="button"
           onClick={shuffle}
-          className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300"
+          className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
         >
           <Shuffle className="size-3" />
           Shuffle
@@ -203,14 +193,14 @@ export function StudyDeck({
         <button
           type="button"
           onClick={restart}
-          className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300"
+          className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
         >
           <RotateCcw className="size-3" />
           Restart
         </button>
       </div>
 
-      <p className="mt-3 shrink-0 text-center text-[11px] tracking-wide text-zinc-300 dark:text-zinc-600">
+      <p className="mt-3 shrink-0 text-center text-[11px] tracking-wide text-zinc-300">
         Space flip · ← → navigate · S shuffle · R restart
       </p>
     </motion.div>

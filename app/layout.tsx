@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
 
 export const metadata: Metadata = {
   title: { default: "TakKan", template: "%s · TakKan" },
@@ -9,12 +8,8 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="uz" suppressHydrationWarning>
-      <body>
-        <ThemeProvider defaultTheme="system" storageKey="takkan-theme">
-          {children}
-        </ThemeProvider>
-      </body>
+    <html lang="uz">
+      <body>{children}</body>
     </html>
   );
 }

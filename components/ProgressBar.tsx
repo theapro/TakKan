@@ -15,7 +15,7 @@ export function ProgressBar({ current, total }: { current: number; total: number
           className={
             segment <= current
               ? "h-1.5 w-3 rounded-full bg-[#00D18B] transition-colors duration-300"
-              : "h-1.5 w-3 rounded-full bg-zinc-200 transition-colors duration-300 dark:bg-zinc-700"
+              : "h-1.5 w-3 rounded-full bg-zinc-200 transition-colors duration-300"
           }
         />
       ))}

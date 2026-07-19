@@ -10,16 +10,6 @@
   --border: #e4e4e7;
 }
 
-.dark {
-  --background: #09090b;
-  --foreground: #fafafa;
-  --brand: #00d18b;
-  --brand-hover: #00b87a;
-  --brand-soft: #0d2e1f;
-  --muted: #a1a1aa;
-  --border: #27272a;
-}
-
 * {
   box-sizing: border-box;
 }
