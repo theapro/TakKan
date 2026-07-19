@@ -36,7 +36,7 @@ export default async function LessonPage({ params }: { params: PageParams }) {
 
   return (
     <div className="flex min-h-0 flex-1 flex-col overflow-hidden bg-white">
-      <header className="mx-auto grid w-full max-w-5xl shrink-0 grid-cols-[2.5rem_1fr_auto] items-center gap-3 px-5 pt-5 sm:px-8 sm:pt-6">
+      <header className="mx-auto grid w-full max-w-5xl shrink-0 grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 px-4 pt-4 sm:grid-cols-[2.5rem_1fr_auto] sm:gap-3 sm:px-8 sm:pt-6">
         <Link
           href="/"
           className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
@@ -45,19 +45,19 @@ export default async function LessonPage({ params }: { params: PageParams }) {
           <ArrowLeft className="size-4" />
         </Link>
 
-        <h1 className="min-w-0 truncate text-center text-[22px] font-semibold leading-tight tracking-tight text-zinc-950">
+        <h1 className="min-w-0 truncate text-center text-lg font-semibold leading-tight tracking-tight text-zinc-950 sm:text-[22px]">
           {data.title}
         </h1>
 
-        <div className="flex items-center justify-end gap-1.5">
-          <span className="rounded-full border border-zinc-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-zinc-500">
+        <div className="flex items-center justify-end gap-1 sm:gap-1.5">
+          <span className="hidden rounded-full border border-zinc-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-zinc-500 sm:inline-flex">
             {section === "kanji" ? "Kanji" : "Goi"}
           </span>
           <StudyHelpDialog />
         </div>
       </header>
 
-      <main className="mx-auto flex min-h-0 w-full max-w-5xl flex-1 flex-col px-5 pb-4 pt-5 sm:px-8">
+      <main className="mx-auto flex min-h-0 w-full max-w-5xl flex-1 flex-col overflow-x-hidden px-4 pb-3 pt-4 sm:px-8 sm:pb-4 sm:pt-5">
         <StudyDeck section={section} lesson={lesson} groups={data.groups} />
       </main>
     </div>

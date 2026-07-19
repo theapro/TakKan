@@ -14,7 +14,7 @@ export function LessonCard({ lesson, index }: { lesson: LessonSummary; index: nu
     >
       <Link
         href={`/${lesson.section}/${lesson.slug}`}
-        className="group flex min-h-48 flex-col justify-between rounded-3xl border border-zinc-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:border-[var(--brand)]/30 hover:shadow-md"
+        className="group flex min-h-44 flex-col justify-between rounded-3xl border border-zinc-200 bg-white p-5 shadow-sm transition hover:-translate-y-1 hover:border-[var(--brand)]/30 hover:shadow-md sm:min-h-48 sm:p-6"
       >
         <div className="flex items-start justify-between gap-4">
           <span className="text-sm font-medium text-zinc-400">

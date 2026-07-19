@@ -20,7 +20,7 @@ export function TopTabs({
 
   return (
     <div
-      className="relative inline-grid grid-cols-3 rounded-xl bg-zinc-100 p-1"
+      className="relative mx-auto grid w-full max-w-sm grid-cols-3 rounded-xl bg-zinc-100 p-1 sm:mx-0 sm:inline-grid sm:w-auto sm:max-w-none"
       role="tablist"
       aria-label="Sections"
     >
@@ -37,7 +37,7 @@ export function TopTabs({
           aria-selected={value === tab.id}
           onClick={() => onChange(tab.id)}
           className={cn(
-            "relative z-10 min-w-24 rounded-lg px-5 py-2.5 text-sm font-medium transition-colors",
+            "relative z-10 min-h-11 rounded-lg px-3 py-2.5 text-sm font-medium transition-colors sm:min-w-24 sm:px-5",
             value === tab.id
               ? "text-[var(--brand)]"
               : "text-zinc-500 hover:text-zinc-700",

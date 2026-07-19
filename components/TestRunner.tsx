@@ -87,13 +87,13 @@ export function TestRunner({
               setAnswers(test.questions.map(() => null));
               setFinished(false);
             }}
-            className="inline-flex h-10 items-center justify-center rounded-xl bg-[#00D18B] px-5 text-sm font-medium text-white transition-colors hover:bg-[#00b87a]"
+            className="inline-flex min-h-11 items-center justify-center rounded-xl bg-[#00D18B] px-5 text-sm font-medium text-white transition-colors hover:bg-[#00b87a]"
           >
             Qayta topshirish
           </button>
           <Link
             href="/"
-            className="inline-flex h-10 items-center justify-center rounded-xl border border-zinc-200 bg-white px-5 text-sm font-medium text-zinc-700 transition-colors hover:border-zinc-300"
+            className="inline-flex min-h-11 items-center justify-center rounded-xl border border-zinc-200 bg-white px-5 text-sm font-medium text-zinc-700 transition-colors hover:border-zinc-300"
           >
             Bosh sahifa
           </Link>
@@ -106,7 +106,7 @@ export function TestRunner({
   const isCorrect = selected === question.correctAnswer;
 
   return (
-    <div className="mx-auto flex w-full max-w-2xl flex-col px-5 py-8 sm:px-8 sm:py-10">
+    <div className="mx-auto flex w-full max-w-2xl min-w-0 flex-col px-4 py-6 sm:px-8 sm:py-10">
       <div className="flex items-center gap-3">
         <Link
           href="/"
@@ -140,7 +140,7 @@ export function TestRunner({
                 key={`${question.id}-${choiceIndex}`}
                 type="button"
                 onClick={() => choose(choiceIndex)}
-                className="flex w-full items-center gap-3 rounded-2xl border border-zinc-200 bg-white px-4 py-3.5 text-left text-sm transition-colors hover:border-zinc-300 sm:text-[15px]"
+                className="flex min-h-11 w-full items-center gap-3 rounded-2xl border border-zinc-200 bg-white px-4 py-3.5 text-left text-sm transition-colors hover:border-zinc-300 sm:text-[15px]"
               >
                 <span className="flex size-7 shrink-0 items-center justify-center rounded-full bg-zinc-100 text-xs font-medium text-zinc-500">
                   {String.fromCharCode(65 + choiceIndex)}
@@ -215,7 +215,7 @@ export function TestRunner({
             type="button"
             disabled={!revealed}
             onClick={goNext}
-            className="inline-flex h-10 w-full items-center justify-center rounded-xl bg-[#00D18B] px-5 text-sm font-medium text-white transition-colors hover:bg-[#00b87a] disabled:pointer-events-none disabled:opacity-35 sm:w-auto sm:min-w-40"
+            className="inline-flex min-h-11 w-full items-center justify-center rounded-xl bg-[#00D18B] px-5 text-sm font-medium text-white transition-colors hover:bg-[#00b87a] disabled:pointer-events-none disabled:opacity-35 sm:w-auto sm:min-w-40"
           >
             {index >= total - 1 ? "Natijani ko‘rish" : "Keyingi"}
           </button>

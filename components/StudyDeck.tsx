@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { RotateCcw, Shuffle } from "lucide-react";
 import type { KanjiGroup, Section } from "@/types";
 import { FlashCard } from "@/components/FlashCard";
@@ -9,6 +9,23 @@ import { NavigationButtons } from "@/components/NavigationButtons";
 import { ProgressBar } from "@/components/ProgressBar";
 
 const STORAGE_VERSION = 3;
+
+const slideTransition = { duration: 0.3, ease: [0.22, 1, 0.36, 1] as const };
+
+const slideVariants = {
+  enter: (direction: number) => ({
+    x: direction > 0 ? 36 : -36,
+    opacity: 0,
+  }),
+  center: {
+    x: 0,
+    opacity: 1,
+  },
+  exit: (direction: number) => ({
+    x: direction > 0 ? -36 : 36,
+    opacity: 0,
+  }),
+};
 
 interface SavedProgress {
   version: number;
@@ -50,6 +67,7 @@ export function StudyDeck({
   const [order, setOrder] = useState(originalIds);
   const [groupIndex, setGroupIndex] = useState(0);
   const [exampleIndex, setExampleIndex] = useState(0);
+  const [direction, setDirection] = useState(1);
   const [kanjiFlipped, setKanjiFlipped] = useState(false);
   const [exampleFlipped, setExampleFlipped] = useState(false);
   const [shuffled, setShuffled] = useState(false);
@@ -125,6 +143,8 @@ export function StudyDeck({
   const currentGroup = groupMap.get(order[groupIndex]) ?? groups[0];
   const currentExample = currentGroup.examples[exampleIndex] ?? currentGroup.examples[0];
   const exampleCount = currentGroup.examples.length;
+  const groupKey = order[groupIndex];
+  const exampleKey = `${groupKey}:${currentExample.id}`;
 
   const totalExamples = useMemo(
     () => order.reduce((sum, id) => sum + (groupMap.get(id)?.examples.length ?? 0), 0),
@@ -148,6 +168,7 @@ export function StudyDeck({
   }, []);
 
   const goPrevious = useCallback(() => {
+    setDirection(-1);
     if (exampleIndex > 0) {
       setExampleIndex((value) => value - 1);
       setExampleFlipped(false);
@@ -163,6 +184,7 @@ export function StudyDeck({
   }, [exampleIndex, groupIndex, groupMap, order, resetFlips]);
 
   const goNext = useCallback(() => {
+    setDirection(1);
     if (exampleIndex < exampleCount - 1) {
       setExampleIndex((value) => value + 1);
       setExampleFlipped(false);
@@ -176,6 +198,7 @@ export function StudyDeck({
   }, [exampleCount, exampleIndex, groupIndex, order.length, resetFlips]);
 
   const restart = useCallback(() => {
+    setDirection(1);
     setOrder(originalIds);
     setGroupIndex(0);
     setExampleIndex(0);
@@ -184,6 +207,7 @@ export function StudyDeck({
   }, [originalIds, resetFlips]);
 
   const shuffle = useCallback(() => {
+    setDirection(1);
     setOrder(shuffledIds(order));
     setGroupIndex(0);
     setExampleIndex(0);
@@ -213,36 +237,63 @@ export function StudyDeck({
       initial={{ opacity: 0 }}
       animate={{ opacity: ready ? 1 : 0 }}
       transition={{ duration: 0.35, ease: [0.22, 1, 0.36, 1] }}
-      className="flex min-h-0 flex-1 flex-col justify-center"
+      className="flex min-h-0 w-full min-w-0 flex-1 flex-col justify-center"
     >
-      <div className="shrink-0">
+      <div className="shrink-0 px-0.5">
         <ProgressBar current={exampleProgress} total={totalExamples} />
       </div>
 
-      <div className="mt-5 grid shrink-0 grid-cols-1 items-start gap-4 sm:grid-cols-[minmax(0,32fr)_minmax(0,68fr)] sm:gap-5">
-        <div className="min-w-0">
-          <FlashCard
-            variant="kanji"
-            data={currentGroup.kanji}
-            flipped={kanjiFlipped}
-            onFlip={() => setKanjiFlipped((value) => !value)}
-          />
+      <div className="mt-4 grid w-full min-w-0 shrink-0 grid-cols-1 items-start gap-3 sm:mt-5 sm:grid-cols-[minmax(0,32fr)_minmax(0,68fr)] sm:gap-4 lg:gap-5">
+        <div className="relative min-w-0 overflow-hidden">
+          <AnimatePresence mode="wait" custom={direction}>
+            <motion.div
+              key={groupKey}
+              custom={direction}
+              variants={slideVariants}
+              initial="enter"
+              animate="center"
+              exit="exit"
+              transition={slideTransition}
+              className="w-full"
+            >
+              <FlashCard
+                variant="kanji"
+                data={currentGroup.kanji}
+                flipped={kanjiFlipped}
+                onFlip={() => setKanjiFlipped((value) => !value)}
+              />
+            </motion.div>
+          </AnimatePresence>
         </div>
-        <div className="min-w-0">
-          <FlashCard
-            variant="example"
-            data={currentExample}
-            highlight={currentGroup.kanji.word}
-            flipped={exampleFlipped}
-            onFlip={() => setExampleFlipped((value) => !value)}
-          />
-          <p className="mt-2.5 text-center text-[12px] text-zinc-400">
-            Example {exampleIndex + 1} of {exampleCount}
-          </p>
+
+        <div className="relative min-w-0 overflow-hidden">
+          <AnimatePresence mode="wait" custom={direction}>
+            <motion.div
+              key={exampleKey}
+              custom={direction}
+              variants={slideVariants}
+              initial="enter"
+              animate="center"
+              exit="exit"
+              transition={slideTransition}
+              className="w-full"
+            >
+              <FlashCard
+                variant="example"
+                data={currentExample}
+                highlight={currentGroup.kanji.word}
+                flipped={exampleFlipped}
+                onFlip={() => setExampleFlipped((value) => !value)}
+              />
+              <p className="mt-2.5 text-center text-[12px] text-zinc-400">
+                Example {exampleIndex + 1} of {exampleCount}
+              </p>
+            </motion.div>
+          </AnimatePresence>
         </div>
       </div>
 
-      <div className="mt-6 shrink-0">
+      <div className="mt-5 shrink-0 sm:mt-6">
         <NavigationButtons
           canPrevious={!isFirst}
           canNext={!isLast}
@@ -251,11 +302,11 @@ export function StudyDeck({
         />
       </div>
 
-      <div className="mt-4 flex shrink-0 justify-center gap-5">
+      <div className="mt-3 flex shrink-0 justify-center gap-5 sm:mt-4">
         <button
           type="button"
           onClick={shuffle}
-          className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
+          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
         >
           <Shuffle className="size-3" />
           Shuffle
@@ -263,7 +314,7 @@ export function StudyDeck({
         <button
           type="button"
           onClick={restart}
-          className="inline-flex items-center gap-1.5 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
+          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
         >
           <RotateCcw className="size-3" />
           Restart

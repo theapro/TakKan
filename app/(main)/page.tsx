@@ -11,7 +11,7 @@ export default async function HomePage() {
   ]);
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-10 sm:px-8 sm:py-12">
+    <main className="mx-auto w-full max-w-6xl px-4 py-8 sm:px-8 sm:py-12">
       <HomeLessons
         lessons={{ kanji, goi }}
         tests={{ kanji: kanjiTests, goi: goiTests }}

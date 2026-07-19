@@ -2,9 +2,9 @@ export function ProgressBar({ current, total }: { current: number; total: number
   const segments = Array.from({ length: total }, (_, index) => index);
 
   return (
-    <div className="flex flex-col items-center gap-2">
+    <div className="flex w-full min-w-0 flex-col items-center gap-2">
       <div
-        className="flex flex-wrap items-center justify-center gap-1"
+        className="flex max-w-full flex-wrap items-center justify-center gap-1"
         role="progressbar"
         aria-valuemin={1}
         aria-valuemax={total}
@@ -16,8 +16,8 @@ export function ProgressBar({ current, total }: { current: number; total: number
             key={segment}
             className={
               segment <= current
-                ? "h-1.5 w-3 rounded-full bg-[#00D18B] transition-colors duration-300"
-                : "h-1.5 w-3 rounded-full bg-zinc-200 transition-colors duration-300"
+                ? "h-1.5 w-2 rounded-full bg-[#00D18B] transition-colors duration-300 sm:w-2.5 lg:w-3"
+                : "h-1.5 w-2 rounded-full bg-zinc-200 transition-colors duration-300 sm:w-2.5 lg:w-3"
             }
           />
         ))}
