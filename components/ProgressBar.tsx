@@ -16,13 +16,13 @@ export function ProgressBar({ current, total }: { current: number; total: number
             key={segment}
             className={
               segment <= current
-                ? "h-1.5 w-2 rounded-full bg-[#00D18B] transition-colors duration-300 sm:w-2.5 lg:w-3"
-                : "h-1.5 w-2 rounded-full bg-zinc-200 transition-colors duration-300 sm:w-2.5 lg:w-3"
+                ? "h-1.5 w-2 rounded-full bg-[var(--primary)] transition-colors duration-300 sm:w-2.5 lg:w-3"
+                : "h-1.5 w-2 rounded-full bg-[var(--border)] transition-colors duration-300 sm:w-2.5 lg:w-3"
             }
           />
         ))}
       </div>
-      <p className="text-xs tabular-nums text-zinc-400">
+      <p className="text-xs tabular-nums text-[var(--text-muted)]">
         {current + 1} / {total}
       </p>
     </div>

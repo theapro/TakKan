@@ -18,7 +18,7 @@ export function NavigationButtons({
         onClick={previous}
         disabled={!canPrevious}
         aria-label="Previous example"
-        className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl border border-zinc-200 bg-white px-4 text-sm font-medium text-zinc-700 transition-colors hover:border-zinc-300 hover:text-zinc-950 disabled:pointer-events-none disabled:opacity-35"
+        className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 text-sm font-medium text-[var(--text-secondary)] transition-colors duration-200 hover:border-[var(--border-strong)] hover:bg-[var(--surface-hover)] hover:text-[var(--text-primary)] disabled:pointer-events-none disabled:opacity-35"
       >
         <ChevronLeft className="size-3.5" />
         Previous
@@ -28,7 +28,7 @@ export function NavigationButtons({
         onClick={next}
         disabled={!canNext}
         aria-label="Next example"
-        className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#00D18B] px-4 text-sm font-medium text-white transition-colors hover:bg-[#00b87a] disabled:pointer-events-none disabled:opacity-35"
+        className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[var(--primary)] px-4 text-sm font-medium text-white transition-colors duration-200 hover:bg-[var(--primary-hover)] disabled:pointer-events-none disabled:opacity-35"
       >
         Next
         <ChevronRight className="size-3.5" />

@@ -70,12 +70,12 @@ export function TestRunner({
     const percent = total ? Math.round((score / total) * 100) : 0;
     return (
       <div className="mx-auto flex min-h-[70vh] w-full max-w-2xl flex-col justify-center px-5 py-10 sm:px-8">
-        <p className="text-[11px] font-medium uppercase tracking-[0.2em] text-zinc-400">
+        <p className="text-[11px] font-medium uppercase tracking-[0.2em] text-[var(--text-muted)]">
           {test.type === "kanji" ? "Kanji Test" : "Goi Test"}
         </p>
-        <h1 className="mt-2 text-3xl font-semibold tracking-tight text-zinc-950">{test.title}</h1>
-        <p className="mt-8 text-5xl font-semibold tabular-nums text-[#00D18B]">{percent}%</p>
-        <p className="mt-3 text-sm text-zinc-500">
+        <h1 className="mt-2 text-3xl font-semibold tracking-tight text-[var(--text-primary)]">{test.title}</h1>
+        <p className="mt-8 text-5xl font-semibold tabular-nums text-[var(--primary)]">{percent}%</p>
+        <p className="mt-3 text-sm text-[var(--text-secondary)]">
           {score} / {total} to‘g‘ri javob
         </p>
         <div className="mt-10 flex flex-wrap gap-3">
@@ -87,13 +87,13 @@ export function TestRunner({
               setAnswers(test.questions.map(() => null));
               setFinished(false);
             }}
-            className="inline-flex min-h-11 items-center justify-center rounded-xl bg-[#00D18B] px-5 text-sm font-medium text-white transition-colors hover:bg-[#00b87a]"
+            className="inline-flex min-h-11 items-center justify-center rounded-xl bg-[var(--primary)] px-5 text-sm font-medium text-white transition-colors hover:bg-[var(--primary-hover)]"
           >
             Qayta topshirish
           </button>
           <Link
             href="/"
-            className="inline-flex min-h-11 items-center justify-center rounded-xl border border-zinc-200 bg-white px-5 text-sm font-medium text-zinc-700 transition-colors hover:border-zinc-300"
+            className="inline-flex min-h-11 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-5 text-sm font-medium text-[var(--text-secondary)] transition-colors hover:border-[var(--border-strong)] hover:text-[var(--text-primary)]"
           >
             Bosh sahifa
           </Link>
@@ -106,32 +106,32 @@ export function TestRunner({
   const isCorrect = selected === question.correctAnswer;
 
   return (
-    <div className="mx-auto flex w-full max-w-2xl min-w-0 flex-col px-4 py-6 sm:px-8 sm:py-10">
+    <div className="mx-auto flex w-full min-w-0 max-w-2xl flex-col px-4 py-6 sm:px-8 sm:py-10">
       <div className="flex items-center gap-3">
         <Link
           href="/"
-          className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
+          className="inline-flex size-8 items-center justify-center rounded-lg text-[var(--text-muted)] transition-colors hover:text-[var(--text-primary)]"
           aria-label="Back to home"
         >
           <ArrowLeft className="size-4" />
         </Link>
         <div className="min-w-0 flex-1">
-          <p className="text-[11px] font-medium uppercase tracking-[0.18em] text-zinc-400">
+          <p className="text-[11px] font-medium uppercase tracking-[0.18em] text-[var(--text-muted)]">
             {test.type === "kanji" ? "Kanji" : "Goi"} · {index + 1} / {total}
           </p>
-          <h1 className="truncate text-lg font-semibold tracking-tight text-zinc-950">{test.title}</h1>
+          <h1 className="truncate text-lg font-semibold tracking-tight text-[var(--text-primary)]">{test.title}</h1>
         </div>
       </div>
 
-      <div className="mt-4 h-1 overflow-hidden rounded-full bg-zinc-100">
+      <div className="mt-4 h-1 overflow-hidden rounded-full bg-[var(--surface-muted)]">
         <div
-          className="h-full rounded-full bg-[#00D18B] transition-[width] duration-300"
+          className="h-full rounded-full bg-[var(--primary)] transition-[width] duration-300"
           style={{ width: `${((index + (revealed ? 1 : 0)) / total) * 100}%` }}
         />
       </div>
 
       <div className="mt-10 flex flex-1 flex-col">
-        <p className="text-[15px] leading-relaxed text-zinc-800 sm:text-base">{question.question}</p>
+        <p className="text-[15px] leading-relaxed text-[var(--text-primary)] sm:text-base">{question.question}</p>
 
         {!revealed ? (
           <div className="mt-8 space-y-3">
@@ -140,27 +140,27 @@ export function TestRunner({
                 key={`${question.id}-${choiceIndex}`}
                 type="button"
                 onClick={() => choose(choiceIndex)}
-                className="flex min-h-11 w-full items-center gap-3 rounded-2xl border border-zinc-200 bg-white px-4 py-3.5 text-left text-sm transition-colors hover:border-zinc-300 sm:text-[15px]"
+                className="flex min-h-11 w-full items-center gap-3 rounded-2xl border border-[var(--border)] bg-[var(--surface)] px-4 py-3.5 text-left text-sm transition-colors hover:border-[var(--border-strong)] hover:bg-[var(--surface-hover)] sm:text-[15px]"
               >
-                <span className="flex size-7 shrink-0 items-center justify-center rounded-full bg-zinc-100 text-xs font-medium text-zinc-500">
+                <span className="flex size-7 shrink-0 items-center justify-center rounded-full bg-[var(--surface-muted)] text-xs font-medium text-[var(--text-muted)]">
                   {String.fromCharCode(65 + choiceIndex)}
                 </span>
-                <span className="min-w-0 flex-1 font-japanese leading-snug text-zinc-900">{choice}</span>
+                <span className="min-w-0 flex-1 font-japanese leading-snug text-[var(--text-primary)]">{choice}</span>
               </button>
             ))}
           </div>
         ) : (
           <div className="mt-8 space-y-6">
-            <div className="rounded-2xl border border-[#00D18B]/25 bg-[#e8faf3] px-4 py-4">
-              <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#00b87a]">
+            <div className="rounded-2xl border border-[var(--correct-border)] bg-[var(--correct-bg)] px-4 py-4">
+              <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[var(--primary)]">
                 Correct Answer
               </p>
-              <p className="mt-2 text-base font-semibold text-zinc-950">
+              <p className="mt-2 text-base font-semibold text-[var(--text-primary)]">
                 {correctEntry?.meaning ?? question.choices[question.correctAnswer]}
               </p>
               {(correctEntry?.reading || promptEntry?.reading) ? (
-                <p className="mt-3 text-sm text-zinc-600">
-                  <span className="mr-2 text-[11px] font-semibold uppercase tracking-[0.14em] text-zinc-400">
+                <p className="mt-3 text-sm text-[var(--text-secondary)]">
+                  <span className="mr-2 text-[11px] font-semibold uppercase tracking-[0.14em] text-[var(--text-muted)]">
                     Reading
                   </span>
                   <span className="font-japanese">
@@ -183,24 +183,24 @@ export function TestRunner({
                     key={`${question.id}-detail-${choiceIndex}`}
                     className={
                       isAnswer
-                        ? "rounded-2xl border border-[#00D18B] bg-[#e8faf3] px-4 py-3.5"
+                        ? "rounded-2xl border border-[var(--correct-border)] bg-[var(--correct-bg)] px-4 py-3.5"
                         : isSelected
-                          ? "rounded-2xl border border-red-200 bg-red-50/60 px-4 py-3.5"
-                          : "rounded-2xl border border-zinc-200 bg-white px-4 py-3.5"
+                          ? "rounded-2xl border border-[var(--incorrect-border)] bg-[var(--incorrect-bg)] px-4 py-3.5"
+                          : "rounded-2xl border border-[var(--border)] bg-[var(--surface)] px-4 py-3.5"
                     }
                   >
                     <div className="flex items-start gap-3">
-                      <span className="flex size-7 shrink-0 items-center justify-center rounded-full bg-white text-xs font-medium text-zinc-500 ring-1 ring-zinc-200">
+                      <span className="flex size-7 shrink-0 items-center justify-center rounded-full bg-[var(--surface-muted)] text-xs font-medium text-[var(--text-muted)] ring-1 ring-[var(--border)]">
                         {String.fromCharCode(65 + choiceIndex)}
                       </span>
                       <div className="min-w-0 flex-1">
-                        <p className="font-japanese text-[15px] leading-snug text-zinc-950">{word}</p>
+                        <p className="font-japanese text-[15px] leading-snug text-[var(--text-primary)]">{word}</p>
                         {reading ? (
-                          <p className="mt-1 font-japanese text-sm text-zinc-500">{reading}</p>
+                          <p className="mt-1 font-japanese text-sm text-[var(--text-secondary)]">{reading}</p>
                         ) : null}
-                        <p className="mt-1 text-sm text-zinc-700">{meaning}</p>
+                        <p className="mt-1 text-sm text-[var(--text-secondary)]">{meaning}</p>
                       </div>
-                      {isAnswer ? <Check className="mt-0.5 size-4 shrink-0 text-[#00D18B]" /> : null}
+                      {isAnswer ? <Check className="mt-0.5 size-4 shrink-0 text-[var(--primary)]" /> : null}
                       {isSelected && !isCorrect ? <X className="mt-0.5 size-4 shrink-0 text-red-400" /> : null}
                     </div>
                   </div>
@@ -215,7 +215,7 @@ export function TestRunner({
             type="button"
             disabled={!revealed}
             onClick={goNext}
-            className="inline-flex min-h-11 w-full items-center justify-center rounded-xl bg-[#00D18B] px-5 text-sm font-medium text-white transition-colors hover:bg-[#00b87a] disabled:pointer-events-none disabled:opacity-35 sm:w-auto sm:min-w-40"
+            className="inline-flex min-h-11 w-full items-center justify-center rounded-xl bg-[var(--primary)] px-5 text-sm font-medium text-white transition-colors hover:bg-[var(--primary-hover)] disabled:pointer-events-none disabled:opacity-35 sm:w-auto sm:min-w-40"
           >
             {index >= total - 1 ? "Natijani ko‘rish" : "Keyingi"}
           </button>

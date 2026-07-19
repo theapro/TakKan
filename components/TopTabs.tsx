@@ -20,13 +20,13 @@ export function TopTabs({
 
   return (
     <div
-      className="relative mx-auto grid w-full max-w-sm grid-cols-3 rounded-xl bg-zinc-100 p-1 sm:mx-0 sm:inline-grid sm:w-auto sm:max-w-none"
+      className="relative mx-auto grid w-full max-w-sm grid-cols-3 rounded-xl bg-[var(--surface-muted)] p-1 transition-colors duration-200 sm:mx-0 sm:inline-grid sm:w-auto sm:max-w-none"
       role="tablist"
       aria-label="Sections"
     >
       <span
         aria-hidden="true"
-        className="absolute bottom-1 top-1 w-[calc((100%-0.5rem)/3)] rounded-lg bg-white shadow-sm ring-1 ring-[var(--brand)]/20 transition-transform duration-300 ease-out"
+        className="absolute bottom-1 top-1 w-[calc((100%-0.5rem)/3)] rounded-lg bg-[var(--surface)] shadow-sm ring-1 ring-[var(--primary)]/20 transition-transform duration-300 ease-out"
         style={{ transform: `translateX(calc(${Math.max(activeIndex, 0)} * 100%))`, left: "0.25rem" }}
       />
       {tabs.map((tab) => (
@@ -37,10 +37,10 @@ export function TopTabs({
           aria-selected={value === tab.id}
           onClick={() => onChange(tab.id)}
           className={cn(
-            "relative z-10 min-h-11 rounded-lg px-3 py-2.5 text-sm font-medium transition-colors sm:min-w-24 sm:px-5",
+            "relative z-10 min-h-11 rounded-lg px-3 py-2.5 text-sm font-medium transition-colors duration-200 sm:min-w-24 sm:px-5",
             value === tab.id
-              ? "text-[var(--brand)]"
-              : "text-zinc-500 hover:text-zinc-700",
+              ? "text-[var(--primary)]"
+              : "text-[var(--text-muted)] hover:text-[var(--text-secondary)]",
           )}
         >
           {tab.label}

@@ -14,18 +14,20 @@ export function LessonCard({ lesson, index }: { lesson: LessonSummary; index: nu
     >
       <Link
         href={`/${lesson.section}/${lesson.slug}`}
-        className="group flex min-h-44 flex-col justify-between rounded-3xl border border-zinc-200 bg-white p-5 shadow-sm transition hover:-translate-y-1 hover:border-[var(--brand)]/30 hover:shadow-md sm:min-h-48 sm:p-6"
+        className="group flex min-h-44 flex-col justify-between rounded-3xl border border-[var(--border)] bg-[var(--surface)] p-5 shadow-[var(--shadow-card)] transition duration-200 hover:-translate-y-1 hover:border-[var(--primary)]/30 hover:bg-[var(--surface-hover)] hover:shadow-[var(--shadow-card-hover)] sm:min-h-48 sm:p-6"
       >
         <div className="flex items-start justify-between gap-4">
-          <span className="text-sm font-medium text-zinc-400">
+          <span className="text-sm font-medium text-[var(--text-muted)]">
             {String(index + 1).padStart(2, "0")}
           </span>
-          <ArrowUpRight className="size-5 text-zinc-300 transition group-hover:text-[var(--brand)]" />
+          <ArrowUpRight className="size-5 text-[var(--text-muted)] transition group-hover:text-[var(--primary)]" />
         </div>
         <div>
-          <h2 className="text-xl font-semibold tracking-tight text-zinc-950">{lesson.title}</h2>
-          <p className="mt-2 text-sm leading-6 text-zinc-500">{lesson.description}</p>
-          <p className="mt-4 text-xs font-medium uppercase tracking-wider text-[var(--brand)]">
+          <h2 className="text-xl font-semibold tracking-tight text-[var(--text-primary)]">{lesson.title}</h2>
+          {lesson.description ? (
+            <p className="mt-2 text-sm leading-6 text-[var(--text-secondary)]">{lesson.description}</p>
+          ) : null}
+          <p className="mt-4 text-xs font-medium uppercase tracking-wider text-[var(--primary)]">
             {lesson.count} cards
           </p>
         </div>

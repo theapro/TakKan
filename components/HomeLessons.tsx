@@ -19,7 +19,7 @@ function TestSection({
 
   return (
     <section>
-      <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.18em] text-zinc-400">
+      <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.18em] text-[var(--text-muted)]">
         {title}
       </h2>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">

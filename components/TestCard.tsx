@@ -16,36 +16,31 @@ export function TestCard({ test, index }: { test: TestSummary; index: number }) 
       <Link
         href={`/test/${test.section}/${test.slug}`}
         className={cn(
-          "group flex min-h-44 flex-col justify-between rounded-3xl border bg-white p-5 shadow-sm transition hover:-translate-y-1 hover:shadow-md sm:min-h-48 sm:p-6",
+          "group flex min-h-44 flex-col justify-between rounded-3xl border bg-[var(--surface)] p-5 shadow-[var(--shadow-card)] transition duration-200 hover:-translate-y-1 hover:bg-[var(--surface-hover)] hover:shadow-[var(--shadow-card-hover)] sm:min-h-48 sm:p-6",
           test.isFinal
-            ? "border-[#00D18B]/55 hover:border-[#00D18B]"
-            : "border-zinc-200 hover:border-[var(--brand)]/30",
+            ? "border-[var(--primary)]/55 hover:border-[var(--primary)]"
+            : "border-[var(--border)] hover:border-[var(--primary)]/30",
         )}
       >
         <div className="flex items-start justify-between gap-4">
           {test.isFinal ? (
-            <span className="rounded-full bg-[#00D18B] px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.16em] text-white">
+            <span className="rounded-full bg-[var(--primary)] px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.16em] text-white">
               Final
             </span>
           ) : (
-            <span className="text-sm font-medium text-zinc-400">
+            <span className="text-sm font-medium text-[var(--text-muted)]">
               {String(index + 1).padStart(2, "0")}
             </span>
           )}
           {test.isFinal ? (
-            <Trophy className="size-5 text-[#00D18B] transition group-hover:scale-105" />
+            <Trophy className="size-5 text-[var(--primary)] transition group-hover:scale-105" />
           ) : (
-            <ArrowUpRight className="size-5 text-zinc-300 transition group-hover:text-[var(--brand)]" />
+            <ArrowUpRight className="size-5 text-[var(--text-muted)] transition group-hover:text-[var(--primary)]" />
           )}
         </div>
         <div>
-          <h2 className="text-xl font-semibold tracking-tight text-zinc-950">{test.title}</h2>
-          <p
-            className={cn(
-              "mt-4 text-xs font-medium uppercase tracking-wider",
-              test.isFinal ? "text-[#00D18B]" : "text-[var(--brand)]",
-            )}
-          >
+          <h2 className="text-xl font-semibold tracking-tight text-[var(--text-primary)]">{test.title}</h2>
+          <p className="mt-4 text-xs font-medium uppercase tracking-wider text-[var(--primary)]">
             {test.questionCount} questions
           </p>
         </div>

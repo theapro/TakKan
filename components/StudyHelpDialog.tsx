@@ -28,7 +28,7 @@ export function StudyHelpDialog() {
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
+        className="inline-flex size-9 items-center justify-center rounded-lg text-[var(--text-muted)] transition-colors hover:bg-[var(--surface-hover)] hover:text-[var(--text-primary)]"
         aria-label="Study mode help"
       >
         <Info className="size-4" />
@@ -38,7 +38,7 @@ export function StudyHelpDialog() {
         <div className="fixed inset-0 z-50 flex items-center justify-center p-5">
           <button
             type="button"
-            className="absolute inset-0 bg-zinc-950/30"
+            className="absolute inset-0 bg-[var(--overlay)]"
             aria-label="Close help dialog"
             onClick={() => setOpen(false)}
           />
@@ -46,25 +46,25 @@ export function StudyHelpDialog() {
             role="dialog"
             aria-modal="true"
             aria-labelledby={titleId}
-            className="relative z-10 max-h-[min(80vh,640px)] w-full max-w-md overflow-y-auto rounded-2xl border border-zinc-200 bg-white p-6 shadow-[0_20px_50px_-24px_rgba(0,0,0,0.35)]"
+            className="relative z-10 max-h-[min(80vh,640px)] w-full max-w-md overflow-y-auto rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-[var(--shadow-card-hover)]"
           >
             <div className="flex items-start justify-between gap-4">
-              <h2 id={titleId} className="text-lg font-semibold tracking-tight text-zinc-950">
+              <h2 id={titleId} className="text-lg font-semibold tracking-tight text-[var(--text-primary)]">
                 Study Mode
               </h2>
               <button
                 type="button"
                 onClick={() => setOpen(false)}
-                className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
+                className="inline-flex size-8 items-center justify-center rounded-lg text-[var(--text-muted)] transition-colors hover:text-[var(--text-primary)]"
                 aria-label="Close"
               >
                 <X className="size-4" />
               </button>
             </div>
 
-            <div className="mt-5 space-y-5 text-sm leading-relaxed text-zinc-600">
+            <div className="mt-5 space-y-5 text-sm leading-relaxed text-[var(--text-secondary)]">
               <section>
-                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-400">
+                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[var(--text-muted)]">
                   How it works
                 </h3>
                 <p className="mt-2">
@@ -74,7 +74,7 @@ export function StudyHelpDialog() {
               </section>
 
               <section>
-                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-400">
+                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[var(--text-muted)]">
                   Kanji Card
                 </h3>
                 <p className="mt-2">
@@ -84,7 +84,7 @@ export function StudyHelpDialog() {
               </section>
 
               <section>
-                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-400">
+                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[var(--text-muted)]">
                   Example Card
                 </h3>
                 <p className="mt-2">
@@ -94,7 +94,7 @@ export function StudyHelpDialog() {
               </section>
 
               <section>
-                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-zinc-400">
+                <h3 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[var(--text-muted)]">
                   Keyboard Shortcuts
                 </h3>
                 <dl className="mt-3 space-y-2.5">
@@ -107,10 +107,10 @@ export function StudyHelpDialog() {
                     ["S", "Shuffle groups"],
                   ].map(([key, label]) => (
                     <div key={key} className="flex items-center justify-between gap-4">
-                      <dt className="rounded-md border border-zinc-200 bg-zinc-50 px-2 py-1 font-mono text-[11px] text-zinc-700">
+                      <dt className="rounded-md border border-[var(--border)] bg-[var(--surface-muted)] px-2 py-1 font-mono text-[11px] text-[var(--text-secondary)]">
                         {key}
                       </dt>
-                      <dd className="text-right text-zinc-500">{label}</dd>
+                      <dd className="text-right text-[var(--text-muted)]">{label}</dd>
                     </div>
                   ))}
                 </dl>

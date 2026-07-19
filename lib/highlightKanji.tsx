@@ -16,7 +16,7 @@ export function highlightKanji(sentence: string, kanji: string): ReactNode {
     }
     if (index < parts.length - 1) {
       nodes.push(
-        <span key={`kanji-${index}`} className="font-semibold text-[#00D18B]">
+        <span key={`kanji-${index}`} className="font-semibold text-[var(--primary)]">
           {kanji}
         </span>,
       );

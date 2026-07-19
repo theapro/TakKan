@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import { StudyDeck } from "@/components/StudyDeck";
 import { StudyHelpDialog } from "@/components/StudyHelpDialog";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { getLesson, getLessonSlugs } from "@/lib/lessons";
 import { sections, type Section } from "@/types";
 
@@ -35,25 +36,26 @@ export default async function LessonPage({ params }: { params: PageParams }) {
   if (!data) notFound();
 
   return (
-    <div className="flex min-h-0 flex-1 flex-col overflow-hidden bg-white">
+    <div className="flex min-h-0 flex-1 flex-col overflow-hidden bg-[var(--background)] transition-colors duration-200">
       <header className="mx-auto grid w-full max-w-5xl shrink-0 grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-2 px-4 pt-4 sm:grid-cols-[2.5rem_1fr_auto] sm:gap-3 sm:px-8 sm:pt-6">
         <Link
           href="/"
-          className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
+          className="inline-flex size-8 items-center justify-center rounded-lg text-[var(--text-muted)] transition-colors hover:text-[var(--text-primary)]"
           aria-label="Back to lessons"
         >
           <ArrowLeft className="size-4" />
         </Link>
 
-        <h1 className="min-w-0 truncate text-center text-lg font-semibold leading-tight tracking-tight text-zinc-950 sm:text-[22px]">
+        <h1 className="min-w-0 truncate text-center text-lg font-semibold leading-tight tracking-tight text-[var(--text-primary)] sm:text-[22px]">
           {data.title}
         </h1>
 
-        <div className="flex items-center justify-end gap-1 sm:gap-1.5">
-          <span className="hidden rounded-full border border-zinc-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-zinc-500 sm:inline-flex">
+        <div className="flex items-center justify-end gap-0.5 sm:gap-1">
+          <span className="hidden rounded-full border border-[var(--border)] px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-[var(--text-muted)] sm:inline-flex">
             {section === "kanji" ? "Kanji" : "Goi"}
           </span>
           <StudyHelpDialog />
+          <ThemeToggle />
         </div>
       </header>
 

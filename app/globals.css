@@ -1,13 +1,62 @@
 @import "tailwindcss";
 
 :root {
+  color-scheme: light;
+
   --background: #ffffff;
-  --foreground: #18181b;
-  --brand: #00d18b;
-  --brand-hover: #00b87a;
-  --brand-soft: #e8faf3;
-  --muted: #71717a;
-  --border: #e4e4e7;
+  --surface: #fffcf8;
+  --surface-hover: #f7f4ef;
+  --surface-muted: #f4f4f5;
+  --primary: #00d18b;
+  --primary-hover: #00b87a;
+  --primary-soft: #e8faf3;
+  --text-primary: #14161a;
+  --text-secondary: #5c6570;
+  --text-muted: #8b939e;
+  --border: #e6e2dc;
+  --border-strong: #d4d0ca;
+  --shadow-card: 0 10px 28px -16px rgba(20, 22, 26, 0.18), 0 2px 6px -2px rgba(20, 22, 26, 0.06);
+  --shadow-card-hover: 0 16px 36px -18px rgba(20, 22, 26, 0.24), 0 4px 10px -4px rgba(20, 22, 26, 0.08);
+  --overlay: rgba(15, 17, 21, 0.36);
+  --correct-bg: #e8faf3;
+  --correct-border: rgba(0, 209, 139, 0.45);
+  --incorrect-bg: #fef2f2;
+  --incorrect-border: #fecaca;
+  --ring-offset: #ffffff;
+  --scrollbar-track: #f4f4f5;
+
+  /* Aliases used across the app */
+  --brand: var(--primary);
+  --brand-hover: var(--primary-hover);
+  --brand-soft: var(--primary-soft);
+  --foreground: var(--text-primary);
+  --muted: var(--text-secondary);
+}
+
+.dark {
+  color-scheme: dark;
+
+  --background: #0f1115;
+  --surface: #171a21;
+  --surface-hover: #1d222b;
+  --surface-muted: #12151b;
+  --primary: #00d18b;
+  --primary-hover: #1adb98;
+  --primary-soft: rgba(0, 209, 139, 0.14);
+  --text-primary: #f5f7fa;
+  --text-secondary: #aeb6c2;
+  --text-muted: #7b8492;
+  --border: #2a2f3a;
+  --border-strong: #3a4150;
+  --shadow-card: 0 12px 30px -16px rgba(0, 0, 0, 0.55), 0 2px 8px -2px rgba(0, 0, 0, 0.35);
+  --shadow-card-hover: 0 18px 40px -18px rgba(0, 0, 0, 0.65), 0 4px 12px -4px rgba(0, 0, 0, 0.4);
+  --overlay: rgba(0, 0, 0, 0.55);
+  --correct-bg: rgba(0, 209, 139, 0.12);
+  --correct-border: rgba(0, 209, 139, 0.45);
+  --incorrect-bg: rgba(239, 68, 68, 0.12);
+  --incorrect-border: rgba(248, 113, 113, 0.35);
+  --ring-offset: #0f1115;
+  --scrollbar-track: #171a21;
 }
 
 * {
@@ -23,7 +72,7 @@ body {
   margin: 0;
   overflow-x: hidden;
   background: var(--background);
-  color: var(--foreground);
+  color: var(--text-primary);
   font-family:
     "SF Pro Display",
     "SF Pro Text",
@@ -34,6 +83,9 @@ body {
     Arial,
     sans-serif;
   -webkit-font-smoothing: antialiased;
+  transition:
+    background-color 200ms ease,
+    color 200ms ease;
 }
 
 button,
@@ -53,7 +105,7 @@ a {
 /* Thin modern scrollbar */
 * {
   scrollbar-width: thin;
-  scrollbar-color: #00d18b #f4f4f5;
+  scrollbar-color: var(--primary) var(--scrollbar-track);
 }
 
 *::-webkit-scrollbar {
@@ -62,15 +114,15 @@ a {
 }
 
 *::-webkit-scrollbar-track {
-  background: #f4f4f5;
+  background: var(--scrollbar-track);
   border-radius: 999px;
 }
 
 *::-webkit-scrollbar-thumb {
-  background: #00d18b;
+  background: var(--primary);
   border-radius: 999px;
 }
 
 *::-webkit-scrollbar-thumb:hover {
-  background: #00b87a;
+  background: var(--primary-hover);
 }

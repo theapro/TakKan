@@ -285,7 +285,7 @@ export function StudyDeck({
                 flipped={exampleFlipped}
                 onFlip={() => setExampleFlipped((value) => !value)}
               />
-              <p className="mt-2.5 text-center text-[12px] text-zinc-400">
+              <p className="mt-2.5 text-center text-[12px] text-[var(--text-muted)]">
                 Example {exampleIndex + 1} of {exampleCount}
               </p>
             </motion.div>
@@ -306,7 +306,7 @@ export function StudyDeck({
         <button
           type="button"
           onClick={shuffle}
-          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
+          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-[var(--text-muted)] transition-colors hover:text-[var(--text-secondary)]"
         >
           <Shuffle className="size-3" />
           Shuffle
@@ -314,7 +314,7 @@ export function StudyDeck({
         <button
           type="button"
           onClick={restart}
-          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-zinc-400 transition-colors hover:text-zinc-600"
+          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-[var(--text-muted)] transition-colors hover:text-[var(--text-secondary)]"
         >
           <RotateCcw className="size-3" />
           Restart

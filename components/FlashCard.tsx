@@ -22,6 +22,9 @@ type FlashCardProps =
       className?: string;
     };
 
+const cardFaceClass =
+  "absolute inset-0 rounded-[26px] border border-[var(--border)] bg-[var(--surface)] shadow-[var(--shadow-card)] backface-hidden transition-shadow duration-200";
+
 export function FlashCard(props: FlashCardProps) {
   const { flipped, onFlip, className } = props;
 
@@ -32,24 +35,29 @@ export function FlashCard(props: FlashCardProps) {
       aria-label={flipped ? "Show front of card" : "Show answer"}
       aria-pressed={flipped}
       className={cn(
-        "h-[min(250px,32vh)] w-full max-w-full cursor-pointer rounded-3xl text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00D18B]/40 focus-visible:ring-offset-2 sm:h-[min(320px,38vh)] lg:h-[380px]",
+        "group h-[min(260px,34vh)] w-full max-w-full cursor-pointer rounded-[26px] text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--primary)]/45 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--ring-offset)] sm:h-[min(340px,40vh)] lg:h-[400px]",
         className,
       )}
-      style={{ perspective: 1200 }}
+      style={{ perspective: 1400 }}
     >
       <motion.div
-        className="relative size-full"
+        className="relative size-full [transform-style:preserve-3d]"
         animate={{ rotateY: flipped ? 180 : 0 }}
-        transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
-        style={{ transformStyle: "preserve-3d" }}
+        transition={{ duration: 0.35, ease: [0.4, 0.0, 0.2, 1] }}
       >
-        <div className="absolute inset-0 flex items-center justify-center rounded-3xl border border-zinc-200/80 bg-white px-5 py-6 shadow-[0_8px_30px_-12px_rgba(0,0,0,0.12)] backface-hidden sm:px-6 sm:py-8 lg:px-8">
+        <div
+          className={cn(
+            cardFaceClass,
+            "flex items-center justify-center px-6 py-7 sm:px-8 sm:py-9 lg:px-10",
+            "group-hover:shadow-[var(--shadow-card-hover)]",
+          )}
+        >
           <span
             className={cn(
-              "max-w-full break-words font-japanese text-center leading-tight tracking-tight text-zinc-950",
+              "max-w-full text-center font-japanese tracking-wide text-[var(--text-primary)]",
               props.variant === "kanji"
-                ? "text-[clamp(2.5rem,11vw,4.5rem)]"
-                : "text-[clamp(1.15rem,4.5vw,2rem)]",
+                ? "text-[clamp(3rem,12vw,5rem)] leading-none"
+                : "text-[clamp(1.5rem,4.2vw,2.375rem)] leading-[1.45] break-keep",
             )}
           >
             {props.variant === "example"
@@ -58,41 +66,47 @@ export function FlashCard(props: FlashCardProps) {
           </span>
         </div>
 
-        <div className="absolute inset-0 flex flex-col items-center justify-center gap-2.5 overflow-hidden rounded-3xl border border-zinc-200/80 bg-white px-5 py-6 text-center shadow-[0_8px_30px_-12px_rgba(0,0,0,0.12)] backface-hidden transform-[rotateY(180deg)] sm:gap-3 sm:px-6 sm:py-8 lg:gap-4 lg:px-8">
+        <div
+          className={cn(
+            cardFaceClass,
+            "flex flex-col items-center justify-center overflow-hidden px-6 py-7 text-center [transform:rotateY(180deg)] sm:px-8 sm:py-9 lg:px-10",
+            "group-hover:shadow-[var(--shadow-card-hover)]",
+          )}
+        >
           {props.variant === "kanji" ? (
-            <>
-              <p className="font-japanese text-[clamp(1rem,3.5vw,1.375rem)] leading-snug text-zinc-500">
+            <div className="flex w-full max-w-xs flex-col items-center gap-3 sm:gap-4">
+              <p className="font-japanese text-[clamp(1.05rem,2.8vw,1.25rem)] leading-relaxed tracking-wide text-[var(--text-secondary)]">
                 {props.data.reading}
               </p>
-              <p className="max-w-xs text-[clamp(1.05rem,3.2vw,1.5rem)] font-semibold leading-snug tracking-tight text-zinc-950">
+              <p className="text-[clamp(1.05rem,2.8vw,1.35rem)] font-medium leading-snug tracking-tight text-[var(--text-primary)]">
                 {props.data.meaning}
               </p>
-              {(props.data.onyomi || props.data.kunyomi) && (
-                <div className="mt-1 space-y-1.5 text-[11px] leading-relaxed text-zinc-400 sm:text-[12px]">
+              {(props.data.onyomi || props.data.kunyomi) ? (
+                <div className="mt-1 w-full space-y-2 border-t border-[var(--border)] pt-3 text-left text-[11px] leading-relaxed text-[var(--text-muted)] sm:text-[12px]">
                   {props.data.onyomi ? (
-                    <p>
-                      <span className="mr-1.5 uppercase tracking-[0.14em]">On</span>
-                      <span className="font-japanese text-zinc-500">{props.data.onyomi}</span>
+                    <p className="flex items-baseline gap-2">
+                      <span className="w-8 shrink-0 uppercase tracking-[0.14em]">On</span>
+                      <span className="font-japanese text-[var(--text-secondary)]">{props.data.onyomi}</span>
                     </p>
                   ) : null}
                   {props.data.kunyomi ? (
-                    <p>
-                      <span className="mr-1.5 uppercase tracking-[0.14em]">Kun</span>
-                      <span className="font-japanese text-zinc-500">{props.data.kunyomi}</span>
+                    <p className="flex items-baseline gap-2">
+                      <span className="w-8 shrink-0 uppercase tracking-[0.14em]">Kun</span>
+                      <span className="font-japanese text-[var(--text-secondary)]">{props.data.kunyomi}</span>
                     </p>
                   ) : null}
                 </div>
-              )}
-            </>
+              ) : null}
+            </div>
           ) : (
-            <>
-              <p className="font-japanese text-[clamp(0.95rem,3vw,1.25rem)] leading-snug text-zinc-500">
+            <div className="flex max-w-md flex-col items-center gap-3 sm:gap-4">
+              <p className="font-japanese text-[clamp(1.05rem,2.6vw,1.3rem)] leading-relaxed tracking-wide text-[var(--text-secondary)]">
                 {props.data.reading}
               </p>
-              <p className="max-w-sm text-[clamp(1.05rem,3.2vw,1.5rem)] font-semibold leading-snug tracking-tight text-zinc-950">
+              <p className="text-[clamp(1.15rem,2.8vw,1.5rem)] font-medium leading-snug tracking-tight text-[var(--text-primary)]">
                 {props.data.meaning}
               </p>
-            </>
+            </div>
           )}
         </div>
       </motion.div>
