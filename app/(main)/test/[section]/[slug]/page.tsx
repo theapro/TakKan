@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { TestRunner } from "@/components/TestRunner";
+import { getLesson, getLessonSlugs } from "@/lib/lessons";
 import { getTest, getTestSlugs } from "@/lib/tests";
+import { buildVocabCatalog } from "@/lib/vocab";
 import { sections, type Section } from "@/types";
 
 type PageParams = Promise<{ section: string; slug: string }>;
@@ -31,5 +33,10 @@ export default async function TestPage({ params }: { params: PageParams }) {
   const data = await getTest(section, slug);
   if (!data) notFound();
 
-  return <TestRunner test={data} />;
+  const lessonSlugs = await getLessonSlugs(section);
+  const lessons = (
+    await Promise.all(lessonSlugs.map((lessonSlug) => getLesson(section, lessonSlug)))
+  ).filter((lesson): lesson is NonNullable<typeof lesson> => lesson !== null);
+
+  return <TestRunner test={data} catalog={buildVocabCatalog(lessons)} />;
 }

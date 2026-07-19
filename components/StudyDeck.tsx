@@ -269,10 +269,6 @@ export function StudyDeck({
           Restart
         </button>
       </div>
-
-      <p className="mt-3 shrink-0 text-center text-[11px] tracking-wide text-zinc-300">
-        Space flip example · Shift+Space flip kanji · ← → navigate · S shuffle · R restart
-      </p>
     </motion.div>
   );
 }

@@ -47,3 +47,28 @@ a {
     "Apple Color Emoji",
     serif;
 }
+
+/* Thin modern scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #00d18b #f4f4f5;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f4f4f5;
+  border-radius: 999px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #00d18b;
+  border-radius: 999px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #00b87a;
+}

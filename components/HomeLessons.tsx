@@ -8,6 +8,52 @@ import { LessonCard } from "@/components/LessonCard";
 import { TestCard } from "@/components/TestCard";
 import { EmptyState } from "@/components/EmptyState";
 
+function TestSection({
+  title,
+  tests,
+}: {
+  title: string;
+  tests: TestSummary[];
+}) {
+  const lessonTests = tests.filter((test) => !test.isFinal);
+  const finalTests = tests.filter((test) => test.isFinal);
+
+  if (!tests.length) return <EmptyState />;
+
+  return (
+    <section>
+      <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.18em] text-zinc-400">
+        {title}
+      </h2>
+
+      {lessonTests.length ? (
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {lessonTests.map((test, index) => (
+            <TestCard key={`${test.section}-${test.slug}`} test={test} index={index} />
+          ))}
+        </div>
+      ) : null}
+
+      {finalTests.length ? (
+        <div className="mt-10">
+          <div className="mb-5 flex items-center gap-4">
+            <div className="h-px flex-1 bg-zinc-200" />
+            <h3 className="text-[11px] font-semibold uppercase tracking-[0.2em] text-zinc-400">
+              Final Test
+            </h3>
+            <div className="h-px flex-1 bg-zinc-200" />
+          </div>
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {finalTests.map((test, index) => (
+              <TestCard key={`${test.section}-${test.slug}`} test={test} index={index} />
+            ))}
+          </div>
+        </div>
+      ) : null}
+    </section>
+  );
+}
+
 export function HomeLessons({
   lessons,
   tests,
@@ -35,22 +81,8 @@ export function HomeLessons({
       <motion.div key={tab} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="mt-10">
         {tab === "test" ? (
           <div className="space-y-12">
-            {(["kanji", "goi"] as const).map((section) => (
-              <section key={section}>
-                <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.18em] text-zinc-400">
-                  {section === "kanji" ? "Kanji Tests" : "Goi Tests"}
-                </h2>
-                {tests[section].length ? (
-                  <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                    {tests[section].map((test, index) => (
-                      <TestCard key={`${test.section}-${test.slug}`} test={test} index={index} />
-                    ))}
-                  </div>
-                ) : (
-                  <EmptyState />
-                )}
-              </section>
-            ))}
+            <TestSection title="Kanji Tests" tests={tests.kanji} />
+            <TestSection title="Goi Tests" tests={tests.goi} />
           </div>
         ) : lessons[tab].length ? (
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">

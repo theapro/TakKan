@@ -220,7 +220,7 @@ export async function getLessonSummaries(section: Section): Promise<LessonSummar
       slug,
       title: lesson.title,
       description: "",
-      count: lesson.groups.length,
+      count: lesson.groups.reduce((sum, group) => sum + group.examples.length, 0),
     };
   }));
 }
