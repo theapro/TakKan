@@ -1,0 +1,11 @@
+{
+  "title": "Lesson 1",
+  "items": [
+    { "id": 1, "word": "日", "reading": "ひ", "meaning": "quyosh, kun", "onyomi": "ニチ・ジツ", "kunyomi": "ひ・か" },
+    { "id": 2, "word": "月", "reading": "つき", "meaning": "oy", "onyomi": "ゲツ・ガツ", "kunyomi": "つき" },
+    { "id": 3, "word": "火", "reading": "ひ", "meaning": "olov", "onyomi": "カ", "kunyomi": "ひ・ほ" },
+    { "id": 4, "word": "水", "reading": "みず", "meaning": "suv", "onyomi": "スイ", "kunyomi": "みず" },
+    { "id": 5, "word": "木", "reading": "き", "meaning": "daraxt, yog‘och", "onyomi": "モク・ボク", "kunyomi": "き・こ" },
+    { "id": 6, "word": "山", "reading": "やま", "meaning": "tog‘", "onyomi": "サン", "kunyomi": "やま" }
+  ]
+}

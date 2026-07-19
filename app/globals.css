@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #18181b;
+  --brand: #00d18b;
+  --brand-hover: #00b87a;
+  --brand-soft: #e8faf3;
+  --muted: #71717a;
+  --border: #e4e4e7;
+}
+
+.dark {
+  --background: #09090b;
+  --foreground: #fafafa;
+  --brand: #00d18b;
+  --brand-hover: #00b87a;
+  --brand-soft: #0d2e1f;
+  --muted: #a1a1aa;
+  --border: #27272a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    "SF Pro Display",
+    "SF Pro Text",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Helvetica,
+    Arial,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.font-japanese {
+  font-family:
+    "Yu Mincho",
+    "Hiragino Mincho ProN",
+    "Noto Serif JP",
+    "Apple Color Emoji",
+    serif;
+}
