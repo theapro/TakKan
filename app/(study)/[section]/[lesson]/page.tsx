@@ -35,7 +35,7 @@ export default async function LessonPage({ params }: { params: PageParams }) {
 
   return (
     <div className="flex h-dvh flex-col overflow-hidden bg-white">
-      <header className="mx-auto grid w-full max-w-[640px] shrink-0 grid-cols-[2.5rem_1fr_4rem] items-center gap-3 px-5 pt-5 sm:px-6 sm:pt-6">
+      <header className="mx-auto grid w-full max-w-5xl shrink-0 grid-cols-[2.5rem_1fr_4rem] items-center gap-3 px-5 pt-5 sm:px-8 sm:pt-6">
         <Link
           href="/"
           className="inline-flex size-8 items-center justify-center rounded-lg text-zinc-400 transition-colors hover:text-zinc-700"
@@ -53,8 +53,8 @@ export default async function LessonPage({ params }: { params: PageParams }) {
         </span>
       </header>
 
-      <main className="mx-auto flex min-h-0 w-full max-w-[640px] flex-1 flex-col px-5 pb-5 pt-5 sm:px-6 sm:pb-6">
-        <StudyDeck section={section} lesson={lesson} items={data.items} />
+      <main className="mx-auto flex min-h-0 w-full max-w-5xl flex-1 flex-col px-5 pb-5 pt-5 sm:px-8 sm:pb-6">
+        <StudyDeck section={section} lesson={lesson} groups={data.groups} />
       </main>
     </div>
   );

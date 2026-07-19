@@ -1,32 +1,99 @@
 {
-  "title": "JLPT Master N2 kanji",
-  "items": [
-    { "id": 1, "word": "口に水を含む", "reading": "ふくむ", "meaning": "og'izga suv olish", "onyomi": "ガン", "kunyomi": "ふく(む)・ふく(める)" },
-    { "id": 2, "word": "私を含めて四人", "reading": "わたしをふくめてよにん", "meaning": "men bilan 4 kishi", "onyomi": "ガン", "kunyomi": "ふく(む)・ふく(める)" },
-    { "id": 3, "word": "牛乳にカルシウムが含まれている", "reading": "ぎゅうにゅうにカルシウムがふくまれている", "meaning": "sutda kalsiy bor", "onyomi": "ガン", "kunyomi": "ふく(む)・ふく(める)" },
-
-    { "id": 4, "word": "米の中に麦が混じっている", "reading": "こめのなかにむぎがまじっている", "meaning": "guruch ichiga bug'doy aralashib ketishi", "onyomi": "コン", "kunyomi": "まざる・まぜる・こむ" },
-    { "id": 5, "word": "混ざる", "reading": "まざる", "meaning": "aralashmoq", "onyomi": "コン", "kunyomi": "まざる・まぜる・こむ" },
-    { "id": 6, "word": "小麦粉と卵を混ぜる", "reading": "こむぎことたまごをまぜる", "meaning": "un bilan tuxumni aralashtirmoq", "onyomi": "コン", "kunyomi": "まざる・まぜる・こむ" },
-    { "id": 7, "word": "混雑", "reading": "こんざつ", "meaning": "tiqilinch, gavjumlik", "onyomi": "コン", "kunyomi": "まざる・まぜる・こむ" },
-    { "id": 8, "word": "混乱", "reading": "こんらん", "meaning": "chalkashlik, sarosima", "onyomi": "コン", "kunyomi": "まざる・まぜる・こむ" },
-
-    { "id": 9, "word": "氷が溶ける", "reading": "こおりがとける", "meaning": "muzni erishi", "onyomi": "ヨウ", "kunyomi": "と(ける)・と(かす)" },
-    { "id": 10, "word": "バター溶かす", "reading": "バターとかす", "meaning": "sariqyog'ni eritish", "onyomi": "ヨウ", "kunyomi": "と(ける)・と(かす)" },
-    { "id": 11, "word": "絵の具を溶く", "reading": "えのぐをとく", "meaning": "bo'yoqni eritish", "onyomi": "ヨウ", "kunyomi": "と(ける)・と(かす)" },
-    { "id": 12, "word": "新しいクラスに溶け込む", "reading": "あたらしいクラスにとけこむ", "meaning": "yangi sinfga moslashib ketmoq", "onyomi": "ヨウ", "kunyomi": "と(ける)・と(かす)" },
-    { "id": 13, "word": "溶岩", "reading": "ようがん", "meaning": "lava", "onyomi": "ヨウ", "kunyomi": "と(ける)・と(かす)" },
-
-    { "id": 14, "word": "服にラーメンの汁がついた", "reading": "ふくにラーメンのしるがついた", "meaning": "kiyimga lag'monning sho'rvasi tegishi", "onyomi": "ジュウ", "kunyomi": "しる" },
-    { "id": 15, "word": "みそ汁", "reading": "みそしる", "meaning": "miso sho'rvasi", "onyomi": "ジュウ", "kunyomi": "しる" },
-
-    { "id": 16, "word": "丼", "reading": "どんぶり", "meaning": "chuqur kosa (donburi)da guruch yeyish", "onyomi": "", "kunyomi": "どんぶり・どん" },
-    { "id": 17, "word": "天丼", "reading": "てんどん", "meaning": "guruch ustiga tempura qo'yib tayyorlangan taom", "onyomi": "", "kunyomi": "どんぶり・どん" },
-
-    { "id": 18, "word": "皿におかずを盛る", "reading": "さらにおかずをもる", "meaning": "tortmoq, solmoq (idishga)", "onyomi": "セイ・ジョウ", "kunyomi": "も(る)・さか(ん)" },
-    { "id": 19, "word": "大盛り", "reading": "おおもり", "meaning": "katta portsiya ovqat", "onyomi": "セイ・ジョウ", "kunyomi": "も(る)・さか(ん)" },
-    { "id": 20, "word": "育ち盛り", "reading": "そだちざかり", "meaning": "bolaning jismoniy rivojlanish davri", "onyomi": "セイ・ジョウ", "kunyomi": "も(る)・さか(ん)" },
-    { "id": 21, "word": "盛んな声援", "reading": "さかんなせいえん", "meaning": "qizg'in olqishlar", "onyomi": "セイ・ジョウ", "kunyomi": "も(る)・さか(ん)" },
-    { "id": 22, "word": "盛大な", "reading": "せいだいな", "meaning": "dabdabali, tantanali", "onyomi": "セイ・ジョウ", "kunyomi": "も(る)・さか(ん)" }
+  "title": "Lesson 2",
+  "groups": [
+    {
+      "id": 1,
+      "kanji": {
+        "word": "含",
+        "reading": "ふくむ",
+        "meaning": "o'z ichiga olmoq",
+        "onyomi": "ガン",
+        "kunyomi": "ふく(む)・ふく(める)"
+      },
+      "examples": [
+        { "id": 1, "word": "口に水を含む", "reading": "くちにみずをふくむ", "meaning": "og'izga suv olish" },
+        { "id": 2, "word": "私を含めて四人", "reading": "わたしをふくめてよにん", "meaning": "men bilan 4 kishi" },
+        { "id": 3, "word": "牛乳にカルシウムが含まれている", "reading": "ぎゅうにゅうにカルシウムがふくまれている", "meaning": "sutda kalsiy bor" }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": {
+        "word": "混",
+        "reading": "まざる",
+        "meaning": "aralashmoq",
+        "onyomi": "コン",
+        "kunyomi": "まざる・まぜる・こむ"
+      },
+      "examples": [
+        { "id": 1, "word": "米の中に麦が混じっている", "reading": "こめのなかにむぎがまじっている", "meaning": "guruch ichiga bug'doy aralashib ketishi" },
+        { "id": 2, "word": "混ざる", "reading": "まざる", "meaning": "aralashmoq" },
+        { "id": 3, "word": "小麦粉と卵を混ぜる", "reading": "こむぎことたまごをまぜる", "meaning": "un bilan tuxumni aralashtirmoq" },
+        { "id": 4, "word": "混雑", "reading": "こんざつ", "meaning": "tiqilinch, gavjumlik" },
+        { "id": 5, "word": "混乱", "reading": "こんらん", "meaning": "chalkashlik, sarosima" }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": {
+        "word": "溶",
+        "reading": "とける",
+        "meaning": "erimoq, eritmoq",
+        "onyomi": "ヨウ",
+        "kunyomi": "と(ける)・と(かす)"
+      },
+      "examples": [
+        { "id": 1, "word": "氷が溶ける", "reading": "こおりがとける", "meaning": "muzni erishi" },
+        { "id": 2, "word": "バター溶かす", "reading": "バターとかす", "meaning": "sariqyog'ni eritish" },
+        { "id": 3, "word": "絵の具を溶く", "reading": "えのぐをとく", "meaning": "bo'yoqni eritish" },
+        { "id": 4, "word": "新しいクラスに溶け込む", "reading": "あたらしいクラスにとけこむ", "meaning": "yangi sinfga moslashib ketmoq" },
+        { "id": 5, "word": "溶岩", "reading": "ようがん", "meaning": "lava" }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": {
+        "word": "汁",
+        "reading": "しる",
+        "meaning": "sho'rva, suyuqlik",
+        "onyomi": "ジュウ",
+        "kunyomi": "しる"
+      },
+      "examples": [
+        { "id": 1, "word": "服にラーメンの汁がついた", "reading": "ふくにラーメンのしるがついた", "meaning": "kiyimga lag'monning sho'rvasi tegishi" },
+        { "id": 2, "word": "みそ汁", "reading": "みそしる", "meaning": "miso sho'rvasi" }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": {
+        "word": "丼",
+        "reading": "どんぶり",
+        "meaning": "chuqur kosa (donburi)",
+        "onyomi": "",
+        "kunyomi": "どんぶり・どん"
+      },
+      "examples": [
+        { "id": 1, "word": "丼", "reading": "どんぶり", "meaning": "chuqur kosa (donburi)da guruch yeyish" },
+        { "id": 2, "word": "天丼", "reading": "てんどん", "meaning": "guruch ustiga tempura qo'yib tayyorlangan taom" }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": {
+        "word": "盛",
+        "reading": "もる",
+        "meaning": "solmoq, gullamoq",
+        "onyomi": "セイ・ジョウ",
+        "kunyomi": "も(る)・さか(ん)"
+      },
+      "examples": [
+        { "id": 1, "word": "皿におかずを盛る", "reading": "さらにおかずをもる", "meaning": "tortmoq, solmoq (idishga)" },
+        { "id": 2, "word": "大盛り", "reading": "おおもり", "meaning": "katta portsiya ovqat" },
+        { "id": 3, "word": "育ち盛り", "reading": "そだちざかり", "meaning": "bolaning jismoniy rivojlanish davri" },
+        { "id": 4, "word": "盛んな声援", "reading": "さかんなせいえん", "meaning": "qizg'in olqishlar" },
+        { "id": 5, "word": "盛大な", "reading": "せいだいな", "meaning": "dabdabali, tantanali" }
+      ]
+    }
   ]
 }

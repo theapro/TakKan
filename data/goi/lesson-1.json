@@ -1,11 +1,113 @@
 {
   "title": "Lesson 1",
-  "items": [
-    { "id": 1, "word": "おはよう", "reading": "おはよう", "meaning": "xayrli tong", "onyomi": "", "kunyomi": "" },
-    { "id": 2, "word": "こんにちは", "reading": "こんにちは", "meaning": "salom, xayrli kun", "onyomi": "", "kunyomi": "" },
-    { "id": 3, "word": "ありがとう", "reading": "ありがとう", "meaning": "rahmat", "onyomi": "", "kunyomi": "" },
-    { "id": 4, "word": "すみません", "reading": "すみません", "meaning": "kechirasiz", "onyomi": "", "kunyomi": "" },
-    { "id": 5, "word": "はい", "reading": "はい", "meaning": "ha", "onyomi": "", "kunyomi": "" },
-    { "id": 6, "word": "いいえ", "reading": "いいえ", "meaning": "yo‘q", "onyomi": "", "kunyomi": "" }
+  "groups": [
+    {
+      "id": 1,
+      "kanji": {
+        "word": "おはよう",
+        "reading": "おはよう",
+        "meaning": "xayrli tong",
+        "onyomi": "",
+        "kunyomi": ""
+      },
+      "examples": [
+        {
+          "id": 1,
+          "word": "おはようございます",
+          "reading": "おはようございます",
+          "meaning": "xayrli tong (rasmiy)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": {
+        "word": "こんにちは",
+        "reading": "こんにちは",
+        "meaning": "salom, xayrli kun",
+        "onyomi": "",
+        "kunyomi": ""
+      },
+      "examples": [
+        {
+          "id": 1,
+          "word": "こんにちは",
+          "reading": "こんにちは",
+          "meaning": "salom, xayrli kun"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": {
+        "word": "ありがとう",
+        "reading": "ありがとう",
+        "meaning": "rahmat",
+        "onyomi": "",
+        "kunyomi": ""
+      },
+      "examples": [
+        {
+          "id": 1,
+          "word": "ありがとうございます",
+          "reading": "ありがとうございます",
+          "meaning": "rahmat (rasmiy)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": {
+        "word": "すみません",
+        "reading": "すみません",
+        "meaning": "kechirasiz",
+        "onyomi": "",
+        "kunyomi": ""
+      },
+      "examples": [
+        {
+          "id": 1,
+          "word": "すみません",
+          "reading": "すみません",
+          "meaning": "kechirasiz"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": {
+        "word": "はい",
+        "reading": "はい",
+        "meaning": "ha",
+        "onyomi": "",
+        "kunyomi": ""
+      },
+      "examples": [
+        {
+          "id": 1,
+          "word": "はい",
+          "reading": "はい",
+          "meaning": "ha"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": {
+        "word": "いいえ",
+        "reading": "いいえ",
+        "meaning": "yo‘q",
+        "onyomi": "",
+        "kunyomi": ""
+      },
+      "examples": [
+        {
+          "id": 1,
+          "word": "いいえ",
+          "reading": "いいえ",
+          "meaning": "yo‘q"
+        }
+      ]
+    }
   ]
 }

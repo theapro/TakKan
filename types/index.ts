@@ -1,9 +1,8 @@
 export const sections = ["kanji", "goi"] as const;
 export type Section = (typeof sections)[number];
 
-/** Single flashcard model for both Kanji and Goi lessons. */
-export interface StudyItem {
-  id: number;
+/** Headword for a kanji group (or vocabulary head for goi). */
+export interface KanjiInfo {
   word: string;
   reading: string;
   meaning: string;
@@ -11,9 +10,24 @@ export interface StudyItem {
   kunyomi: string;
 }
 
+/** Usage example belonging to a kanji group. */
+export interface Example {
+  id: number;
+  word: string;
+  reading: string;
+  meaning: string;
+}
+
+/** One study unit: a kanji (or headword) with its examples. */
+export interface KanjiGroup {
+  id: number;
+  kanji: KanjiInfo;
+  examples: Example[];
+}
+
 export interface Lesson {
   title: string;
-  items: StudyItem[];
+  groups: KanjiGroup[];
 }
 
 export interface LessonSummary {

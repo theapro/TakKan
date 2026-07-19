@@ -1,11 +1,100 @@
 {
   "title": "Lesson 1",
-  "items": [
-    { "id": 1, "word": "日", "reading": "ひ", "meaning": "quyosh, kun", "onyomi": "ニチ・ジツ", "kunyomi": "ひ・か" },
-    { "id": 2, "word": "月", "reading": "つき", "meaning": "oy", "onyomi": "ゲツ・ガツ", "kunyomi": "つき" },
-    { "id": 3, "word": "火", "reading": "ひ", "meaning": "olov", "onyomi": "カ", "kunyomi": "ひ・ほ" },
-    { "id": 4, "word": "水", "reading": "みず", "meaning": "suv", "onyomi": "スイ", "kunyomi": "みず" },
-    { "id": 5, "word": "木", "reading": "き", "meaning": "daraxt, yog‘och", "onyomi": "モク・ボク", "kunyomi": "き・こ" },
-    { "id": 6, "word": "山", "reading": "やま", "meaning": "tog‘", "onyomi": "サン", "kunyomi": "やま" }
+  "groups": [
+    {
+      "id": 1,
+      "kanji": {
+        "word": "配",
+        "reading": "くばる",
+        "meaning": "tarqatmoq, taqsimlamoq",
+        "onyomi": "ハイ",
+        "kunyomi": "くば(る)"
+      },
+      "examples": [
+        { "id": 1, "word": "問題用紙を配る", "reading": "もんだいようしをくばる", "meaning": "savollar varag'ini tarqatish" },
+        { "id": 2, "word": "気を配る", "reading": "きをくばる", "meaning": "diqqatni qaratish" },
+        { "id": 3, "word": "新聞配達", "reading": "しんぶんはいたつ", "meaning": "gazeta yetkazib berish (kuryerlik)" },
+        { "id": 4, "word": "心配する", "reading": "しんぱいする", "meaning": "xavotirlanmoq" },
+        { "id": 5, "word": "利益を配分する", "reading": "りえきをはいぶんする", "meaning": "foydani taqsimlash" }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": {
+        "word": "届",
+        "reading": "とどく",
+        "meaning": "yetib bormoq, yetkazmoq",
+        "onyomi": "",
+        "kunyomi": "とど(く)・とど(ける)"
+      },
+      "examples": [
+        { "id": 1, "word": "手紙が届く", "reading": "てがみがとどく", "meaning": "xat yetib kelishi" },
+        { "id": 2, "word": "お土産を届ける", "reading": "おみやげをとどける", "meaning": "sovg'ani eltib berish" },
+        { "id": 3, "word": "子供を送り届ける", "reading": "こどもをおくりとどける", "meaning": "bolani uyga eltib qo'yish" },
+        { "id": 4, "word": "欠席届", "reading": "けっせきとどけ", "meaning": "kelmaslik haqidagi xabarnoma (ariza)" }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": {
+        "word": "渡",
+        "reading": "わたる",
+        "meaning": "o'tmoq, bermoq",
+        "onyomi": "ト",
+        "kunyomi": "わた(る)・わた(す)"
+      },
+      "examples": [
+        { "id": 1, "word": "道路を渡る", "reading": "どうろをわたる", "meaning": "yo'lni kesib o'tish" },
+        { "id": 2, "word": "物を渡す", "reading": "ものをわたす", "meaning": "narsani berish" }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": {
+        "word": "券",
+        "reading": "けん",
+        "meaning": "chipta, hujjat",
+        "onyomi": "ケン",
+        "kunyomi": ""
+      },
+      "examples": [
+        { "id": 1, "word": "乗車券", "reading": "じょうしゃけん", "meaning": "yo'lovchi chiptasi" },
+        { "id": 2, "word": "入場券", "reading": "にゅうじょうけん", "meaning": "kirish chiptasi" },
+        { "id": 3, "word": "定期券", "reading": "ていきけん", "meaning": "oylik chipta" },
+        { "id": 4, "word": "旅券", "reading": "りょけん", "meaning": "pasport (xorijiy)" },
+        { "id": 5, "word": "株券", "reading": "かぶけん", "meaning": "aksiya qog'ozi" },
+        { "id": 6, "word": "証券会社", "reading": "しょうけんがいしゃ", "meaning": "brokerlik kompaniyasi" }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": {
+        "word": "招",
+        "reading": "まねく",
+        "meaning": "taklif qilmoq, chaqirmoq",
+        "onyomi": "ショウ",
+        "kunyomi": "まね(く)"
+      },
+      "examples": [
+        { "id": 1, "word": "パーティーに招く", "reading": "パーティーにまねく", "meaning": "bazmga taklif etish" },
+        { "id": 2, "word": "招待状", "reading": "しょうたいじょう", "meaning": "taklifnoma" },
+        { "id": 3, "word": "議会を招集する", "reading": "ぎかいをしょうしゅうする", "meaning": "parlament yig'ilishini chaqirmoq" },
+        { "id": 4, "word": "招待する", "reading": "しょうたいする", "meaning": "taklif qilmoq" }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": {
+        "word": "贈",
+        "reading": "おくる",
+        "meaning": "sovg'a qilmoq",
+        "onyomi": "ゾウ・ソウ",
+        "kunyomi": "おく(る)"
+      },
+      "examples": [
+        { "id": 1, "word": "プレゼントを贈る", "reading": "プレゼントをおくる", "meaning": "sovg'a jo'natmoq" },
+        { "id": 2, "word": "贈り物", "reading": "おくりもの", "meaning": "sovg'a" }
+      ]
+    }
   ]
 }
