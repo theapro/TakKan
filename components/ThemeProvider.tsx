@@ -16,6 +16,7 @@ const STORAGE_KEY = "takkan:theme";
 
 type ThemeContextValue = {
   theme: Theme;
+  ready: boolean;
   setTheme: (theme: Theme) => void;
   toggleTheme: () => void;
 };
@@ -42,16 +43,20 @@ function getSystemTheme(): Theme {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
+function resolveTheme(): Theme {
+  return readStoredTheme() ?? getSystemTheme();
+}
+
 export function ThemeProvider({ children }: { children: ReactNode }) {
-  const [theme, setThemeState] = useState<Theme>(() => {
-    if (typeof document === "undefined") return "light";
-    return document.documentElement.classList.contains("dark") ? "dark" : "light";
-  });
+  // Keep SSR and first client render identical to avoid hydration mismatch.
+  const [theme, setThemeState] = useState<Theme>("light");
+  const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    const initial = readStoredTheme() ?? getSystemTheme();
+    const initial = resolveTheme();
     setThemeState(initial);
     applyTheme(initial);
+    setReady(true);
 
     const media = window.matchMedia("(prefers-color-scheme: dark)");
     function onSystemChange(event: MediaQueryListEvent) {
@@ -79,8 +84,8 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
   }, [setTheme, theme]);
 
   const value = useMemo(
-    () => ({ theme, setTheme, toggleTheme }),
-    [theme, setTheme, toggleTheme],
+    () => ({ theme, ready, setTheme, toggleTheme }),
+    [theme, ready, setTheme, toggleTheme],
   );
 
   return <ThemeContext.Provider value={value}>{children}</ThemeContext.Provider>;

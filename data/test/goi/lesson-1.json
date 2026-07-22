@@ -5,1403 +5,1403 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "word",
-      "question": "『uyg'onmoq (ko'zi ochilmoq)』ning yaponcha ifodasi qaysi?",
-      "word": "目が覚める",
-      "choices": [
-        "議論する",
-        "持参する",
-        "解ける",
-        "目が覚める"
-      ],
-      "correctAnswer": 3,
-      "explanation": "uyg'onmoq (ko'zi ochilmoq) → 目が覚める"
-    },
-    {
-      "id": 2,
-      "questionType": "reading",
-      "question": "『散らかる』ning o'qilishi qaysi?",
-      "word": "散らかる",
-      "choices": [
-        "としかいはつ",
-        "おれ",
-        "ちらかる",
-        "のりきる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "散らかる → ちらかる"
-    },
-    {
-      "id": 3,
-      "questionType": "kanji",
-      "question": "『おれ』qaysi yozuvga mos?",
-      "word": "俺",
-      "choices": [
-        "表情",
-        "害",
-        "カンニングする",
-        "俺"
-      ],
-      "correctAnswer": 3,
-      "explanation": "おれ → 俺"
-    },
-    {
-      "id": 4,
-      "questionType": "word",
-      "question": "『do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)』ning yaponcha ifodasi qaysi?",
-      "word": "万引きする",
-      "choices": [
-        "労働する",
-        "万引きする",
-        "報告する",
-        "目が覚める"
-      ],
-      "correctAnswer": 1,
-      "explanation": "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish) → 万引きする"
-    },
-    {
-      "id": 5,
-      "questionType": "reading",
-      "question": "『万引きする』ning o'qilishi qaysi?",
-      "word": "万引きする",
-      "choices": [
-        "ひょうじょう",
-        "まんびきする",
-        "ぎろんする",
-        "そうだんにのる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "万引きする → まんびきする"
-    },
-    {
-      "id": 6,
-      "questionType": "meaning",
-      "question": "『口を利く』ning ma'nosi qaysi?",
-      "word": "口を利く",
-      "choices": [
-        "yaratmoq",
-        "aldamoq",
-        "gaplashmoq/muloqot qilmoq",
-        "jinoyat sodir qilish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "口を利く → gaplashmoq/muloqot qilmoq"
-    },
-    {
-      "id": 7,
-      "questionType": "reading",
-      "question": "『荒らす』ning o'qilishi qaysi?",
-      "word": "荒らす",
-      "choices": [
-        "ふくさよう",
-        "あらす",
-        "しつもん",
-        "タイムセール"
-      ],
-      "correctAnswer": 1,
-      "explanation": "荒らす → あらす"
-    },
-    {
-      "id": 8,
-      "questionType": "meaning",
-      "question": "『相談に乗る』ning ma'nosi qaysi?",
-      "word": "相談に乗る",
-      "choices": [
-        "maslahat bermoq, dardini eshitmoq",
-        "kelib chiqishi (qayerlik)",
-        "bilim",
-        "kamtarona, sodda"
-      ],
-      "correctAnswer": 0,
-      "explanation": "相談に乗る → maslahat bermoq, dardini eshitmoq"
-    },
-    {
-      "id": 9,
-      "questionType": "kanji",
-      "question": "『かこ』qaysi yozuvga mos?",
-      "word": "過去",
-      "choices": [
-        "骨折する",
-        "だます",
-        "過去",
-        "ストライキ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かこ → 過去"
-    },
-    {
-      "id": 10,
-      "questionType": "meaning",
-      "question": "『叶う』ning ma'nosi qaysi?",
-      "word": "叶う",
-      "choices": [
-        "sochilib yotmoq, to'zib ketmoq",
-        "amalga oshmoq (orzu)",
-        "yuragi g'ash, o'zini yolg'iz his qiladigan",
-        "hisobot bermoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "叶う → amalga oshmoq (orzu)"
-    },
-    {
-      "id": 11,
-      "questionType": "kanji",
-      "question": "『ちしき』qaysi yozuvga mos?",
-      "word": "知識",
-      "choices": [
-        "知識",
-        "報告する",
-        "タイムセール",
-        "目が覚める"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ちしき → 知識"
-    },
-    {
-      "id": 12,
-      "questionType": "kanji",
-      "question": "『まんびきする』qaysi yozuvga mos?",
-      "word": "万引きする",
-      "choices": [
-        "質素な",
-        "万引きする",
-        "口を利く",
-        "作成する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "まんびきする → 万引きする"
-    },
-    {
-      "id": 13,
-      "questionType": "sentence",
-      "question": "『万引きする』ning ma'nosi qaysi?",
-      "word": "万引きする",
-      "choices": [
-        "hudud (davlat hududi)",
-        "mushkul, qiyin",
-        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)",
-        "shahar qurilishi, shaharsozlik"
-      ],
-      "correctAnswer": 2,
-      "explanation": "万引きする → do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
-    },
-    {
-      "id": 14,
-      "questionType": "word",
-      "question": "『do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)』ning yaponcha ifodasi qaysi?",
-      "word": "万引きする",
-      "choices": [
-        "万引きする",
-        "散らかる",
-        "叶う",
-        "信頼する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish) → 万引きする"
-    },
-    {
-      "id": 15,
-      "questionType": "word",
-      "question": "『men (erkaklar tilida, dag'alroq)』ning yaponcha ifodasi qaysi?",
-      "word": "俺",
-      "choices": [
-        "カンニングする",
-        "過去",
-        "徹夜する",
-        "俺"
-      ],
-      "correctAnswer": 3,
-      "explanation": "men (erkaklar tilida, dag'alroq) → 俺"
-    },
-    {
-      "id": 16,
-      "questionType": "kanji",
-      "question": "『ぶっか』qaysi yozuvga mos?",
-      "word": "物価",
-      "choices": [
-        "物価",
-        "乗り切る",
-        "ただ今",
-        "カンニングする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ぶっか → 物価"
-    },
-    {
-      "id": 17,
-      "questionType": "kanji",
-      "question": "『ちしき』qaysi yozuvga mos?",
-      "word": "知識",
-      "choices": [
-        "知識",
-        "害",
-        "過去",
-        "支援する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ちしき → 知識"
-    },
-    {
-      "id": 18,
-      "questionType": "kanji",
-      "question": "『くちをきく』qaysi yozuvga mos?",
-      "word": "口を利く",
-      "choices": [
-        "骨折する",
-        "都市開発",
-        "口を利く",
-        "タイムセール"
-      ],
-      "correctAnswer": 2,
-      "explanation": "くちをきく → 口を利く"
-    },
-    {
-      "id": 19,
-      "questionType": "sentence",
-      "question": "『信頼する』ning ma'nosi qaysi?",
-      "word": "信頼する",
-      "choices": [
-        "ishonmoq",
-        "qayta-qayta takrorlanmoq (xato, hodisa)",
-        "munosabat",
-        "tuni bilan uxlamaslik"
-      ],
-      "correctAnswer": 0,
-      "explanation": "信頼する → ishonmoq"
-    },
-    {
-      "id": 20,
-      "questionType": "reading",
-      "question": "『雑な』ning o'qilishi qaysi?",
-      "word": "雑な",
-      "choices": [
-        "ざつな",
-        "どうせ",
-        "さくせいする",
-        "じぶんかってな"
-      ],
-      "correctAnswer": 0,
-      "explanation": "雑な → ざつな"
-    },
-    {
-      "id": 21,
-      "questionType": "reading",
-      "question": "『利便性』ning o'qilishi qaysi?",
-      "word": "利便性",
-      "choices": [
-        "たいど",
-        "なんみん",
-        "りべんせい",
-        "ちらかる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "利便性 → りべんせい"
-    },
-    {
-      "id": 22,
-      "questionType": "meaning",
-      "question": "『俺』ning ma'nosi qaysi?",
-      "word": "俺",
-      "choices": [
-        "kamtarona, sodda",
-        "betashvish",
-        "men (erkaklar tilida, dag'alroq)",
-        "baribir (nima bo'lgan taqdirda xam)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "俺 → men (erkaklar tilida, dag'alroq)"
-    },
-    {
-      "id": 23,
-      "questionType": "meaning",
-      "question": "『利便性』ning ma'nosi qaysi?",
-      "word": "利便性",
-      "choices": [
-        "betashvish",
-        "ko'chirmoq (imtihonda)",
-        "qulaylik (darajasi)",
-        "ish tashlash"
-      ],
-      "correctAnswer": 2,
-      "explanation": "利便性 → qulaylik (darajasi)"
-    },
-    {
-      "id": 24,
-      "questionType": "reading",
-      "question": "『過去』ning o'qilishi qaysi?",
-      "word": "過去",
-      "choices": [
-        "しんらいする",
-        "かこ",
-        "かたりあう",
-        "めがさめる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "過去 → かこ"
-    },
-    {
-      "id": 25,
-      "questionType": "reading",
-      "question": "『相談に乗る』ning o'qilishi qaysi?",
-      "word": "相談に乗る",
-      "choices": [
-        "しえんする",
-        "さくせいする",
-        "つみをおかす",
-        "そうだんにのる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "相談に乗る → そうだんにのる"
-    },
-    {
-      "id": 26,
-      "questionType": "word",
-      "question": "『narx-navo (umumiy narxlar darajasi)』ning yaponcha ifodasi qaysi?",
-      "word": "物価",
-      "choices": [
-        "物価",
-        "写す",
-        "書面",
-        "原子力発電所"
-      ],
-      "correctAnswer": 0,
-      "explanation": "narx-navo (umumiy narxlar darajasi) → 物価"
-    },
-    {
-      "id": 27,
-      "questionType": "word",
-      "question": "『uyg'onmoq (ko'zi ochilmoq)』ning yaponcha ifodasi qaysi?",
-      "word": "目が覚める",
-      "choices": [
-        "議論する",
-        "目が覚める",
-        "表情",
-        "叶う"
-      ],
-      "correctAnswer": 1,
-      "explanation": "uyg'onmoq (ko'zi ochilmoq) → 目が覚める"
-    },
-    {
-      "id": 28,
-      "questionType": "kanji",
-      "question": "『ざつな』qaysi yozuvga mos?",
-      "word": "雑な",
-      "choices": [
-        "語り合う",
-        "抗議する",
-        "雑な",
-        "支援する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ざつな → 雑な"
-    },
-    {
-      "id": 29,
-      "questionType": "kanji",
-      "question": "『そうだんにのる』qaysi yozuvga mos?",
-      "word": "相談に乗る",
-      "choices": [
-        "持参する",
-        "目が覚める",
-        "相談に乗る",
-        "タイムセール"
-      ],
-      "correctAnswer": 2,
-      "explanation": "そうだんにのる → 相談に乗る"
-    },
-    {
-      "id": 30,
-      "questionType": "reading",
-      "question": "『どうせ』ning o'qilishi qaysi?",
-      "word": "どうせ",
-      "choices": [
-        "どうせ",
-        "がい",
-        "しんらいする",
-        "たいさくする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "どうせ → どうせ"
-    },
-    {
-      "id": 31,
-      "questionType": "reading",
-      "question": "『利便性』ning o'qilishi qaysi?",
-      "word": "利便性",
-      "choices": [
-        "カンニングする",
-        "こころほそい",
-        "りべんせい",
-        "たいど"
-      ],
-      "correctAnswer": 2,
-      "explanation": "利便性 → りべんせい"
-    },
-    {
-      "id": 32,
-      "questionType": "kanji",
-      "question": "『どうせ』qaysi yozuvga mos?",
-      "word": "どうせ",
-      "choices": [
-        "知識",
-        "審判",
-        "妊婦",
-        "どうせ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "どうせ → どうせ"
-    },
-    {
-      "id": 33,
-      "questionType": "kanji",
-      "question": "『しっそな』qaysi yozuvga mos?",
-      "word": "質素な",
-      "choices": [
-        "雑な",
-        "質素な",
-        "解ける",
-        "自分勝手な"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しっそな → 質素な"
-    },
-    {
-      "id": 34,
-      "questionType": "word",
-      "question": "『maslahat bermoq, dardini eshitmoq』ning yaponcha ifodasi qaysi?",
-      "word": "相談に乗る",
-      "choices": [
-        "俺",
-        "相談に乗る",
-        "信頼する",
-        "質素な"
-      ],
-      "correctAnswer": 1,
-      "explanation": "maslahat bermoq, dardini eshitmoq → 相談に乗る"
-    },
-    {
-      "id": 35,
-      "questionType": "meaning",
-      "question": "『物価』ning ma'nosi qaysi?",
-      "word": "物価",
-      "choices": [
-        "narx-navo (umumiy narxlar darajasi)",
-        "yozma shakl (hujjat)",
-        "yadro quroli",
-        "final"
-      ],
-      "correctAnswer": 0,
-      "explanation": "物価 → narx-navo (umumiy narxlar darajasi)"
-    },
-    {
-      "id": 36,
-      "questionType": "reading",
-      "question": "『質素な』ning o'qilishi qaysi?",
-      "word": "質素な",
-      "choices": [
-        "きらくな",
-        "しっそな",
-        "つみをおかす",
-        "しゅっしん"
-      ],
-      "correctAnswer": 1,
-      "explanation": "質素な → しっそな"
-    },
-    {
-      "id": 37,
-      "questionType": "meaning",
-      "question": "『過去』ning ma'nosi qaysi?",
-      "word": "過去",
-      "choices": [
-        "suhbatlashmoq, dil so'zlashmoq",
-        "o'tmish",
-        "sochilib yotmoq, to'zib ketmoq",
-        "narx-navo (umumiy narxlar darajasi)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "過去 → o'tmish"
-    },
-    {
-      "id": 38,
-      "questionType": "word",
-      "question": "『buzmoq, tartibsiz holga keltirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "荒らす",
-      "choices": [
-        "ただ今",
-        "荒らす",
-        "不景気",
-        "どうせ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "buzmoq, tartibsiz holga keltirmoq → 荒らす"
-    },
-    {
-      "id": 39,
-      "questionType": "kanji",
-      "question": "『かなう』qaysi yozuvga mos?",
-      "word": "叶う",
-      "choices": [
-        "口を利く",
-        "叶う",
-        "効く",
-        "都市開発"
-      ],
-      "correctAnswer": 1,
-      "explanation": "かなう → 叶う"
-    },
-    {
-      "id": 40,
-      "questionType": "word",
-      "question": "『buzmoq, tartibsiz holga keltirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "荒らす",
-      "choices": [
-        "農村",
-        "乗り切る",
-        "心細い",
-        "荒らす"
-      ],
-      "correctAnswer": 3,
-      "explanation": "buzmoq, tartibsiz holga keltirmoq → 荒らす"
-    },
-    {
-      "id": 41,
-      "questionType": "reading",
-      "question": "『雑な』ning o'qilishi qaysi?",
-      "word": "雑な",
-      "choices": [
-        "にんぷ",
-        "ちらかる",
-        "ざつな",
-        "うつす"
-      ],
-      "correctAnswer": 2,
-      "explanation": "雑な → ざつな"
-    },
-    {
-      "id": 42,
-      "questionType": "meaning",
-      "question": "『過去』ning ma'nosi qaysi?",
-      "word": "過去",
-      "choices": [
-        "o'tmish",
-        "qo'llab-quvvatlamoq",
-        "jinoyat sodir qilish",
-        "ko'chirib yozmoq; suratga olmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "過去 → o'tmish"
-    },
-    {
-      "id": 43,
-      "questionType": "kanji",
-      "question": "『かなう』qaysi yozuvga mos?",
-      "word": "叶う",
-      "choices": [
-        "募集する",
-        "決勝戦",
-        "叶う",
-        "ただ今"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かなう → 叶う"
-    },
-    {
-      "id": 44,
-      "questionType": "reading",
-      "question": "『物価』ning o'qilishi qaysi?",
-      "word": "物価",
-      "choices": [
-        "あらす",
-        "しえんする",
-        "ちしき",
-        "ぶっか"
-      ],
-      "correctAnswer": 3,
-      "explanation": "物価 → ぶっか"
-    },
-    {
-      "id": 45,
-      "questionType": "meaning",
-      "question": "『口を利く』ning ma'nosi qaysi?",
-      "word": "口を利く",
-      "choices": [
-        "qishloq",
-        "xudbin, o'zboshimcha",
-        "gaplashmoq/muloqot qilmoq",
-        "savol"
-      ],
-      "correctAnswer": 2,
-      "explanation": "口を利く → gaplashmoq/muloqot qilmoq"
-    },
-    {
-      "id": 46,
-      "questionType": "reading",
-      "question": "『質問』ning o'qilishi qaysi?",
-      "word": "質問",
-      "choices": [
-        "じさんする",
-        "しんぱん",
-        "しつもん",
-        "だます"
-      ],
-      "correctAnswer": 2,
-      "explanation": "質問 → しつもん"
-    },
-    {
-      "id": 47,
-      "questionType": "meaning",
-      "question": "『信頼する』ning ma'nosi qaysi?",
-      "word": "信頼する",
-      "choices": [
-        "ko'chirmoq (imtihonda)",
-        "maslahat bermoq, dardini eshitmoq",
-        "ishonmoq",
-        "qochqin"
-      ],
-      "correctAnswer": 2,
-      "explanation": "信頼する → ishonmoq"
-    },
-    {
-      "id": 48,
-      "questionType": "kanji",
-      "question": "『あらす』qaysi yozuvga mos?",
-      "word": "荒らす",
-      "choices": [
-        "荒らす",
-        "領土",
-        "自分勝手な",
-        "密かに"
-      ],
-      "correctAnswer": 0,
-      "explanation": "あらす → 荒らす"
-    },
-    {
-      "id": 49,
-      "questionType": "word",
-      "question": "『pala-partish, dag'al (ish)』ning yaponcha ifodasi qaysi?",
-      "word": "雑な",
-      "choices": [
-        "核兵器",
-        "乗り切る",
-        "廃止する",
-        "雑な"
-      ],
-      "correctAnswer": 3,
-      "explanation": "pala-partish, dag'al (ish) → 雑な"
-    },
-    {
-      "id": 50,
-      "questionType": "kanji",
-      "question": "『りべんせい』qaysi yozuvga mos?",
-      "word": "利便性",
-      "choices": [
-        "農村",
-        "目が覚める",
-        "利便性",
-        "抗議する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "りべんせい → 利便性"
-    },
-    {
-      "id": 51,
-      "questionType": "sentence",
-      "question": "『口を利く』ning ma'nosi qaysi?",
-      "word": "口を利く",
-      "choices": [
-        "qishloq",
-        "nojo'ya ta'sir (dorining)",
-        "chora ko'rmoq",
-        "gaplashmoq/muloqot qilmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "口を利く → gaplashmoq/muloqot qilmoq"
-    },
-    {
-      "id": 52,
-      "questionType": "kanji",
-      "question": "『くちをきく』qaysi yozuvga mos?",
-      "word": "口を利く",
-      "choices": [
-        "口を利く",
-        "万引きする",
-        "質素な",
-        "信頼する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "くちをきく → 口を利く"
-    },
-    {
-      "id": 53,
-      "questionType": "reading",
-      "question": "『知識』ning o'qilishi qaysi?",
-      "word": "知識",
-      "choices": [
-        "ちしき",
-        "ほうこくする",
-        "こころほそい",
-        "なんみん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "知識 → ちしき"
-    },
-    {
-      "id": 54,
-      "questionType": "reading",
-      "question": "『叶う』ning o'qilishi qaysi?",
-      "word": "叶う",
-      "choices": [
-        "たいさくする",
-        "じさんする",
-        "どうせ",
-        "かなう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "叶う → かなう"
-    },
-    {
-      "id": 55,
-      "questionType": "meaning",
-      "question": "『知識』ning ma'nosi qaysi?",
-      "word": "知識",
-      "choices": [
-        "yollamoq, qabul e'lon qilmoq",
-        "uyg'onmoq (ko'zi ochilmoq)",
-        "bilim",
-        "pala-partish, dag'al (ish)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "知識 → bilim"
-    },
-    {
-      "id": 56,
-      "questionType": "kanji",
-      "question": "『ちらかる』qaysi yozuvga mos?",
-      "word": "散らかる",
-      "choices": [
-        "散らかる",
-        "農村",
-        "叶う",
-        "持参する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ちらかる → 散らかる"
-    },
-    {
-      "id": 57,
-      "questionType": "word",
-      "question": "『baribir (nima bo'lgan taqdirda xam)』ning yaponcha ifodasi qaysi?",
-      "word": "どうせ",
-      "choices": [
-        "どうせ",
-        "俺",
-        "審判",
-        "知識"
-      ],
-      "correctAnswer": 0,
-      "explanation": "baribir (nima bo'lgan taqdirda xam) → どうせ"
-    },
-    {
-      "id": 58,
-      "questionType": "kanji",
-      "question": "『りべんせい』qaysi yozuvga mos?",
-      "word": "利便性",
-      "choices": [
-        "利便性",
-        "似顔絵",
-        "審判",
-        "相談に乗る"
-      ],
-      "correctAnswer": 0,
-      "explanation": "りべんせい → 利便性"
-    },
-    {
-      "id": 59,
-      "questionType": "meaning",
-      "question": "『雑な』ning ma'nosi qaysi?",
-      "word": "雑な",
-      "choices": [
-        "qo'llab-quvvatlamoq",
-        "yengib o'tmoq/boshdan kechirmoq",
-        "pala-partish, dag'al (ish)",
-        "ishonmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "雑な → pala-partish, dag'al (ish)"
-    },
-    {
-      "id": 60,
-      "questionType": "kanji",
-      "question": "『おれ』qaysi yozuvga mos?",
-      "word": "俺",
-      "choices": [
-        "心細い",
-        "俺",
-        "信頼する",
-        "解ける"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おれ → 俺"
-    },
-    {
-      "id": 61,
-      "questionType": "meaning",
-      "question": "『信頼する』ning ma'nosi qaysi?",
-      "word": "信頼する",
-      "choices": [
-        "ko'chirmoq (imtihonda)",
-        "ishonmoq",
-        "suhbatlashmoq, dil so'zlashmoq",
-        "hudud (davlat hududi)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "信頼する → ishonmoq"
-    },
-    {
-      "id": 62,
-      "questionType": "sentence",
-      "question": "『骨折する』ning ma'nosi qaysi?",
-      "word": "骨折する",
-      "choices": [
-        "suyagi sinmoq",
-        "qochqin",
-        "bilim",
-        "yadro quroli"
-      ],
-      "correctAnswer": 0,
-      "explanation": "骨折する → suyagi sinmoq"
-    },
-    {
-      "id": 63,
-      "questionType": "word",
-      "question": "『baribir (nima bo'lgan taqdirda xam)』ning yaponcha ifodasi qaysi?",
-      "word": "どうせ",
-      "choices": [
-        "万引きする",
-        "出身",
-        "口を利く",
-        "どうせ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "baribir (nima bo'lgan taqdirda xam) → どうせ"
-    },
-    {
-      "id": 64,
-      "questionType": "word",
-      "question": "『kamtarona, sodda』ning yaponcha ifodasi qaysi?",
-      "word": "質素な",
-      "choices": [
-        "質素な",
-        "決勝戦",
-        "領土",
-        "ただ今"
-      ],
-      "correctAnswer": 0,
-      "explanation": "kamtarona, sodda → 質素な"
-    },
-    {
-      "id": 65,
-      "questionType": "word",
-      "question": "『kamtarona, sodda』ning yaponcha ifodasi qaysi?",
-      "word": "質素な",
-      "choices": [
-        "心細い",
-        "タイムセール",
-        "質素な",
-        "議論する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "kamtarona, sodda → 質素な"
-    },
-    {
-      "id": 66,
-      "questionType": "reading",
-      "question": "『どうせ』ning o'qilishi qaysi?",
-      "word": "どうせ",
-      "choices": [
-        "かなう",
-        "どうせ",
-        "こころほそい",
-        "たいど"
-      ],
-      "correctAnswer": 1,
-      "explanation": "どうせ → どうせ"
-    },
-    {
-      "id": 67,
-      "questionType": "kanji",
-      "question": "『ちらかる』qaysi yozuvga mos?",
-      "word": "散らかる",
-      "choices": [
-        "雑な",
-        "骨折する",
-        "散らかる",
-        "報告する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ちらかる → 散らかる"
-    },
-    {
-      "id": 68,
-      "questionType": "reading",
-      "question": "『知識』ning o'qilishi qaysi?",
-      "word": "知識",
-      "choices": [
-        "とける",
-        "ちしき",
-        "おれ",
-        "としかいはつ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "知識 → ちしき"
-    },
-    {
-      "id": 69,
-      "questionType": "kanji",
-      "question": "『かこ』qaysi yozuvga mos?",
-      "word": "過去",
-      "choices": [
-        "質素な",
-        "荒らす",
-        "心細い",
-        "過去"
-      ],
-      "correctAnswer": 3,
-      "explanation": "かこ → 過去"
-    },
-    {
-      "id": 70,
-      "questionType": "kanji",
-      "question": "『どうせ』qaysi yozuvga mos?",
-      "word": "どうせ",
-      "choices": [
-        "作成する",
-        "持参する",
-        "どうせ",
-        "俺"
-      ],
-      "correctAnswer": 2,
-      "explanation": "どうせ → どうせ"
-    },
-    {
-      "id": 71,
-      "questionType": "reading",
-      "question": "『信頼する』ning o'qilishi qaysi?",
-      "word": "信頼する",
-      "choices": [
-        "こんなんな",
-        "のりきる",
-        "はいしする",
-        "しんらいする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "信頼する → しんらいする"
-    },
-    {
-      "id": 72,
-      "questionType": "kanji",
-      "question": "『めがさめる』qaysi yozuvga mos?",
-      "word": "目が覚める",
-      "choices": [
-        "報告する",
-        "写す",
-        "利便性",
-        "目が覚める"
-      ],
-      "correctAnswer": 3,
-      "explanation": "めがさめる → 目が覚める"
-    },
-    {
-      "id": 73,
-      "questionType": "reading",
-      "question": "『叶う』ning o'qilishi qaysi?",
-      "word": "叶う",
-      "choices": [
-        "とける",
-        "かなう",
-        "ぶっか",
-        "きらくな"
-      ],
-      "correctAnswer": 1,
-      "explanation": "叶う → かなう"
-    },
-    {
-      "id": 74,
-      "questionType": "kanji",
-      "question": "『こっせつする』qaysi yozuvga mos?",
-      "word": "骨折する",
-      "choices": [
-        "相談に乗る",
-        "骨折する",
-        "知識",
-        "農村"
-      ],
-      "correctAnswer": 1,
-      "explanation": "こっせつする → 骨折する"
-    },
-    {
-      "id": 75,
-      "questionType": "meaning",
-      "question": "『骨折する』ning ma'nosi qaysi?",
-      "word": "骨折する",
-      "choices": [
-        "xudbin, o'zboshimcha",
-        "suyagi sinmoq",
-        "tuni bilan uxlamaslik",
-        "hozir; keldim (uyga)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "骨折する → suyagi sinmoq"
-    },
-    {
-      "id": 76,
-      "questionType": "reading",
-      "question": "『物価』ning o'qilishi qaysi?",
-      "word": "物価",
-      "choices": [
-        "のうそん",
-        "しんぱん",
-        "ぶっか",
-        "かなう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "物価 → ぶっか"
-    },
-    {
-      "id": 77,
-      "questionType": "kanji",
-      "question": "『ぶっか』qaysi yozuvga mos?",
-      "word": "物価",
-      "choices": [
-        "物価",
-        "対策する",
-        "態度",
-        "語り合う"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ぶっか → 物価"
-    },
-    {
-      "id": 78,
-      "questionType": "sentence",
-      "question": "『目が覚める』ning ma'nosi qaysi?",
-      "word": "目が覚める",
-      "choices": [
-        "gaplashmoq/muloqot qilmoq",
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "uyg'onmoq (ko'zi ochilmoq)",
-        "nojo'ya ta'sir (dorining)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "目が覚める → uyg'onmoq (ko'zi ochilmoq)"
-    },
-    {
-      "id": 79,
-      "questionType": "kanji",
-      "question": "『しつもん』qaysi yozuvga mos?",
-      "word": "質問",
-      "choices": [
-        "質問",
-        "持参する",
-        "過去",
-        "ただ今"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しつもん → 質問"
-    },
-    {
-      "id": 80,
-      "questionType": "reading",
-      "question": "『口を利く』ning o'qilishi qaysi?",
-      "word": "口を利く",
-      "choices": [
-        "めがさめる",
-        "りべんせい",
-        "くちをきく",
-        "ひょうじょう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "口を利く → くちをきく"
-    },
-    {
-      "id": 81,
-      "questionType": "kanji",
-      "question": "『しんらいする』qaysi yozuvga mos?",
-      "word": "信頼する",
-      "choices": [
-        "難民",
-        "質問",
-        "信頼する",
-        "差別する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しんらいする → 信頼する"
-    },
-    {
-      "id": 82,
-      "questionType": "reading",
-      "question": "『俺』ning o'qilishi qaysi?",
-      "word": "俺",
-      "choices": [
-        "しっそな",
-        "ろうどうする",
-        "おれ",
-        "さいかいする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "俺 → おれ"
-    },
-    {
-      "id": 83,
-      "questionType": "meaning",
-      "question": "『骨折する』ning ma'nosi qaysi?",
-      "word": "骨折する",
-      "choices": [
-        "norozilik bildirmoq",
-        "mehnat qilmoq",
-        "suyagi sinmoq",
-        "aldamoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "骨折する → suyagi sinmoq"
-    },
-    {
-      "id": 84,
-      "questionType": "reading",
-      "question": "『質素な』ning o'qilishi qaysi?",
-      "word": "質素な",
-      "choices": [
-        "しっそな",
-        "のうそん",
-        "まんびきする",
-        "しょめん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "質素な → しっそな"
-    },
-    {
-      "id": 85,
-      "questionType": "meaning",
-      "question": "『知識』ning ma'nosi qaysi?",
-      "word": "知識",
-      "choices": [
-        "amalga oshmoq (orzu)",
-        "bilim",
-        "nojo'ya ta'sir (dorining)",
-        "ta'sir qilmoq, samarali bo'lmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "知識 → bilim"
-    },
-    {
-      "id": 86,
-      "questionType": "word",
-      "question": "『amalga oshmoq (orzu)』ning yaponcha ifodasi qaysi?",
-      "word": "叶う",
-      "choices": [
-        "出身",
-        "叶う",
-        "実力",
-        "差別する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "amalga oshmoq (orzu) → 叶う"
-    },
-    {
-      "id": 87,
-      "questionType": "reading",
-      "question": "『俺』ning o'qilishi qaysi?",
-      "word": "俺",
-      "choices": [
-        "けっしょうせん",
-        "おれ",
-        "たびかさなる",
-        "かこ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "俺 → おれ"
-    },
-    {
-      "id": 88,
-      "questionType": "meaning",
-      "question": "『質問』ning ma'nosi qaysi?",
-      "word": "質問",
-      "choices": [
-        "savol",
-        "kelib chiqishi (qayerlik)",
-        "chora ko'rmoq",
-        "nojo'ya ta'sir (dorining)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "質問 → savol"
-    },
-    {
-      "id": 89,
-      "questionType": "meaning",
-      "question": "『利便性』ning ma'nosi qaysi?",
-      "word": "利便性",
-      "choices": [
-        "qulaylik (darajasi)",
-        "nojo'ya ta'sir (dorining)",
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "qochqin"
-      ],
-      "correctAnswer": 0,
-      "explanation": "利便性 → qulaylik (darajasi)"
-    },
-    {
-      "id": 90,
-      "questionType": "reading",
-      "question": "『目が覚める』ning o'qilishi qaysi?",
-      "word": "目が覚める",
-      "choices": [
-        "そうだんにのる",
-        "たびかさなる",
-        "にんぷ",
-        "めがさめる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "目が覚める → めがさめる"
-    },
-    {
-      "id": 91,
-      "questionType": "sentence",
-      "question": "『相談に乗る』ning ma'nosi qaysi?",
-      "word": "相談に乗る",
-      "choices": [
-        "homilador ayol",
-        "tuni bilan uxlamaslik",
-        "maslahat bermoq, dardini eshitmoq",
-        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "相談に乗る → maslahat bermoq, dardini eshitmoq"
-    },
-    {
-      "id": 92,
-      "questionType": "reading",
-      "question": "『過去』ning o'qilishi qaysi?",
-      "word": "過去",
-      "choices": [
-        "かこ",
-        "ふくさよう",
-        "ちらかる",
-        "おれ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "過去 → かこ"
-    },
-    {
-      "id": 93,
-      "questionType": "meaning",
-      "question": "『質問』ning ma'nosi qaysi?",
-      "word": "質問",
-      "choices": [
-        "haqiqiy kuch, salohiyat",
-        "savol",
-        "cheklangan vaqtli chegirma savdosi",
-        "iliq, mo'tadil (iqlim)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "質問 → savol"
-    },
-    {
-      "id": 94,
-      "questionType": "kanji",
-      "question": "『ざつな』qaysi yozuvga mos?",
-      "word": "雑な",
-      "choices": [
-        "雑な",
-        "副作用",
-        "質素な",
-        "妊婦"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ざつな → 雑な"
-    },
-    {
-      "id": 95,
-      "questionType": "reading",
-      "question": "『質問』ning o'qilishi qaysi?",
-      "word": "質問",
-      "choices": [
-        "なんみん",
-        "がい",
-        "しつもん",
-        "どうせ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "質問 → しつもん"
-    },
-    {
-      "id": 96,
       "questionType": "reading",
       "question": "『骨折する』ning o'qilishi qaysi?",
       "word": "骨折する",
       "choices": [
-        "はいしする",
-        "タイムセール",
-        "ただいま",
+        "しゅっさんいわい",
+        "けっしょうせん",
+        "しつけ",
         "こっせつする"
       ],
       "correctAnswer": 3,
       "explanation": "骨折する → こっせつする"
     },
     {
-      "id": 97,
+      "id": 2,
+      "questionType": "reading",
+      "question": "『叶う』ning o'qilishi qaysi?",
+      "word": "叶う",
+      "choices": [
+        "つみをおかす",
+        "かなう",
+        "やくめ",
+        "ヘルパー"
+      ],
+      "correctAnswer": 1,
+      "explanation": "叶う → かなう"
+    },
+    {
+      "id": 3,
+      "questionType": "kanji",
+      "question": "『くちをきく』qaysi yozuvga mos?",
+      "word": "口を利く",
+      "choices": [
+        "世代",
+        "説得する",
+        "目が覚める",
+        "口を利く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "くちをきく → 口を利く"
+    },
+    {
+      "id": 4,
+      "questionType": "reading",
+      "question": "『目が覚める』ning o'qilishi qaysi?",
+      "word": "目が覚める",
+      "choices": [
+        "じぶんかってな",
+        "としかいはつ",
+        "ぼしゅうする",
+        "めがさめる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "目が覚める → めがさめる"
+    },
+    {
+      "id": 5,
+      "questionType": "kanji",
+      "question": "『くちをきく』qaysi yozuvga mos?",
+      "word": "口を利く",
+      "choices": [
+        "口を利く",
+        "自分勝手な",
+        "副作用",
+        "差別する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "くちをきく → 口を利く"
+    },
+    {
+      "id": 6,
+      "questionType": "word",
+      "question": "『narx-navo (umumiy narxlar darajasi)』ning yaponcha ifodasi qaysi?",
+      "word": "物価",
+      "choices": [
+        "持参する",
+        "報告する",
+        "カンニングする",
+        "物価"
+      ],
+      "correctAnswer": 3,
+      "explanation": "narx-navo (umumiy narxlar darajasi) → 物価"
+    },
+    {
+      "id": 7,
+      "questionType": "reading",
+      "question": "『過去』ning o'qilishi qaysi?",
+      "word": "過去",
+      "choices": [
+        "どうせ",
+        "きらくな",
+        "かこ",
+        "あまやかす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "過去 → かこ"
+    },
+    {
+      "id": 8,
+      "questionType": "kanji",
+      "question": "『まんびきする』qaysi yozuvga mos?",
+      "word": "万引きする",
+      "choices": [
+        "だます",
+        "万引きする",
+        "しみじみ",
+        "意志"
+      ],
+      "correctAnswer": 1,
+      "explanation": "まんびきする → 万引きする"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『おれ』qaysi yozuvga mos?",
+      "word": "俺",
+      "choices": [
+        "俺",
+        "副作用",
+        "反省会",
+        "甘やかす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おれ → 俺"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『目が覚める』ning ma'nosi qaysi?",
+      "word": "目が覚める",
+      "choices": [
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "hudud (davlat hududi)",
+        "atom elektr",
+        "bilim"
+      ],
+      "correctAnswer": 0,
+      "explanation": "目が覚める → uyg'onmoq (ko'zi ochilmoq)"
+    },
+    {
+      "id": 11,
+      "questionType": "sentence",
+      "question": "『相談に乗る』ning ma'nosi qaysi?",
+      "word": "相談に乗る",
+      "choices": [
+        "aldamoq",
+        "yaratmoq",
+        "oila davrasi, oilaviy chog' o'tirish",
+        "maslahat bermoq, dardini eshitmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "相談に乗る → maslahat bermoq, dardini eshitmoq"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『gaplashmoq/muloqot qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "口を利く",
+      "choices": [
+        "一家",
+        "口を利く",
+        "害",
+        "納得する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "gaplashmoq/muloqot qilmoq → 口を利く"
+    },
+    {
+      "id": 13,
+      "questionType": "meaning",
+      "question": "『知識』ning ma'nosi qaysi?",
+      "word": "知識",
+      "choices": [
+        "iliq, mo'tadil (iqlim)",
+        "chuqur",
+        "bilim",
+        "qayta-qayta takrorlanmoq (xato, hodisa)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "知識 → bilim"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『荒らす』ning o'qilishi qaysi?",
+      "word": "荒らす",
+      "choices": [
+        "タイムセール",
+        "あらす",
+        "こんなんな",
+        "ただいま"
+      ],
+      "correctAnswer": 1,
+      "explanation": "荒らす → あらす"
+    },
+    {
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『しんらいする』qaysi yozuvga mos?",
+      "word": "信頼する",
+      "choices": [
+        "信頼する",
+        "心細い",
+        "説得する",
+        "口を利く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しんらいする → 信頼する"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『しっそな』qaysi yozuvga mos?",
+      "word": "質素な",
+      "choices": [
+        "叶う",
+        "難民",
+        "質素な",
+        "ヘルパー"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しっそな → 質素な"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『しっそな』qaysi yozuvga mos?",
+      "word": "質素な",
+      "choices": [
+        "受け継ぐ",
+        "甘える",
+        "質素な",
+        "妊婦"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しっそな → 質素な"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『相談に乗る』ning ma'nosi qaysi?",
+      "word": "相談に乗る",
+      "choices": [
+        "hurmat qilmoq, qadrlamoq",
+        "yengib o'tmoq/boshdan kechirmoq",
+        "iqtisodiy pasayish",
+        "maslahat bermoq, dardini eshitmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "相談に乗る → maslahat bermoq, dardini eshitmoq"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『りべんせい』qaysi yozuvga mos?",
+      "word": "利便性",
+      "choices": [
+        "つくづくと",
+        "利便性",
+        "差別する",
+        "受け継ぐ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "りべんせい → 利便性"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『ちしき』qaysi yozuvga mos?",
+      "word": "知識",
+      "choices": [
+        "産婦人科",
+        "荒らす",
+        "尊重する",
+        "知識"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちしき → 知識"
+    },
+    {
+      "id": 21,
       "questionType": "kanji",
       "question": "『あらす』qaysi yozuvga mos?",
       "word": "荒らす",
       "choices": [
-        "俺",
+        "言いつける",
+        "ファミリー",
         "荒らす",
-        "気楽な",
-        "心細い"
+        "言い出す"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "あらす → 荒らす"
     },
     {
-      "id": 98,
+      "id": 22,
+      "questionType": "sentence",
+      "question": "『万引きする』ning ma'nosi qaysi?",
+      "word": "万引きする",
+      "choices": [
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)",
+        "uyda parvarish qiluvchi xodim",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)",
+        "yashirincha"
+      ],
+      "correctAnswer": 0,
+      "explanation": "万引きする → do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
+    },
+    {
+      "id": 23,
+      "questionType": "word",
+      "question": "『baribir (nima bo'lgan taqdirda xam)』ning yaponcha ifodasi qaysi?",
+      "word": "どうせ",
+      "choices": [
+        "どうせ",
+        "口を利く",
+        "募集する",
+        "妊婦"
+      ],
+      "correctAnswer": 0,
+      "explanation": "baribir (nima bo'lgan taqdirda xam) → どうせ"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『men (erkaklar tilida, dag'alroq)』ning yaponcha ifodasi qaysi?",
+      "word": "俺",
+      "choices": [
+        "書面",
+        "度重なる",
+        "養う",
+        "俺"
+      ],
+      "correctAnswer": 3,
+      "explanation": "men (erkaklar tilida, dag'alroq) → 俺"
+    },
+    {
+      "id": 25,
+      "questionType": "reading",
+      "question": "『雑な』ning o'qilishi qaysi?",
+      "word": "雑な",
+      "choices": [
+        "ざつな",
+        "かいごする",
+        "ちしき",
+        "ふぁみりー"
+      ],
+      "correctAnswer": 0,
+      "explanation": "雑な → ざつな"
+    },
+    {
+      "id": 26,
+      "questionType": "word",
+      "question": "『ishonmoq』ning yaponcha ifodasi qaysi?",
+      "word": "信頼する",
+      "choices": [
+        "信頼する",
+        "しみじみ",
+        "審判",
+        "報告する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ishonmoq → 信頼する"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『質問』ning o'qilishi qaysi?",
+      "word": "質問",
+      "choices": [
+        "けっしょうせん",
+        "しつもん",
+        "たびかさなる",
+        "ちらかる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "質問 → しつもん"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『めがさめる』qaysi yozuvga mos?",
+      "word": "目が覚める",
+      "choices": [
+        "罪を犯す",
+        "出産する",
+        "目が覚める",
+        "表情"
+      ],
+      "correctAnswer": 2,
+      "explanation": "めがさめる → 目が覚める"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『しんらいする』qaysi yozuvga mos?",
+      "word": "信頼する",
+      "choices": [
+        "徹夜する",
+        "信頼する",
+        "ストライキ",
+        "議論する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しんらいする → 信頼する"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『gaplashmoq/muloqot qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "口を利く",
+      "choices": [
+        "世代交代",
+        "口を利く",
+        "作成する",
+        "写す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "gaplashmoq/muloqot qilmoq → 口を利く"
+    },
+    {
+      "id": 31,
+      "questionType": "reading",
+      "question": "『雑な』ning o'qilishi qaysi?",
+      "word": "雑な",
+      "choices": [
+        "ざつな",
+        "さんふじんか",
+        "たびかさなる",
+        "まんびきする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "雑な → ざつな"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『ざつな』qaysi yozuvga mos?",
+      "word": "雑な",
+      "choices": [
+        "態度",
+        "雑な",
+        "密かに",
+        "気楽な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ざつな → 雑な"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『ぶっか』qaysi yozuvga mos?",
+      "word": "物価",
+      "choices": [
+        "原子力発電所",
+        "世代",
+        "害",
+        "物価"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ぶっか → 物価"
+    },
+    {
+      "id": 34,
+      "questionType": "reading",
+      "question": "『知識』ning o'qilishi qaysi?",
+      "word": "知識",
+      "choices": [
+        "のりきる",
+        "ちしき",
+        "かいごする",
+        "さべつする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "知識 → ちしき"
+    },
+    {
+      "id": 35,
+      "questionType": "reading",
+      "question": "『物価』ning o'qilishi qaysi?",
+      "word": "物価",
+      "choices": [
+        "ぶっか",
+        "ヘルパー",
+        "ほうっておく",
+        "ざつな"
+      ],
+      "correctAnswer": 0,
+      "explanation": "物価 → ぶっか"
+    },
+    {
+      "id": 36,
+      "questionType": "sentence",
+      "question": "『口を利く』ning ma'nosi qaysi?",
+      "word": "口を利く",
+      "choices": [
+        "gaplashmoq/muloqot qilmoq",
+        "xatosini anglab mulohaza qilmoq",
+        "avlod almashinuvi",
+        "norozilik bildirmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "口を利く → gaplashmoq/muloqot qilmoq"
+    },
+    {
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『かなう』qaysi yozuvga mos?",
+      "word": "叶う",
+      "choices": [
+        "俺",
+        "叶う",
+        "つくづくと",
+        "対策する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かなう → 叶う"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『相談に乗る』ning o'qilishi qaysi?",
+      "word": "相談に乗る",
+      "choices": [
+        "そうだんにのる",
+        "ひそかに",
+        "にがおえ",
+        "カンニングする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "相談に乗る → そうだんにのる"
+    },
+    {
+      "id": 39,
+      "questionType": "word",
+      "question": "『amalga oshmoq (orzu)』ning yaponcha ifodasi qaysi?",
+      "word": "叶う",
+      "choices": [
+        "意志",
+        "叶う",
+        "しみじみ",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 1,
+      "explanation": "amalga oshmoq (orzu) → 叶う"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『ちらかる』qaysi yozuvga mos?",
+      "word": "散らかる",
+      "choices": [
+        "散らかる",
+        "気楽な",
+        "物価",
+        "温暖な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちらかる → 散らかる"
+    },
+    {
+      "id": 41,
+      "questionType": "meaning",
+      "question": "『質問』ning ma'nosi qaysi?",
+      "word": "質問",
+      "choices": [
+        "savol",
+        "qarshilik ko'rsatmoq",
+        "qayta-qayta takrorlanmoq (xato, hodisa)",
+        "baribir (nima bo'lgan taqdirda xam)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "質問 → savol"
+    },
+    {
+      "id": 42,
+      "questionType": "reading",
+      "question": "『散らかる』ning o'qilishi qaysi?",
+      "word": "散らかる",
+      "choices": [
+        "ちらかる",
+        "てつやする",
+        "ストライキ",
+        "さんふじんか"
+      ],
+      "correctAnswer": 0,
+      "explanation": "散らかる → ちらかる"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『荒らす』ning ma'nosi qaysi?",
+      "word": "荒らす",
+      "choices": [
+        "olib kelmoq (o'zi bilan)",
+        "avlod (sinonim)",
+        "buzmoq, tartibsiz holga keltirmoq",
+        "xatosini anglab mulohaza qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "荒らす → buzmoq, tartibsiz holga keltirmoq"
+    },
+    {
+      "id": 44,
+      "questionType": "word",
+      "question": "『pala-partish, dag'al (ish)』ning yaponcha ifodasi qaysi?",
+      "word": "雑な",
+      "choices": [
+        "労働する",
+        "一家団らん",
+        "雑な",
+        "出産する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "pala-partish, dag'al (ish) → 雑な"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『質問』ning o'qilishi qaysi?",
+      "word": "質問",
+      "choices": [
+        "しつける",
+        "ホームヘルパー",
+        "しつもん",
+        "いし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "質問 → しつもん"
+    },
+    {
+      "id": 46,
+      "questionType": "word",
+      "question": "『do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)』ning yaponcha ifodasi qaysi?",
+      "word": "万引きする",
+      "choices": [
+        "妊娠する",
+        "ただ今",
+        "質素な",
+        "万引きする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish) → 万引きする"
+    },
+    {
+      "id": 47,
+      "questionType": "meaning",
+      "question": "『利便性』ning ma'nosi qaysi?",
+      "word": "利便性",
+      "choices": [
+        "kamsitmoq",
+        "qulaylik (darajasi)",
+        "gaplashmoq/muloqot qilmoq",
+        "atom elektr"
+      ],
+      "correctAnswer": 1,
+      "explanation": "利便性 → qulaylik (darajasi)"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『おれ』qaysi yozuvga mos?",
+      "word": "俺",
+      "choices": [
+        "解ける",
+        "俺",
+        "罪を犯す",
+        "つくづくと"
+      ],
+      "correctAnswer": 1,
+      "explanation": "おれ → 俺"
+    },
+    {
+      "id": 49,
+      "questionType": "kanji",
+      "question": "『そうだんにのる』qaysi yozuvga mos?",
+      "word": "相談に乗る",
+      "choices": [
+        "ヘルパー",
+        "相談に乗る",
+        "原子力発電所",
+        "実力"
+      ],
+      "correctAnswer": 1,
+      "explanation": "そうだんにのる → 相談に乗る"
+    },
+    {
+      "id": 50,
+      "questionType": "reading",
+      "question": "『俺』ning o'qilishi qaysi?",
+      "word": "俺",
+      "choices": [
+        "ぎろんする",
+        "おれ",
+        "ざつな",
+        "としかいはつ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "俺 → おれ"
+    },
+    {
+      "id": 51,
+      "questionType": "reading",
+      "question": "『万引きする』ning o'qilishi qaysi?",
+      "word": "万引きする",
+      "choices": [
+        "かくへいき",
+        "ひょうじする",
+        "じぶんかってな",
+        "まんびきする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "万引きする → まんびきする"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『雑な』ning ma'nosi qaysi?",
+      "word": "雑な",
+      "choices": [
+        "pala-partish, dag'al (ish)",
+        "yaratmoq",
+        "vazifa, burch",
+        "tahlil (xulosa) yig'ilishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "雑な → pala-partish, dag'al (ish)"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『相談に乗る』ning ma'nosi qaysi?",
+      "word": "相談に乗る",
+      "choices": [
+        "yollamoq, qabul e'lon qilmoq",
+        "meros qilib olmoq, qabul qilib olmoq",
+        "uyda parvarish qiluvchi xodim",
+        "maslahat bermoq, dardini eshitmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "相談に乗る → maslahat bermoq, dardini eshitmoq"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『suyagi sinmoq』ning yaponcha ifodasi qaysi?",
+      "word": "骨折する",
+      "choices": [
+        "副作用",
+        "自分勝手な",
+        "叶う",
+        "骨折する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "suyagi sinmoq → 骨折する"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『利便性』ning o'qilishi qaysi?",
+      "word": "利便性",
+      "choices": [
+        "さからう",
+        "りべんせい",
+        "ふぁみりー",
+        "ストライキ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "利便性 → りべんせい"
+    },
+    {
+      "id": 56,
+      "questionType": "word",
+      "question": "『kamtarona, sodda』ning yaponcha ifodasi qaysi?",
+      "word": "質素な",
+      "choices": [
+        "質素な",
+        "廃止する",
+        "納得する",
+        "差別する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kamtarona, sodda → 質素な"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『あらす』qaysi yozuvga mos?",
+      "word": "荒らす",
+      "choices": [
+        "荒らす",
+        "過去",
+        "甘える",
+        "自立する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あらす → 荒らす"
+    },
+    {
+      "id": 58,
+      "questionType": "kanji",
+      "question": "『しつもん』qaysi yozuvga mos?",
+      "word": "質問",
+      "choices": [
+        "写す",
+        "似顔絵",
+        "質問",
+        "役目"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しつもん → 質問"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『質素な』ning o'qilishi qaysi?",
+      "word": "質素な",
+      "choices": [
+        "ひょうじょう",
+        "こうぎする",
+        "うつす",
+        "しっそな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "質素な → しっそな"
+    },
+    {
+      "id": 60,
+      "questionType": "reading",
+      "question": "『信頼する』ning o'qilishi qaysi?",
+      "word": "信頼する",
+      "choices": [
+        "けっしょうせん",
+        "ちらかる",
+        "にんぷ",
+        "しんらいする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "信頼する → しんらいする"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『uyg'onmoq (ko'zi ochilmoq)』ning yaponcha ifodasi qaysi?",
+      "word": "目が覚める",
+      "choices": [
+        "目が覚める",
+        "叶う",
+        "出産する",
+        "反省する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "uyg'onmoq (ko'zi ochilmoq) → 目が覚める"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『俺』ning o'qilishi qaysi?",
+      "word": "俺",
+      "choices": [
+        "おれ",
+        "しゅっさんいわい",
+        "せけんしらず",
+        "はんせいかい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "俺 → おれ"
+    },
+    {
+      "id": 63,
+      "questionType": "meaning",
+      "question": "『散らかる』ning ma'nosi qaysi?",
+      "word": "散らかる",
+      "choices": [
+        "tarbiyalamoq, odob o'rgatmoq",
+        "sochilib yotmoq, to'zib ketmoq",
+        "yaratmoq",
+        "oila (sinonim)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "散らかる → sochilib yotmoq, to'zib ketmoq"
+    },
+    {
+      "id": 64,
+      "questionType": "kanji",
+      "question": "『しつもん』qaysi yozuvga mos?",
+      "word": "質問",
+      "choices": [
+        "逆らう",
+        "質問",
+        "口を利く",
+        "再会する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しつもん → 質問"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『qulaylik (darajasi)』ning yaponcha ifodasi qaysi?",
+      "word": "利便性",
+      "choices": [
+        "利便性",
+        "ジェネレーション",
+        "困難な",
+        "実力"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qulaylik (darajasi) → 利便性"
+    },
+    {
+      "id": 66,
+      "questionType": "meaning",
+      "question": "『過去』ning ma'nosi qaysi?",
+      "word": "過去",
+      "choices": [
+        "o'tmish",
+        "homilador bo'lmoq",
+        "jinoyat sodir qilish",
+        "ta'sir qilmoq, samarali bo'lmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "過去 → o'tmish"
+    },
+    {
+      "id": 67,
       "questionType": "reading",
       "question": "『荒らす』ning o'qilishi qaysi?",
       "word": "荒らす",
       "choices": [
         "あらす",
-        "しんらいする",
-        "くちをきく",
-        "りべんせい"
+        "やくめ",
+        "ふけいき",
+        "にがおえ"
       ],
       "correctAnswer": 0,
       "explanation": "荒らす → あらす"
     },
     {
-      "id": 99,
-      "questionType": "word",
-      "question": "『sochilib yotmoq, to'zib ketmoq』ning yaponcha ifodasi qaysi?",
-      "word": "散らかる",
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『かなう』qaysi yozuvga mos?",
+      "word": "叶う",
       "choices": [
-        "どうせ",
-        "表情",
-        "散らかる",
-        "出身"
+        "作成する",
+        "受け継ぐ",
+        "抵抗する",
+        "叶う"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かなう → 叶う"
+    },
+    {
+      "id": 69,
+      "questionType": "meaning",
+      "question": "『質問』ning ma'nosi qaysi?",
+      "word": "質問",
+      "choices": [
+        "savol",
+        "tuni bilan uxlamaslik",
+        "amalga oshmoq (orzu)",
+        "kelib chiqishi (qayerlik)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "質問 → savol"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『信頼する』ning ma'nosi qaysi?",
+      "word": "信頼する",
+      "choices": [
+        "yuzma-yuz bo'lmoq, yuzlashmoq",
+        "munosabat",
+        "ishonmoq",
+        "yechilmoq; erimoq"
       ],
       "correctAnswer": 2,
-      "explanation": "sochilib yotmoq, to'zib ketmoq → 散らかる"
+      "explanation": "信頼する → ishonmoq"
+    },
+    {
+      "id": 71,
+      "questionType": "meaning",
+      "question": "『散らかる』ning ma'nosi qaysi?",
+      "word": "散らかる",
+      "choices": [
+        "mushkul, qiyin",
+        "hakam",
+        "men (erkaklar tilida, dag'alroq)",
+        "sochilib yotmoq, to'zib ketmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "散らかる → sochilib yotmoq, to'zib ketmoq"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『uyg'onmoq (ko'zi ochilmoq)』ning yaponcha ifodasi qaysi?",
+      "word": "目が覚める",
+      "choices": [
+        "労働する",
+        "目が覚める",
+        "役目",
+        "出産する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "uyg'onmoq (ko'zi ochilmoq) → 目が覚める"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『利便性』ning o'qilishi qaysi?",
+      "word": "利便性",
+      "choices": [
+        "りべんせい",
+        "せけんしらず",
+        "タイムセール",
+        "ありがとう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "利便性 → りべんせい"
+    },
+    {
+      "id": 74,
+      "questionType": "kanji",
+      "question": "『ざつな』qaysi yozuvga mos?",
+      "word": "雑な",
+      "choices": [
+        "言いつける",
+        "雑な",
+        "荒らす",
+        "似顔絵"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ざつな → 雑な"
+    },
+    {
+      "id": 75,
+      "questionType": "reading",
+      "question": "『知識』ning o'qilishi qaysi?",
+      "word": "知識",
+      "choices": [
+        "ちしき",
+        "つみをおかす",
+        "しえんする",
+        "ほうこくする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "知識 → ちしき"
+    },
+    {
+      "id": 76,
+      "questionType": "meaning",
+      "question": "『俺』ning ma'nosi qaysi?",
+      "word": "俺",
+      "choices": [
+        "tahlil (xulosa) yig'ilishi",
+        "men (erkaklar tilida, dag'alroq)",
+        "xatosini anglab mulohaza qilmoq",
+        "hakam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "俺 → men (erkaklar tilida, dag'alroq)"
+    },
+    {
+      "id": 77,
+      "questionType": "word",
+      "question": "『kamtarona, sodda』ning yaponcha ifodasi qaysi?",
+      "word": "質素な",
+      "choices": [
+        "納得する",
+        "質素な",
+        "しみじみ",
+        "尊重する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kamtarona, sodda → 質素な"
+    },
+    {
+      "id": 78,
+      "questionType": "kanji",
+      "question": "『かこ』qaysi yozuvga mos?",
+      "word": "過去",
+      "choices": [
+        "過去",
+        "知識",
+        "度重なる",
+        "カンニングする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かこ → 過去"
+    },
+    {
+      "id": 79,
+      "questionType": "word",
+      "question": "『o'tmish』ning yaponcha ifodasi qaysi?",
+      "word": "過去",
+      "choices": [
+        "世間知らず",
+        "過去",
+        "徹夜する",
+        "核兵器"
+      ],
+      "correctAnswer": 1,
+      "explanation": "o'tmish → 過去"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『どうせ』qaysi yozuvga mos?",
+      "word": "どうせ",
+      "choices": [
+        "再会する",
+        "支援する",
+        "どうせ",
+        "意志"
+      ],
+      "correctAnswer": 2,
+      "explanation": "どうせ → どうせ"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『ぶっか』qaysi yozuvga mos?",
+      "word": "物価",
+      "choices": [
+        "物価",
+        "作成する",
+        "語り合う",
+        "言いつける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぶっか → 物価"
+    },
+    {
+      "id": 82,
+      "questionType": "kanji",
+      "question": "『ちしき』qaysi yozuvga mos?",
+      "word": "知識",
+      "choices": [
+        "知識",
+        "意志",
+        "募集する",
+        "実力"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちしき → 知識"
+    },
+    {
+      "id": 83,
+      "questionType": "kanji",
+      "question": "『こっせつする』qaysi yozuvga mos?",
+      "word": "骨折する",
+      "choices": [
+        "罪を犯す",
+        "農村",
+        "表情",
+        "骨折する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こっせつする → 骨折する"
+    },
+    {
+      "id": 84,
+      "questionType": "word",
+      "question": "『suyagi sinmoq』ning yaponcha ifodasi qaysi?",
+      "word": "骨折する",
+      "choices": [
+        "領土",
+        "骨折する",
+        "農村",
+        "向き合う"
+      ],
+      "correctAnswer": 1,
+      "explanation": "suyagi sinmoq → 骨折する"
+    },
+    {
+      "id": 85,
+      "questionType": "kanji",
+      "question": "『かこ』qaysi yozuvga mos?",
+      "word": "過去",
+      "choices": [
+        "過去",
+        "質問",
+        "養う",
+        "妊婦"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かこ → 過去"
+    },
+    {
+      "id": 86,
+      "questionType": "sentence",
+      "question": "『信頼する』ning ma'nosi qaysi?",
+      "word": "信頼する",
+      "choices": [
+        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq",
+        "rahmat",
+        "kamsitmoq",
+        "ishonmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "信頼する → ishonmoq"
+    },
+    {
+      "id": 87,
+      "questionType": "word",
+      "question": "『narx-navo (umumiy narxlar darajasi)』ning yaponcha ifodasi qaysi?",
+      "word": "物価",
+      "choices": [
+        "物価",
+        "介護する",
+        "再会する",
+        "質問"
+      ],
+      "correctAnswer": 0,
+      "explanation": "narx-navo (umumiy narxlar darajasi) → 物価"
+    },
+    {
+      "id": 88,
+      "questionType": "word",
+      "question": "『bilim』ning yaponcha ifodasi qaysi?",
+      "word": "知識",
+      "choices": [
+        "害",
+        "継ぐ",
+        "知識",
+        "ジェネレーション"
+      ],
+      "correctAnswer": 2,
+      "explanation": "bilim → 知識"
+    },
+    {
+      "id": 89,
+      "questionType": "meaning",
+      "question": "『叶う』ning ma'nosi qaysi?",
+      "word": "叶う",
+      "choices": [
+        "amalga oshmoq (orzu)",
+        "parvarish qilmoq (keksa, bemorni)",
+        "qarshilik ko'rsatmoq",
+        "o'tmish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "叶う → amalga oshmoq (orzu)"
+    },
+    {
+      "id": 90,
+      "questionType": "reading",
+      "question": "『口を利く』ning o'qilishi qaysi?",
+      "word": "口を利く",
+      "choices": [
+        "ちらかる",
+        "むきあう",
+        "いいつける",
+        "くちをきく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "口を利く → くちをきく"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『ちらかる』qaysi yozuvga mos?",
+      "word": "散らかる",
+      "choices": [
+        "農村",
+        "どうせ",
+        "都市開発",
+        "散らかる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちらかる → 散らかる"
+    },
+    {
+      "id": 92,
+      "questionType": "reading",
+      "question": "『物価』ning o'qilishi qaysi?",
+      "word": "物価",
+      "choices": [
+        "ほうこくする",
+        "ぶっか",
+        "まんびきする",
+        "ありがとう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "物価 → ぶっか"
+    },
+    {
+      "id": 93,
+      "questionType": "sentence",
+      "question": "『骨折する』ning ma'nosi qaysi?",
+      "word": "骨折する",
+      "choices": [
+        "suyagi sinmoq",
+        "bekor qilmoq, tugatmoq",
+        "iqtisodiy pasayish",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "骨折する → suyagi sinmoq"
+    },
+    {
+      "id": 94,
+      "questionType": "reading",
+      "question": "『どうせ』ning o'qilishi qaysi?",
+      "word": "どうせ",
+      "choices": [
+        "どうせ",
+        "あまえる",
+        "うけつぐ",
+        "しみじみ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "どうせ → どうせ"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『どうせ』qaysi yozuvga mos?",
+      "word": "どうせ",
+      "choices": [
+        "どうせ",
+        "態度",
+        "副作用",
+        "自立する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "どうせ → どうせ"
+    },
+    {
+      "id": 96,
+      "questionType": "reading",
+      "question": "『過去』ning o'qilishi qaysi?",
+      "word": "過去",
+      "choices": [
+        "しつけ",
+        "しんぱん",
+        "がい",
+        "かこ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "過去 → かこ"
+    },
+    {
+      "id": 97,
+      "questionType": "word",
+      "question": "『baribir (nima bo'lgan taqdirda xam)』ning yaponcha ifodasi qaysi?",
+      "word": "どうせ",
+      "choices": [
+        "語り合う",
+        "ありがたい",
+        "どうせ",
+        "利便性"
+      ],
+      "correctAnswer": 2,
+      "explanation": "baribir (nima bo'lgan taqdirda xam) → どうせ"
+    },
+    {
+      "id": 98,
+      "questionType": "reading",
+      "question": "『質素な』ning o'qilishi qaysi?",
+      "word": "質素な",
+      "choices": [
+        "しっそな",
+        "いっか",
+        "いし",
+        "つみをおかす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "質素な → しっそな"
+    },
+    {
+      "id": 99,
+      "questionType": "word",
+      "question": "『buzmoq, tartibsiz holga keltirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "荒らす",
+      "choices": [
+        "ストライキ",
+        "心細い",
+        "しつける",
+        "荒らす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "buzmoq, tartibsiz holga keltirmoq → 荒らす"
     },
     {
       "id": 100,
       "questionType": "kanji",
-      "question": "『しんらいする』qaysi yozuvga mos?",
-      "word": "信頼する",
+      "question": "『りべんせい』qaysi yozuvga mos?",
+      "word": "利便性",
       "choices": [
-        "実力",
-        "議論する",
-        "持参する",
-        "信頼する"
+        "妊婦",
+        "言いつける",
+        "利便性",
+        "カンニングする"
       ],
-      "correctAnswer": 3,
-      "explanation": "しんらいする → 信頼する"
+      "correctAnswer": 2,
+      "explanation": "りべんせい → 利便性"
     },
     {
       "id": 101,
@@ -1409,69 +1409,69 @@
       "question": "『散らかる』ning ma'nosi qaysi?",
       "word": "散らかる",
       "choices": [
-        "yaratmoq",
-        "sochilib yotmoq, to'zib ketmoq",
+        "erkalanmoq",
         "yuragi g'ash, o'zini yolg'iz his qiladigan",
-        "men (erkaklar tilida, dag'alroq)"
+        "chuqur",
+        "sochilib yotmoq, to'zib ketmoq"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "散らかる → sochilib yotmoq, to'zib ketmoq"
     },
     {
       "id": 102,
-      "questionType": "kanji",
-      "question": "『しつもん』qaysi yozuvga mos?",
-      "word": "質問",
+      "questionType": "reading",
+      "question": "『叶う』ning o'qilishi qaysi?",
+      "word": "叶う",
       "choices": [
-        "領土",
-        "廃止する",
-        "農村",
-        "質問"
+        "くちをきく",
+        "カンニングする",
+        "のりきる",
+        "かなう"
       ],
       "correctAnswer": 3,
-      "explanation": "しつもん → 質問"
+      "explanation": "叶う → かなう"
     },
     {
       "id": 103,
       "questionType": "kanji",
-      "question": "『しっそな』qaysi yozuvga mos?",
-      "word": "質素な",
-      "choices": [
-        "害",
-        "副作用",
-        "表情",
-        "質素な"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しっそな → 質素な"
-    },
-    {
-      "id": 104,
-      "questionType": "meaning",
-      "question": "『散らかる』ning ma'nosi qaysi?",
-      "word": "散らかる",
-      "choices": [
-        "sochilib yotmoq, to'zib ketmoq",
-        "norozilik bildirmoq",
-        "hozir; keldim (uyga)",
-        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "散らかる → sochilib yotmoq, to'zib ketmoq"
-    },
-    {
-      "id": 105,
-      "questionType": "kanji",
       "question": "『こっせつする』qaysi yozuvga mos?",
       "word": "骨折する",
       "choices": [
-        "物価",
-        "信頼する",
         "骨折する",
-        "罪を犯す"
+        "持参する",
+        "報告する",
+        "表示する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こっせつする → 骨折する"
+    },
+    {
+      "id": 104,
+      "questionType": "reading",
+      "question": "『どうせ』ning o'qilishi qaysi?",
+      "word": "どうせ",
+      "choices": [
+        "じぇねれーしょん",
+        "むきあう",
+        "どうせ",
+        "ストライキ"
       ],
       "correctAnswer": 2,
-      "explanation": "こっせつする → 骨折する"
+      "explanation": "どうせ → どうせ"
+    },
+    {
+      "id": 105,
+      "questionType": "meaning",
+      "question": "『万引きする』ning ma'nosi qaysi?",
+      "word": "万引きする",
+      "choices": [
+        "suhbatlashmoq, dil so'zlashmoq",
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "万引きする → do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
     }
   ]
 }

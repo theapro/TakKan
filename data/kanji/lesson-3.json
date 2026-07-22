@@ -1,0 +1,100 @@
+{
+    "title": "Lesson 3",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "契",
+          "reading": "けいやく",
+          "meaning": "shartnoma, ahd",
+          "onyomi": "ケイ",
+          "kunyomi": "ちぎ(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "契約をする", "reading": "けいやくをする", "meaning": "shartnoma tuzish" },
+          { "id": 2, "word": "契約書", "reading": "けいやくしょ", "meaning": "shartnoma" },
+          { "id": 3, "word": "〜を契機に", "reading": "〜をけいきに", "meaning": "ni turtki (bahona) qilib" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "越",
+          "reading": "こす",
+          "meaning": "o'tmoq, kesib o'tmoq",
+          "onyomi": "エツ",
+          "kunyomi": "こ(す)・こ(える)"
+        },
+        "examples": [
+          { "id": 1, "word": "峠を越す", "reading": "とうげをこす", "meaning": "dovondan oshmoq; eng og'ir nuqtadan o'tmoq" },
+          { "id": 2, "word": "国境を越える", "reading": "こっきょうをこえる", "meaning": "davlat chegarasidan kesib o'tish" },
+          { "id": 3, "word": "年越しそば", "reading": "としこしそば", "meaning": "yangi yilda yeyiladigan soba" },
+          { "id": 4, "word": "前の車を追い越す", "reading": "まえのくるまをおいこす", "meaning": "oldindagi mashinani quvib o'tmoq" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "賃",
+          "reading": "ちん",
+          "meaning": "haq, ijara",
+          "onyomi": "チン",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "家賃", "reading": "やちん", "meaning": "uy ijarasi haqi" },
+          { "id": 2, "word": "運賃", "reading": "うんちん", "meaning": "yo'l haqi" },
+          { "id": 3, "word": "賃金", "reading": "ちんぎん", "meaning": "ish haqi" },
+          { "id": 4, "word": "賃貸マンション", "reading": "ちんたいマンション", "meaning": "ijaraga olingan ko'p qavatli uy" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "仮",
+          "reading": "かり",
+          "meaning": "vaqtinchalik, faraz",
+          "onyomi": "カ・ケ",
+          "kunyomi": "かり"
+        },
+        "examples": [
+          { "id": 1, "word": "仮の住まい", "reading": "かりのすまい", "meaning": "vaqtinchalik yashash manzili" },
+          { "id": 2, "word": "仮定する", "reading": "かていする", "meaning": "faraz qilmoq" },
+          { "id": 3, "word": "仮説を立てる", "reading": "かせつをたてる", "meaning": "gipoteza (faraz) qo'ymoq" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "証",
+          "reading": "しょう",
+          "meaning": "tasdiq, guvohlik",
+          "onyomi": "ショウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "証明する", "reading": "しょうめいする", "meaning": "tasdiqlamoq, ko'rsatmoq" },
+          { "id": 2, "word": "裁判所で証言する", "reading": "さいばんしょでしょうげんする", "meaning": "sudda guvohlik bermoq" },
+          { "id": 3, "word": "保証人", "reading": "ほしょうにん", "meaning": "kafil" },
+          { "id": 4, "word": "身分証明書", "reading": "みぶんしょうめいしょ", "meaning": "shaxsni tasdiqlovchi hujjat" },
+          { "id": 5, "word": "免許証", "reading": "めんきょしょう", "meaning": "guvohnoma" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "域",
+          "reading": "いき",
+          "meaning": "hudud",
+          "onyomi": "イキ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "地域住民", "reading": "ちいきじゅうみん", "meaning": "mahalliy aholi" },
+          { "id": 2, "word": "立ち入り禁止区域", "reading": "たちいりきんしくいき", "meaning": "kirish mumkin bo'lmagan hudud" },
+          { "id": 3, "word": "自国領域", "reading": "じこくりょういき", "meaning": "o'z davlati hududi" },
+          { "id": 4, "word": "川の流域", "reading": "かわのりゅういき", "meaning": "daryo havzasi" }
+        ]
+      }
+    ]
+  }
