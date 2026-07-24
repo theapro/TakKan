@@ -1,0 +1,65 @@
+{
+    "title": "Lesson 5",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "親知らず", "reading": "おやしらず", "meaning": "aql tish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "親知らず", "reading": "おやしらず", "meaning": "aql tish" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "蚊", "reading": "か", "meaning": "chivin", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "蚊", "reading": "か", "meaning": "chivin" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "学食", "reading": "がくしょく", "meaning": "talabalar oshxonasi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "学食", "reading": "がくしょく", "meaning": "talabalar oshxonasi" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "災害", "reading": "さいがい", "meaning": "falokat/ ofat", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "災害", "reading": "さいがい", "meaning": "falokat/ ofat" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "正午", "reading": "しょうご", "meaning": "tush payti (soat 12)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "正午", "reading": "しょうご", "meaning": "tush payti (soat 12)" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "憧れる", "reading": "あこがれる", "meaning": "havas qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "憧れる", "reading": "あこがれる", "meaning": "havas qilmoq" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "崩れる", "reading": "くずれる", "meaning": "buzilmoq (shakl/holat)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "崩れる", "reading": "くずれる", "meaning": "buzilmoq (shakl/holat)" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "時間を指す", "reading": "じかんをさす", "meaning": "vaqtni ko'rsatmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "時間を指す", "reading": "じかんをさす", "meaning": "vaqtni ko'rsatmoq" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "同意する", "reading": "どういする", "meaning": "rozilik bildirmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "同意する", "reading": "どういする", "meaning": "rozilik bildirmoq" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "到着する", "reading": "とうちゃくする", "meaning": "yetib kelmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "到着する", "reading": "とうちゃくする", "meaning": "yetib kelmoq" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "納得する", "reading": "なっとくする", "meaning": "ko'nmoq, tushunib rozi bo'lmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "納得する", "reading": "なっとくする", "meaning": "ko'nmoq, tushunib rozi bo'lmoq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "パワハラする", "reading": "パワハラする", "meaning": "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "パワハラする", "reading": "パワハラする", "meaning": "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)" }]
+      }
+    ]
+  }

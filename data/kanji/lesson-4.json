@@ -1,0 +1,97 @@
+{
+  "title": "Lesson 4",
+  "groups": [
+    {
+      "id": 1,
+      "kanji": {
+        "word": "雑",
+        "reading": "ざつ",
+        "meaning": "aralash, pala-partish",
+        "onyomi": "ザツ・ゾウ",
+        "kunyomi": ""
+      },
+      "examples": [
+        { "id": 1, "word": "雑音がする", "reading": "ざつおんがする", "meaning": "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)" },
+        { "id": 2, "word": "雑談", "reading": "ざつだん", "meaning": "gurung,suhbat" },
+        { "id": 3, "word": "複雑な計算", "reading": "ふくざつなけいさん", "meaning": "murakkab hisob-kitob" },
+        { "id": 4, "word": "雑誌を読む", "reading": "ざっしをよむ", "meaning": "jurnal o'qimoq" }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": {
+        "word": "誌",
+        "reading": "し",
+        "meaning": "jurnal, yozuv",
+        "onyomi": "シ",
+        "kunyomi": ""
+      },
+      "examples": [
+        { "id": 1, "word": "ファッション誌", "reading": "ファッションし", "meaning": "moda jurnali" },
+        { "id": 2, "word": "日誌をつける", "reading": "にっしをつける", "meaning": "kundalik yozib borish" }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": {
+        "word": "刊",
+        "reading": "かん",
+        "meaning": "nashr qilish",
+        "onyomi": "カン",
+        "kunyomi": ""
+      },
+      "examples": [
+        { "id": 1, "word": "本が刊行する", "reading": "ほんがかんこうする", "meaning": "kitob nashr etilishi, bosib chiqarilishi" },
+        { "id": 2, "word": "朝刊", "reading": "ちょうかん", "meaning": "ertalabki gazeta" },
+        { "id": 3, "word": "夕刊", "reading": "ゆうかん", "meaning": "kechki gazeta" },
+        { "id": 4, "word": "週刊誌", "reading": "しゅうかんし", "meaning": "haftalik gazeta" }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": {
+        "word": "並",
+        "reading": "ならぶ",
+        "meaning": "tizilmoq, oddiy/o'rtacha",
+        "onyomi": "ヘイ",
+        "kunyomi": "なら(ぶ)・なみ"
+      },
+      "examples": [
+        { "id": 1, "word": "並べる", "reading": "ならべる", "meaning": "taxlamoq" },
+        { "id": 2, "word": "並ぶ", "reading": "ならぶ", "meaning": "ketma-ket (navbatda) turmoq" },
+        { "id": 3, "word": "並", "reading": "なみ", "meaning": "o'rtacha/oz ham, ko'p ham bo'lmagan" },
+        { "id": 4, "word": "人並みに生活する", "reading": "ひとなみにせいかつする", "meaning": "o'rtacha hayot kechirish" }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": {
+        "word": "巻",
+        "reading": "まく",
+        "meaning": "o'ramoq",
+        "onyomi": "カン",
+        "kunyomi": "ま(く)・まき"
+      },
+      "examples": [
+        { "id": 1, "word": "包帯を巻く", "reading": "ほうたいをまく", "meaning": "bint o'ramoq" },
+        { "id": 2, "word": "のり巻き", "reading": "のりまき", "meaning": "norimaki (nori o'ralgan sushi)" }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": {
+        "word": "著",
+        "reading": "あらわす",
+        "meaning": "yozmoq, ko'zga ko'rinarli",
+        "onyomi": "チョ",
+        "kunyomi": "あらわ(す)・いちじる(しい)"
+      },
+      "examples": [
+        { "id": 1, "word": "本を著す", "reading": "ほんをあらわす", "meaning": "kitob yozmoq, nashr etmoq" },
+        { "id": 2, "word": "著しい進歩", "reading": "いちじるしいしんぽ", "meaning": "sezilarli (keskin) rivojlanish" },
+        { "id": 3, "word": "著名人", "reading": "ちょめいじん", "meaning": "mashhur inson" },
+        { "id": 4, "word": "著者", "reading": "ちょしゃ", "meaning": "yozuvchi" }
+      ]
+    }
+  ]
+}
