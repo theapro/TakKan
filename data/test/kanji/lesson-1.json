@@ -5,255 +5,255 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "reading",
-      "question": "『贈り物』ning o'qilishi qaysi?",
-      "word": "贈り物",
+      "questionType": "word",
+      "question": "『parlament yig'ilishini chaqirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "議会を招集する",
       "choices": [
-        "こんざつ",
-        "きをくばる",
-        "おくりもの",
-        "ほしょうにん"
+        "滝で心身を清める",
+        "議会を招集する",
+        "契約書",
+        "欠席届"
       ],
-      "correctAnswer": 2,
-      "explanation": "贈り物 → おくりもの"
+      "correctAnswer": 1,
+      "explanation": "parlament yig'ilishini chaqirmoq → 議会を招集する"
     },
     {
       "id": 2,
       "questionType": "word",
-      "question": "『narsani berish』ning yaponcha ifodasi qaysi?",
-      "word": "物を渡す",
+      "question": "『yo'lovchi chiptasi』ning yaponcha ifodasi qaysi?",
+      "word": "乗車券",
       "choices": [
-        "プレゼントを贈る",
-        "混乱",
-        "招待する",
-        "物を渡す"
+        "乗車券",
+        "峠を越す",
+        "混ざる",
+        "家賃"
       ],
-      "correctAnswer": 3,
-      "explanation": "narsani berish → 物を渡す"
+      "correctAnswer": 0,
+      "explanation": "yo'lovchi chiptasi → 乗車券"
     },
     {
       "id": 3,
-      "questionType": "word",
-      "question": "『sovg'ani eltib berish』ning yaponcha ifodasi qaysi?",
-      "word": "お土産を届ける",
+      "questionType": "reading",
+      "question": "『券』ning o'qilishi qaysi?",
+      "word": "券",
       "choices": [
-        "贈り物",
-        "欠席届",
-        "お土産を届ける",
-        "旅券"
+        "あらわす",
+        "けん",
+        "せいだいな",
+        "おくる"
       ],
-      "correctAnswer": 2,
-      "explanation": "sovg'ani eltib berish → お土産を届ける"
+      "correctAnswer": 1,
+      "explanation": "券 → けん"
     },
     {
       "id": 4,
-      "questionType": "reading",
-      "question": "『渡』ning o'qilishi qaysi?",
-      "word": "渡",
+      "questionType": "meaning",
+      "question": "『旅券』ning ma'nosi qaysi?",
+      "word": "旅券",
       "choices": [
-        "まざる",
-        "わたる",
-        "りょけん",
-        "けいやく"
+        "pasport (xorijiy)",
+        "bint o'ramoq",
+        "ketma-ket (navbatda) turmoq",
+        "o'rtacha/oz ham, ko'p ham bo'lmagan"
       ],
-      "correctAnswer": 1,
-      "explanation": "渡 → わたる"
+      "correctAnswer": 0,
+      "explanation": "旅券 → pasport (xorijiy)"
     },
     {
       "id": 5,
-      "questionType": "kanji",
-      "question": "『けっせきとどけ』qaysi yozuvga mos?",
-      "word": "欠席届",
-      "choices": [
-        "欠席届",
-        "プレゼントを贈る",
-        "皿におかずを盛る",
-        "越"
-      ],
-      "correctAnswer": 0,
-      "explanation": "けっせきとどけ → 欠席届"
-    },
-    {
-      "id": 6,
-      "questionType": "kanji",
-      "question": "『じょうしゃけん』qaysi yozuvga mos?",
-      "word": "乗車券",
-      "choices": [
-        "定期券",
-        "乗車券",
-        "証",
-        "招待する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "じょうしゃけん → 乗車券"
-    },
-    {
-      "id": 7,
-      "questionType": "reading",
-      "question": "『株券』ning o'qilishi qaysi?",
-      "word": "株券",
-      "choices": [
-        "かぶけん",
-        "けいやくしょ",
-        "みぶんしょうめいしょ",
-        "プレゼントをおくる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "株券 → かぶけん"
-    },
-    {
-      "id": 8,
-      "questionType": "meaning",
-      "question": "『招待する』ning ma'nosi qaysi?",
-      "word": "招待する",
-      "choices": [
-        "sovg'ani eltib berish",
-        "oylik chipta",
-        "taklif qilmoq",
-        "og'izga suv olish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "招待する → taklif qilmoq"
-    },
-    {
-      "id": 9,
-      "questionType": "recognition",
-      "question": "『券』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "株券",
-      "choices": [
-        "券",
-        "川の流域",
-        "大盛り",
-        "株券"
-      ],
-      "correctAnswer": 3,
-      "explanation": "券 → 株券"
-    },
-    {
-      "id": 10,
-      "questionType": "reading",
-      "question": "『乗車券』ning o'qilishi qaysi?",
-      "word": "乗車券",
-      "choices": [
-        "あたらしいクラスにとけこむ",
-        "さかんなせいえん",
-        "じょうしゃけん",
-        "こおりがとける"
-      ],
-      "correctAnswer": 2,
-      "explanation": "乗車券 → じょうしゃけん"
-    },
-    {
-      "id": 11,
-      "questionType": "kanji",
-      "question": "『おくりもの』qaysi yozuvga mos?",
-      "word": "贈り物",
-      "choices": [
-        "贈り物",
-        "バター溶かす",
-        "招待する",
-        "議会を招集する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おくりもの → 贈り物"
-    },
-    {
-      "id": 12,
-      "questionType": "word",
-      "question": "『sovg'a jo'natmoq』ning yaponcha ifodasi qaysi?",
-      "word": "プレゼントを贈る",
-      "choices": [
-        "招",
-        "証券会社",
-        "プレゼントを贈る",
-        "前の車を追い越す"
-      ],
-      "correctAnswer": 2,
-      "explanation": "sovg'a jo'natmoq → プレゼントを贈る"
-    },
-    {
-      "id": 13,
-      "questionType": "kanji",
-      "question": "『ていきけん』qaysi yozuvga mos?",
-      "word": "定期券",
-      "choices": [
-        "混",
-        "手紙が届く",
-        "私を含めて四人",
-        "定期券"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ていきけん → 定期券"
-    },
-    {
-      "id": 14,
-      "questionType": "recognition",
-      "question": "『招』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "招待する",
-      "choices": [
-        "越",
-        "招待する",
-        "混ざる",
-        "乗車券"
-      ],
-      "correctAnswer": 1,
-      "explanation": "招 → 招待する"
-    },
-    {
-      "id": 15,
-      "questionType": "kanji",
-      "question": "『けん』qaysi yozuvga mos?",
-      "word": "券",
-      "choices": [
-        "〜を契機に",
-        "券",
-        "溶岩",
-        "招"
-      ],
-      "correctAnswer": 1,
-      "explanation": "けん → 券"
-    },
-    {
-      "id": 16,
-      "questionType": "meaning",
-      "question": "『贈り物』ning ma'nosi qaysi?",
-      "word": "贈り物",
-      "choices": [
-        "o'tmoq, bermoq",
-        "ni turtki (bahona) qilib",
-        "uy ijarasi haqi",
-        "sovg'a"
-      ],
-      "correctAnswer": 3,
-      "explanation": "贈り物 → sovg'a"
-    },
-    {
-      "id": 17,
       "questionType": "meaning",
       "question": "『招待状』ning ma'nosi qaysi?",
       "word": "招待状",
       "choices": [
-        "tasdiq, guvohlik",
+        "turar-joy",
         "taklifnoma",
-        "chuqur kosa (donburi)",
-        "kelmaslik haqidagi xabarnoma (ariza)"
+        "o'z davlati hududi",
+        "aralashmoq"
       ],
       "correctAnswer": 1,
       "explanation": "招待状 → taklifnoma"
     },
     {
-      "id": 18,
+      "id": 6,
+      "questionType": "word",
+      "question": "『sovg'a qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "贈",
+      "choices": [
+        "贈",
+        "明るい家庭を築く",
+        "運賃",
+        "日誌をつける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sovg'a qilmoq → 贈"
+    },
+    {
+      "id": 7,
+      "questionType": "recognition",
+      "question": "『配』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "気を配る",
+      "choices": [
+        "域",
+        "汚",
+        "のり巻き",
+        "気を配る"
+      ],
+      "correctAnswer": 3,
+      "explanation": "配 → 気を配る"
+    },
+    {
+      "id": 8,
       "questionType": "sentence",
       "question": "『お土産を届ける』ning ma'nosi qaysi?",
       "word": "お土産を届ける",
       "choices": [
-        "miso sho'rvasi",
-        "guvohnoma",
         "sovg'ani eltib berish",
-        "narsani berish"
+        "bazmga taklif etish",
+        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
+        "kitob yozmoq, nashr etmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "お土産を届ける → sovg'ani eltib berish"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
+      "question": "『招待する』ning ma'nosi qaysi?",
+      "word": "招待する",
+      "choices": [
+        "xonani iflos qilish",
+        "kir bo'lgan kiyim",
+        "korrupsiya",
+        "taklif qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "招待する → taklif qilmoq"
+    },
+    {
+      "id": 10,
+      "questionType": "word",
+      "question": "『kelmaslik haqidagi xabarnoma (ariza)』ning yaponcha ifodasi qaysi?",
+      "word": "欠席届",
+      "choices": [
+        "欠席届",
+        "入場券",
+        "議会を招集する",
+        "居間"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kelmaslik haqidagi xabarnoma (ariza) → 欠席届"
+    },
+    {
+      "id": 11,
+      "questionType": "kanji",
+      "question": "『けん』qaysi yozuvga mos?",
+      "word": "券",
+      "choices": [
+        "パーティーに招く",
+        "道路を渡る",
+        "券",
+        "心が清まる"
       ],
       "correctAnswer": 2,
-      "explanation": "お土産を届ける → sovg'ani eltib berish"
+      "explanation": "けん → 券"
+    },
+    {
+      "id": 12,
+      "questionType": "recognition",
+      "question": "『渡』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "物を渡す",
+      "choices": [
+        "引き出しの中を整理する",
+        "日誌をつける",
+        "物を渡す",
+        "保証人"
+      ],
+      "correctAnswer": 2,
+      "explanation": "渡 → 物を渡す"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『narsani berish』ning yaponcha ifodasi qaysi?",
+      "word": "物を渡す",
+      "choices": [
+        "物を渡す",
+        "包帯を巻く",
+        "混ざる",
+        "口に水を含む"
+      ],
+      "correctAnswer": 0,
+      "explanation": "narsani berish → 物を渡す"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『しょうたいじょう』qaysi yozuvga mos?",
+      "word": "招待状",
+      "choices": [
+        "招待状",
+        "整理整頓",
+        "賃貸マンション",
+        "招"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しょうたいじょう → 招待状"
+    },
+    {
+      "id": 15,
+      "questionType": "reading",
+      "question": "『欠席届』ning o'qilishi qaysi?",
+      "word": "欠席届",
+      "choices": [
+        "なみ",
+        "はく",
+        "けっせきとどけ",
+        "かぶけん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "欠席届 → けっせきとどけ"
+    },
+    {
+      "id": 16,
+      "questionType": "reading",
+      "question": "『乗車券』ning o'qilishi qaysi?",
+      "word": "乗車券",
+      "choices": [
+        "かり",
+        "じょうしゃけん",
+        "ゆうかん",
+        "ざつ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "乗車券 → じょうしゃけん"
+    },
+    {
+      "id": 17,
+      "questionType": "recognition",
+      "question": "『券』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "入場券",
+      "choices": [
+        "入場券",
+        "欠席届",
+        "仮",
+        "雑音がする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "券 → 入場券"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『パーティーに招く』ning ma'nosi qaysi?",
+      "word": "パーティーに招く",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "bazmga taklif etish",
+        "aksiya qog'ozi",
+        "solmoq, gullamoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "パーティーに招く → bazmga taklif etish"
     },
     {
       "id": 19,
@@ -261,937 +261,965 @@
       "question": "『しょうたいする』qaysi yozuvga mos?",
       "word": "招待する",
       "choices": [
+        "雑音がする",
+        "庭",
         "招待する",
-        "証明する",
-        "口に水を含む",
-        "贈り物"
+        "誌"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "しょうたいする → 招待する"
     },
     {
       "id": 20,
-      "questionType": "meaning",
-      "question": "『パーティーに招く』ning ma'nosi qaysi?",
-      "word": "パーティーに招く",
+      "questionType": "reading",
+      "question": "『入場券』ning o'qilishi qaysi?",
+      "word": "入場券",
       "choices": [
-        "bazmga taklif etish",
-        "brokerlik kompaniyasi",
-        "yo'lovchi chiptasi",
-        "tasdiq, guvohlik"
+        "にゅうじょうけん",
+        "ほうたいをまく",
+        "そうじする",
+        "こんざつ"
       ],
       "correctAnswer": 0,
-      "explanation": "パーティーに招く → bazmga taklif etish"
+      "explanation": "入場券 → にゅうじょうけん"
     },
     {
       "id": 21,
-      "questionType": "sentence",
-      "question": "『招待する』ning ma'nosi qaysi?",
-      "word": "招待する",
+      "questionType": "word",
+      "question": "『taklif qilmoq, chaqirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "招",
       "choices": [
-        "guvohnoma",
-        "chalkashlik, sarosima",
-        "daryo havzasi",
-        "taklif qilmoq"
+        "招",
+        "芝居",
+        "のり巻き",
+        "刊"
       ],
-      "correctAnswer": 3,
-      "explanation": "招待する → taklif qilmoq"
+      "correctAnswer": 0,
+      "explanation": "taklif qilmoq, chaqirmoq → 招"
     },
     {
       "id": 22,
-      "questionType": "sentence",
-      "question": "『問題用紙を配る』ning ma'nosi qaysi?",
-      "word": "問題用紙を配る",
+      "questionType": "recognition",
+      "question": "『贈』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "プレゼントを贈る",
       "choices": [
-        "yangi sinfga moslashib ketmoq",
-        "savollar varag'ini tarqatish",
-        "sovg'a qilmoq",
-        "davlat chegarasidan kesib o'tish"
+        "プレゼントを贈る",
+        "欠席届",
+        "準備が整う",
+        "芝居"
       ],
-      "correctAnswer": 1,
-      "explanation": "問題用紙を配る → savollar varag'ini tarqatish"
+      "correctAnswer": 0,
+      "explanation": "贈 → プレゼントを贈る"
     },
     {
       "id": 23,
-      "questionType": "word",
-      "question": "『xavotirlanmoq』ning yaponcha ifodasi qaysi?",
-      "word": "心配する",
+      "questionType": "kanji",
+      "question": "『ていきけん』qaysi yozuvga mos?",
+      "word": "定期券",
       "choices": [
-        "招",
-        "自国領域",
-        "賃",
-        "心配する"
+        "定期券",
+        "乗車券",
+        "名前を汚す",
+        "滝で心身を清める"
       ],
-      "correctAnswer": 3,
-      "explanation": "xavotirlanmoq → 心配する"
+      "correctAnswer": 0,
+      "explanation": "ていきけん → 定期券"
     },
     {
       "id": 24,
-      "questionType": "sentence",
-      "question": "『子供を送り届ける』ning ma'nosi qaysi?",
-      "word": "子供を送り届ける",
+      "questionType": "recognition",
+      "question": "『券』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "定期券",
       "choices": [
-        "sutda kalsiy bor",
-        "xat yetib kelishi",
-        "bolani uyga eltib qo'yish",
-        "kiyimga lag'monning sho'rvasi tegishi"
+        "パーティーに招く",
+        "賃貸マンション",
+        "新聞配達",
+        "定期券"
       ],
-      "correctAnswer": 2,
-      "explanation": "子供を送り届ける → bolani uyga eltib qo'yish"
+      "correctAnswer": 3,
+      "explanation": "券 → 定期券"
     },
     {
       "id": 25,
-      "questionType": "recognition",
-      "question": "『招』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "議会を招集する",
+      "questionType": "kanji",
+      "question": "『おくる』qaysi yozuvga mos?",
+      "word": "贈",
       "choices": [
-        "欠席届",
-        "道路を渡る",
-        "仮定する",
-        "議会を招集する"
+        "居酒屋",
+        "人並みに生活する",
+        "贈",
+        "契約書"
       ],
-      "correctAnswer": 3,
-      "explanation": "招 → 議会を招集する"
+      "correctAnswer": 2,
+      "explanation": "おくる → 贈"
     },
     {
       "id": 26,
-      "questionType": "kanji",
-      "question": "『にゅうじょうけん』qaysi yozuvga mos?",
-      "word": "入場券",
+      "questionType": "recognition",
+      "question": "『招』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "招待状",
       "choices": [
-        "牛乳にカルシウムが含まれている",
-        "賃金",
-        "入場券",
-        "仮定する"
+        "掃除する",
+        "配",
+        "仮の住まい",
+        "招待状"
       ],
-      "correctAnswer": 2,
-      "explanation": "にゅうじょうけん → 入場券"
+      "correctAnswer": 3,
+      "explanation": "招 → 招待状"
     },
     {
       "id": 27,
       "questionType": "reading",
+      "question": "『届』ning o'qilishi qaysi?",
+      "word": "届",
+      "choices": [
+        "こころがきよまる",
+        "ならぶ",
+        "しんぶんはいたつ",
+        "とどく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "届 → とどく"
+    },
+    {
+      "id": 28,
+      "questionType": "word",
+      "question": "『o'tmoq, bermoq』ning yaponcha ifodasi qaysi?",
+      "word": "渡",
+      "choices": [
+        "校庭",
+        "渡",
+        "引き出しの中を整理する",
+        "みそ汁"
+      ],
+      "correctAnswer": 1,
+      "explanation": "o'tmoq, bermoq → 渡"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『yetib bormoq, yetkazmoq』ning yaponcha ifodasi qaysi?",
+      "word": "届",
+      "choices": [
+        "届",
+        "牛乳にカルシウムが含まれている",
+        "丼",
+        "汚れた服"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yetib bormoq, yetkazmoq → 届"
+    },
+    {
+      "id": 30,
+      "questionType": "meaning",
+      "question": "『株券』ning ma'nosi qaysi?",
+      "word": "株券",
+      "choices": [
+        "davlat chegarasidan kesib o'tish",
+        "sariqyog'ni eritish",
+        "aksiya qog'ozi",
+        "sinf xonasini tozalash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "株券 → aksiya qog'ozi"
+    },
+    {
+      "id": 31,
+      "questionType": "word",
+      "question": "『savollar varag'ini tarqatish』ning yaponcha ifodasi qaysi?",
+      "word": "問題用紙を配る",
+      "choices": [
+        "立ち入り禁止区域",
+        "巻",
+        "問題用紙を配る",
+        "招待する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "savollar varag'ini tarqatish → 問題用紙を配る"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『配』ning ma'nosi qaysi?",
+      "word": "配",
+      "choices": [
+        "tarqatmoq, taqsimlamoq",
+        "dabdabali, tantanali",
+        "bazmga taklif etish",
+        "ifloslantirilgan daryo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "配 → tarqatmoq, taqsimlamoq"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
       "question": "『旅券』ning o'qilishi qaysi?",
       "word": "旅券",
       "choices": [
-        "かせつをたてる",
+        "いちじるしいしんぽ",
         "りょけん",
-        "おおもり",
-        "みそしる"
+        "けん",
+        "こんらん"
       ],
       "correctAnswer": 1,
       "explanation": "旅券 → りょけん"
     },
     {
-      "id": 28,
+      "id": 34,
       "questionType": "meaning",
-      "question": "『届』ning ma'nosi qaysi?",
-      "word": "届",
+      "question": "『券』ning ma'nosi qaysi?",
+      "word": "券",
       "choices": [
-        "yetib bormoq, yetkazmoq",
-        "dabdabali, tantanali",
-        "aralashmoq",
-        "bazmga taklif etish"
+        "kafil",
+        "gurung,suhbat",
+        "bo'yoqni eritish",
+        "chipta, hujjat"
       ],
-      "correctAnswer": 0,
-      "explanation": "届 → yetib bormoq, yetkazmoq"
+      "correctAnswer": 3,
+      "explanation": "券 → chipta, hujjat"
     },
     {
-      "id": 29,
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『ものをわたす』qaysi yozuvga mos?",
+      "word": "物を渡す",
+      "choices": [
+        "教室の清掃をする",
+        "物を渡す",
+        "混乱",
+        "雑"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ものをわたす → 物を渡す"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『にゅうじょうけん』qaysi yozuvga mos?",
+      "word": "入場券",
+      "choices": [
+        "契",
+        "入場券",
+        "準備が整う",
+        "滝で心身を清める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "にゅうじょうけん → 入場券"
+    },
+    {
+      "id": 37,
+      "questionType": "sentence",
+      "question": "『利益を配分する』ning ma'nosi qaysi?",
+      "word": "利益を配分する",
+      "choices": [
+        "foydani taqsimlash",
+        "aralashmoq",
+        "ketma-ket (navbatda) turmoq",
+        "kitob nashr etilishi, bosib chiqarilishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "利益を配分する → foydani taqsimlash"
+    },
+    {
+      "id": 38,
+      "questionType": "sentence",
+      "question": "『手紙が届く』ning ma'nosi qaysi?",
+      "word": "手紙が届く",
+      "choices": [
+        "diqqatni qaratish",
+        "xat yetib kelishi",
+        "gurung,suhbat",
+        "xavotirlanmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "手紙が届く → xat yetib kelishi"
+    },
+    {
+      "id": 39,
+      "questionType": "reading",
+      "question": "『定期券』ning o'qilishi qaysi?",
+      "word": "定期券",
+      "choices": [
+        "もる",
+        "ていきけん",
+        "かわのりゅういき",
+        "けいやくをする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "定期券 → ていきけん"
+    },
+    {
+      "id": 40,
+      "questionType": "sentence",
+      "question": "『道路を渡る』ning ma'nosi qaysi?",
+      "word": "道路を渡る",
+      "choices": [
+        "tartibga keltirmoq",
+        "yo'lni kesib o'tish",
+        "diqqatni qaratish",
+        "guruch ustiga tempura qo'yib tayyorlangan taom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "道路を渡る → yo'lni kesib o'tish"
+    },
+    {
+      "id": 41,
+      "questionType": "recognition",
+      "question": "『招』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "招待する",
+      "choices": [
+        "日本庭園",
+        "招待する",
+        "免許証",
+        "子供を送り届ける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "招 → 招待する"
+    },
+    {
+      "id": 42,
       "questionType": "kanji",
       "question": "『まねく』qaysi yozuvga mos?",
       "word": "招",
       "choices": [
-        "盛大な",
-        "お土産を届ける",
-        "仮説を立てる",
+        "仮",
+        "汚い手",
+        "誌",
         "招"
       ],
       "correctAnswer": 3,
       "explanation": "まねく → 招"
     },
     {
-      "id": 30,
-      "questionType": "sentence",
-      "question": "『議会を招集する』ning ma'nosi qaysi?",
-      "word": "議会を招集する",
+      "id": 43,
+      "questionType": "reading",
+      "question": "『贈り物』ning o'qilishi qaysi?",
+      "word": "贈り物",
       "choices": [
-        "oylik chipta",
-        "parlament yig'ilishini chaqirmoq",
-        "haq, ijara",
-        "muzni erishi"
+        "あたらしいクラスにとけこむ",
+        "みぶんしょうめいしょ",
+        "おくりもの",
+        "ひとなみにせいかつする"
       ],
-      "correctAnswer": 1,
-      "explanation": "議会を招集する → parlament yig'ilishini chaqirmoq"
+      "correctAnswer": 2,
+      "explanation": "贈り物 → おくりもの"
     },
     {
-      "id": 31,
-      "questionType": "reading",
-      "question": "『配』ning o'qilishi qaysi?",
-      "word": "配",
+      "id": 44,
+      "questionType": "recognition",
+      "question": "『渡』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "道路を渡る",
       "choices": [
-        "くばる",
-        "みぶんしょうめいしょ",
-        "こっきょうをこえる",
-        "ようがん"
+        "道路を渡る",
+        "氷が溶ける",
+        "雑談",
+        "混"
       ],
       "correctAnswer": 0,
-      "explanation": "配 → くばる"
+      "explanation": "渡 → 道路を渡る"
     },
     {
-      "id": 32,
+      "id": 45,
       "questionType": "kanji",
       "question": "『しょうけんがいしゃ』qaysi yozuvga mos?",
       "word": "証券会社",
       "choices": [
         "証券会社",
-        "子供を送り届ける",
-        "年越しそば",
-        "混乱"
+        "落ち葉を掃く",
+        "居酒屋",
+        "氷が溶ける"
       ],
       "correctAnswer": 0,
       "explanation": "しょうけんがいしゃ → 証券会社"
     },
     {
-      "id": 33,
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『とどく』qaysi yozuvga mos?",
+      "word": "届",
+      "choices": [
+        "券",
+        "巻",
+        "整理整頓",
+        "届"
+      ],
+      "correctAnswer": 3,
+      "explanation": "とどく → 届"
+    },
+    {
+      "id": 47,
+      "questionType": "meaning",
+      "question": "『利益を配分する』ning ma'nosi qaysi?",
+      "word": "利益を配分する",
+      "choices": [
+        "tizilmoq, oddiy/o'rtacha",
+        "foydani taqsimlash",
+        "sovg'a jo'natmoq",
+        "yangi sinfga moslashib ketmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "利益を配分する → foydani taqsimlash"
+    },
+    {
+      "id": 48,
+      "questionType": "sentence",
+      "question": "『証券会社』ning ma'nosi qaysi?",
+      "word": "証券会社",
+      "choices": [
+        "ifloslantirilgan daryo",
+        "brokerlik kompaniyasi",
+        "shartnoma tuzish",
+        "vaqtinchalik, faraz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "証券会社 → brokerlik kompaniyasi"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『プレゼントを贈る』ning ma'nosi qaysi?",
+      "word": "プレゼントを贈る",
+      "choices": [
+        "dabdabali, tantanali",
+        "xat yetib kelishi",
+        "sovg'a jo'natmoq",
+        "gazeta yetkazib berish (kuryerlik)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "プレゼントを贈る → sovg'a jo'natmoq"
+    },
+    {
+      "id": 50,
+      "questionType": "sentence",
+      "question": "『心配する』ning ma'nosi qaysi?",
+      "word": "心配する",
+      "choices": [
+        "xavotirlanmoq",
+        "xonani iflos qilish",
+        "yo'l haqi",
+        "shaxsni tasdiqlovchi hujjat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "心配する → xavotirlanmoq"
+    },
+    {
+      "id": 51,
+      "questionType": "sentence",
+      "question": "『気を配る』ning ma'nosi qaysi?",
+      "word": "気を配る",
+      "choices": [
+        "mashhur inson",
+        "kundalik yozib borish",
+        "diqqatni qaratish",
+        "murakkab hisob-kitob"
+      ],
+      "correctAnswer": 2,
+      "explanation": "気を配る → diqqatni qaratish"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『oylik chipta』ning yaponcha ifodasi qaysi?",
+      "word": "定期券",
+      "choices": [
+        "芝居",
+        "汚",
+        "定期券",
+        "校庭"
+      ],
+      "correctAnswer": 2,
+      "explanation": "oylik chipta → 定期券"
+    },
+    {
+      "id": 53,
+      "questionType": "reading",
+      "question": "『株券』ning o'qilishi qaysi?",
+      "word": "株券",
+      "choices": [
+        "かわのりゅういき",
+        "ようがん",
+        "かぶけん",
+        "けっせきとどけ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "株券 → かぶけん"
+    },
+    {
+      "id": 54,
+      "questionType": "reading",
+      "question": "『招』ning o'qilishi qaysi?",
+      "word": "招",
+      "choices": [
+        "みぶんしょうめいしょ",
+        "おすい",
+        "まねく",
+        "〜をけいきに"
+      ],
+      "correctAnswer": 2,
+      "explanation": "招 → まねく"
+    },
+    {
+      "id": 55,
+      "questionType": "word",
+      "question": "『xat yetib kelishi』ning yaponcha ifodasi qaysi?",
+      "word": "手紙が届く",
+      "choices": [
+        "雑誌を読む",
+        "招待状",
+        "盛んな声援",
+        "手紙が届く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "xat yetib kelishi → 手紙が届く"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『けっせきとどけ』qaysi yozuvga mos?",
+      "word": "欠席届",
+      "choices": [
+        "牛乳にカルシウムが含まれている",
+        "汚職",
+        "欠席届",
+        "定期券"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けっせきとどけ → 欠席届"
+    },
+    {
+      "id": 57,
       "questionType": "kanji",
       "question": "『りょけん』qaysi yozuvga mos?",
       "word": "旅券",
       "choices": [
-        "身分証明書",
-        "旅券",
-        "招待状",
-        "配"
+        "並べる",
+        "皿におかずを盛る",
+        "議会を招集する",
+        "旅券"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "りょけん → 旅券"
     },
     {
-      "id": 34,
-      "questionType": "reading",
-      "question": "『入場券』ning o'qilishi qaysi?",
-      "word": "入場券",
+      "id": 58,
+      "questionType": "word",
+      "question": "『sovg'ani eltib berish』ning yaponcha ifodasi qaysi?",
+      "word": "お土産を届ける",
       "choices": [
-        "もんだいようしをくばる",
-        "にゅうじょうけん",
-        "しょう",
-        "こおりがとける"
+        "お土産を届ける",
+        "議会を招集する",
+        "週刊誌",
+        "汚職"
       ],
-      "correctAnswer": 1,
-      "explanation": "入場券 → にゅうじょうけん"
+      "correctAnswer": 0,
+      "explanation": "sovg'ani eltib berish → お土産を届ける"
     },
     {
-      "id": 35,
+      "id": 59,
+      "questionType": "word",
+      "question": "『brokerlik kompaniyasi』ning yaponcha ifodasi qaysi?",
+      "word": "証券会社",
+      "choices": [
+        "証券会社",
+        "バター溶かす",
+        "住居",
+        "契約書"
+      ],
+      "correctAnswer": 0,
+      "explanation": "brokerlik kompaniyasi → 証券会社"
+    },
+    {
+      "id": 60,
+      "questionType": "word",
+      "question": "『kirish chiptasi』ning yaponcha ifodasi qaysi?",
+      "word": "入場券",
+      "choices": [
+        "汚染された川",
+        "汁",
+        "居酒屋",
+        "入場券"
+      ],
+      "correctAnswer": 3,
+      "explanation": "kirish chiptasi → 入場券"
+    },
+    {
+      "id": 61,
+      "questionType": "sentence",
+      "question": "『議会を招集する』ning ma'nosi qaysi?",
+      "word": "議会を招集する",
+      "choices": [
+        "parlament yig'ilishini chaqirmoq",
+        "tizilmoq, oddiy/o'rtacha",
+        "sovg'ani eltib berish",
+        "savollar varag'ini tarqatish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "議会を招集する → parlament yig'ilishini chaqirmoq"
+    },
+    {
+      "id": 62,
       "questionType": "sentence",
       "question": "『新聞配達』ning ma'nosi qaysi?",
       "word": "新聞配達",
       "choices": [
-        "guruch ustiga tempura qo'yib tayyorlangan taom",
-        "shartnoma, ahd",
-        "shartnoma",
+        "savollar varag'ini tarqatish",
+        "sof qalb",
+        "yozuvchi",
         "gazeta yetkazib berish (kuryerlik)"
       ],
       "correctAnswer": 3,
       "explanation": "新聞配達 → gazeta yetkazib berish (kuryerlik)"
     },
     {
-      "id": 36,
-      "questionType": "sentence",
-      "question": "『道路を渡る』ning ma'nosi qaysi?",
-      "word": "道路を渡る",
-      "choices": [
-        "yo'lni kesib o'tish",
-        "kirish mumkin bo'lmagan hudud",
-        "sutda kalsiy bor",
-        "chalkashlik, sarosima"
-      ],
-      "correctAnswer": 0,
-      "explanation": "道路を渡る → yo'lni kesib o'tish"
-    },
-    {
-      "id": 37,
-      "questionType": "sentence",
-      "question": "『気を配る』ning ma'nosi qaysi?",
-      "word": "気を配る",
-      "choices": [
-        "yangi yilda yeyiladigan soba",
-        "diqqatni qaratish",
-        "oylik chipta",
-        "kiyimga lag'monning sho'rvasi tegishi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "気を配る → diqqatni qaratish"
-    },
-    {
-      "id": 38,
-      "questionType": "word",
-      "question": "『parlament yig'ilishini chaqirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "議会を招集する",
-      "choices": [
-        "天丼",
-        "丼",
-        "議会を招集する",
-        "賃貸マンション"
-      ],
-      "correctAnswer": 2,
-      "explanation": "parlament yig'ilishini chaqirmoq → 議会を招集する"
-    },
-    {
-      "id": 39,
-      "questionType": "kanji",
-      "question": "『かぶけん』qaysi yozuvga mos?",
-      "word": "株券",
-      "choices": [
-        "株券",
-        "越",
-        "年越しそば",
-        "問題用紙を配る"
-      ],
-      "correctAnswer": 0,
-      "explanation": "かぶけん → 株券"
-    },
-    {
-      "id": 40,
-      "questionType": "kanji",
-      "question": "『しんぱいする』qaysi yozuvga mos?",
-      "word": "心配する",
-      "choices": [
-        "プレゼントを贈る",
-        "欠席届",
-        "心配する",
-        "育ち盛り"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しんぱいする → 心配する"
-    },
-    {
-      "id": 41,
-      "questionType": "meaning",
-      "question": "『配』ning ma'nosi qaysi?",
-      "word": "配",
-      "choices": [
-        "faraz qilmoq",
-        "gipoteza (faraz) qo'ymoq",
-        "erimoq, eritmoq",
-        "tarqatmoq, taqsimlamoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "配 → tarqatmoq, taqsimlamoq"
-    },
-    {
-      "id": 42,
-      "questionType": "meaning",
-      "question": "『子供を送り届ける』ning ma'nosi qaysi?",
-      "word": "子供を送り届ける",
-      "choices": [
-        "shartnoma tuzish",
-        "dabdabali, tantanali",
-        "bolani uyga eltib qo'yish",
-        "parlament yig'ilishini chaqirmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "子供を送り届ける → bolani uyga eltib qo'yish"
-    },
-    {
-      "id": 43,
-      "questionType": "word",
-      "question": "『yo'lovchi chiptasi』ning yaponcha ifodasi qaysi?",
-      "word": "乗車券",
-      "choices": [
-        "川の流域",
-        "新しいクラスに溶け込む",
-        "仮",
-        "乗車券"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yo'lovchi chiptasi → 乗車券"
-    },
-    {
-      "id": 44,
+      "id": 63,
       "questionType": "kanji",
       "question": "『くばる』qaysi yozuvga mos?",
       "word": "配",
       "choices": [
-        "配",
-        "証券会社",
-        "気を配る",
-        "旅券"
+        "裁判所で証言する",
+        "契約書",
+        "服にラーメンの汁がついた",
+        "配"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "くばる → 配"
-    },
-    {
-      "id": 45,
-      "questionType": "meaning",
-      "question": "『新聞配達』ning ma'nosi qaysi?",
-      "word": "新聞配達",
-      "choices": [
-        "haq, ijara",
-        "lava",
-        "gazeta yetkazib berish (kuryerlik)",
-        "xavotirlanmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "新聞配達 → gazeta yetkazib berish (kuryerlik)"
-    },
-    {
-      "id": 46,
-      "questionType": "reading",
-      "question": "『招待状』ning o'qilishi qaysi?",
-      "word": "招待状",
-      "choices": [
-        "きをくばる",
-        "しょうたいじょう",
-        "ものをわたす",
-        "かせつをたてる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "招待状 → しょうたいじょう"
-    },
-    {
-      "id": 47,
-      "questionType": "kanji",
-      "question": "『しんぶんはいたつ』qaysi yozuvga mos?",
-      "word": "新聞配達",
-      "choices": [
-        "新聞配達",
-        "口に水を含む",
-        "仮",
-        "証券会社"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しんぶんはいたつ → 新聞配達"
-    },
-    {
-      "id": 48,
-      "questionType": "recognition",
-      "question": "『渡』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "道路を渡る",
-      "choices": [
-        "賃",
-        "前の車を追い越す",
-        "私を含めて四人",
-        "道路を渡る"
-      ],
-      "correctAnswer": 3,
-      "explanation": "渡 → 道路を渡る"
-    },
-    {
-      "id": 49,
-      "questionType": "word",
-      "question": "『savollar varag'ini tarqatish』ning yaponcha ifodasi qaysi?",
-      "word": "問題用紙を配る",
-      "choices": [
-        "仮説を立てる",
-        "問題用紙を配る",
-        "仮",
-        "物を渡す"
-      ],
-      "correctAnswer": 1,
-      "explanation": "savollar varag'ini tarqatish → 問題用紙を配る"
-    },
-    {
-      "id": 50,
-      "questionType": "reading",
-      "question": "『贈』ning o'qilishi qaysi?",
-      "word": "贈",
-      "choices": [
-        "しょうたいする",
-        "しょうめいする",
-        "おくる",
-        "せいだいな"
-      ],
-      "correctAnswer": 2,
-      "explanation": "贈 → おくる"
-    },
-    {
-      "id": 51,
-      "questionType": "word",
-      "question": "『brokerlik kompaniyasi』ning yaponcha ifodasi qaysi?",
-      "word": "証券会社",
-      "choices": [
-        "パーティーに招く",
-        "証券会社",
-        "混ざる",
-        "前の車を追い越す"
-      ],
-      "correctAnswer": 1,
-      "explanation": "brokerlik kompaniyasi → 証券会社"
-    },
-    {
-      "id": 52,
-      "questionType": "kanji",
-      "question": "『ものをわたす』qaysi yozuvga mos?",
-      "word": "物を渡す",
-      "choices": [
-        "物を渡す",
-        "米の中に麦が混じっている",
-        "招待する",
-        "契"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ものをわたす → 物を渡す"
-    },
-    {
-      "id": 53,
-      "questionType": "meaning",
-      "question": "『旅券』ning ma'nosi qaysi?",
-      "word": "旅券",
-      "choices": [
-        "tarqatmoq, taqsimlamoq",
-        "yangi sinfga moslashib ketmoq",
-        "vaqtinchalik yashash manzili",
-        "pasport (xorijiy)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "旅券 → pasport (xorijiy)"
-    },
-    {
-      "id": 54,
-      "questionType": "reading",
-      "question": "『定期券』ning o'qilishi qaysi?",
-      "word": "定期券",
-      "choices": [
-        "もんだいようしをくばる",
-        "ふくにラーメンのしるがついた",
-        "ちいきじゅうみん",
-        "ていきけん"
-      ],
-      "correctAnswer": 3,
-      "explanation": "定期券 → ていきけん"
-    },
-    {
-      "id": 55,
-      "questionType": "word",
-      "question": "『yo'lni kesib o'tish』ning yaponcha ifodasi qaysi?",
-      "word": "道路を渡る",
-      "choices": [
-        "道路を渡る",
-        "〜を契機に",
-        "契約をする",
-        "運賃"
-      ],
-      "correctAnswer": 0,
-      "explanation": "yo'lni kesib o'tish → 道路を渡る"
-    },
-    {
-      "id": 56,
-      "questionType": "reading",
-      "question": "『欠席届』ning o'qilishi qaysi?",
-      "word": "欠席届",
-      "choices": [
-        "こおりがとける",
-        "けっせきとどけ",
-        "ぎかいをしょうしゅうする",
-        "じょうしゃけん"
-      ],
-      "correctAnswer": 1,
-      "explanation": "欠席届 → けっせきとどけ"
-    },
-    {
-      "id": 57,
-      "questionType": "word",
-      "question": "『kirish chiptasi』ning yaponcha ifodasi qaysi?",
-      "word": "入場券",
-      "choices": [
-        "天丼",
-        "入場券",
-        "議会を招集する",
-        "贈り物"
-      ],
-      "correctAnswer": 1,
-      "explanation": "kirish chiptasi → 入場券"
-    },
-    {
-      "id": 58,
-      "questionType": "kanji",
-      "question": "『とどく』qaysi yozuvga mos?",
-      "word": "届",
-      "choices": [
-        "届",
-        "仮定する",
-        "仮説を立てる",
-        "盛"
-      ],
-      "correctAnswer": 0,
-      "explanation": "とどく → 届"
-    },
-    {
-      "id": 59,
-      "questionType": "reading",
-      "question": "『招』ning o'qilishi qaysi?",
-      "word": "招",
-      "choices": [
-        "やちん",
-        "おみやげをとどける",
-        "まねく",
-        "けっせきとどけ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "招 → まねく"
-    },
-    {
-      "id": 60,
-      "questionType": "recognition",
-      "question": "『券』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "定期券",
-      "choices": [
-        "口に水を含む",
-        "契約をする",
-        "定期券",
-        "混乱"
-      ],
-      "correctAnswer": 2,
-      "explanation": "券 → 定期券"
-    },
-    {
-      "id": 61,
-      "questionType": "meaning",
-      "question": "『手紙が届く』ning ma'nosi qaysi?",
-      "word": "手紙が届く",
-      "choices": [
-        "xat yetib kelishi",
-        "erimoq, eritmoq",
-        "yo'l haqi",
-        "sovg'ani eltib berish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "手紙が届く → xat yetib kelishi"
-    },
-    {
-      "id": 62,
-      "questionType": "kanji",
-      "question": "『きをくばる』qaysi yozuvga mos?",
-      "word": "気を配る",
-      "choices": [
-        "気を配る",
-        "川の流域",
-        "賃",
-        "私を含めて四人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "きをくばる → 気を配る"
-    },
-    {
-      "id": 63,
-      "questionType": "meaning",
-      "question": "『欠席届』ning ma'nosi qaysi?",
-      "word": "欠席届",
-      "choices": [
-        "o'tmoq, kesib o'tmoq",
-        "sudda guvohlik bermoq",
-        "yo'lni kesib o'tish",
-        "kelmaslik haqidagi xabarnoma (ariza)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "欠席届 → kelmaslik haqidagi xabarnoma (ariza)"
     },
     {
       "id": 64,
       "questionType": "sentence",
-      "question": "『心配する』ning ma'nosi qaysi?",
-      "word": "心配する",
+      "question": "『問題用紙を配る』ning ma'nosi qaysi?",
+      "word": "問題用紙を配る",
       "choices": [
-        "mahalliy aholi",
-        "xavotirlanmoq",
-        "bolaning jismoniy rivojlanish davri",
-        "og'izga suv olish"
+        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
+        "kirish mumkin bo'lmagan hudud",
+        "shaxsni tasdiqlovchi hujjat",
+        "savollar varag'ini tarqatish"
       ],
-      "correctAnswer": 1,
-      "explanation": "心配する → xavotirlanmoq"
+      "correctAnswer": 3,
+      "explanation": "問題用紙を配る → savollar varag'ini tarqatish"
     },
     {
       "id": 65,
-      "questionType": "word",
-      "question": "『foydani taqsimlash』ning yaponcha ifodasi qaysi?",
-      "word": "利益を配分する",
+      "questionType": "meaning",
+      "question": "『心配する』ning ma'nosi qaysi?",
+      "word": "心配する",
       "choices": [
-        "域",
-        "道路を渡る",
-        "利益を配分する",
-        "皿におかずを盛る"
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "taklif qilmoq, chaqirmoq",
+        "xavotirlanmoq",
+        "gurung,suhbat"
       ],
       "correctAnswer": 2,
-      "explanation": "foydani taqsimlash → 利益を配分する"
+      "explanation": "心配する → xavotirlanmoq"
     },
     {
       "id": 66,
-      "questionType": "recognition",
-      "question": "『券』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "入場券",
-      "choices": [
-        "丼",
-        "氷が溶ける",
-        "贈り物",
-        "入場券"
-      ],
-      "correctAnswer": 3,
-      "explanation": "券 → 入場券"
-    },
-    {
-      "id": 67,
-      "questionType": "word",
-      "question": "『diqqatni qaratish』ning yaponcha ifodasi qaysi?",
-      "word": "気を配る",
-      "choices": [
-        "パーティーに招く",
-        "気を配る",
-        "お土産を届ける",
-        "贈"
-      ],
-      "correctAnswer": 1,
-      "explanation": "diqqatni qaratish → 気を配る"
-    },
-    {
-      "id": 68,
-      "questionType": "kanji",
-      "question": "『わたる』qaysi yozuvga mos?",
-      "word": "渡",
-      "choices": [
-        "米の中に麦が混じっている",
-        "渡",
-        "小麦粉と卵を混ぜる",
-        "配"
-      ],
-      "correctAnswer": 1,
-      "explanation": "わたる → 渡"
-    },
-    {
-      "id": 69,
-      "questionType": "sentence",
-      "question": "『物を渡す』ning ma'nosi qaysi?",
-      "word": "物を渡す",
-      "choices": [
-        "narsani berish",
-        "davlat chegarasidan kesib o'tish",
-        "sovg'a",
-        "shartnoma"
-      ],
-      "correctAnswer": 0,
-      "explanation": "物を渡す → narsani berish"
-    },
-    {
-      "id": 70,
-      "questionType": "word",
-      "question": "『oylik chipta』ning yaponcha ifodasi qaysi?",
-      "word": "定期券",
-      "choices": [
-        "定期券",
-        "パーティーに招く",
-        "証",
-        "届"
-      ],
-      "correctAnswer": 0,
-      "explanation": "oylik chipta → 定期券"
-    },
-    {
-      "id": 71,
-      "questionType": "meaning",
-      "question": "『渡』ning ma'nosi qaysi?",
-      "word": "渡",
-      "choices": [
-        "chuqur kosa (donburi)da guruch yeyish",
-        "o'tmoq, bermoq",
-        "tiqilinch, gavjumlik",
-        "oldindagi mashinani quvib o'tmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "渡 → o'tmoq, bermoq"
-    },
-    {
-      "id": 72,
-      "questionType": "sentence",
-      "question": "『手紙が届く』ning ma'nosi qaysi?",
-      "word": "手紙が届く",
-      "choices": [
-        "xat yetib kelishi",
-        "haq, ijara",
-        "sovg'a qilmoq",
-        "sudda guvohlik bermoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "手紙が届く → xat yetib kelishi"
-    },
-    {
-      "id": 73,
-      "questionType": "kanji",
-      "question": "『しょうたいじょう』qaysi yozuvga mos?",
-      "word": "招待状",
-      "choices": [
-        "絵の具を溶く",
-        "混ざる",
-        "免許証",
-        "招待状"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しょうたいじょう → 招待状"
-    },
-    {
-      "id": 74,
-      "questionType": "reading",
-      "question": "『届』ning o'qilishi qaysi?",
-      "word": "届",
-      "choices": [
-        "とどく",
-        "ちんぎん",
-        "ちん",
-        "どんぶり"
-      ],
-      "correctAnswer": 0,
-      "explanation": "届 → とどく"
-    },
-    {
-      "id": 75,
-      "questionType": "sentence",
-      "question": "『利益を配分する』ning ma'nosi qaysi?",
-      "word": "利益を配分する",
-      "choices": [
-        "foydani taqsimlash",
-        "sovg'a",
-        "aralashmoq",
-        "diqqatni qaratish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "利益を配分する → foydani taqsimlash"
-    },
-    {
-      "id": 76,
-      "questionType": "sentence",
-      "question": "『証券会社』ning ma'nosi qaysi?",
-      "word": "証券会社",
-      "choices": [
-        "brokerlik kompaniyasi",
-        "mahalliy aholi",
-        "sovg'a jo'natmoq",
-        "men bilan 4 kishi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "証券会社 → brokerlik kompaniyasi"
-    },
-    {
-      "id": 77,
-      "questionType": "meaning",
-      "question": "『招』ning ma'nosi qaysi?",
-      "word": "招",
-      "choices": [
-        "haq, ijara",
-        "tiqilinch, gavjumlik",
-        "sutda kalsiy bor",
-        "taklif qilmoq, chaqirmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "招 → taklif qilmoq, chaqirmoq"
-    },
-    {
-      "id": 78,
-      "questionType": "word",
-      "question": "『sovg'a qilmoq』ning yaponcha ifodasi qaysi?",
-      "word": "贈",
-      "choices": [
-        "物を渡す",
-        "贈",
-        "自国領域",
-        "国境を越える"
-      ],
-      "correctAnswer": 1,
-      "explanation": "sovg'a qilmoq → 贈"
-    },
-    {
-      "id": 79,
-      "questionType": "recognition",
-      "question": "『配』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "問題用紙を配る",
-      "choices": [
-        "問題用紙を配る",
-        "利益を配分する",
-        "身分証明書",
-        "溶岩"
-      ],
-      "correctAnswer": 0,
-      "explanation": "配 → 問題用紙を配る"
-    },
-    {
-      "id": 80,
-      "questionType": "kanji",
-      "question": "『おくる』qaysi yozuvga mos?",
-      "word": "贈",
-      "choices": [
-        "溶岩",
-        "贈",
-        "年越しそば",
-        "お土産を届ける"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おくる → 贈"
-    },
-    {
-      "id": 81,
-      "questionType": "word",
-      "question": "『aksiya qog'ozi』ning yaponcha ifodasi qaysi?",
-      "word": "株券",
-      "choices": [
-        "株券",
-        "身分証明書",
-        "米の中に麦が混じっている",
-        "私を含めて四人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "aksiya qog'ozi → 株券"
-    },
-    {
-      "id": 82,
       "questionType": "sentence",
       "question": "『パーティーに招く』ning ma'nosi qaysi?",
       "word": "パーティーに招く",
       "choices": [
-        "erimoq, eritmoq",
+        "maktab hovlisi",
         "bazmga taklif etish",
-        "o'tmoq, bermoq",
-        "guvohnoma"
+        "yangi yilda yeyiladigan soba",
+        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish"
       ],
       "correctAnswer": 1,
       "explanation": "パーティーに招く → bazmga taklif etish"
     },
     {
-      "id": 83,
-      "questionType": "word",
-      "question": "『chipta, hujjat』ning yaponcha ifodasi qaysi?",
-      "word": "券",
+      "id": 67,
+      "questionType": "sentence",
+      "question": "『子供を送り届ける』ning ma'nosi qaysi?",
+      "word": "子供を送り届ける",
       "choices": [
-        "券",
-        "渡",
-        "牛乳にカルシウムが含まれている",
-        "立ち入り禁止区域"
+        "bolani uyga eltib qo'yish",
+        "chuqur kosa (donburi)da guruch yeyish",
+        "bazmga taklif etish",
+        "bo'yoqni eritish"
       ],
       "correctAnswer": 0,
-      "explanation": "chipta, hujjat → 券"
+      "explanation": "子供を送り届ける → bolani uyga eltib qo'yish"
     },
     {
-      "id": 84,
-      "questionType": "reading",
-      "question": "『券』ning o'qilishi qaysi?",
-      "word": "券",
+      "id": 68,
+      "questionType": "sentence",
+      "question": "『物を渡す』ning ma'nosi qaysi?",
+      "word": "物を渡す",
       "choices": [
-        "みそしる",
-        "じこくりょういき",
-        "おくりもの",
-        "けん"
+        "foydani taqsimlash",
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "sof qalb",
+        "narsani berish"
       ],
       "correctAnswer": 3,
-      "explanation": "券 → けん"
+      "explanation": "物を渡す → narsani berish"
     },
     {
-      "id": 85,
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『じょうしゃけん』qaysi yozuvga mos?",
+      "word": "乗車券",
+      "choices": [
+        "地域住民",
+        "包帯を巻く",
+        "乗車券",
+        "プレゼントを贈る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "じょうしゃけん → 乗車券"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『気を配る』ning ma'nosi qaysi?",
+      "word": "気を配る",
+      "choices": [
+        "tartibga keltirmoq, tayyorlamoq",
+        "diqqatni qaratish",
+        "tizilmoq, oddiy/o'rtacha",
+        "jurnal o'qimoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "気を配る → diqqatni qaratish"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『わたる』qaysi yozuvga mos?",
+      "word": "渡",
+      "choices": [
+        "保証人",
+        "巻",
+        "渡",
+        "部屋を汚す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "わたる → 渡"
+    },
+    {
+      "id": 72,
+      "questionType": "kanji",
+      "question": "『きをくばる』qaysi yozuvga mos?",
+      "word": "気を配る",
+      "choices": [
+        "気を配る",
+        "私を含めて四人",
+        "仮定する",
+        "刊"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きをくばる → 気を配る"
+    },
+    {
+      "id": 73,
+      "questionType": "meaning",
+      "question": "『招待する』ning ma'nosi qaysi?",
+      "word": "招待する",
+      "choices": [
+        "aralashmoq",
+        "butunlay tugatish, tozalash",
+        "taklif qilmoq",
+        "oqqa ko'chirish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "招待する → taklif qilmoq"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『贈』ning o'qilishi qaysi?",
+      "word": "贈",
+      "choices": [
+        "おくる",
+        "くばる",
+        "ならべる",
+        "いま"
+      ],
+      "correctAnswer": 0,
+      "explanation": "贈 → おくる"
+    },
+    {
+      "id": 75,
+      "questionType": "meaning",
+      "question": "『子供を送り届ける』ning ma'nosi qaysi?",
+      "word": "子供を送り届ける",
+      "choices": [
+        "chalkashlik, sarosima",
+        "tartibga keltirmoq",
+        "bolani uyga eltib qo'yish",
+        "taxlamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "子供を送り届ける → bolani uyga eltib qo'yish"
+    },
+    {
+      "id": 76,
+      "questionType": "recognition",
+      "question": "『券』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "旅券",
+      "choices": [
+        "名前を汚す",
+        "旅券",
+        "バター溶かす",
+        "含"
+      ],
+      "correctAnswer": 1,
+      "explanation": "券 → 旅券"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『かぶけん』qaysi yozuvga mos?",
+      "word": "株券",
+      "choices": [
+        "誌",
+        "盛",
+        "株券",
+        "人並みに生活する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かぶけん → 株券"
+    },
+    {
+      "id": 78,
       "questionType": "sentence",
       "question": "『プレゼントを贈る』ning ma'nosi qaysi?",
       "word": "プレゼントを贈る",
       "choices": [
-        "shartnoma tuzish",
-        "yo'l haqi",
-        "sovg'a jo'natmoq",
-        "sariqyog'ni eritish"
+        "tozalash",
+        "uy ijarasi haqi",
+        "qizg'in olqishlar",
+        "sovg'a jo'natmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "プレゼントを贈る → sovg'a jo'natmoq"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『しんぱいする』qaysi yozuvga mos?",
+      "word": "心配する",
+      "choices": [
+        "証券会社",
+        "盛大な",
+        "誌",
+        "心配する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しんぱいする → 心配する"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『しんぶんはいたつ』qaysi yozuvga mos?",
+      "word": "新聞配達",
+      "choices": [
+        "雑誌を読む",
+        "仮説を立てる",
+        "盛",
+        "新聞配達"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しんぶんはいたつ → 新聞配達"
+    },
+    {
+      "id": 81,
+      "questionType": "reading",
+      "question": "『招待状』ning o'qilishi qaysi?",
+      "word": "招待状",
+      "choices": [
+        "ちょうかん",
+        "しょうたいじょう",
+        "てんどん",
+        "しょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "招待状 → しょうたいじょう"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『新聞配達』ning ma'nosi qaysi?",
+      "word": "新聞配達",
+      "choices": [
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "ni turtki (bahona) qilib",
+        "xat yetib kelishi",
+        "gazeta yetkazib berish (kuryerlik)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "新聞配達 → gazeta yetkazib berish (kuryerlik)"
+    },
+    {
+      "id": 83,
+      "questionType": "kanji",
+      "question": "『おくりもの』qaysi yozuvga mos?",
+      "word": "贈り物",
+      "choices": [
+        "贈り物",
+        "著者",
+        "芝居",
+        "雑誌を読む"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おくりもの → 贈り物"
+    },
+    {
+      "id": 84,
+      "questionType": "word",
+      "question": "『yo'lni kesib o'tish』ning yaponcha ifodasi qaysi?",
+      "word": "道路を渡る",
+      "choices": [
+        "道路を渡る",
+        "日本庭園",
+        "絵の具を溶く",
+        "教室の清掃をする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yo'lni kesib o'tish → 道路を渡る"
+    },
+    {
+      "id": 85,
+      "questionType": "word",
+      "question": "『sovg'a』ning yaponcha ifodasi qaysi?",
+      "word": "贈り物",
+      "choices": [
+        "心が清まる",
+        "居間",
+        "株券",
+        "贈り物"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sovg'a → 贈り物"
+    },
+    {
+      "id": 86,
+      "questionType": "reading",
+      "question": "『配』ning o'qilishi qaysi?",
+      "word": "配",
+      "choices": [
+        "せいりせいとん",
+        "ふくむ",
+        "くばる",
+        "みぶんしょうめいしょ"
       ],
       "correctAnswer": 2,
-      "explanation": "プレゼントを贈る → sovg'a jo'natmoq"
+      "explanation": "配 → くばる"
+    },
+    {
+      "id": 87,
+      "questionType": "reading",
+      "question": "『渡』ning o'qilishi qaysi?",
+      "word": "渡",
+      "choices": [
+        "おおもり",
+        "あたらしいクラスにとけこむ",
+        "わたる",
+        "おくりもの"
+      ],
+      "correctAnswer": 2,
+      "explanation": "渡 → わたる"
     }
   ]
 }

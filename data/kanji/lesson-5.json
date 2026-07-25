@@ -1,0 +1,105 @@
+{
+    "title": "Lesson 5",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "居",
+          "reading": "いる",
+          "meaning": "bo'lmoq, yashamoq",
+          "onyomi": "キョ",
+          "kunyomi": "い(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "居間", "reading": "いま", "meaning": "yashash xonasi (zal)" },
+          { "id": 2, "word": "芝居", "reading": "しばい", "meaning": "teatr tomoshasi, spektakl" },
+          { "id": 3, "word": "居酒屋", "reading": "いざかや", "meaning": "izakaya (yapon mayxonasi)" },
+          { "id": 4, "word": "住居", "reading": "じゅうきょ", "meaning": "turar-joy" },
+          { "id": 5, "word": "親と同居する", "reading": "おやとどうきょする", "meaning": "ota-ona bilan birga yashamoq" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "庭",
+          "reading": "にわ",
+          "meaning": "hovli, bog'",
+          "onyomi": "テイ",
+          "kunyomi": "にわ"
+        },
+        "examples": [
+          { "id": 1, "word": "庭", "reading": "にわ", "meaning": "hovli" },
+          { "id": 2, "word": "校庭", "reading": "こうてい", "meaning": "maktab hovlisi" },
+          { "id": 3, "word": "日本庭園", "reading": "にほんていえん", "meaning": "yapon usulidagi bog'" },
+          { "id": 4, "word": "明るい家庭を築く", "reading": "あかるいかていをきずく", "meaning": "baxtli oila qurish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "清",
+          "reading": "きよい",
+          "meaning": "toza, pok",
+          "onyomi": "セイ",
+          "kunyomi": "きよ(い)・きよ(める)"
+        },
+        "examples": [
+          { "id": 1, "word": "清い心", "reading": "きよいこころ", "meaning": "sof qalb" },
+          { "id": 2, "word": "心が清まる", "reading": "こころがきよまる", "meaning": "qalb tozalanmoq" },
+          { "id": 3, "word": "滝で心身を清める", "reading": "たきでしんしんをきよめる", "meaning": "sharsharada tana va qalbni poklamoq" },
+          { "id": 4, "word": "論文の清書をする", "reading": "ろんぶんのせいしょをする", "meaning": "oqqa ko'chirish" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "掃",
+          "reading": "はく",
+          "meaning": "supurmoq, tozalamoq",
+          "onyomi": "ソウ",
+          "kunyomi": "は(く)"
+        },
+        "examples": [
+          { "id": 1, "word": "落ち葉を掃く", "reading": "おちばをはく", "meaning": "to'kilgan barglarni supurish" },
+          { "id": 2, "word": "掃除する", "reading": "そうじする", "meaning": "tozalash" },
+          { "id": 3, "word": "教室の清掃をする", "reading": "きょうしつのせいそうをする", "meaning": "sinf xonasini tozalash" },
+          { "id": 4, "word": "暴力団を一掃する", "reading": "ぼうりょくだんをいっそうする", "meaning": "butunlay tugatish, tozalash" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "整",
+          "reading": "ととのえる",
+          "meaning": "tartibga keltirmoq",
+          "onyomi": "セイ",
+          "kunyomi": "ととの(える)・ととの(う)"
+        },
+        "examples": [
+          { "id": 1, "word": "整える", "reading": "ととのえる", "meaning": "tartibga keltirmoq, tayyorlamoq" },
+          { "id": 2, "word": "準備が整う", "reading": "じゅんびがととのう", "meaning": "tayyorgarlik pishmoq (tayyor bo'lmoq)" },
+          { "id": 3, "word": "引き出しの中を整理する", "reading": "ひきだしのなかをせいりする", "meaning": "javon ichini tartibga keltirish" },
+          { "id": 4, "word": "整理整頓", "reading": "せいりせいとん", "meaning": "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "汚",
+          "reading": "よごす",
+          "meaning": "iflos, kir",
+          "onyomi": "オ",
+          "kunyomi": "よご(す)・きたな(い)・けが(す)"
+        },
+        "examples": [
+          { "id": 1, "word": "部屋を汚す", "reading": "へやをよごす", "meaning": "xonani iflos qilish" },
+          { "id": 2, "word": "汚れた服", "reading": "よごれたふく", "meaning": "kir bo'lgan kiyim" },
+          { "id": 3, "word": "汚い手", "reading": "きたないて", "meaning": "iflos qo'l" },
+          { "id": 4, "word": "汚職", "reading": "おしょく", "meaning": "korrupsiya" },
+          { "id": 5, "word": "汚水", "reading": "おすい", "meaning": "oqava suv" },
+          { "id": 6, "word": "汚染された川", "reading": "おせんされたかわ", "meaning": "ifloslantirilgan daryo" },
+          { "id": 7, "word": "名前を汚す", "reading": "なまえをけがす", "meaning": "nomiga dog' tushirmoq" }
+        ]
+      }
+    ]
+  }

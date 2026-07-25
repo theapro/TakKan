@@ -5,1165 +5,1095 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "sentence",
-      "question": "『口に水を含む』ning ma'nosi qaysi?",
-      "word": "口に水を含む",
-      "choices": [
-        "og'izga suv olish",
-        "sovg'a qilmoq",
-        "sariqyog'ni eritish",
-        "guruch ustiga tempura qo'yib tayyorlangan taom"
-      ],
-      "correctAnswer": 0,
-      "explanation": "口に水を含む → og'izga suv olish"
-    },
-    {
-      "id": 2,
-      "questionType": "reading",
-      "question": "『溶岩』ning o'qilishi qaysi?",
-      "word": "溶岩",
-      "choices": [
-        "おみやげをとどける",
-        "りょけん",
-        "ようがん",
-        "もんだいようしをくばる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "溶岩 → ようがん"
-    },
-    {
-      "id": 3,
-      "questionType": "reading",
-      "question": "『盛大な』ning o'qilishi qaysi?",
-      "word": "盛大な",
-      "choices": [
-        "かぶけん",
-        "しょうたいじょう",
-        "とうげをこす",
-        "せいだいな"
-      ],
-      "correctAnswer": 3,
-      "explanation": "盛大な → せいだいな"
-    },
-    {
-      "id": 4,
-      "questionType": "meaning",
-      "question": "『溶』ning ma'nosi qaysi?",
-      "word": "溶",
-      "choices": [
-        "faraz qilmoq",
-        "shartnoma tuzish",
-        "erimoq, eritmoq",
-        "aksiya qog'ozi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "溶 → erimoq, eritmoq"
-    },
-    {
-      "id": 5,
-      "questionType": "kanji",
-      "question": "『どんぶり』qaysi yozuvga mos?",
-      "word": "丼",
-      "choices": [
-        "丼",
-        "仮定する",
-        "立ち入り禁止区域",
-        "小麦粉と卵を混ぜる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "どんぶり → 丼"
-    },
-    {
-      "id": 6,
-      "questionType": "word",
-      "question": "『katta portsiya ovqat』ning yaponcha ifodasi qaysi?",
-      "word": "大盛り",
-      "choices": [
-        "お土産を届ける",
-        "裁判所で証言する",
-        "大盛り",
-        "含"
-      ],
-      "correctAnswer": 2,
-      "explanation": "katta portsiya ovqat → 大盛り"
-    },
-    {
-      "id": 7,
-      "questionType": "meaning",
-      "question": "『バター溶かす』ning ma'nosi qaysi?",
-      "word": "バター溶かす",
-      "choices": [
-        "shaxsni tasdiqlovchi hujjat",
-        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq",
-        "yetib bormoq, yetkazmoq",
-        "sariqyog'ni eritish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "バター溶かす → sariqyog'ni eritish"
-    },
-    {
-      "id": 8,
-      "questionType": "kanji",
-      "question": "『みそしる』qaysi yozuvga mos?",
-      "word": "みそ汁",
-      "choices": [
-        "仮の住まい",
-        "手紙が届く",
-        "契",
-        "みそ汁"
-      ],
-      "correctAnswer": 3,
-      "explanation": "みそしる → みそ汁"
-    },
-    {
-      "id": 9,
-      "questionType": "reading",
-      "question": "『含』ning o'qilishi qaysi?",
-      "word": "含",
-      "choices": [
-        "じょうしゃけん",
-        "おみやげをとどける",
-        "しんぱいする",
-        "ふくむ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "含 → ふくむ"
-    },
-    {
-      "id": 10,
-      "questionType": "recognition",
-      "question": "『汁』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "みそ汁",
-      "choices": [
-        "仮説を立てる",
-        "みそ汁",
-        "〜を契機に",
-        "大盛り"
-      ],
-      "correctAnswer": 1,
-      "explanation": "汁 → みそ汁"
-    },
-    {
-      "id": 11,
-      "questionType": "word",
-      "question": "『o'z ichiga olmoq』ning yaponcha ifodasi qaysi?",
-      "word": "含",
-      "choices": [
-        "みそ汁",
-        "届",
-        "定期券",
-        "含"
-      ],
-      "correctAnswer": 3,
-      "explanation": "o'z ichiga olmoq → 含"
-    },
-    {
-      "id": 12,
-      "questionType": "reading",
-      "question": "『天丼』ning o'qilishi qaysi?",
-      "word": "天丼",
-      "choices": [
-        "かわのりゅういき",
-        "けいやく",
-        "てんどん",
-        "ちんぎん"
-      ],
-      "correctAnswer": 2,
-      "explanation": "天丼 → てんどん"
-    },
-    {
-      "id": 13,
-      "questionType": "reading",
-      "question": "『丼』ning o'qilishi qaysi?",
-      "word": "丼",
-      "choices": [
-        "けん",
-        "どんぶり",
-        "おくりもの",
-        "もんだいようしをくばる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "丼 → どんぶり"
-    },
-    {
-      "id": 14,
-      "questionType": "reading",
-      "question": "『混乱』ning o'qilishi qaysi?",
-      "word": "混乱",
-      "choices": [
-        "こんらん",
-        "まねく",
-        "こむぎことたまごをまぜる",
-        "えのぐをとく"
-      ],
-      "correctAnswer": 0,
-      "explanation": "混乱 → こんらん"
-    },
-    {
-      "id": 15,
-      "questionType": "meaning",
-      "question": "『混乱』ning ma'nosi qaysi?",
-      "word": "混乱",
-      "choices": [
-        "bolaning jismoniy rivojlanish davri",
-        "sudda guvohlik bermoq",
-        "chalkashlik, sarosima",
-        "gipoteza (faraz) qo'ymoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "混乱 → chalkashlik, sarosima"
-    },
-    {
-      "id": 16,
-      "questionType": "recognition",
-      "question": "『汁』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "服にラーメンの汁がついた",
-      "choices": [
-        "賃貸マンション",
-        "定期券",
-        "身分証明書",
-        "服にラーメンの汁がついた"
-      ],
-      "correctAnswer": 3,
-      "explanation": "汁 → 服にラーメンの汁がついた"
-    },
-    {
-      "id": 17,
-      "questionType": "word",
-      "question": "『aralashmoq』ning yaponcha ifodasi qaysi?",
-      "word": "混",
-      "choices": [
-        "みそ汁",
-        "地域住民",
-        "招",
-        "混"
-      ],
-      "correctAnswer": 3,
-      "explanation": "aralashmoq → 混"
-    },
-    {
-      "id": 18,
-      "questionType": "kanji",
-      "question": "『まざる』qaysi yozuvga mos?",
-      "word": "混",
-      "choices": [
-        "牛乳にカルシウムが含まれている",
-        "混",
-        "含",
-        "契約書"
-      ],
-      "correctAnswer": 1,
-      "explanation": "まざる → 混"
-    },
-    {
-      "id": 19,
       "questionType": "word",
       "question": "『sutda kalsiy bor』ning yaponcha ifodasi qaysi?",
       "word": "牛乳にカルシウムが含まれている",
       "choices": [
-        "契約をする",
+        "越",
+        "汚れた服",
         "牛乳にカルシウムが含まれている",
-        "運賃",
-        "新聞配達"
+        "プレゼントを贈る"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "sutda kalsiy bor → 牛乳にカルシウムが含まれている"
     },
     {
-      "id": 20,
-      "questionType": "kanji",
-      "question": "『ふくむ』qaysi yozuvga mos?",
-      "word": "含",
-      "choices": [
-        "含",
-        "贈",
-        "議会を招集する",
-        "配"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ふくむ → 含"
-    },
-    {
-      "id": 21,
-      "questionType": "reading",
-      "question": "『混雑』ning o'qilishi qaysi?",
-      "word": "混雑",
-      "choices": [
-        "ふくむ",
-        "こんざつ",
-        "きをくばる",
-        "しょうたいする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "混雑 → こんざつ"
-    },
-    {
-      "id": 22,
-      "questionType": "kanji",
-      "question": "『とける』qaysi yozuvga mos?",
-      "word": "溶",
-      "choices": [
-        "自国領域",
-        "小麦粉と卵を混ぜる",
-        "溶",
-        "証明する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "とける → 溶"
-    },
-    {
-      "id": 23,
-      "questionType": "sentence",
-      "question": "『氷が溶ける』ning ma'nosi qaysi?",
-      "word": "氷が溶ける",
-      "choices": [
-        "tarqatmoq, taqsimlamoq",
-        "muzni erishi",
-        "un bilan tuxumni aralashtirmoq",
-        "yangi sinfga moslashib ketmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "氷が溶ける → muzni erishi"
-    },
-    {
-      "id": 24,
-      "questionType": "recognition",
-      "question": "『混』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "混乱",
-      "choices": [
-        "混雑",
-        "賃金",
-        "混乱",
-        "招"
-      ],
-      "correctAnswer": 2,
-      "explanation": "混 → 混乱"
-    },
-    {
-      "id": 25,
-      "questionType": "reading",
-      "question": "『混』ning o'qilishi qaysi?",
-      "word": "混",
-      "choices": [
-        "かていする",
-        "こめのなかにむぎがまじっている",
-        "えのぐをとく",
-        "まざる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "混 → まざる"
-    },
-    {
-      "id": 26,
-      "questionType": "reading",
-      "question": "『溶』ning o'qilishi qaysi?",
-      "word": "溶",
-      "choices": [
-        "みそしる",
-        "とける",
-        "しる",
-        "さかんなせいえん"
-      ],
-      "correctAnswer": 1,
-      "explanation": "溶 → とける"
-    },
-    {
-      "id": 27,
-      "questionType": "kanji",
-      "question": "『おおもり』qaysi yozuvga mos?",
-      "word": "大盛り",
-      "choices": [
-        "大盛り",
-        "新聞配達",
-        "口に水を含む",
-        "渡"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おおもり → 大盛り"
-    },
-    {
-      "id": 28,
-      "questionType": "recognition",
-      "question": "『盛』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "育ち盛り",
-      "choices": [
-        "仮",
-        "育ち盛り",
-        "子供を送り届ける",
-        "パーティーに招く"
-      ],
-      "correctAnswer": 1,
-      "explanation": "盛 → 育ち盛り"
-    },
-    {
-      "id": 29,
-      "questionType": "meaning",
-      "question": "『天丼』ning ma'nosi qaysi?",
-      "word": "天丼",
-      "choices": [
-        "kirish chiptasi",
-        "guruch ustiga tempura qo'yib tayyorlangan taom",
-        "miso sho'rvasi",
-        "dabdabali, tantanali"
-      ],
-      "correctAnswer": 1,
-      "explanation": "天丼 → guruch ustiga tempura qo'yib tayyorlangan taom"
-    },
-    {
-      "id": 30,
-      "questionType": "meaning",
-      "question": "『みそ汁』ning ma'nosi qaysi?",
-      "word": "みそ汁",
-      "choices": [
-        "xat yetib kelishi",
-        "kiyimga lag'monning sho'rvasi tegishi",
-        "ish haqi",
-        "miso sho'rvasi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "みそ汁 → miso sho'rvasi"
-    },
-    {
-      "id": 31,
+      "id": 2,
       "questionType": "kanji",
       "question": "『まざる』qaysi yozuvga mos?",
-      "word": "混ざる",
+      "word": "混",
       "choices": [
-        "越",
-        "口に水を含む",
-        "混ざる",
-        "手紙が届く"
-      ],
-      "correctAnswer": 2,
-      "explanation": "まざる → 混ざる"
-    },
-    {
-      "id": 32,
-      "questionType": "meaning",
-      "question": "『新しいクラスに溶け込む』ning ma'nosi qaysi?",
-      "word": "新しいクラスに溶け込む",
-      "choices": [
-        "pasport (xorijiy)",
-        "yangi sinfga moslashib ketmoq",
-        "erimoq, eritmoq",
-        "tasdiqlamoq, ko'rsatmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "新しいクラスに溶け込む → yangi sinfga moslashib ketmoq"
-    },
-    {
-      "id": 33,
-      "questionType": "word",
-      "question": "『og'izga suv olish』ning yaponcha ifodasi qaysi?",
-      "word": "口に水を含む",
-      "choices": [
+        "巻",
         "証明する",
-        "口に水を含む",
-        "越",
-        "賃"
-      ],
-      "correctAnswer": 1,
-      "explanation": "og'izga suv olish → 口に水を含む"
-    },
-    {
-      "id": 34,
-      "questionType": "sentence",
-      "question": "『小麦粉と卵を混ぜる』ning ma'nosi qaysi?",
-      "word": "小麦粉と卵を混ぜる",
-      "choices": [
-        "guruch ustiga tempura qo'yib tayyorlangan taom",
-        "kirish chiptasi",
-        "xat yetib kelishi",
-        "un bilan tuxumni aralashtirmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "小麦粉と卵を混ぜる → un bilan tuxumni aralashtirmoq"
-    },
-    {
-      "id": 35,
-      "questionType": "word",
-      "question": "『un bilan tuxumni aralashtirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "小麦粉と卵を混ぜる",
-      "choices": [
-        "気を配る",
-        "小麦粉と卵を混ぜる",
-        "旅券",
-        "招"
-      ],
-      "correctAnswer": 1,
-      "explanation": "un bilan tuxumni aralashtirmoq → 小麦粉と卵を混ぜる"
-    },
-    {
-      "id": 36,
-      "questionType": "meaning",
-      "question": "『盛んな声援』ning ma'nosi qaysi?",
-      "word": "盛んな声援",
-      "choices": [
-        "qizg'in olqishlar",
-        "shartnoma",
-        "taklif qilmoq",
-        "diqqatni qaratish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "盛んな声援 → qizg'in olqishlar"
-    },
-    {
-      "id": 37,
-      "questionType": "word",
-      "question": "『chuqur kosa (donburi)』ning yaponcha ifodasi qaysi?",
-      "word": "丼",
-      "choices": [
-        "育ち盛り",
-        "丼",
-        "問題用紙を配る",
-        "免許証"
-      ],
-      "correctAnswer": 1,
-      "explanation": "chuqur kosa (donburi) → 丼"
-    },
-    {
-      "id": 38,
-      "questionType": "reading",
-      "question": "『みそ汁』ning o'qilishi qaysi?",
-      "word": "みそ汁",
-      "choices": [
-        "みそしる",
-        "しんぶんはいたつ",
-        "こんざつ",
-        "かり"
-      ],
-      "correctAnswer": 0,
-      "explanation": "みそ汁 → みそしる"
-    },
-    {
-      "id": 39,
-      "questionType": "reading",
-      "question": "『汁』ning o'qilishi qaysi?",
-      "word": "汁",
-      "choices": [
-        "しょうけんがいしゃ",
-        "えのぐをとく",
-        "おくりもの",
-        "しる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "汁 → しる"
-    },
-    {
-      "id": 40,
-      "questionType": "recognition",
-      "question": "『盛』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "大盛り",
-      "choices": [
-        "大盛り",
-        "国境を越える",
-        "賃金",
-        "服にラーメンの汁がついた"
-      ],
-      "correctAnswer": 0,
-      "explanation": "盛 → 大盛り"
-    },
-    {
-      "id": 41,
-      "questionType": "recognition",
-      "question": "『丼』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "丼",
-      "choices": [
-        "私を含めて四人",
-        "身分証明書",
-        "丼",
-        "域"
+        "混",
+        "定期券"
       ],
       "correctAnswer": 2,
-      "explanation": "丼 → 丼"
+      "explanation": "まざる → 混"
     },
     {
-      "id": 42,
-      "questionType": "word",
-      "question": "『bolaning jismoniy rivojlanish davri』ning yaponcha ifodasi qaysi?",
-      "word": "育ち盛り",
-      "choices": [
-        "小麦粉と卵を混ぜる",
-        "乗車券",
-        "子供を送り届ける",
-        "育ち盛り"
-      ],
-      "correctAnswer": 3,
-      "explanation": "bolaning jismoniy rivojlanish davri → 育ち盛り"
-    },
-    {
-      "id": 43,
-      "questionType": "reading",
-      "question": "『大盛り』ning o'qilishi qaysi?",
-      "word": "大盛り",
-      "choices": [
-        "ものをわたす",
-        "ふくむ",
-        "おおもり",
-        "さらにおかずをもる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "大盛り → おおもり"
-    },
-    {
-      "id": 44,
-      "questionType": "recognition",
-      "question": "『盛』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "盛んな声援",
-      "choices": [
-        "届",
-        "盛んな声援",
-        "運賃",
-        "年越しそば"
-      ],
-      "correctAnswer": 1,
-      "explanation": "盛 → 盛んな声援"
-    },
-    {
-      "id": 45,
-      "questionType": "recognition",
-      "question": "『溶』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "バター溶かす",
-      "choices": [
-        "域",
-        "盛んな声援",
-        "バター溶かす",
-        "小麦粉と卵を混ぜる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "溶 → バター溶かす"
-    },
-    {
-      "id": 46,
-      "questionType": "reading",
-      "question": "『丼』ning o'qilishi qaysi?",
-      "word": "丼",
-      "choices": [
-        "どんぶり",
-        "やちん",
-        "めんきょしょう",
-        "りょけん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "丼 → どんぶり"
-    },
-    {
-      "id": 47,
-      "questionType": "meaning",
-      "question": "『丼』ning ma'nosi qaysi?",
-      "word": "丼",
-      "choices": [
-        "narsani berish",
-        "bo'yoqni eritish",
-        "oldindagi mashinani quvib o'tmoq",
-        "chuqur kosa (donburi)da guruch yeyish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "丼 → chuqur kosa (donburi)da guruch yeyish"
-    },
-    {
-      "id": 48,
-      "questionType": "meaning",
-      "question": "『溶岩』ning ma'nosi qaysi?",
-      "word": "溶岩",
-      "choices": [
-        "lava",
-        "taklif qilmoq, chaqirmoq",
-        "shartnoma, ahd",
-        "bolaning jismoniy rivojlanish davri"
-      ],
-      "correctAnswer": 0,
-      "explanation": "溶岩 → lava"
-    },
-    {
-      "id": 49,
-      "questionType": "sentence",
-      "question": "『服にラーメンの汁がついた』ning ma'nosi qaysi?",
-      "word": "服にラーメンの汁がついた",
-      "choices": [
-        "sudda guvohlik bermoq",
-        "oylik chipta",
-        "kiyimga lag'monning sho'rvasi tegishi",
-        "yo'l haqi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "服にラーメンの汁がついた → kiyimga lag'monning sho'rvasi tegishi"
-    },
-    {
-      "id": 50,
-      "questionType": "kanji",
-      "question": "『もる』qaysi yozuvga mos?",
-      "word": "盛",
-      "choices": [
-        "峠を越す",
-        "裁判所で証言する",
-        "溶",
-        "盛"
-      ],
-      "correctAnswer": 3,
-      "explanation": "もる → 盛"
-    },
-    {
-      "id": 51,
-      "questionType": "kanji",
-      "question": "『ようがん』qaysi yozuvga mos?",
-      "word": "溶岩",
-      "choices": [
-        "溶",
-        "溶岩",
-        "保証人",
-        "手紙が届く"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ようがん → 溶岩"
-    },
-    {
-      "id": 52,
-      "questionType": "kanji",
-      "question": "『こんらん』qaysi yozuvga mos?",
-      "word": "混乱",
-      "choices": [
-        "混乱",
-        "贈り物",
-        "届",
-        "混雑"
-      ],
-      "correctAnswer": 0,
-      "explanation": "こんらん → 混乱"
-    },
-    {
-      "id": 53,
-      "questionType": "sentence",
-      "question": "『米の中に麦が混じっている』ning ma'nosi qaysi?",
-      "word": "米の中に麦が混じっている",
-      "choices": [
-        "yo'lni kesib o'tish",
-        "ish haqi",
-        "guruch ichiga bug'doy aralashib ketishi",
-        "kafil"
-      ],
-      "correctAnswer": 2,
-      "explanation": "米の中に麦が混じっている → guruch ichiga bug'doy aralashib ketishi"
-    },
-    {
-      "id": 54,
-      "questionType": "word",
-      "question": "『tortmoq, solmoq (idishga)』ning yaponcha ifodasi qaysi?",
-      "word": "皿におかずを盛る",
-      "choices": [
-        "賃金",
-        "皿におかずを盛る",
-        "服にラーメンの汁がついた",
-        "賃"
-      ],
-      "correctAnswer": 1,
-      "explanation": "tortmoq, solmoq (idishga) → 皿におかずを盛る"
-    },
-    {
-      "id": 55,
-      "questionType": "recognition",
-      "question": "『混』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "混雑",
-      "choices": [
-        "手紙が届く",
-        "混雑",
-        "仮",
-        "賃貸マンション"
-      ],
-      "correctAnswer": 1,
-      "explanation": "混 → 混雑"
-    },
-    {
-      "id": 56,
-      "questionType": "meaning",
-      "question": "『混ざる』ning ma'nosi qaysi?",
-      "word": "混ざる",
-      "choices": [
-        "muzni erishi",
-        "vaqtinchalik yashash manzili",
-        "savollar varag'ini tarqatish",
-        "aralashmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "混ざる → aralashmoq"
-    },
-    {
-      "id": 57,
-      "questionType": "kanji",
-      "question": "『せいだいな』qaysi yozuvga mos?",
-      "word": "盛大な",
-      "choices": [
-        "盛大な",
-        "前の車を追い越す",
-        "契約をする",
-        "仮"
-      ],
-      "correctAnswer": 0,
-      "explanation": "せいだいな → 盛大な"
-    },
-    {
-      "id": 58,
-      "questionType": "word",
-      "question": "『bo'yoqni eritish』ning yaponcha ifodasi qaysi?",
-      "word": "絵の具を溶く",
-      "choices": [
-        "絵の具を溶く",
-        "贈",
-        "域",
-        "心配する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "bo'yoqni eritish → 絵の具を溶く"
-    },
-    {
-      "id": 59,
-      "questionType": "sentence",
-      "question": "『絵の具を溶く』ning ma'nosi qaysi?",
-      "word": "絵の具を溶く",
-      "choices": [
-        "sovg'a qilmoq",
-        "bo'yoqni eritish",
-        "kelmaslik haqidagi xabarnoma (ariza)",
-        "shartnoma tuzish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "絵の具を溶く → bo'yoqni eritish"
-    },
-    {
-      "id": 60,
-      "questionType": "recognition",
-      "question": "『盛』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "盛大な",
-      "choices": [
-        "服にラーメンの汁がついた",
-        "汁",
-        "欠席届",
-        "盛大な"
-      ],
-      "correctAnswer": 3,
-      "explanation": "盛 → 盛大な"
-    },
-    {
-      "id": 61,
-      "questionType": "reading",
-      "question": "『盛』ning o'qilishi qaysi?",
-      "word": "盛",
-      "choices": [
-        "こんざつ",
-        "じこくりょういき",
-        "めんきょしょう",
-        "もる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "盛 → もる"
-    },
-    {
-      "id": 62,
-      "questionType": "word",
-      "question": "『men bilan 4 kishi』ning yaponcha ifodasi qaysi?",
-      "word": "私を含めて四人",
-      "choices": [
-        "盛んな声援",
-        "私を含めて四人",
-        "乗車券",
-        "旅券"
-      ],
-      "correctAnswer": 1,
-      "explanation": "men bilan 4 kishi → 私を含めて四人"
-    },
-    {
-      "id": 63,
-      "questionType": "sentence",
-      "question": "『皿におかずを盛る』ning ma'nosi qaysi?",
-      "word": "皿におかずを盛る",
-      "choices": [
-        "miso sho'rvasi",
-        "davlat chegarasidan kesib o'tish",
-        "tortmoq, solmoq (idishga)",
-        "dabdabali, tantanali"
-      ],
-      "correctAnswer": 2,
-      "explanation": "皿におかずを盛る → tortmoq, solmoq (idishga)"
-    },
-    {
-      "id": 64,
+      "id": 3,
       "questionType": "kanji",
       "question": "『てんどん』qaysi yozuvga mos?",
       "word": "天丼",
       "choices": [
+        "汁",
         "私を含めて四人",
-        "育ち盛り",
-        "溶",
+        "日本庭園",
         "天丼"
       ],
       "correctAnswer": 3,
       "explanation": "てんどん → 天丼"
     },
     {
-      "id": 65,
+      "id": 4,
+      "questionType": "sentence",
+      "question": "『新しいクラスに溶け込む』ning ma'nosi qaysi?",
+      "word": "新しいクラスに溶け込む",
+      "choices": [
+        "yozuvchi",
+        "sudda guvohlik bermoq",
+        "chuqur kosa (donburi)",
+        "yangi sinfga moslashib ketmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "新しいクラスに溶け込む → yangi sinfga moslashib ketmoq"
+    },
+    {
+      "id": 5,
+      "questionType": "reading",
+      "question": "『混ざる』ning o'qilishi qaysi?",
+      "word": "混ざる",
+      "choices": [
+        "まざる",
+        "こうてい",
+        "わたる",
+        "けいやく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "混ざる → まざる"
+    },
+    {
+      "id": 6,
+      "questionType": "recognition",
+      "question": "『混』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "小麦粉と卵を混ぜる",
+      "choices": [
+        "心が清まる",
+        "小麦粉と卵を混ぜる",
+        "身分証明書",
+        "服にラーメンの汁がついた"
+      ],
+      "correctAnswer": 1,
+      "explanation": "混 → 小麦粉と卵を混ぜる"
+    },
+    {
+      "id": 7,
+      "questionType": "sentence",
+      "question": "『牛乳にカルシウムが含まれている』ning ma'nosi qaysi?",
+      "word": "牛乳にカルシウムが含まれている",
+      "choices": [
+        "tozalash",
+        "xat yetib kelishi",
+        "sutda kalsiy bor",
+        "tiqilinch, gavjumlik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "牛乳にカルシウムが含まれている → sutda kalsiy bor"
+    },
+    {
+      "id": 8,
+      "questionType": "sentence",
+      "question": "『口に水を含む』ning ma'nosi qaysi?",
+      "word": "口に水を含む",
+      "choices": [
+        "qalb tozalanmoq",
+        "narsani berish",
+        "taklif qilmoq, chaqirmoq",
+        "og'izga suv olish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "口に水を含む → og'izga suv olish"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『ようがん』qaysi yozuvga mos?",
+      "word": "溶岩",
+      "choices": [
+        "子供を送り届ける",
+        "庭",
+        "溶岩",
+        "証明する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ようがん → 溶岩"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『氷が溶ける』ning ma'nosi qaysi?",
+      "word": "氷が溶ける",
+      "choices": [
+        "sof qalb",
+        "muzni erishi",
+        "tortmoq, solmoq (idishga)",
+        "tayyorgarlik pishmoq (tayyor bo'lmoq)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "氷が溶ける → muzni erishi"
+    },
+    {
+      "id": 11,
+      "questionType": "meaning",
+      "question": "『混』ning ma'nosi qaysi?",
+      "word": "混",
+      "choices": [
+        "aralashmoq",
+        "davlat chegarasidan kesib o'tish",
+        "taklif qilmoq",
+        "ertalabki gazeta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "混 → aralashmoq"
+    },
+    {
+      "id": 12,
+      "questionType": "meaning",
+      "question": "『盛んな声援』ning ma'nosi qaysi?",
+      "word": "盛んな声援",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "bo'yoqni eritish",
+        "qizg'in olqishlar",
+        "ijaraga olingan ko'p qavatli uy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "盛んな声援 → qizg'in olqishlar"
+    },
+    {
+      "id": 13,
+      "questionType": "reading",
+      "question": "『混雑』ning o'qilishi qaysi?",
+      "word": "混雑",
+      "choices": [
+        "にゅうじょうけん",
+        "こんざつ",
+        "くばる",
+        "かせつをたてる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "混雑 → こんざつ"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『まざる』qaysi yozuvga mos?",
+      "word": "混ざる",
+      "choices": [
+        "本を著す",
+        "招待する",
+        "混ざる",
+        "著者"
+      ],
+      "correctAnswer": 2,
+      "explanation": "まざる → 混ざる"
+    },
+    {
+      "id": 15,
+      "questionType": "word",
+      "question": "『lava』ning yaponcha ifodasi qaysi?",
+      "word": "溶岩",
+      "choices": [
+        "溶岩",
+        "居間",
+        "贈",
+        "私を含めて四人"
+      ],
+      "correctAnswer": 0,
+      "explanation": "lava → 溶岩"
+    },
+    {
+      "id": 16,
+      "questionType": "sentence",
+      "question": "『小麦粉と卵を混ぜる』ning ma'nosi qaysi?",
+      "word": "小麦粉と卵を混ぜる",
+      "choices": [
+        "hudud",
+        "tizilmoq, oddiy/o'rtacha",
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "un bilan tuxumni aralashtirmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "小麦粉と卵を混ぜる → un bilan tuxumni aralashtirmoq"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『どんぶり』qaysi yozuvga mos?",
+      "word": "丼",
+      "choices": [
+        "新聞配達",
+        "丼",
+        "証",
+        "芝居"
+      ],
+      "correctAnswer": 1,
+      "explanation": "どんぶり → 丼"
+    },
+    {
+      "id": 18,
+      "questionType": "sentence",
+      "question": "『私を含めて四人』ning ma'nosi qaysi?",
+      "word": "私を含めて四人",
+      "choices": [
+        "xat yetib kelishi",
+        "savollar varag'ini tarqatish",
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "men bilan 4 kishi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "私を含めて四人 → men bilan 4 kishi"
+    },
+    {
+      "id": 19,
+      "questionType": "meaning",
+      "question": "『汁』ning ma'nosi qaysi?",
+      "word": "汁",
+      "choices": [
+        "javon ichini tartibga keltirish",
+        "sho'rva, suyuqlik",
+        "bolaning jismoniy rivojlanish davri",
+        "xat yetib kelishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "汁 → sho'rva, suyuqlik"
+    },
+    {
+      "id": 20,
+      "questionType": "meaning",
+      "question": "『盛大な』ning ma'nosi qaysi?",
+      "word": "盛大な",
+      "choices": [
+        "o'tmoq, kesib o'tmoq",
+        "xat yetib kelishi",
+        "dabdabali, tantanali",
+        "ertalabki gazeta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "盛大な → dabdabali, tantanali"
+    },
+    {
+      "id": 21,
+      "questionType": "kanji",
+      "question": "『ふくむ』qaysi yozuvga mos?",
+      "word": "含",
+      "choices": [
+        "汚れた服",
+        "含",
+        "汁",
+        "汚い手"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふくむ → 含"
+    },
+    {
+      "id": 22,
+      "questionType": "word",
+      "question": "『tiqilinch, gavjumlik』ning yaponcha ifodasi qaysi?",
+      "word": "混雑",
+      "choices": [
+        "お土産を届ける",
+        "混雑",
+        "招待する",
+        "乗車券"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tiqilinch, gavjumlik → 混雑"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『みそしる』qaysi yozuvga mos?",
+      "word": "みそ汁",
+      "choices": [
+        "みそ汁",
+        "新しいクラスに溶け込む",
+        "物を渡す",
+        "掃"
+      ],
+      "correctAnswer": 0,
+      "explanation": "みそしる → みそ汁"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『bo'yoqni eritish』ning yaponcha ifodasi qaysi?",
+      "word": "絵の具を溶く",
+      "choices": [
+        "絵の具を溶く",
+        "雑誌を読む",
+        "証明する",
+        "バター溶かす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "bo'yoqni eritish → 絵の具を溶く"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『こんらん』qaysi yozuvga mos?",
+      "word": "混乱",
+      "choices": [
+        "混乱",
+        "汚職",
+        "掃除する",
+        "パーティーに招く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こんらん → 混乱"
+    },
+    {
+      "id": 26,
+      "questionType": "word",
+      "question": "『un bilan tuxumni aralashtirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "小麦粉と卵を混ぜる",
+      "choices": [
+        "小麦粉と卵を混ぜる",
+        "整理整頓",
+        "住居",
+        "皿におかずを盛る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "un bilan tuxumni aralashtirmoq → 小麦粉と卵を混ぜる"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『丼』ning o'qilishi qaysi?",
+      "word": "丼",
+      "choices": [
+        "ふくにラーメンのしるがついた",
+        "どんぶり",
+        "にゅうじょうけん",
+        "ほうたいをまく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "丼 → どんぶり"
+    },
+    {
+      "id": 28,
+      "questionType": "meaning",
+      "question": "『私を含めて四人』ning ma'nosi qaysi?",
+      "word": "私を含めて四人",
+      "choices": [
+        "ni turtki (bahona) qilib",
+        "brokerlik kompaniyasi",
+        "men bilan 4 kishi",
+        "nomiga dog' tushirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "私を含めて四人 → men bilan 4 kishi"
+    },
+    {
+      "id": 29,
+      "questionType": "meaning",
+      "question": "『盛』ning ma'nosi qaysi?",
+      "word": "盛",
+      "choices": [
+        "tartibga keltirmoq",
+        "dabdabali, tantanali",
+        "butunlay tugatish, tozalash",
+        "solmoq, gullamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "盛 → solmoq, gullamoq"
+    },
+    {
+      "id": 30,
+      "questionType": "recognition",
+      "question": "『溶』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "溶岩",
+      "choices": [
+        "誌",
+        "日本庭園",
+        "溶岩",
+        "清"
+      ],
+      "correctAnswer": 2,
+      "explanation": "溶 → 溶岩"
+    },
+    {
+      "id": 31,
+      "questionType": "sentence",
+      "question": "『服にラーメンの汁がついた』ning ma'nosi qaysi?",
+      "word": "服にラーメンの汁がついた",
+      "choices": [
+        "guruch ustiga tempura qo'yib tayyorlangan taom",
+        "supurmoq, tozalamoq",
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "brokerlik kompaniyasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "服にラーメンの汁がついた → kiyimga lag'monning sho'rvasi tegishi"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『おおもり』qaysi yozuvga mos?",
+      "word": "大盛り",
+      "choices": [
+        "汚染された川",
+        "住居",
+        "仮の住まい",
+        "大盛り"
+      ],
+      "correctAnswer": 3,
+      "explanation": "おおもり → 大盛り"
+    },
+    {
+      "id": 33,
+      "questionType": "sentence",
+      "question": "『絵の具を溶く』ning ma'nosi qaysi?",
+      "word": "絵の具を溶く",
+      "choices": [
+        "kir bo'lgan kiyim",
+        "bo'yoqni eritish",
+        "shartnoma, ahd",
+        "o'ramoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "絵の具を溶く → bo'yoqni eritish"
+    },
+    {
+      "id": 34,
+      "questionType": "word",
+      "question": "『chalkashlik, sarosima』ning yaponcha ifodasi qaysi?",
+      "word": "混乱",
+      "choices": [
+        "契約書",
+        "入場券",
+        "パーティーに招く",
+        "混乱"
+      ],
+      "correctAnswer": 3,
+      "explanation": "chalkashlik, sarosima → 混乱"
+    },
+    {
+      "id": 35,
+      "questionType": "recognition",
+      "question": "『混』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "米の中に麦が混じっている",
+      "choices": [
+        "汚染された川",
+        "米の中に麦が混じっている",
+        "整理整頓",
+        "ファッション誌"
+      ],
+      "correctAnswer": 1,
+      "explanation": "混 → 米の中に麦が混じっている"
+    },
+    {
+      "id": 36,
+      "questionType": "sentence",
+      "question": "『米の中に麦が混じっている』ning ma'nosi qaysi?",
+      "word": "米の中に麦が混じっている",
+      "choices": [
+        "bolani uyga eltib qo'yish",
+        "ijaraga olingan ko'p qavatli uy",
+        "guruch ichiga bug'doy aralashib ketishi",
+        "hovli, bog'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "米の中に麦が混じっている → guruch ichiga bug'doy aralashib ketishi"
+    },
+    {
+      "id": 37,
       "questionType": "sentence",
       "question": "『育ち盛り』ning ma'nosi qaysi?",
       "word": "育ち盛り",
       "choices": [
-        "yo'lovchi chiptasi",
-        "xavotirlanmoq",
-        "faraz qilmoq",
+        "tartibga keltirmoq",
+        "tizilmoq, oddiy/o'rtacha",
+        "tartibga keltirmoq, tayyorlamoq",
         "bolaning jismoniy rivojlanish davri"
       ],
       "correctAnswer": 3,
       "explanation": "育ち盛り → bolaning jismoniy rivojlanish davri"
     },
     {
-      "id": 66,
-      "questionType": "meaning",
-      "question": "『盛』ning ma'nosi qaysi?",
-      "word": "盛",
-      "choices": [
-        "solmoq, gullamoq",
-        "pasport (xorijiy)",
-        "haq, ijara",
-        "ijaraga olingan ko'p qavatli uy"
-      ],
-      "correctAnswer": 0,
-      "explanation": "盛 → solmoq, gullamoq"
-    },
-    {
-      "id": 67,
-      "questionType": "word",
-      "question": "『tiqilinch, gavjumlik』ning yaponcha ifodasi qaysi?",
-      "word": "混雑",
-      "choices": [
-        "免許証",
-        "入場券",
-        "証",
-        "混雑"
-      ],
-      "correctAnswer": 3,
-      "explanation": "tiqilinch, gavjumlik → 混雑"
-    },
-    {
-      "id": 68,
+      "id": 38,
       "questionType": "sentence",
-      "question": "『私を含めて四人』ning ma'nosi qaysi?",
-      "word": "私を含めて四人",
+      "question": "『皿におかずを盛る』ning ma'nosi qaysi?",
+      "word": "皿におかずを盛る",
       "choices": [
-        "og'izga suv olish",
-        "xavotirlanmoq",
-        "men bilan 4 kishi",
-        "taklif qilmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "私を含めて四人 → men bilan 4 kishi"
-    },
-    {
-      "id": 69,
-      "questionType": "kanji",
-      "question": "『こんざつ』qaysi yozuvga mos?",
-      "word": "混雑",
-      "choices": [
-        "混雑",
-        "招待状",
-        "賃貸マンション",
-        "私を含めて四人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "こんざつ → 混雑"
-    },
-    {
-      "id": 70,
-      "questionType": "kanji",
-      "question": "『しる』qaysi yozuvga mos?",
-      "word": "汁",
-      "choices": [
-        "口に水を含む",
-        "服にラーメンの汁がついた",
-        "汁",
-        "契約をする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しる → 汁"
-    },
-    {
-      "id": 71,
-      "questionType": "sentence",
-      "question": "『新しいクラスに溶け込む』ning ma'nosi qaysi?",
-      "word": "新しいクラスに溶け込む",
-      "choices": [
-        "yangi sinfga moslashib ketmoq",
-        "xavotirlanmoq",
-        "ijaraga olingan ko'p qavatli uy",
-        "narsani berish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "新しいクラスに溶け込む → yangi sinfga moslashib ketmoq"
-    },
-    {
-      "id": 72,
-      "questionType": "sentence",
-      "question": "『バター溶かす』ning ma'nosi qaysi?",
-      "word": "バター溶かす",
-      "choices": [
-        "sovg'a",
-        "sariqyog'ni eritish",
-        "bolaning jismoniy rivojlanish davri",
-        "katta portsiya ovqat"
+        "savollar varag'ini tarqatish",
+        "tortmoq, solmoq (idishga)",
+        "yo'lovchi chiptasi",
+        "kiyimga lag'monning sho'rvasi tegishi"
       ],
       "correctAnswer": 1,
-      "explanation": "バター溶かす → sariqyog'ni eritish"
+      "explanation": "皿におかずを盛る → tortmoq, solmoq (idishga)"
     },
     {
-      "id": 73,
-      "questionType": "reading",
-      "question": "『混ざる』ning o'qilishi qaysi?",
-      "word": "混ざる",
+      "id": 39,
+      "questionType": "word",
+      "question": "『chuqur kosa (donburi)』ning yaponcha ifodasi qaysi?",
+      "word": "丼",
       "choices": [
-        "まざる",
-        "こむぎことたまごをまぜる",
-        "しんぶんはいたつ",
-        "こっきょうをこえる"
+        "校庭",
+        "丼",
+        "清",
+        "明るい家庭を築く"
       ],
-      "correctAnswer": 0,
-      "explanation": "混ざる → まざる"
+      "correctAnswer": 1,
+      "explanation": "chuqur kosa (donburi) → 丼"
     },
     {
-      "id": 74,
-      "questionType": "kanji",
-      "question": "『そだちざかり』qaysi yozuvga mos?",
-      "word": "育ち盛り",
+      "id": 40,
+      "questionType": "word",
+      "question": "『guruch ustiga tempura qo'yib tayyorlangan taom』ning yaponcha ifodasi qaysi?",
+      "word": "天丼",
       "choices": [
-        "育ち盛り",
-        "新聞配達",
+        "芝居",
+        "年越しそば",
         "天丼",
-        "欠席届"
+        "並ぶ"
       ],
-      "correctAnswer": 0,
-      "explanation": "そだちざかり → 育ち盛り"
+      "correctAnswer": 2,
+      "explanation": "guruch ustiga tempura qo'yib tayyorlangan taom → 天丼"
     },
     {
-      "id": 75,
-      "questionType": "word",
-      "question": "『dabdabali, tantanali』ning yaponcha ifodasi qaysi?",
-      "word": "盛大な",
-      "choices": [
-        "口に水を含む",
-        "盛大な",
-        "株券",
-        "仮定する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "dabdabali, tantanali → 盛大な"
-    },
-    {
-      "id": 76,
+      "id": 41,
       "questionType": "kanji",
       "question": "『どんぶり』qaysi yozuvga mos?",
       "word": "丼",
       "choices": [
-        "バター溶かす",
+        "盛大な",
+        "汚職",
         "丼",
-        "株券",
-        "皿におかずを盛る"
+        "服にラーメンの汁がついた"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "どんぶり → 丼"
     },
     {
-      "id": 77,
-      "questionType": "word",
-      "question": "『sho'rva, suyuqlik』ning yaponcha ifodasi qaysi?",
-      "word": "汁",
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『とける』qaysi yozuvga mos?",
+      "word": "溶",
       "choices": [
-        "汁",
-        "丼",
-        "欠席届",
-        "新しいクラスに溶け込む"
-      ],
-      "correctAnswer": 0,
-      "explanation": "sho'rva, suyuqlik → 汁"
-    },
-    {
-      "id": 78,
-      "questionType": "word",
-      "question": "『muzni erishi』ning yaponcha ifodasi qaysi?",
-      "word": "氷が溶ける",
-      "choices": [
-        "バター溶かす",
-        "川の流域",
-        "氷が溶ける",
-        "入場券"
-      ],
-      "correctAnswer": 2,
-      "explanation": "muzni erishi → 氷が溶ける"
-    },
-    {
-      "id": 79,
-      "questionType": "sentence",
-      "question": "『牛乳にカルシウムが含まれている』ning ma'nosi qaysi?",
-      "word": "牛乳にカルシウムが含まれている",
-      "choices": [
-        "diqqatni qaratish",
-        "sutda kalsiy bor",
-        "chuqur kosa (donburi)da guruch yeyish",
-        "daryo havzasi"
+        "夕刊",
+        "溶",
+        "教室の清掃をする",
+        "名前を汚す"
       ],
       "correctAnswer": 1,
-      "explanation": "牛乳にカルシウムが含まれている → sutda kalsiy bor"
+      "explanation": "とける → 溶"
     },
     {
-      "id": 80,
-      "questionType": "recognition",
-      "question": "『含』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "牛乳にカルシウムが含まれている",
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『せいだいな』qaysi yozuvga mos?",
+      "word": "盛大な",
       "choices": [
-        "新聞配達",
-        "配",
-        "牛乳にカルシウムが含まれている",
-        "盛"
-      ],
-      "correctAnswer": 2,
-      "explanation": "含 → 牛乳にカルシウムが含まれている"
-    },
-    {
-      "id": 81,
-      "questionType": "meaning",
-      "question": "『米の中に麦が混じっている』ning ma'nosi qaysi?",
-      "word": "米の中に麦が混じっている",
-      "choices": [
-        "ish haqi",
-        "sovg'ani eltib berish",
-        "yo'lovchi chiptasi",
-        "guruch ichiga bug'doy aralashib ketishi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "米の中に麦が混じっている → guruch ichiga bug'doy aralashib ketishi"
-    },
-    {
-      "id": 82,
-      "questionType": "meaning",
-      "question": "『服にラーメンの汁がついた』ning ma'nosi qaysi?",
-      "word": "服にラーメンの汁がついた",
-      "choices": [
-        "kiyimga lag'monning sho'rvasi tegishi",
-        "sovg'ani eltib berish",
-        "sovg'a jo'natmoq",
-        "sovg'a qilmoq"
+        "盛大な",
+        "並べる",
+        "新しいクラスに溶け込む",
+        "夕刊"
       ],
       "correctAnswer": 0,
-      "explanation": "服にラーメンの汁がついた → kiyimga lag'monning sho'rvasi tegishi"
+      "explanation": "せいだいな → 盛大な"
     },
     {
-      "id": 83,
+      "id": 44,
+      "questionType": "recognition",
+      "question": "『含』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "口に水を含む",
+      "choices": [
+        "明るい家庭を築く",
+        "のり巻き",
+        "口に水を含む",
+        "券"
+      ],
+      "correctAnswer": 2,
+      "explanation": "含 → 口に水を含む"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『天丼』ning o'qilishi qaysi?",
+      "word": "天丼",
+      "choices": [
+        "にわ",
+        "てんどん",
+        "きよいこころ",
+        "しょうたいじょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "天丼 → てんどん"
+    },
+    {
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『もる』qaysi yozuvga mos?",
+      "word": "盛",
+      "choices": [
+        "汁",
+        "盛",
+        "地域住民",
+        "親と同居する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "もる → 盛"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『yangi sinfga moslashib ketmoq』ning yaponcha ifodasi qaysi?",
+      "word": "新しいクラスに溶け込む",
+      "choices": [
+        "明るい家庭を築く",
+        "混",
+        "新しいクラスに溶け込む",
+        "免許証"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yangi sinfga moslashib ketmoq → 新しいクラスに溶け込む"
+    },
+    {
+      "id": 48,
+      "questionType": "sentence",
+      "question": "『バター溶かす』ning ma'nosi qaysi?",
+      "word": "バター溶かす",
+      "choices": [
+        "pasport (xorijiy)",
+        "lava",
+        "sariqyog'ni eritish",
+        "un bilan tuxumni aralashtirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "バター溶かす → sariqyog'ni eritish"
+    },
+    {
+      "id": 49,
+      "questionType": "kanji",
+      "question": "『しる』qaysi yozuvga mos?",
+      "word": "汁",
+      "choices": [
+        "居",
+        "汁",
+        "仮定する",
+        "新しいクラスに溶け込む"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しる → 汁"
+    },
+    {
+      "id": 50,
+      "questionType": "reading",
+      "question": "『盛大な』ning o'qilishi qaysi?",
+      "word": "盛大な",
+      "choices": [
+        "おせんされたかわ",
+        "ほんをあらわす",
+        "せいだいな",
+        "ひきだしのなかをせいりする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "盛大な → せいだいな"
+    },
+    {
+      "id": 51,
       "questionType": "sentence",
       "question": "『盛んな声援』ning ma'nosi qaysi?",
       "word": "盛んな声援",
       "choices": [
-        "taklif qilmoq",
+        "kechki gazeta",
         "qizg'in olqishlar",
-        "vaqtinchalik, faraz",
-        "brokerlik kompaniyasi"
+        "yangi sinfga moslashib ketmoq",
+        "chalkashlik, sarosima"
       ],
       "correctAnswer": 1,
       "explanation": "盛んな声援 → qizg'in olqishlar"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『育ち盛り』ning ma'nosi qaysi?",
+      "word": "育ち盛り",
+      "choices": [
+        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
+        "sharsharada tana va qalbni poklamoq",
+        "bolaning jismoniy rivojlanish davri",
+        "tasdiq, guvohlik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "育ち盛り → bolaning jismoniy rivojlanish davri"
+    },
+    {
+      "id": 53,
+      "questionType": "word",
+      "question": "『miso sho'rvasi』ning yaponcha ifodasi qaysi?",
+      "word": "みそ汁",
+      "choices": [
+        "米の中に麦が混じっている",
+        "小麦粉と卵を混ぜる",
+        "みそ汁",
+        "新聞配達"
+      ],
+      "correctAnswer": 2,
+      "explanation": "miso sho'rvasi → みそ汁"
+    },
+    {
+      "id": 54,
+      "questionType": "meaning",
+      "question": "『服にラーメンの汁がついた』ning ma'nosi qaysi?",
+      "word": "服にラーメンの汁がついた",
+      "choices": [
+        "savollar varag'ini tarqatish",
+        "kirish mumkin bo'lmagan hudud",
+        "hovli",
+        "kiyimga lag'monning sho'rvasi tegishi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "服にラーメンの汁がついた → kiyimga lag'monning sho'rvasi tegishi"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『混乱』ning o'qilishi qaysi?",
+      "word": "混乱",
+      "choices": [
+        "おみやげをとどける",
+        "おしょく",
+        "いま",
+        "こんらん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "混乱 → こんらん"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『こんざつ』qaysi yozuvga mos?",
+      "word": "混雑",
+      "choices": [
+        "汚職",
+        "混雑",
+        "滝で心身を清める",
+        "日誌をつける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こんざつ → 混雑"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『katta portsiya ovqat』ning yaponcha ifodasi qaysi?",
+      "word": "大盛り",
+      "choices": [
+        "汚れた服",
+        "大盛り",
+        "議会を招集する",
+        "育ち盛り"
+      ],
+      "correctAnswer": 1,
+      "explanation": "katta portsiya ovqat → 大盛り"
+    },
+    {
+      "id": 58,
+      "questionType": "reading",
+      "question": "『溶』ning o'qilishi qaysi?",
+      "word": "溶",
+      "choices": [
+        "せいだいな",
+        "ふくむ",
+        "とける",
+        "こっきょうをこえる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "溶 → とける"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『混』ning o'qilishi qaysi?",
+      "word": "混",
+      "choices": [
+        "まざる",
+        "ぎゅうにゅうにカルシウムがふくまれている",
+        "ちょめいじん",
+        "こんらん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "混 → まざる"
+    },
+    {
+      "id": 60,
+      "questionType": "word",
+      "question": "『erimoq, eritmoq』ning yaponcha ifodasi qaysi?",
+      "word": "溶",
+      "choices": [
+        "溶",
+        "掃除する",
+        "論文の清書をする",
+        "証券会社"
+      ],
+      "correctAnswer": 0,
+      "explanation": "erimoq, eritmoq → 溶"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『含』ning o'qilishi qaysi?",
+      "word": "含",
+      "choices": [
+        "こめのなかにむぎがまじっている",
+        "もんだいようしをくばる",
+        "ふくむ",
+        "うんちん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "含 → ふくむ"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『混ざる』ning ma'nosi qaysi?",
+      "word": "混ざる",
+      "choices": [
+        "izakaya (yapon mayxonasi)",
+        "aralashmoq",
+        "tozalash",
+        "iflos qo'l"
+      ],
+      "correctAnswer": 1,
+      "explanation": "混ざる → aralashmoq"
+    },
+    {
+      "id": 63,
+      "questionType": "recognition",
+      "question": "『溶』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "バター溶かす",
+      "choices": [
+        "券",
+        "論文の清書をする",
+        "部屋を汚す",
+        "バター溶かす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "溶 → バター溶かす"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『米の中に麦が混じっている』ning ma'nosi qaysi?",
+      "word": "米の中に麦が混じっている",
+      "choices": [
+        "o'tmoq, kesib o'tmoq",
+        "qizg'in olqishlar",
+        "guruch ichiga bug'doy aralashib ketishi",
+        "sho'rva, suyuqlik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "米の中に麦が混じっている → guruch ichiga bug'doy aralashib ketishi"
+    },
+    {
+      "id": 65,
+      "questionType": "reading",
+      "question": "『丼』ning o'qilishi qaysi?",
+      "word": "丼",
+      "choices": [
+        "かん",
+        "めんきょしょう",
+        "いる",
+        "どんぶり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "丼 → どんぶり"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『そだちざかり』qaysi yozuvga mos?",
+      "word": "育ち盛り",
+      "choices": [
+        "整",
+        "育ち盛り",
+        "大盛り",
+        "問題用紙を配る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "そだちざかり → 育ち盛り"
+    },
+    {
+      "id": 67,
+      "questionType": "meaning",
+      "question": "『丼』ning ma'nosi qaysi?",
+      "word": "丼",
+      "choices": [
+        "bo'yoqni eritish",
+        "gurung,suhbat",
+        "chuqur kosa (donburi)da guruch yeyish",
+        "mahalliy aholi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "丼 → chuqur kosa (donburi)da guruch yeyish"
+    },
+    {
+      "id": 68,
+      "questionType": "recognition",
+      "question": "『汁』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "服にラーメンの汁がついた",
+      "choices": [
+        "丼",
+        "引き出しの中を整理する",
+        "服にラーメンの汁がついた",
+        "配"
+      ],
+      "correctAnswer": 2,
+      "explanation": "汁 → 服にラーメンの汁がついた"
+    },
+    {
+      "id": 69,
+      "questionType": "meaning",
+      "question": "『バター溶かす』ning ma'nosi qaysi?",
+      "word": "バター溶かす",
+      "choices": [
+        "taklif qilmoq",
+        "chuqur kosa (donburi)da guruch yeyish",
+        "foydani taqsimlash",
+        "sariqyog'ni eritish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "バター溶かす → sariqyog'ni eritish"
+    },
+    {
+      "id": 70,
+      "questionType": "reading",
+      "question": "『みそ汁』ning o'qilishi qaysi?",
+      "word": "みそ汁",
+      "choices": [
+        "ざつ",
+        "おくる",
+        "こどもをおくりとどける",
+        "みそしる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "みそ汁 → みそしる"
+    },
+    {
+      "id": 71,
+      "questionType": "meaning",
+      "question": "『氷が溶ける』ning ma'nosi qaysi?",
+      "word": "氷が溶ける",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "muzni erishi",
+        "oqqa ko'chirish",
+        "tayyorgarlik pishmoq (tayyor bo'lmoq)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "氷が溶ける → muzni erishi"
+    },
+    {
+      "id": 72,
+      "questionType": "reading",
+      "question": "『大盛り』ning o'qilishi qaysi?",
+      "word": "大盛り",
+      "choices": [
+        "ひとなみにせいかつする",
+        "おおもり",
+        "おくる",
+        "にゅうじょうけん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大盛り → おおもり"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『溶岩』ning o'qilishi qaysi?",
+      "word": "溶岩",
+      "choices": [
+        "しゅうかんし",
+        "ようがん",
+        "ちょめいじん",
+        "ざっしをよむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "溶岩 → ようがん"
+    },
+    {
+      "id": 74,
+      "questionType": "meaning",
+      "question": "『口に水を含む』ning ma'nosi qaysi?",
+      "word": "口に水を含む",
+      "choices": [
+        "oldindagi mashinani quvib o'tmoq",
+        "korrupsiya",
+        "taklif qilmoq",
+        "og'izga suv olish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "口に水を含む → og'izga suv olish"
+    },
+    {
+      "id": 75,
+      "questionType": "reading",
+      "question": "『盛』ning o'qilishi qaysi?",
+      "word": "盛",
+      "choices": [
+        "せいりせいとん",
+        "もる",
+        "おくりもの",
+        "ほんがかんこうする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "盛 → もる"
+    },
+    {
+      "id": 76,
+      "questionType": "meaning",
+      "question": "『含』ning ma'nosi qaysi?",
+      "word": "含",
+      "choices": [
+        "tarqatmoq, taqsimlamoq",
+        "sovg'a",
+        "o'tmoq, bermoq",
+        "o'z ichiga olmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "含 → o'z ichiga olmoq"
+    },
+    {
+      "id": 77,
+      "questionType": "reading",
+      "question": "『汁』ning o'qilishi qaysi?",
+      "word": "汁",
+      "choices": [
+        "ファッションし",
+        "いき",
+        "しる",
+        "ほんがかんこうする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "汁 → しる"
+    },
+    {
+      "id": 78,
+      "questionType": "meaning",
+      "question": "『皿におかずを盛る』ning ma'nosi qaysi?",
+      "word": "皿におかずを盛る",
+      "choices": [
+        "baxtli oila qurish",
+        "sezilarli (keskin) rivojlanish",
+        "uy ijarasi haqi",
+        "tortmoq, solmoq (idishga)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "皿におかずを盛る → tortmoq, solmoq (idishga)"
     }
   ]
 }

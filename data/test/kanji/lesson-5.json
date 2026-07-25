@@ -1,0 +1,1379 @@
+{
+  "title": "Lesson 5 Test",
+  "type": "kanji",
+  "lesson": "lesson-5",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "kanji",
+      "question": "『ととのえる』qaysi yozuvga mos?",
+      "word": "整",
+      "choices": [
+        "証明する",
+        "子供を送り届ける",
+        "整",
+        "入場券"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ととのえる → 整"
+    },
+    {
+      "id": 2,
+      "questionType": "word",
+      "question": "『tartibga keltirmoq, tayyorlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "整える",
+      "choices": [
+        "年越しそば",
+        "整える",
+        "混雑",
+        "汁"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tartibga keltirmoq, tayyorlamoq → 整える"
+    },
+    {
+      "id": 3,
+      "questionType": "recognition",
+      "question": "『汚』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "部屋を汚す",
+      "choices": [
+        "部屋を汚す",
+        "雑音がする",
+        "賃",
+        "契"
+      ],
+      "correctAnswer": 0,
+      "explanation": "汚 → 部屋を汚す"
+    },
+    {
+      "id": 4,
+      "questionType": "word",
+      "question": "『maktab hovlisi』ning yaponcha ifodasi qaysi?",
+      "word": "校庭",
+      "choices": [
+        "名前を汚す",
+        "免許証",
+        "混雑",
+        "校庭"
+      ],
+      "correctAnswer": 3,
+      "explanation": "maktab hovlisi → 校庭"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『hovli』ning yaponcha ifodasi qaysi?",
+      "word": "庭",
+      "choices": [
+        "大盛り",
+        "子供を送り届ける",
+        "庭",
+        "氷が溶ける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "hovli → 庭"
+    },
+    {
+      "id": 6,
+      "questionType": "meaning",
+      "question": "『居間』ning ma'nosi qaysi?",
+      "word": "居間",
+      "choices": [
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "og'izga suv olish",
+        "miso sho'rvasi",
+        "yashash xonasi (zal)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "居間 → yashash xonasi (zal)"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『掃除する』ning ma'nosi qaysi?",
+      "word": "掃除する",
+      "choices": [
+        "yo'lovchi chiptasi",
+        "izakaya (yapon mayxonasi)",
+        "shaxsni tasdiqlovchi hujjat",
+        "tozalash"
+      ],
+      "correctAnswer": 3,
+      "explanation": "掃除する → tozalash"
+    },
+    {
+      "id": 8,
+      "questionType": "recognition",
+      "question": "『清』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "論文の清書をする",
+      "choices": [
+        "域",
+        "論文の清書をする",
+        "株券",
+        "問題用紙を配る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "清 → 論文の清書をする"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『じゅうきょ』qaysi yozuvga mos?",
+      "word": "住居",
+      "choices": [
+        "気を配る",
+        "包帯を巻く",
+        "著しい進歩",
+        "住居"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じゅうきょ → 住居"
+    },
+    {
+      "id": 10,
+      "questionType": "word",
+      "question": "『xonani iflos qilish』ning yaponcha ifodasi qaysi?",
+      "word": "部屋を汚す",
+      "choices": [
+        "本を著す",
+        "汁",
+        "お土産を届ける",
+        "部屋を汚す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "xonani iflos qilish → 部屋を汚す"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『汚』ning o'qilishi qaysi?",
+      "word": "汚",
+      "choices": [
+        "ほんがかんこうする",
+        "せいだいな",
+        "こめのなかにむぎがまじっている",
+        "よごす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "汚 → よごす"
+    },
+    {
+      "id": 12,
+      "questionType": "kanji",
+      "question": "『きよい』qaysi yozuvga mos?",
+      "word": "清",
+      "choices": [
+        "清",
+        "暴力団を一掃する",
+        "本を著す",
+        "包帯を巻く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きよい → 清"
+    },
+    {
+      "id": 13,
+      "questionType": "sentence",
+      "question": "『掃除する』ning ma'nosi qaysi?",
+      "word": "掃除する",
+      "choices": [
+        "tozalash",
+        "erimoq, eritmoq",
+        "jurnal, yozuv",
+        "o'ramoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "掃除する → tozalash"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『清』ning o'qilishi qaysi?",
+      "word": "清",
+      "choices": [
+        "きをくばる",
+        "きよい",
+        "ちんぎん",
+        "とうげをこす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "清 → きよい"
+    },
+    {
+      "id": 15,
+      "questionType": "meaning",
+      "question": "『整』ning ma'nosi qaysi?",
+      "word": "整",
+      "choices": [
+        "maktab hovlisi",
+        "pasport (xorijiy)",
+        "tartibga keltirmoq",
+        "mashhur inson"
+      ],
+      "correctAnswer": 2,
+      "explanation": "整 → tartibga keltirmoq"
+    },
+    {
+      "id": 16,
+      "questionType": "meaning",
+      "question": "『日本庭園』ning ma'nosi qaysi?",
+      "word": "日本庭園",
+      "choices": [
+        "kelmaslik haqidagi xabarnoma (ariza)",
+        "chuqur kosa (donburi)",
+        "yapon usulidagi bog'",
+        "tartibga keltirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "日本庭園 → yapon usulidagi bog'"
+    },
+    {
+      "id": 17,
+      "questionType": "reading",
+      "question": "『庭』ning o'qilishi qaysi?",
+      "word": "庭",
+      "choices": [
+        "へやをよごす",
+        "おすい",
+        "ふくにラーメンのしるがついた",
+        "にわ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "庭 → にわ"
+    },
+    {
+      "id": 18,
+      "questionType": "word",
+      "question": "『to'kilgan barglarni supurish』ning yaponcha ifodasi qaysi?",
+      "word": "落ち葉を掃く",
+      "choices": [
+        "落ち葉を掃く",
+        "証",
+        "論文の清書をする",
+        "乗車券"
+      ],
+      "correctAnswer": 0,
+      "explanation": "to'kilgan barglarni supurish → 落ち葉を掃く"
+    },
+    {
+      "id": 19,
+      "questionType": "sentence",
+      "question": "『日本庭園』ning ma'nosi qaysi?",
+      "word": "日本庭園",
+      "choices": [
+        "yapon usulidagi bog'",
+        "men bilan 4 kishi",
+        "sof qalb",
+        "kitob nashr etilishi, bosib chiqarilishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "日本庭園 → yapon usulidagi bog'"
+    },
+    {
+      "id": 20,
+      "questionType": "sentence",
+      "question": "『落ち葉を掃く』ning ma'nosi qaysi?",
+      "word": "落ち葉を掃く",
+      "choices": [
+        "kitob yozmoq, nashr etmoq",
+        "to'kilgan barglarni supurish",
+        "toza, pok",
+        "haq, ijara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "落ち葉を掃く → to'kilgan barglarni supurish"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『toza, pok』ning yaponcha ifodasi qaysi?",
+      "word": "清",
+      "choices": [
+        "清",
+        "気を配る",
+        "新しいクラスに溶け込む",
+        "論文の清書をする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "toza, pok → 清"
+    },
+    {
+      "id": 22,
+      "questionType": "reading",
+      "question": "『居間』ning o'qilishi qaysi?",
+      "word": "居間",
+      "choices": [
+        "ふくにラーメンのしるがついた",
+        "ならぶ",
+        "いま",
+        "くばる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "居間 → いま"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『そうじする』qaysi yozuvga mos?",
+      "word": "掃除する",
+      "choices": [
+        "暴力団を一掃する",
+        "混雑",
+        "掃除する",
+        "招待する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "そうじする → 掃除する"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『hovli, bog'』ning yaponcha ifodasi qaysi?",
+      "word": "庭",
+      "choices": [
+        "庭",
+        "雑音がする",
+        "地域住民",
+        "含"
+      ],
+      "correctAnswer": 0,
+      "explanation": "hovli, bog' → 庭"
+    },
+    {
+      "id": 25,
+      "questionType": "reading",
+      "question": "『汚水』ning o'qilishi qaysi?",
+      "word": "汚水",
+      "choices": [
+        "おすい",
+        "みそしる",
+        "なみ",
+        "えのぐをとく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "汚水 → おすい"
+    },
+    {
+      "id": 26,
+      "questionType": "sentence",
+      "question": "『汚れた服』ning ma'nosi qaysi?",
+      "word": "汚れた服",
+      "choices": [
+        "ni turtki (bahona) qilib",
+        "jurnal o'qimoq",
+        "kir bo'lgan kiyim",
+        "yashash xonasi (zal)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "汚れた服 → kir bo'lgan kiyim"
+    },
+    {
+      "id": 27,
+      "questionType": "meaning",
+      "question": "『汚水』ning ma'nosi qaysi?",
+      "word": "汚水",
+      "choices": [
+        "shartnoma, ahd",
+        "moda jurnali",
+        "oqava suv",
+        "kundalik yozib borish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "汚水 → oqava suv"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『きよいこころ』qaysi yozuvga mos?",
+      "word": "清い心",
+      "choices": [
+        "立ち入り禁止区域",
+        "証明する",
+        "清い心",
+        "汚職"
+      ],
+      "correctAnswer": 2,
+      "explanation": "きよいこころ → 清い心"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『にわ』qaysi yozuvga mos?",
+      "word": "庭",
+      "choices": [
+        "庭",
+        "身分証明書",
+        "招待する",
+        "心が清まる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "にわ → 庭"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『butunlay tugatish, tozalash』ning yaponcha ifodasi qaysi?",
+      "word": "暴力団を一掃する",
+      "choices": [
+        "部屋を汚す",
+        "乗車券",
+        "汚水",
+        "暴力団を一掃する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "butunlay tugatish, tozalash → 暴力団を一掃する"
+    },
+    {
+      "id": 31,
+      "questionType": "recognition",
+      "question": "『清』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "滝で心身を清める",
+      "choices": [
+        "欠席届",
+        "汚水",
+        "券",
+        "滝で心身を清める"
+      ],
+      "correctAnswer": 3,
+      "explanation": "清 → 滝で心身を清める"
+    },
+    {
+      "id": 32,
+      "questionType": "reading",
+      "question": "『校庭』ning o'qilishi qaysi?",
+      "word": "校庭",
+      "choices": [
+        "おちばをはく",
+        "いざかや",
+        "こむぎことたまごをまぜる",
+        "こうてい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "校庭 → こうてい"
+    },
+    {
+      "id": 33,
+      "questionType": "meaning",
+      "question": "『引き出しの中を整理する』ning ma'nosi qaysi?",
+      "word": "引き出しの中を整理する",
+      "choices": [
+        "javon ichini tartibga keltirish",
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "tizilmoq, oddiy/o'rtacha",
+        "yo'lovchi chiptasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "引き出しの中を整理する → javon ichini tartibga keltirish"
+    },
+    {
+      "id": 34,
+      "questionType": "word",
+      "question": "『oqqa ko'chirish』ning yaponcha ifodasi qaysi?",
+      "word": "論文の清書をする",
+      "choices": [
+        "校庭",
+        "雑誌を読む",
+        "論文の清書をする",
+        "配"
+      ],
+      "correctAnswer": 2,
+      "explanation": "oqqa ko'chirish → 論文の清書をする"
+    },
+    {
+      "id": 35,
+      "questionType": "word",
+      "question": "『iflos qo'l』ning yaponcha ifodasi qaysi?",
+      "word": "汚い手",
+      "choices": [
+        "汚い手",
+        "心が清まる",
+        "賃貸マンション",
+        "券"
+      ],
+      "correctAnswer": 0,
+      "explanation": "iflos qo'l → 汚い手"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『整』ning o'qilishi qaysi?",
+      "word": "整",
+      "choices": [
+        "ととのえる",
+        "プレゼントをおくる",
+        "よごす",
+        "せいりせいとん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "整 → ととのえる"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『汚染された川』ning ma'nosi qaysi?",
+      "word": "汚染された川",
+      "choices": [
+        "ota-ona bilan birga yashamoq",
+        "tortmoq, solmoq (idishga)",
+        "ifloslantirilgan daryo",
+        "parlament yig'ilishini chaqirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "汚染された川 → ifloslantirilgan daryo"
+    },
+    {
+      "id": 38,
+      "questionType": "word",
+      "question": "『supurmoq, tozalamoq』ning yaponcha ifodasi qaysi?",
+      "word": "掃",
+      "choices": [
+        "庭",
+        "掃",
+        "年越しそば",
+        "日本庭園"
+      ],
+      "correctAnswer": 1,
+      "explanation": "supurmoq, tozalamoq → 掃"
+    },
+    {
+      "id": 39,
+      "questionType": "meaning",
+      "question": "『汚』ning ma'nosi qaysi?",
+      "word": "汚",
+      "choices": [
+        "haftalik gazeta",
+        "iflos, kir",
+        "sezilarli (keskin) rivojlanish",
+        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "汚 → iflos, kir"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『しばい』qaysi yozuvga mos?",
+      "word": "芝居",
+      "choices": [
+        "盛",
+        "著者",
+        "暴力団を一掃する",
+        "芝居"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しばい → 芝居"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『清い心』ning o'qilishi qaysi?",
+      "word": "清い心",
+      "choices": [
+        "きよいこころ",
+        "わたしをふくめてよにん",
+        "よごす",
+        "ほんがかんこうする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "清い心 → きよいこころ"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『こうてい』qaysi yozuvga mos?",
+      "word": "校庭",
+      "choices": [
+        "校庭",
+        "整える",
+        "家賃",
+        "証券会社"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こうてい → 校庭"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『きたないて』qaysi yozuvga mos?",
+      "word": "汚い手",
+      "choices": [
+        "汚い手",
+        "丼",
+        "清い心",
+        "盛"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きたないて → 汚い手"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『住居』ning o'qilishi qaysi?",
+      "word": "住居",
+      "choices": [
+        "めんきょしょう",
+        "じゅうきょ",
+        "こんらん",
+        "きよいこころ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "住居 → じゅうきょ"
+    },
+    {
+      "id": 45,
+      "questionType": "word",
+      "question": "『bo'lmoq, yashamoq』ning yaponcha ifodasi qaysi?",
+      "word": "居",
+      "choices": [
+        "整",
+        "居",
+        "仮の住まい",
+        "免許証"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bo'lmoq, yashamoq → 居"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『掃』ning o'qilishi qaysi?",
+      "word": "掃",
+      "choices": [
+        "とどく",
+        "しんぱいする",
+        "はく",
+        "ならぶ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "掃 → はく"
+    },
+    {
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『にほんていえん』qaysi yozuvga mos?",
+      "word": "日本庭園",
+      "choices": [
+        "免許証",
+        "日本庭園",
+        "物を渡す",
+        "夕刊"
+      ],
+      "correctAnswer": 1,
+      "explanation": "にほんていえん → 日本庭園"
+    },
+    {
+      "id": 48,
+      "questionType": "recognition",
+      "question": "『汚』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "名前を汚す",
+      "choices": [
+        "名前を汚す",
+        "包帯を巻く",
+        "券",
+        "汚水"
+      ],
+      "correctAnswer": 0,
+      "explanation": "汚 → 名前を汚す"
+    },
+    {
+      "id": 49,
+      "questionType": "sentence",
+      "question": "『暴力団を一掃する』ning ma'nosi qaysi?",
+      "word": "暴力団を一掃する",
+      "choices": [
+        "yapon usulidagi bog'",
+        "foydani taqsimlash",
+        "mashhur inson",
+        "butunlay tugatish, tozalash"
+      ],
+      "correctAnswer": 3,
+      "explanation": "暴力団を一掃する → butunlay tugatish, tozalash"
+    },
+    {
+      "id": 50,
+      "questionType": "kanji",
+      "question": "『にわ』qaysi yozuvga mos?",
+      "word": "庭",
+      "choices": [
+        "親と同居する",
+        "庭",
+        "刊",
+        "並べる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "にわ → 庭"
+    },
+    {
+      "id": 51,
+      "questionType": "meaning",
+      "question": "『住居』ning ma'nosi qaysi?",
+      "word": "住居",
+      "choices": [
+        "yangi yilda yeyiladigan soba",
+        "bo'yoqni eritish",
+        "turar-joy",
+        "guvohnoma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "住居 → turar-joy"
+    },
+    {
+      "id": 52,
+      "questionType": "kanji",
+      "question": "『いる』qaysi yozuvga mos?",
+      "word": "居",
+      "choices": [
+        "皿におかずを盛る",
+        "欠席届",
+        "契約をする",
+        "居"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いる → 居"
+    },
+    {
+      "id": 53,
+      "questionType": "sentence",
+      "question": "『明るい家庭を築く』ning ma'nosi qaysi?",
+      "word": "明るい家庭を築く",
+      "choices": [
+        "ifloslantirilgan daryo",
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "shartnoma",
+        "baxtli oila qurish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "明るい家庭を築く → baxtli oila qurish"
+    },
+    {
+      "id": 54,
+      "questionType": "sentence",
+      "question": "『滝で心身を清める』ning ma'nosi qaysi?",
+      "word": "滝で心身を清める",
+      "choices": [
+        "og'izga suv olish",
+        "sharsharada tana va qalbni poklamoq",
+        "teatr tomoshasi, spektakl",
+        "o'z davlati hududi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "滝で心身を清める → sharsharada tana va qalbni poklamoq"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『整える』ning o'qilishi qaysi?",
+      "word": "整える",
+      "choices": [
+        "ととのえる",
+        "こうてい",
+        "しんぶんはいたつ",
+        "おちばをはく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "整える → ととのえる"
+    },
+    {
+      "id": 56,
+      "questionType": "word",
+      "question": "『baxtli oila qurish』ning yaponcha ifodasi qaysi?",
+      "word": "明るい家庭を築く",
+      "choices": [
+        "含",
+        "問題用紙を配る",
+        "明るい家庭を築く",
+        "本を著す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "baxtli oila qurish → 明るい家庭を築く"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『ota-ona bilan birga yashamoq』ning yaponcha ifodasi qaysi?",
+      "word": "親と同居する",
+      "choices": [
+        "賃金",
+        "米の中に麦が混じっている",
+        "明るい家庭を築く",
+        "親と同居する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ota-ona bilan birga yashamoq → 親と同居する"
+    },
+    {
+      "id": 58,
+      "questionType": "sentence",
+      "question": "『教室の清掃をする』ning ma'nosi qaysi?",
+      "word": "教室の清掃をする",
+      "choices": [
+        "jurnal, yozuv",
+        "kir bo'lgan kiyim",
+        "hovli, bog'",
+        "sinf xonasini tozalash"
+      ],
+      "correctAnswer": 3,
+      "explanation": "教室の清掃をする → sinf xonasini tozalash"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『汚い手』ning o'qilishi qaysi?",
+      "word": "汚い手",
+      "choices": [
+        "きたないて",
+        "りょけん",
+        "わたる",
+        "てんどん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "汚い手 → きたないて"
+    },
+    {
+      "id": 60,
+      "questionType": "sentence",
+      "question": "『引き出しの中を整理する』ning ma'nosi qaysi?",
+      "word": "引き出しの中を整理する",
+      "choices": [
+        "gazeta yetkazib berish (kuryerlik)",
+        "nashr qilish",
+        "kitob yozmoq, nashr etmoq",
+        "javon ichini tartibga keltirish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "引き出しの中を整理する → javon ichini tartibga keltirish"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『滝で心身を清める』ning ma'nosi qaysi?",
+      "word": "滝で心身を清める",
+      "choices": [
+        "ni turtki (bahona) qilib",
+        "vaqtinchalik, faraz",
+        "o'z ichiga olmoq",
+        "sharsharada tana va qalbni poklamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "滝で心身を清める → sharsharada tana va qalbni poklamoq"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『庭』ning o'qilishi qaysi?",
+      "word": "庭",
+      "choices": [
+        "にわ",
+        "てがみがとどく",
+        "うんちん",
+        "いざかや"
+      ],
+      "correctAnswer": 0,
+      "explanation": "庭 → にわ"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『居酒屋』ning o'qilishi qaysi?",
+      "word": "居酒屋",
+      "choices": [
+        "りえきをはいぶんする",
+        "いざかや",
+        "さいばんしょでしょうげんする",
+        "なまえをけがす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "居酒屋 → いざかや"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『汚職』ning o'qilishi qaysi?",
+      "word": "汚職",
+      "choices": [
+        "しょうめいする",
+        "めんきょしょう",
+        "きたないて",
+        "おしょく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "汚職 → おしょく"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『はく』qaysi yozuvga mos?",
+      "word": "掃",
+      "choices": [
+        "掃",
+        "仮説を立てる",
+        "気を配る",
+        "みそ汁"
+      ],
+      "correctAnswer": 0,
+      "explanation": "はく → 掃"
+    },
+    {
+      "id": 66,
+      "questionType": "recognition",
+      "question": "『庭』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "庭",
+      "choices": [
+        "著者",
+        "汚い手",
+        "庭",
+        "盛"
+      ],
+      "correctAnswer": 2,
+      "explanation": "庭 → 庭"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『居』ning o'qilishi qaysi?",
+      "word": "居",
+      "choices": [
+        "しんぶんはいたつ",
+        "けっせきとどけ",
+        "なまえをけがす",
+        "いる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "居 → いる"
+    },
+    {
+      "id": 68,
+      "questionType": "recognition",
+      "question": "『庭』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "校庭",
+      "choices": [
+        "夕刊",
+        "校庭",
+        "日誌をつける",
+        "前の車を追い越す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "庭 → 校庭"
+    },
+    {
+      "id": 69,
+      "questionType": "recognition",
+      "question": "『汚』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "汚染された川",
+      "choices": [
+        "溶",
+        "汚染された川",
+        "日本庭園",
+        "心が清まる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "汚 → 汚染された川"
+    },
+    {
+      "id": 70,
+      "questionType": "word",
+      "question": "『izakaya (yapon mayxonasi)』ning yaponcha ifodasi qaysi?",
+      "word": "居酒屋",
+      "choices": [
+        "居酒屋",
+        "峠を越す",
+        "汚",
+        "入場券"
+      ],
+      "correctAnswer": 0,
+      "explanation": "izakaya (yapon mayxonasi) → 居酒屋"
+    },
+    {
+      "id": 71,
+      "questionType": "sentence",
+      "question": "『整理整頓』ning ma'nosi qaysi?",
+      "word": "整理整頓",
+      "choices": [
+        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish",
+        "yangi sinfga moslashib ketmoq",
+        "taklif qilmoq",
+        "o'ramoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "整理整頓 → narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish"
+    },
+    {
+      "id": 72,
+      "questionType": "reading",
+      "question": "『芝居』ning o'qilishi qaysi?",
+      "word": "芝居",
+      "choices": [
+        "きたないて",
+        "ていきけん",
+        "しばい",
+        "よごす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "芝居 → しばい"
+    },
+    {
+      "id": 73,
+      "questionType": "meaning",
+      "question": "『準備が整う』ning ma'nosi qaysi?",
+      "word": "準備が整う",
+      "choices": [
+        "tayyorgarlik pishmoq (tayyor bo'lmoq)",
+        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish",
+        "haftalik gazeta",
+        "sharsharada tana va qalbni poklamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "準備が整う → tayyorgarlik pishmoq (tayyor bo'lmoq)"
+    },
+    {
+      "id": 74,
+      "questionType": "sentence",
+      "question": "『名前を汚す』ning ma'nosi qaysi?",
+      "word": "名前を汚す",
+      "choices": [
+        "supurmoq, tozalamoq",
+        "mashhur inson",
+        "davlat chegarasidan kesib o'tish",
+        "nomiga dog' tushirmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "名前を汚す → nomiga dog' tushirmoq"
+    },
+    {
+      "id": 75,
+      "questionType": "meaning",
+      "question": "『芝居』ning ma'nosi qaysi?",
+      "word": "芝居",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "bolaning jismoniy rivojlanish davri",
+        "tiqilinch, gavjumlik",
+        "o'tmoq, kesib o'tmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "芝居 → teatr tomoshasi, spektakl"
+    },
+    {
+      "id": 76,
+      "questionType": "meaning",
+      "question": "『心が清まる』ning ma'nosi qaysi?",
+      "word": "心が清まる",
+      "choices": [
+        "to'kilgan barglarni supurish",
+        "qalb tozalanmoq",
+        "chuqur kosa (donburi)",
+        "ni turtki (bahona) qilib"
+      ],
+      "correctAnswer": 1,
+      "explanation": "心が清まる → qalb tozalanmoq"
+    },
+    {
+      "id": 77,
+      "questionType": "sentence",
+      "question": "『論文の清書をする』ning ma'nosi qaysi?",
+      "word": "論文の清書をする",
+      "choices": [
+        "diqqatni qaratish",
+        "ijaraga olingan ko'p qavatli uy",
+        "oqqa ko'chirish",
+        "sof qalb"
+      ],
+      "correctAnswer": 2,
+      "explanation": "論文の清書をする → oqqa ko'chirish"
+    },
+    {
+      "id": 78,
+      "questionType": "sentence",
+      "question": "『心が清まる』ning ma'nosi qaysi?",
+      "word": "心が清まる",
+      "choices": [
+        "tizilmoq, oddiy/o'rtacha",
+        "yangi yilda yeyiladigan soba",
+        "qalb tozalanmoq",
+        "ish haqi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "心が清まる → qalb tozalanmoq"
+    },
+    {
+      "id": 79,
+      "questionType": "word",
+      "question": "『sof qalb』ning yaponcha ifodasi qaysi?",
+      "word": "清い心",
+      "choices": [
+        "溶",
+        "清い心",
+        "教室の清掃をする",
+        "夕刊"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sof qalb → 清い心"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『おしょく』qaysi yozuvga mos?",
+      "word": "汚職",
+      "choices": [
+        "前の車を追い越す",
+        "庭",
+        "汚職",
+        "牛乳にカルシウムが含まれている"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おしょく → 汚職"
+    },
+    {
+      "id": 81,
+      "questionType": "word",
+      "question": "『korrupsiya』ning yaponcha ifodasi qaysi?",
+      "word": "汚職",
+      "choices": [
+        "贈",
+        "雑",
+        "峠を越す",
+        "汚職"
+      ],
+      "correctAnswer": 3,
+      "explanation": "korrupsiya → 汚職"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『名前を汚す』ning ma'nosi qaysi?",
+      "word": "名前を汚す",
+      "choices": [
+        "to'kilgan barglarni supurish",
+        "chuqur kosa (donburi)da guruch yeyish",
+        "yo'l haqi",
+        "nomiga dog' tushirmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "名前を汚す → nomiga dog' tushirmoq"
+    },
+    {
+      "id": 83,
+      "questionType": "recognition",
+      "question": "『居』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "居間",
+      "choices": [
+        "週刊誌",
+        "居間",
+        "パーティーに招く",
+        "本が刊行する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "居 → 居間"
+    },
+    {
+      "id": 84,
+      "questionType": "kanji",
+      "question": "『せいりせいとん』qaysi yozuvga mos?",
+      "word": "整理整頓",
+      "choices": [
+        "プレゼントを贈る",
+        "混",
+        "整理整頓",
+        "服にラーメンの汁がついた"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せいりせいとん → 整理整頓"
+    },
+    {
+      "id": 85,
+      "questionType": "sentence",
+      "question": "『準備が整う』ning ma'nosi qaysi?",
+      "word": "準備が整う",
+      "choices": [
+        "tayyorgarlik pishmoq (tayyor bo'lmoq)",
+        "taklif qilmoq, chaqirmoq",
+        "guvohnoma",
+        "pasport (xorijiy)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "準備が整う → tayyorgarlik pishmoq (tayyor bo'lmoq)"
+    },
+    {
+      "id": 86,
+      "questionType": "sentence",
+      "question": "『親と同居する』ning ma'nosi qaysi?",
+      "word": "親と同居する",
+      "choices": [
+        "ota-ona bilan birga yashamoq",
+        "parlament yig'ilishini chaqirmoq",
+        "ish haqi",
+        "izakaya (yapon mayxonasi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "親と同居する → ota-ona bilan birga yashamoq"
+    },
+    {
+      "id": 87,
+      "questionType": "kanji",
+      "question": "『おすい』qaysi yozuvga mos?",
+      "word": "汚水",
+      "choices": [
+        "裁判所で証言する",
+        "気を配る",
+        "汚水",
+        "みそ汁"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おすい → 汚水"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『よごれたふく』qaysi yozuvga mos?",
+      "word": "汚れた服",
+      "choices": [
+        "問題用紙を配る",
+        "牛乳にカルシウムが含まれている",
+        "利益を配分する",
+        "汚れた服"
+      ],
+      "correctAnswer": 3,
+      "explanation": "よごれたふく → 汚れた服"
+    },
+    {
+      "id": 89,
+      "questionType": "sentence",
+      "question": "『汚染された川』ning ma'nosi qaysi?",
+      "word": "汚染された川",
+      "choices": [
+        "solmoq, gullamoq",
+        "ifloslantirilgan daryo",
+        "o'tmoq, kesib o'tmoq",
+        "sinf xonasini tozalash"
+      ],
+      "correctAnswer": 1,
+      "explanation": "汚染された川 → ifloslantirilgan daryo"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『いま』qaysi yozuvga mos?",
+      "word": "居間",
+      "choices": [
+        "汁",
+        "引き出しの中を整理する",
+        "居間",
+        "仮"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いま → 居間"
+    },
+    {
+      "id": 91,
+      "questionType": "sentence",
+      "question": "『部屋を汚す』ning ma'nosi qaysi?",
+      "word": "部屋を汚す",
+      "choices": [
+        "kirish chiptasi",
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "bazmga taklif etish",
+        "xonani iflos qilish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "部屋を汚す → xonani iflos qilish"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『いざかや』qaysi yozuvga mos?",
+      "word": "居酒屋",
+      "choices": [
+        "心が清まる",
+        "欠席届",
+        "論文の清書をする",
+        "居酒屋"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いざかや → 居酒屋"
+    },
+    {
+      "id": 93,
+      "questionType": "recognition",
+      "question": "『掃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "落ち葉を掃く",
+      "choices": [
+        "落ち葉を掃く",
+        "心が清まる",
+        "仮",
+        "川の流域"
+      ],
+      "correctAnswer": 0,
+      "explanation": "掃 → 落ち葉を掃く"
+    },
+    {
+      "id": 94,
+      "questionType": "meaning",
+      "question": "『汚れた服』ning ma'nosi qaysi?",
+      "word": "汚れた服",
+      "choices": [
+        "o'rtacha hayot kechirish",
+        "kir bo'lgan kiyim",
+        "muzni erishi",
+        "o'ramoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "汚れた服 → kir bo'lgan kiyim"
+    },
+    {
+      "id": 95,
+      "questionType": "meaning",
+      "question": "『教室の清掃をする』ning ma'nosi qaysi?",
+      "word": "教室の清掃をする",
+      "choices": [
+        "sinf xonasini tozalash",
+        "kir bo'lgan kiyim",
+        "haftalik gazeta",
+        "chuqur kosa (donburi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "教室の清掃をする → sinf xonasini tozalash"
+    },
+    {
+      "id": 96,
+      "questionType": "meaning",
+      "question": "『整理整頓』ning ma'nosi qaysi?",
+      "word": "整理整頓",
+      "choices": [
+        "guvohnoma",
+        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish",
+        "gipoteza (faraz) qo'ymoq",
+        "muzni erishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "整理整頓 → narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish"
+    },
+    {
+      "id": 97,
+      "questionType": "kanji",
+      "question": "『よごす』qaysi yozuvga mos?",
+      "word": "汚",
+      "choices": [
+        "居間",
+        "汚",
+        "招待する",
+        "盛"
+      ],
+      "correctAnswer": 1,
+      "explanation": "よごす → 汚"
+    },
+    {
+      "id": 98,
+      "questionType": "kanji",
+      "question": "『ととのえる』qaysi yozuvga mos?",
+      "word": "整える",
+      "choices": [
+        "盛大な",
+        "汚",
+        "問題用紙を配る",
+        "整える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ととのえる → 整える"
+    }
+  ]
+}

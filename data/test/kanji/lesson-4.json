@@ -1,0 +1,1071 @@
+{
+  "title": "Lesson 4 Test",
+  "type": "kanji",
+  "lesson": "lesson-4",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "word",
+      "question": "『o'ramoq』ning yaponcha ifodasi qaysi?",
+      "word": "巻",
+      "choices": [
+        "川の流域",
+        "免許証",
+        "巻",
+        "盛"
+      ],
+      "correctAnswer": 2,
+      "explanation": "o'ramoq → 巻"
+    },
+    {
+      "id": 2,
+      "questionType": "kanji",
+      "question": "『ちょしゃ』qaysi yozuvga mos?",
+      "word": "著者",
+      "choices": [
+        "著者",
+        "子供を送り届ける",
+        "名前を汚す",
+        "気を配る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちょしゃ → 著者"
+    },
+    {
+      "id": 3,
+      "questionType": "recognition",
+      "question": "『著』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "著名人",
+      "choices": [
+        "券",
+        "著名人",
+        "育ち盛り",
+        "国境を越える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "著 → 著名人"
+    },
+    {
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『し』qaysi yozuvga mos?",
+      "word": "誌",
+      "choices": [
+        "教室の清掃をする",
+        "定期券",
+        "整理整頓",
+        "誌"
+      ],
+      "correctAnswer": 3,
+      "explanation": "し → 誌"
+    },
+    {
+      "id": 5,
+      "questionType": "kanji",
+      "question": "『ほんをあらわす』qaysi yozuvga mos?",
+      "word": "本を著す",
+      "choices": [
+        "保証人",
+        "天丼",
+        "校庭",
+        "本を著す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ほんをあらわす → 本を著す"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『ちょうかん』qaysi yozuvga mos?",
+      "word": "朝刊",
+      "choices": [
+        "落ち葉を掃く",
+        "仮説を立てる",
+        "包帯を巻く",
+        "朝刊"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちょうかん → 朝刊"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『人並みに生活する』ning ma'nosi qaysi?",
+      "word": "人並みに生活する",
+      "choices": [
+        "o'rtacha hayot kechirish",
+        "tozalash",
+        "vaqtinchalik, faraz",
+        "yo'lovchi chiptasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "人並みに生活する → o'rtacha hayot kechirish"
+    },
+    {
+      "id": 8,
+      "questionType": "recognition",
+      "question": "『誌』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "ファッション誌",
+      "choices": [
+        "利益を配分する",
+        "ファッション誌",
+        "バター溶かす",
+        "免許証"
+      ],
+      "correctAnswer": 1,
+      "explanation": "誌 → ファッション誌"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
+      "question": "『日誌をつける』ning ma'nosi qaysi?",
+      "word": "日誌をつける",
+      "choices": [
+        "sinf xonasini tozalash",
+        "kundalik yozib borish",
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "yapon usulidagi bog'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "日誌をつける → kundalik yozib borish"
+    },
+    {
+      "id": 10,
+      "questionType": "meaning",
+      "question": "『雑誌を読む』ning ma'nosi qaysi?",
+      "word": "雑誌を読む",
+      "choices": [
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "gipoteza (faraz) qo'ymoq",
+        "jurnal o'qimoq",
+        "taklif qilmoq, chaqirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "雑誌を読む → jurnal o'qimoq"
+    },
+    {
+      "id": 11,
+      "questionType": "sentence",
+      "question": "『複雑な計算』ning ma'nosi qaysi?",
+      "word": "複雑な計算",
+      "choices": [
+        "oqava suv",
+        "murakkab hisob-kitob",
+        "haftalik gazeta",
+        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "複雑な計算 → murakkab hisob-kitob"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)』ning yaponcha ifodasi qaysi?",
+      "word": "雑音がする",
+      "choices": [
+        "論文の清書をする",
+        "雑音がする",
+        "盛んな声援",
+        "盛大な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi) → 雑音がする"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『yozuvchi』ning yaponcha ifodasi qaysi?",
+      "word": "著者",
+      "choices": [
+        "著者",
+        "契約書",
+        "著名人",
+        "前の車を追い越す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yozuvchi → 著者"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『かん』qaysi yozuvga mos?",
+      "word": "刊",
+      "choices": [
+        "刊",
+        "並",
+        "手紙が届く",
+        "親と同居する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かん → 刊"
+    },
+    {
+      "id": 15,
+      "questionType": "meaning",
+      "question": "『のり巻き』ning ma'nosi qaysi?",
+      "word": "のり巻き",
+      "choices": [
+        "norimaki (nori o'ralgan sushi)",
+        "jurnal o'qimoq",
+        "bolaning jismoniy rivojlanish davri",
+        "sovg'a qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "のり巻き → norimaki (nori o'ralgan sushi)"
+    },
+    {
+      "id": 16,
+      "questionType": "word",
+      "question": "『aralash, pala-partish』ning yaponcha ifodasi qaysi?",
+      "word": "雑",
+      "choices": [
+        "絵の具を溶く",
+        "溶",
+        "子供を送り届ける",
+        "雑"
+      ],
+      "correctAnswer": 3,
+      "explanation": "aralash, pala-partish → 雑"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『bint o'ramoq』ning yaponcha ifodasi qaysi?",
+      "word": "包帯を巻く",
+      "choices": [
+        "賃金",
+        "欠席届",
+        "包帯を巻く",
+        "身分証明書"
+      ],
+      "correctAnswer": 2,
+      "explanation": "bint o'ramoq → 包帯を巻く"
+    },
+    {
+      "id": 18,
+      "questionType": "reading",
+      "question": "『著者』ning o'qilishi qaysi?",
+      "word": "著者",
+      "choices": [
+        "きょうしつのせいそうをする",
+        "ちょしゃ",
+        "しばい",
+        "じょうしゃけん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "著者 → ちょしゃ"
+    },
+    {
+      "id": 19,
+      "questionType": "reading",
+      "question": "『夕刊』ning o'qilishi qaysi?",
+      "word": "夕刊",
+      "choices": [
+        "ゆうかん",
+        "やちん",
+        "さいばんしょでしょうげんする",
+        "まざる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "夕刊 → ゆうかん"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『著』ning o'qilishi qaysi?",
+      "word": "著",
+      "choices": [
+        "ほうたいをまく",
+        "ざっしをよむ",
+        "あらわす",
+        "ぎゅうにゅうにカルシウムがふくまれている"
+      ],
+      "correctAnswer": 2,
+      "explanation": "著 → あらわす"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『tizilmoq, oddiy/o'rtacha』ning yaponcha ifodasi qaysi?",
+      "word": "並",
+      "choices": [
+        "契約書",
+        "並",
+        "汚染された川",
+        "招"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tizilmoq, oddiy/o'rtacha → 並"
+    },
+    {
+      "id": 22,
+      "questionType": "recognition",
+      "question": "『雑』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "雑音がする",
+      "choices": [
+        "裁判所で証言する",
+        "届",
+        "包帯を巻く",
+        "雑音がする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "雑 → 雑音がする"
+    },
+    {
+      "id": 23,
+      "questionType": "meaning",
+      "question": "『夕刊』ning ma'nosi qaysi?",
+      "word": "夕刊",
+      "choices": [
+        "moda jurnali",
+        "bolaning jismoniy rivojlanish davri",
+        "hudud",
+        "kechki gazeta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "夕刊 → kechki gazeta"
+    },
+    {
+      "id": 24,
+      "questionType": "sentence",
+      "question": "『ファッション誌』ning ma'nosi qaysi?",
+      "word": "ファッション誌",
+      "choices": [
+        "kir bo'lgan kiyim",
+        "haftalik gazeta",
+        "yo'l haqi",
+        "moda jurnali"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ファッション誌 → moda jurnali"
+    },
+    {
+      "id": 25,
+      "questionType": "reading",
+      "question": "『並べる』ning o'qilishi qaysi?",
+      "word": "並べる",
+      "choices": [
+        "ざっしをよむ",
+        "なみ",
+        "ならべる",
+        "どうろをわたる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "並べる → ならべる"
+    },
+    {
+      "id": 26,
+      "questionType": "word",
+      "question": "『o'rtacha/oz ham, ko'p ham bo'lmagan』ning yaponcha ifodasi qaysi?",
+      "word": "並",
+      "choices": [
+        "並",
+        "本を著す",
+        "のり巻き",
+        "家賃"
+      ],
+      "correctAnswer": 0,
+      "explanation": "o'rtacha/oz ham, ko'p ham bo'lmagan → 並"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『雑談』ning o'qilishi qaysi?",
+      "word": "雑談",
+      "choices": [
+        "かり",
+        "くばる",
+        "ざつだん",
+        "ほんがかんこうする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "雑談 → ざつだん"
+    },
+    {
+      "id": 28,
+      "questionType": "reading",
+      "question": "『週刊誌』ning o'qilishi qaysi?",
+      "word": "週刊誌",
+      "choices": [
+        "ざつ",
+        "かていする",
+        "ちんぎん",
+        "しゅうかんし"
+      ],
+      "correctAnswer": 3,
+      "explanation": "週刊誌 → しゅうかんし"
+    },
+    {
+      "id": 29,
+      "questionType": "sentence",
+      "question": "『包帯を巻く』ning ma'nosi qaysi?",
+      "word": "包帯を巻く",
+      "choices": [
+        "korrupsiya",
+        "erimoq, eritmoq",
+        "bint o'ramoq",
+        "chuqur kosa (donburi)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "包帯を巻く → bint o'ramoq"
+    },
+    {
+      "id": 30,
+      "questionType": "kanji",
+      "question": "『なみ』qaysi yozuvga mos?",
+      "word": "並",
+      "choices": [
+        "住居",
+        "並",
+        "服にラーメンの汁がついた",
+        "乗車券"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なみ → 並"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『雑談』ning ma'nosi qaysi?",
+      "word": "雑談",
+      "choices": [
+        "gurung,suhbat",
+        "o'z ichiga olmoq",
+        "kirish mumkin bo'lmagan hudud",
+        "yashash xonasi (zal)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "雑談 → gurung,suhbat"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『朝刊』ning ma'nosi qaysi?",
+      "word": "朝刊",
+      "choices": [
+        "ertalabki gazeta",
+        "hudud",
+        "ni turtki (bahona) qilib",
+        "ijaraga olingan ko'p qavatli uy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "朝刊 → ertalabki gazeta"
+    },
+    {
+      "id": 33,
+      "questionType": "sentence",
+      "question": "『著しい進歩』ning ma'nosi qaysi?",
+      "word": "著しい進歩",
+      "choices": [
+        "yangi sinfga moslashib ketmoq",
+        "sezilarli (keskin) rivojlanish",
+        "vaqtinchalik yashash manzili",
+        "bolani uyga eltib qo'yish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "著しい進歩 → sezilarli (keskin) rivojlanish"
+    },
+    {
+      "id": 34,
+      "questionType": "sentence",
+      "question": "『本を著す』ning ma'nosi qaysi?",
+      "word": "本を著す",
+      "choices": [
+        "haftalik gazeta",
+        "kelmaslik haqidagi xabarnoma (ariza)",
+        "kitob yozmoq, nashr etmoq",
+        "shartnoma tuzish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "本を著す → kitob yozmoq, nashr etmoq"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『ならぶ』qaysi yozuvga mos?",
+      "word": "並",
+      "choices": [
+        "心配する",
+        "越",
+        "招待状",
+        "並"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ならぶ → 並"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『並』ning o'qilishi qaysi?",
+      "word": "並",
+      "choices": [
+        "ならぶ",
+        "まえのくるまをおいこす",
+        "としこしそば",
+        "にわ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "並 → ならぶ"
+    },
+    {
+      "id": 37,
+      "questionType": "sentence",
+      "question": "『のり巻き』ning ma'nosi qaysi?",
+      "word": "のり巻き",
+      "choices": [
+        "chipta, hujjat",
+        "norimaki (nori o'ralgan sushi)",
+        "nomiga dog' tushirmoq",
+        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "のり巻き → norimaki (nori o'ralgan sushi)"
+    },
+    {
+      "id": 38,
+      "questionType": "recognition",
+      "question": "『巻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "のり巻き",
+      "choices": [
+        "居間",
+        "バター溶かす",
+        "誌",
+        "のり巻き"
+      ],
+      "correctAnswer": 3,
+      "explanation": "巻 → のり巻き"
+    },
+    {
+      "id": 39,
+      "questionType": "meaning",
+      "question": "『日誌をつける』ning ma'nosi qaysi?",
+      "word": "日誌をつける",
+      "choices": [
+        "haq, ijara",
+        "iflos, kir",
+        "kundalik yozib borish",
+        "erimoq, eritmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "日誌をつける → kundalik yozib borish"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『まく』qaysi yozuvga mos?",
+      "word": "巻",
+      "choices": [
+        "本を著す",
+        "巻",
+        "雑誌を読む",
+        "日本庭園"
+      ],
+      "correctAnswer": 1,
+      "explanation": "まく → 巻"
+    },
+    {
+      "id": 41,
+      "questionType": "kanji",
+      "question": "『ならぶ』qaysi yozuvga mos?",
+      "word": "並ぶ",
+      "choices": [
+        "地域住民",
+        "刊",
+        "保証人",
+        "並ぶ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ならぶ → 並ぶ"
+    },
+    {
+      "id": 42,
+      "questionType": "word",
+      "question": "『nashr qilish』ning yaponcha ifodasi qaysi?",
+      "word": "刊",
+      "choices": [
+        "盛大な",
+        "盛",
+        "刊",
+        "混乱"
+      ],
+      "correctAnswer": 2,
+      "explanation": "nashr qilish → 刊"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『並ぶ』ning ma'nosi qaysi?",
+      "word": "並ぶ",
+      "choices": [
+        "aksiya qog'ozi",
+        "kitob yozmoq, nashr etmoq",
+        "ketma-ket (navbatda) turmoq",
+        "bo'yoqni eritish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "並ぶ → ketma-ket (navbatda) turmoq"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『誌』ning o'qilishi qaysi?",
+      "word": "誌",
+      "choices": [
+        "しょうたいじょう",
+        "ちょしゃ",
+        "し",
+        "かん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "誌 → し"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『著名人』ning o'qilishi qaysi?",
+      "word": "著名人",
+      "choices": [
+        "しる",
+        "ちょめいじん",
+        "しんぶんはいたつ",
+        "あかるいかていをきずく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "著名人 → ちょめいじん"
+    },
+    {
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『ちょめいじん』qaysi yozuvga mos?",
+      "word": "著名人",
+      "choices": [
+        "招",
+        "著名人",
+        "名前を汚す",
+        "家賃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちょめいじん → 著名人"
+    },
+    {
+      "id": 47,
+      "questionType": "reading",
+      "question": "『刊』ning o'qilishi qaysi?",
+      "word": "刊",
+      "choices": [
+        "ちいきじゅうみん",
+        "バターとかす",
+        "しょうたいする",
+        "かん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "刊 → かん"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『ざつだん』qaysi yozuvga mos?",
+      "word": "雑談",
+      "choices": [
+        "本が刊行する",
+        "株券",
+        "汚水",
+        "雑談"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ざつだん → 雑談"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『本を著す』ning ma'nosi qaysi?",
+      "word": "本を著す",
+      "choices": [
+        "bolani uyga eltib qo'yish",
+        "jurnal, yozuv",
+        "kitob yozmoq, nashr etmoq",
+        "o'z ichiga olmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "本を著す → kitob yozmoq, nashr etmoq"
+    },
+    {
+      "id": 50,
+      "questionType": "reading",
+      "question": "『巻』ning o'qilishi qaysi?",
+      "word": "巻",
+      "choices": [
+        "まく",
+        "〜をけいきに",
+        "せいだいな",
+        "いざかや"
+      ],
+      "correctAnswer": 0,
+      "explanation": "巻 → まく"
+    },
+    {
+      "id": 51,
+      "questionType": "word",
+      "question": "『moda jurnali』ning yaponcha ifodasi qaysi?",
+      "word": "ファッション誌",
+      "choices": [
+        "ファッション誌",
+        "パーティーに招く",
+        "裁判所で証言する",
+        "招待状"
+      ],
+      "correctAnswer": 0,
+      "explanation": "moda jurnali → ファッション誌"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『本が刊行する』ning ma'nosi qaysi?",
+      "word": "本が刊行する",
+      "choices": [
+        "sariqyog'ni eritish",
+        "sinf xonasini tozalash",
+        "yozuvchi",
+        "kitob nashr etilishi, bosib chiqarilishi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "本が刊行する → kitob nashr etilishi, bosib chiqarilishi"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『のりまき』qaysi yozuvga mos?",
+      "word": "のり巻き",
+      "choices": [
+        "著名人",
+        "のり巻き",
+        "手紙が届く",
+        "芝居"
+      ],
+      "correctAnswer": 1,
+      "explanation": "のりまき → のり巻き"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『ざつ』qaysi yozuvga mos?",
+      "word": "雑",
+      "choices": [
+        "雑",
+        "服にラーメンの汁がついた",
+        "整",
+        "免許証"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ざつ → 雑"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『雑』ning o'qilishi qaysi?",
+      "word": "雑",
+      "choices": [
+        "けん",
+        "まえのくるまをおいこす",
+        "おやとどうきょする",
+        "ざつ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "雑 → ざつ"
+    },
+    {
+      "id": 56,
+      "questionType": "word",
+      "question": "『taxlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "並べる",
+      "choices": [
+        "丼",
+        "運賃",
+        "議会を招集する",
+        "並べる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "taxlamoq → 並べる"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『しゅうかんし』qaysi yozuvga mos?",
+      "word": "週刊誌",
+      "choices": [
+        "週刊誌",
+        "日誌をつける",
+        "著",
+        "招待する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しゅうかんし → 週刊誌"
+    },
+    {
+      "id": 58,
+      "questionType": "sentence",
+      "question": "『人並みに生活する』ning ma'nosi qaysi?",
+      "word": "人並みに生活する",
+      "choices": [
+        "o'rtacha hayot kechirish",
+        "baxtli oila qurish",
+        "yangi yilda yeyiladigan soba",
+        "haftalik gazeta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "人並みに生活する → o'rtacha hayot kechirish"
+    },
+    {
+      "id": 59,
+      "questionType": "recognition",
+      "question": "『著』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "著者",
+      "choices": [
+        "仮説を立てる",
+        "盛",
+        "盛大な",
+        "著者"
+      ],
+      "correctAnswer": 3,
+      "explanation": "著 → 著者"
+    },
+    {
+      "id": 60,
+      "questionType": "recognition",
+      "question": "『刊』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "週刊誌",
+      "choices": [
+        "週刊誌",
+        "招待する",
+        "並ぶ",
+        "落ち葉を掃く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "刊 → 週刊誌"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『朝刊』ning o'qilishi qaysi?",
+      "word": "朝刊",
+      "choices": [
+        "もんだいようしをくばる",
+        "ちょうかん",
+        "のりまき",
+        "あたらしいクラスにとけこむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "朝刊 → ちょうかん"
+    },
+    {
+      "id": 62,
+      "questionType": "sentence",
+      "question": "『雑誌を読む』ning ma'nosi qaysi?",
+      "word": "雑誌を読む",
+      "choices": [
+        "butunlay tugatish, tozalash",
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "jurnal o'qimoq",
+        "yo'lni kesib o'tish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "雑誌を読む → jurnal o'qimoq"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『sezilarli (keskin) rivojlanish』ning yaponcha ifodasi qaysi?",
+      "word": "著しい進歩",
+      "choices": [
+        "配",
+        "雑",
+        "雑音がする",
+        "著しい進歩"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sezilarli (keskin) rivojlanish → 著しい進歩"
+    },
+    {
+      "id": 64,
+      "questionType": "kanji",
+      "question": "『ならべる』qaysi yozuvga mos?",
+      "word": "並べる",
+      "choices": [
+        "仮説を立てる",
+        "育ち盛り",
+        "並べる",
+        "清い心"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ならべる → 並べる"
+    },
+    {
+      "id": 65,
+      "questionType": "meaning",
+      "question": "『誌』ning ma'nosi qaysi?",
+      "word": "誌",
+      "choices": [
+        "jurnal, yozuv",
+        "butunlay tugatish, tozalash",
+        "sovg'a qilmoq",
+        "chuqur kosa (donburi)da guruch yeyish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "誌 → jurnal, yozuv"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『ゆうかん』qaysi yozuvga mos?",
+      "word": "夕刊",
+      "choices": [
+        "本を著す",
+        "名前を汚す",
+        "夕刊",
+        "落ち葉を掃く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ゆうかん → 夕刊"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『あらわす』qaysi yozuvga mos?",
+      "word": "著",
+      "choices": [
+        "著",
+        "育ち盛り",
+        "域",
+        "気を配る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あらわす → 著"
+    },
+    {
+      "id": 68,
+      "questionType": "recognition",
+      "question": "『巻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "包帯を巻く",
+      "choices": [
+        "家賃",
+        "溶",
+        "気を配る",
+        "包帯を巻く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "巻 → 包帯を巻く"
+    },
+    {
+      "id": 69,
+      "questionType": "word",
+      "question": "『mashhur inson』ning yaponcha ifodasi qaysi?",
+      "word": "著名人",
+      "choices": [
+        "著名人",
+        "ファッション誌",
+        "複雑な計算",
+        "贈"
+      ],
+      "correctAnswer": 0,
+      "explanation": "mashhur inson → 著名人"
+    },
+    {
+      "id": 70,
+      "questionType": "word",
+      "question": "『haftalik gazeta』ning yaponcha ifodasi qaysi?",
+      "word": "週刊誌",
+      "choices": [
+        "週刊誌",
+        "人並みに生活する",
+        "育ち盛り",
+        "明るい家庭を築く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "haftalik gazeta → 週刊誌"
+    },
+    {
+      "id": 71,
+      "questionType": "reading",
+      "question": "『並ぶ』ning o'qilishi qaysi?",
+      "word": "並ぶ",
+      "choices": [
+        "ほんがかんこうする",
+        "せいだいな",
+        "ならぶ",
+        "えのぐをとく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "並ぶ → ならぶ"
+    },
+    {
+      "id": 72,
+      "questionType": "sentence",
+      "question": "『本が刊行する』ning ma'nosi qaysi?",
+      "word": "本が刊行する",
+      "choices": [
+        "iflos, kir",
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "guvohnoma",
+        "moda jurnali"
+      ],
+      "correctAnswer": 1,
+      "explanation": "本が刊行する → kitob nashr etilishi, bosib chiqarilishi"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『並』ning o'qilishi qaysi?",
+      "word": "並",
+      "choices": [
+        "ものをわたす",
+        "へやをよごす",
+        "なみ",
+        "ちんぎん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "並 → なみ"
+    },
+    {
+      "id": 74,
+      "questionType": "meaning",
+      "question": "『著』ning ma'nosi qaysi?",
+      "word": "著",
+      "choices": [
+        "yozmoq, ko'zga ko'rinarli",
+        "bo'lmoq, yashamoq",
+        "men bilan 4 kishi",
+        "moda jurnali"
+      ],
+      "correctAnswer": 0,
+      "explanation": "著 → yozmoq, ko'zga ko'rinarli"
+    },
+    {
+      "id": 75,
+      "questionType": "sentence",
+      "question": "『雑音がする』ning ma'nosi qaysi?",
+      "word": "雑音がする",
+      "choices": [
+        "xavotirlanmoq",
+        "tasdiq, guvohlik",
+        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
+        "brokerlik kompaniyasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "雑音がする → yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)"
+    },
+    {
+      "id": 76,
+      "questionType": "word",
+      "question": "『murakkab hisob-kitob』ning yaponcha ifodasi qaysi?",
+      "word": "複雑な計算",
+      "choices": [
+        "複雑な計算",
+        "手紙が届く",
+        "招",
+        "混雑"
+      ],
+      "correctAnswer": 0,
+      "explanation": "murakkab hisob-kitob → 複雑な計算"
+    }
+  ]
+}
