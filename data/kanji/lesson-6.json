@@ -1,0 +1,102 @@
+{
+    "title": "Lesson 6",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "駐",
+          "reading": "ちゅうざい",
+          "meaning": "to'xtab turmoq, joylashmoq",
+          "onyomi": "チュウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "駐在する", "reading": "ちゅうざいする", "meaning": "muqim turmoq (xizmatda, chet elda)" },
+          { "id": 2, "word": "駐車禁止", "reading": "ちゅうしゃきんし", "meaning": "mashina qo'yish taqiqlangan joy" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "輪",
+          "reading": "わ",
+          "meaning": "halqa, g'ildirak",
+          "onyomi": "リン",
+          "kunyomi": "わ"
+        },
+        "examples": [
+          { "id": 1, "word": "輪になる", "reading": "わになる", "meaning": "doira shaklini hosil qilish" },
+          { "id": 2, "word": "指輪", "reading": "ゆびわ", "meaning": "uzuk" },
+          { "id": 3, "word": "犬の首輪", "reading": "いぬのくびわ", "meaning": "bo'yinbog' (hayvon uchun)" },
+          { "id": 4, "word": "前輪と後輪", "reading": "ぜんりんとこうりん", "meaning": "oldingi va orqa g'ildiraklar" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "港",
+          "reading": "みなと",
+          "meaning": "port, bandargoh",
+          "onyomi": "コウ",
+          "kunyomi": "みなと"
+        },
+        "examples": [
+          { "id": 1, "word": "港", "reading": "みなと", "meaning": "port, bandargoh" },
+          { "id": 2, "word": "漁港", "reading": "ぎょこう", "meaning": "baliqchilik porti" },
+          { "id": 3, "word": "空港", "reading": "くうこう", "meaning": "aeroport" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "到",
+          "reading": "とう",
+          "meaning": "yetib kelmoq, erishmoq",
+          "onyomi": "トウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "到着する", "reading": "とうちゃくする", "meaning": "yetib kelmoq" },
+          { "id": 2, "word": "目標に到達する", "reading": "もくひょうにとうたつする", "meaning": "maqsadga erishmoq" },
+          { "id": 3, "word": "予約が殺到する", "reading": "よやくがさっとうする", "meaning": "yopirilib kelmoq (buyurtmalar)" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "途",
+          "reading": "と",
+          "meaning": "yo'l, davom",
+          "onyomi": "ト",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "途中", "reading": "とちゅう", "meaning": "o'rtasida" },
+          { "id": 2, "word": "発展途上国", "reading": "はってんとじょうこく", "meaning": "rivojlanayotgan davlatlar" },
+          { "id": 3, "word": "中途半端", "reading": "ちゅうとはんぱ", "meaning": "yakunlanmagan" },
+          { "id": 4, "word": "用途が広い", "reading": "ようとがひろい", "meaning": "turli maqsadda ishlatsa bo'ladigan" },
+          { "id": 5, "word": "途方にくれる", "reading": "とほうにくれる", "meaning": "nima qilishni bilmay qolmoq" },
+          { "id": 6, "word": "前途多難", "reading": "ぜんとたなん", "meaning": "oldinda qiyinchiliklar ko'p" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "過",
+          "reading": "すぎる",
+          "meaning": "o'tmoq, xato qilmoq",
+          "onyomi": "カ",
+          "kunyomi": "す(ぎる)・す(ごす)・あやま(つ)"
+        },
+        "examples": [
+          { "id": 1, "word": "夏が過ぎる", "reading": "なつがすぎる", "meaning": "yoz o'tib ketishi" },
+          { "id": 2, "word": "楽しい時を過ごす", "reading": "たのしいときをすごす", "meaning": "maroqli vaqt o'tkazish" },
+          { "id": 3, "word": "過つ", "reading": "あやまつ", "meaning": "adashmoq, xato qilmoq" },
+          { "id": 4, "word": "過ちを犯す", "reading": "あやまちをおかす", "meaning": "xato qilish" },
+          { "id": 5, "word": "通過", "reading": "つうか", "meaning": "o'tib ketish (to'xtamasdan)" },
+          { "id": 6, "word": "過去", "reading": "かこ", "meaning": "o'tmish" },
+          { "id": 7, "word": "過半数", "reading": "かはんすう", "meaning": "ko'pchilik" }
+        ]
+      }
+    ]
+  }

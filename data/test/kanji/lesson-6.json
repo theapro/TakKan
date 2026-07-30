@@ -1,0 +1,1323 @@
+{
+  "title": "Lesson 6 Test",
+  "type": "kanji",
+  "lesson": "lesson-6",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "kanji",
+      "question": "『とちゅう』qaysi yozuvga mos?",
+      "word": "途中",
+      "choices": [
+        "雑誌を読む",
+        "峠を越す",
+        "楽しい時を過ごす",
+        "途中"
+      ],
+      "correctAnswer": 3,
+      "explanation": "とちゅう → 途中"
+    },
+    {
+      "id": 2,
+      "questionType": "kanji",
+      "question": "『すぎる』qaysi yozuvga mos?",
+      "word": "過",
+      "choices": [
+        "家賃",
+        "駐車禁止",
+        "著",
+        "過"
+      ],
+      "correctAnswer": 3,
+      "explanation": "すぎる → 過"
+    },
+    {
+      "id": 3,
+      "questionType": "kanji",
+      "question": "『かはんすう』qaysi yozuvga mos?",
+      "word": "過半数",
+      "choices": [
+        "居酒屋",
+        "過半数",
+        "絵の具を溶く",
+        "芝居"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かはんすう → 過半数"
+    },
+    {
+      "id": 4,
+      "questionType": "sentence",
+      "question": "『駐在する』ning ma'nosi qaysi?",
+      "word": "駐在する",
+      "choices": [
+        "muqim turmoq (xizmatda, chet elda)",
+        "parlament yig'ilishini chaqirmoq",
+        "o'tmoq, kesib o'tmoq",
+        "un bilan tuxumni aralashtirmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "駐在する → muqim turmoq (xizmatda, chet elda)"
+    },
+    {
+      "id": 5,
+      "questionType": "recognition",
+      "question": "『駐』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "駐車禁止",
+      "choices": [
+        "駐車禁止",
+        "プレゼントを贈る",
+        "招待する",
+        "汚職"
+      ],
+      "correctAnswer": 0,
+      "explanation": "駐 → 駐車禁止"
+    },
+    {
+      "id": 6,
+      "questionType": "reading",
+      "question": "『途』ning o'qilishi qaysi?",
+      "word": "途",
+      "choices": [
+        "と",
+        "えのぐをとく",
+        "すぎる",
+        "ほんがかんこうする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "途 → と"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『前途多難』ning ma'nosi qaysi?",
+      "word": "前途多難",
+      "choices": [
+        "gurung,suhbat",
+        "oldinda qiyinchiliklar ko'p",
+        "baxtli oila qurish",
+        "lava"
+      ],
+      "correctAnswer": 1,
+      "explanation": "前途多難 → oldinda qiyinchiliklar ko'p"
+    },
+    {
+      "id": 8,
+      "questionType": "kanji",
+      "question": "『みなと』qaysi yozuvga mos?",
+      "word": "港",
+      "choices": [
+        "楽しい時を過ごす",
+        "著しい進歩",
+        "途",
+        "港"
+      ],
+      "correctAnswer": 3,
+      "explanation": "みなと → 港"
+    },
+    {
+      "id": 9,
+      "questionType": "reading",
+      "question": "『空港』ning o'qilishi qaysi?",
+      "word": "空港",
+      "choices": [
+        "きよいこころ",
+        "いぬのくびわ",
+        "くうこう",
+        "ひきだしのなかをせいりする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "空港 → くうこう"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『ちゅうざいする』qaysi yozuvga mos?",
+      "word": "駐在する",
+      "choices": [
+        "汚染された川",
+        "券",
+        "通過",
+        "駐在する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちゅうざいする → 駐在する"
+    },
+    {
+      "id": 11,
+      "questionType": "recognition",
+      "question": "『過』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "過半数",
+      "choices": [
+        "汚職",
+        "過半数",
+        "証",
+        "育ち盛り"
+      ],
+      "correctAnswer": 1,
+      "explanation": "過 → 過半数"
+    },
+    {
+      "id": 12,
+      "questionType": "kanji",
+      "question": "『くうこう』qaysi yozuvga mos?",
+      "word": "空港",
+      "choices": [
+        "空港",
+        "人並みに生活する",
+        "証明する",
+        "国境を越える"
+      ],
+      "correctAnswer": 0,
+      "explanation": "くうこう → 空港"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『と』qaysi yozuvga mos?",
+      "word": "途",
+      "choices": [
+        "滝で心身を清める",
+        "輪",
+        "途",
+        "雑音がする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "と → 途"
+    },
+    {
+      "id": 14,
+      "questionType": "sentence",
+      "question": "『楽しい時を過ごす』ning ma'nosi qaysi?",
+      "word": "楽しい時を過ごす",
+      "choices": [
+        "bazmga taklif etish",
+        "iflos qo'l",
+        "kirish mumkin bo'lmagan hudud",
+        "maroqli vaqt o'tkazish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "楽しい時を過ごす → maroqli vaqt o'tkazish"
+    },
+    {
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『ちゅうざい』qaysi yozuvga mos?",
+      "word": "駐",
+      "choices": [
+        "駐",
+        "夏が過ぎる",
+        "雑談",
+        "汚れた服"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちゅうざい → 駐"
+    },
+    {
+      "id": 16,
+      "questionType": "sentence",
+      "question": "『過ちを犯す』ning ma'nosi qaysi?",
+      "word": "過ちを犯す",
+      "choices": [
+        "xato qilish",
+        "yo'l, davom",
+        "izakaya (yapon mayxonasi)",
+        "shaxsni tasdiqlovchi hujjat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "過ちを犯す → xato qilish"
+    },
+    {
+      "id": 17,
+      "questionType": "sentence",
+      "question": "『前輪と後輪』ning ma'nosi qaysi?",
+      "word": "前輪と後輪",
+      "choices": [
+        "chipta, hujjat",
+        "muqim turmoq (xizmatda, chet elda)",
+        "oldingi va orqa g'ildiraklar",
+        "yozmoq, ko'zga ko'rinarli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "前輪と後輪 → oldingi va orqa g'ildiraklar"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『過半数』ning ma'nosi qaysi?",
+      "word": "過半数",
+      "choices": [
+        "sinf xonasini tozalash",
+        "bo'lmoq, yashamoq",
+        "ko'pchilik",
+        "miso sho'rvasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "過半数 → ko'pchilik"
+    },
+    {
+      "id": 19,
+      "questionType": "meaning",
+      "question": "『過去』ning ma'nosi qaysi?",
+      "word": "過去",
+      "choices": [
+        "xavotirlanmoq",
+        "oqava suv",
+        "uy ijarasi haqi",
+        "o'tmish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "過去 → o'tmish"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『みなと』qaysi yozuvga mos?",
+      "word": "港",
+      "choices": [
+        "刊",
+        "過ちを犯す",
+        "港",
+        "バター溶かす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "みなと → 港"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『o'rtasida』ning yaponcha ifodasi qaysi?",
+      "word": "途中",
+      "choices": [
+        "汚水",
+        "部屋を汚す",
+        "過半数",
+        "途中"
+      ],
+      "correctAnswer": 3,
+      "explanation": "o'rtasida → 途中"
+    },
+    {
+      "id": 22,
+      "questionType": "sentence",
+      "question": "『前途多難』ning ma'nosi qaysi?",
+      "word": "前途多難",
+      "choices": [
+        "rivojlanayotgan davlatlar",
+        "oldinda qiyinchiliklar ko'p",
+        "xonani iflos qilish",
+        "yetib kelmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "前途多難 → oldinda qiyinchiliklar ko'p"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『ちゅうとはんぱ』qaysi yozuvga mos?",
+      "word": "中途半端",
+      "choices": [
+        "議会を招集する",
+        "混雑",
+        "中途半端",
+        "輪"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちゅうとはんぱ → 中途半端"
+    },
+    {
+      "id": 24,
+      "questionType": "meaning",
+      "question": "『過』ning ma'nosi qaysi?",
+      "word": "過",
+      "choices": [
+        "o'tmoq, xato qilmoq",
+        "ertalabki gazeta",
+        "og'izga suv olish",
+        "murakkab hisob-kitob"
+      ],
+      "correctAnswer": 0,
+      "explanation": "過 → o'tmoq, xato qilmoq"
+    },
+    {
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『予約が殺到する』ning ma'nosi qaysi?",
+      "word": "予約が殺到する",
+      "choices": [
+        "hovli, bog'",
+        "sudda guvohlik bermoq",
+        "guvohnoma",
+        "yopirilib kelmoq (buyurtmalar)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "予約が殺到する → yopirilib kelmoq (buyurtmalar)"
+    },
+    {
+      "id": 26,
+      "questionType": "recognition",
+      "question": "『過』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "過つ",
+      "choices": [
+        "みそ汁",
+        "前途多難",
+        "溶",
+        "過つ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "過 → 過つ"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『輪』ning o'qilishi qaysi?",
+      "word": "輪",
+      "choices": [
+        "うんちん",
+        "じこくりょういき",
+        "こす",
+        "わ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輪 → わ"
+    },
+    {
+      "id": 28,
+      "questionType": "meaning",
+      "question": "『途方にくれる』ning ma'nosi qaysi?",
+      "word": "途方にくれる",
+      "choices": [
+        "guvohnoma",
+        "nima qilishni bilmay qolmoq",
+        "tasdiq, guvohlik",
+        "butunlay tugatish, tozalash"
+      ],
+      "correctAnswer": 1,
+      "explanation": "途方にくれる → nima qilishni bilmay qolmoq"
+    },
+    {
+      "id": 29,
+      "questionType": "reading",
+      "question": "『港』ning o'qilishi qaysi?",
+      "word": "港",
+      "choices": [
+        "ざつだん",
+        "みなと",
+        "かん",
+        "ざっしをよむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "港 → みなと"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『turli maqsadda ishlatsa bo'ladigan』ning yaponcha ifodasi qaysi?",
+      "word": "用途が広い",
+      "choices": [
+        "仮",
+        "用途が広い",
+        "招待状",
+        "氷が溶ける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "turli maqsadda ishlatsa bo'ladigan → 用途が広い"
+    },
+    {
+      "id": 31,
+      "questionType": "sentence",
+      "question": "『夏が過ぎる』ning ma'nosi qaysi?",
+      "word": "夏が過ぎる",
+      "choices": [
+        "o'tmoq, bermoq",
+        "yoz o'tib ketishi",
+        "nomiga dog' tushirmoq",
+        "yashash xonasi (zal)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "夏が過ぎる → yoz o'tib ketishi"
+    },
+    {
+      "id": 32,
+      "questionType": "reading",
+      "question": "『港』ning o'qilishi qaysi?",
+      "word": "港",
+      "choices": [
+        "こむぎことたまごをまぜる",
+        "みなと",
+        "ようがん",
+        "けん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "港 → みなと"
+    },
+    {
+      "id": 33,
+      "questionType": "word",
+      "question": "『uzuk』ning yaponcha ifodasi qaysi?",
+      "word": "指輪",
+      "choices": [
+        "指輪",
+        "輪になる",
+        "天丼",
+        "前途多難"
+      ],
+      "correctAnswer": 0,
+      "explanation": "uzuk → 指輪"
+    },
+    {
+      "id": 34,
+      "questionType": "sentence",
+      "question": "『犬の首輪』ning ma'nosi qaysi?",
+      "word": "犬の首輪",
+      "choices": [
+        "bo'yinbog' (hayvon uchun)",
+        "aksiya qog'ozi",
+        "xonani iflos qilish",
+        "sovg'ani eltib berish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "犬の首輪 → bo'yinbog' (hayvon uchun)"
+    },
+    {
+      "id": 35,
+      "questionType": "meaning",
+      "question": "『到』ning ma'nosi qaysi?",
+      "word": "到",
+      "choices": [
+        "o'tmoq, kesib o'tmoq",
+        "yetib kelmoq, erishmoq",
+        "oldindagi mashinani quvib o'tmoq",
+        "muzni erishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "到 → yetib kelmoq, erishmoq"
+    },
+    {
+      "id": 36,
+      "questionType": "recognition",
+      "question": "『過』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "楽しい時を過ごす",
+      "choices": [
+        "巻",
+        "楽しい時を過ごす",
+        "過半数",
+        "著"
+      ],
+      "correctAnswer": 1,
+      "explanation": "過 → 楽しい時を過ごす"
+    },
+    {
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『かこ』qaysi yozuvga mos?",
+      "word": "過去",
+      "choices": [
+        "混",
+        "株券",
+        "暴力団を一掃する",
+        "過去"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かこ → 過去"
+    },
+    {
+      "id": 38,
+      "questionType": "meaning",
+      "question": "『犬の首輪』ning ma'nosi qaysi?",
+      "word": "犬の首輪",
+      "choices": [
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "bo'yinbog' (hayvon uchun)",
+        "guruch ichiga bug'doy aralashib ketishi",
+        "sutda kalsiy bor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "犬の首輪 → bo'yinbog' (hayvon uchun)"
+    },
+    {
+      "id": 39,
+      "questionType": "word",
+      "question": "『to'xtab turmoq, joylashmoq』ning yaponcha ifodasi qaysi?",
+      "word": "駐",
+      "choices": [
+        "駐",
+        "大盛り",
+        "心が清まる",
+        "汁"
+      ],
+      "correctAnswer": 0,
+      "explanation": "to'xtab turmoq, joylashmoq → 駐"
+    },
+    {
+      "id": 40,
+      "questionType": "sentence",
+      "question": "『途方にくれる』ning ma'nosi qaysi?",
+      "word": "途方にくれる",
+      "choices": [
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "ertalabki gazeta",
+        "tizilmoq, oddiy/o'rtacha",
+        "nima qilishni bilmay qolmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "途方にくれる → nima qilishni bilmay qolmoq"
+    },
+    {
+      "id": 41,
+      "questionType": "recognition",
+      "question": "『輪』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "犬の首輪",
+      "choices": [
+        "株券",
+        "犬の首輪",
+        "朝刊",
+        "心が清まる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "輪 → 犬の首輪"
+    },
+    {
+      "id": 42,
+      "questionType": "recognition",
+      "question": "『輪』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "輪になる",
+      "choices": [
+        "輪になる",
+        "混ざる",
+        "混乱",
+        "雑音がする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "輪 → 輪になる"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『とうちゃくする』qaysi yozuvga mos?",
+      "word": "到着する",
+      "choices": [
+        "著者",
+        "雑誌を読む",
+        "到着する",
+        "免許証"
+      ],
+      "correctAnswer": 2,
+      "explanation": "とうちゃくする → 到着する"
+    },
+    {
+      "id": 44,
+      "questionType": "meaning",
+      "question": "『空港』ning ma'nosi qaysi?",
+      "word": "空港",
+      "choices": [
+        "aeroport",
+        "tartibga keltirmoq, tayyorlamoq",
+        "sho'rva, suyuqlik",
+        "nima qilishni bilmay qolmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "空港 → aeroport"
+    },
+    {
+      "id": 45,
+      "questionType": "kanji",
+      "question": "『わになる』qaysi yozuvga mos?",
+      "word": "輪になる",
+      "choices": [
+        "輪になる",
+        "裁判所で証言する",
+        "含",
+        "著"
+      ],
+      "correctAnswer": 0,
+      "explanation": "わになる → 輪になる"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『駐』ning o'qilishi qaysi?",
+      "word": "駐",
+      "choices": [
+        "りえきをはいぶんする",
+        "ぜんとたなん",
+        "ちゅうざい",
+        "おしょく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "駐 → ちゅうざい"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『oldingi va orqa g'ildiraklar』ning yaponcha ifodasi qaysi?",
+      "word": "前輪と後輪",
+      "choices": [
+        "前輪と後輪",
+        "絵の具を溶く",
+        "招待状",
+        "氷が溶ける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "oldingi va orqa g'ildiraklar → 前輪と後輪"
+    },
+    {
+      "id": 48,
+      "questionType": "recognition",
+      "question": "『途』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "用途が広い",
+      "choices": [
+        "みそ汁",
+        "駐",
+        "用途が広い",
+        "パーティーに招く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "途 → 用途が広い"
+    },
+    {
+      "id": 49,
+      "questionType": "word",
+      "question": "『rivojlanayotgan davlatlar』ning yaponcha ifodasi qaysi?",
+      "word": "発展途上国",
+      "choices": [
+        "発展途上国",
+        "引き出しの中を整理する",
+        "予約が殺到する",
+        "契約書"
+      ],
+      "correctAnswer": 0,
+      "explanation": "rivojlanayotgan davlatlar → 発展途上国"
+    },
+    {
+      "id": 50,
+      "questionType": "sentence",
+      "question": "『目標に到達する』ning ma'nosi qaysi?",
+      "word": "目標に到達する",
+      "choices": [
+        "baxtli oila qurish",
+        "maqsadga erishmoq",
+        "bolani uyga eltib qo'yish",
+        "to'xtab turmoq, joylashmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "目標に到達する → maqsadga erishmoq"
+    },
+    {
+      "id": 51,
+      "questionType": "reading",
+      "question": "『過』ning o'qilishi qaysi?",
+      "word": "過",
+      "choices": [
+        "こす",
+        "ひきだしのなかをせいりする",
+        "ちょしゃ",
+        "すぎる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "過 → すぎる"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『yakunlanmagan』ning yaponcha ifodasi qaysi?",
+      "word": "中途半端",
+      "choices": [
+        "贈り物",
+        "中途半端",
+        "過つ",
+        "招待する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yakunlanmagan → 中途半端"
+    },
+    {
+      "id": 53,
+      "questionType": "sentence",
+      "question": "『予約が殺到する』ning ma'nosi qaysi?",
+      "word": "予約が殺到する",
+      "choices": [
+        "shaxsni tasdiqlovchi hujjat",
+        "yopirilib kelmoq (buyurtmalar)",
+        "savollar varag'ini tarqatish",
+        "parlament yig'ilishini chaqirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "予約が殺到する → yopirilib kelmoq (buyurtmalar)"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『つうか』qaysi yozuvga mos?",
+      "word": "通過",
+      "choices": [
+        "通過",
+        "招待状",
+        "駐在する",
+        "含"
+      ],
+      "correctAnswer": 0,
+      "explanation": "つうか → 通過"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『わ』qaysi yozuvga mos?",
+      "word": "輪",
+      "choices": [
+        "のり巻き",
+        "輪",
+        "皿におかずを盛る",
+        "小麦粉と卵を混ぜる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "わ → 輪"
+    },
+    {
+      "id": 56,
+      "questionType": "reading",
+      "question": "『通過』ning o'qilishi qaysi?",
+      "word": "通過",
+      "choices": [
+        "さらにおかずをもる",
+        "つうか",
+        "うんちん",
+        "さいばんしょでしょうげんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "通過 → つうか"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『ゆびわ』qaysi yozuvga mos?",
+      "word": "指輪",
+      "choices": [
+        "居",
+        "育ち盛り",
+        "指輪",
+        "氷が溶ける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ゆびわ → 指輪"
+    },
+    {
+      "id": 58,
+      "questionType": "sentence",
+      "question": "『中途半端』ning ma'nosi qaysi?",
+      "word": "中途半端",
+      "choices": [
+        "maktab hovlisi",
+        "aralash, pala-partish",
+        "yakunlanmagan",
+        "halqa, g'ildirak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "中途半端 → yakunlanmagan"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『指輪』ning o'qilishi qaysi?",
+      "word": "指輪",
+      "choices": [
+        "りょけん",
+        "ゆびわ",
+        "じゅうきょ",
+        "もる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "指輪 → ゆびわ"
+    },
+    {
+      "id": 60,
+      "questionType": "word",
+      "question": "『o'tib ketish (to'xtamasdan)』ning yaponcha ifodasi qaysi?",
+      "word": "通過",
+      "choices": [
+        "駐在する",
+        "入場券",
+        "通過",
+        "プレゼントを贈る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "o'tib ketish (to'xtamasdan) → 通過"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『yo'l, davom』ning yaponcha ifodasi qaysi?",
+      "word": "途",
+      "choices": [
+        "汚職",
+        "免許証",
+        "巻",
+        "途"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yo'l, davom → 途"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『過半数』ning o'qilishi qaysi?",
+      "word": "過半数",
+      "choices": [
+        "よごれたふく",
+        "かはんすう",
+        "はく",
+        "おくりもの"
+      ],
+      "correctAnswer": 1,
+      "explanation": "過半数 → かはんすう"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『muqim turmoq (xizmatda, chet elda)』ning yaponcha ifodasi qaysi?",
+      "word": "駐在する",
+      "choices": [
+        "本を著す",
+        "手紙が届く",
+        "混乱",
+        "駐在する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "muqim turmoq (xizmatda, chet elda) → 駐在する"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『到』ning o'qilishi qaysi?",
+      "word": "到",
+      "choices": [
+        "けいやく",
+        "けん",
+        "とう",
+        "よやくがさっとうする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "到 → とう"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『発展途上国』ning ma'nosi qaysi?",
+      "word": "発展途上国",
+      "choices": [
+        "maktab hovlisi",
+        "rivojlanayotgan davlatlar",
+        "ni turtki (bahona) qilib",
+        "o'tmish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "発展途上国 → rivojlanayotgan davlatlar"
+    },
+    {
+      "id": 66,
+      "questionType": "word",
+      "question": "『doira shaklini hosil qilish』ning yaponcha ifodasi qaysi?",
+      "word": "輪になる",
+      "choices": [
+        "契約をする",
+        "並",
+        "輪になる",
+        "峠を越す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "doira shaklini hosil qilish → 輪になる"
+    },
+    {
+      "id": 67,
+      "questionType": "sentence",
+      "question": "『駐車禁止』ning ma'nosi qaysi?",
+      "word": "駐車禁止",
+      "choices": [
+        "sharsharada tana va qalbni poklamoq",
+        "kirish mumkin bo'lmagan hudud",
+        "mashina qo'yish taqiqlangan joy",
+        "teatr tomoshasi, spektakl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "駐車禁止 → mashina qo'yish taqiqlangan joy"
+    },
+    {
+      "id": 68,
+      "questionType": "word",
+      "question": "『port, bandargoh』ning yaponcha ifodasi qaysi?",
+      "word": "港",
+      "choices": [
+        "仮の住まい",
+        "港",
+        "著名人",
+        "漁港"
+      ],
+      "correctAnswer": 1,
+      "explanation": "port, bandargoh → 港"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『漁港』ning o'qilishi qaysi?",
+      "word": "漁港",
+      "choices": [
+        "しょうたいする",
+        "ぎょこう",
+        "たのしいときをすごす",
+        "とほうにくれる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁港 → ぎょこう"
+    },
+    {
+      "id": 70,
+      "questionType": "word",
+      "question": "『halqa, g'ildirak』ning yaponcha ifodasi qaysi?",
+      "word": "輪",
+      "choices": [
+        "日誌をつける",
+        "家賃",
+        "氷が溶ける",
+        "輪"
+      ],
+      "correctAnswer": 3,
+      "explanation": "halqa, g'ildirak → 輪"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『いぬのくびわ』qaysi yozuvga mos?",
+      "word": "犬の首輪",
+      "choices": [
+        "招",
+        "巻",
+        "並",
+        "犬の首輪"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いぬのくびわ → 犬の首輪"
+    },
+    {
+      "id": 72,
+      "questionType": "reading",
+      "question": "『途中』ning o'qilishi qaysi?",
+      "word": "途中",
+      "choices": [
+        "ゆうかん",
+        "ならべる",
+        "とちゅう",
+        "とうげをこす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "途中 → とちゅう"
+    },
+    {
+      "id": 73,
+      "questionType": "sentence",
+      "question": "『到着する』ning ma'nosi qaysi?",
+      "word": "到着する",
+      "choices": [
+        "sho'rva, suyuqlik",
+        "iflos qo'l",
+        "sinf xonasini tozalash",
+        "yetib kelmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "到着する → yetib kelmoq"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『過去』ning o'qilishi qaysi?",
+      "word": "過去",
+      "choices": [
+        "せいだいな",
+        "ひとなみにせいかつする",
+        "やちん",
+        "かこ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "過去 → かこ"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『ちゅうしゃきんし』qaysi yozuvga mos?",
+      "word": "駐車禁止",
+      "choices": [
+        "招待する",
+        "駐車禁止",
+        "芝居",
+        "指輪"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちゅうしゃきんし → 駐車禁止"
+    },
+    {
+      "id": 76,
+      "questionType": "recognition",
+      "question": "『駐』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "駐在する",
+      "choices": [
+        "駐在する",
+        "混ざる",
+        "予約が殺到する",
+        "越"
+      ],
+      "correctAnswer": 0,
+      "explanation": "駐 → 駐在する"
+    },
+    {
+      "id": 77,
+      "questionType": "sentence",
+      "question": "『用途が広い』ning ma'nosi qaysi?",
+      "word": "用途が広い",
+      "choices": [
+        "turli maqsadda ishlatsa bo'ladigan",
+        "bolani uyga eltib qo'yish",
+        "murakkab hisob-kitob",
+        "turar-joy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "用途が広い → turli maqsadda ishlatsa bo'ladigan"
+    },
+    {
+      "id": 78,
+      "questionType": "word",
+      "question": "『xato qilish』ning yaponcha ifodasi qaysi?",
+      "word": "過ちを犯す",
+      "choices": [
+        "過ちを犯す",
+        "域",
+        "落ち葉を掃く",
+        "賃貸マンション"
+      ],
+      "correctAnswer": 0,
+      "explanation": "xato qilish → 過ちを犯す"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『あやまつ』qaysi yozuvga mos?",
+      "word": "過つ",
+      "choices": [
+        "過つ",
+        "届",
+        "手紙が届く",
+        "誌"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あやまつ → 過つ"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『ぜんとたなん』qaysi yozuvga mos?",
+      "word": "前途多難",
+      "choices": [
+        "天丼",
+        "居酒屋",
+        "混",
+        "前途多難"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ぜんとたなん → 前途多難"
+    },
+    {
+      "id": 81,
+      "questionType": "word",
+      "question": "『adashmoq, xato qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "過つ",
+      "choices": [
+        "過つ",
+        "証明する",
+        "芝居",
+        "日本庭園"
+      ],
+      "correctAnswer": 0,
+      "explanation": "adashmoq, xato qilmoq → 過つ"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『駐車禁止』ning ma'nosi qaysi?",
+      "word": "駐車禁止",
+      "choices": [
+        "mashina qo'yish taqiqlangan joy",
+        "yozuvchi",
+        "qizg'in olqishlar",
+        "uzuk"
+      ],
+      "correctAnswer": 0,
+      "explanation": "駐車禁止 → mashina qo'yish taqiqlangan joy"
+    },
+    {
+      "id": 83,
+      "questionType": "word",
+      "question": "『yoz o'tib ketishi』ning yaponcha ifodasi qaysi?",
+      "word": "夏が過ぎる",
+      "choices": [
+        "漁港",
+        "夏が過ぎる",
+        "招待状",
+        "過ちを犯す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yoz o'tib ketishi → 夏が過ぎる"
+    },
+    {
+      "id": 84,
+      "questionType": "recognition",
+      "question": "『途』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "発展途上国",
+      "choices": [
+        "過つ",
+        "発展途上国",
+        "自国領域",
+        "駐在する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "途 → 発展途上国"
+    },
+    {
+      "id": 85,
+      "questionType": "meaning",
+      "question": "『港』ning ma'nosi qaysi?",
+      "word": "港",
+      "choices": [
+        "o'tib ketish (to'xtamasdan)",
+        "port, bandargoh",
+        "yo'lni kesib o'tish",
+        "guruch ustiga tempura qo'yib tayyorlangan taom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "港 → port, bandargoh"
+    },
+    {
+      "id": 86,
+      "questionType": "sentence",
+      "question": "『輪になる』ning ma'nosi qaysi?",
+      "word": "輪になる",
+      "choices": [
+        "ertalabki gazeta",
+        "doira shaklini hosil qilish",
+        "izakaya (yapon mayxonasi)",
+        "sof qalb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "輪になる → doira shaklini hosil qilish"
+    },
+    {
+      "id": 87,
+      "questionType": "word",
+      "question": "『maroqli vaqt o'tkazish』ning yaponcha ifodasi qaysi?",
+      "word": "楽しい時を過ごす",
+      "choices": [
+        "漁港",
+        "居",
+        "空港",
+        "楽しい時を過ごす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "maroqli vaqt o'tkazish → 楽しい時を過ごす"
+    },
+    {
+      "id": 88,
+      "questionType": "meaning",
+      "question": "『漁港』ning ma'nosi qaysi?",
+      "word": "漁港",
+      "choices": [
+        "baliqchilik porti",
+        "turar-joy",
+        "foydani taqsimlash",
+        "bint o'ramoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "漁港 → baliqchilik porti"
+    },
+    {
+      "id": 89,
+      "questionType": "reading",
+      "question": "『過つ』ning o'qilishi qaysi?",
+      "word": "過つ",
+      "choices": [
+        "わになる",
+        "あやまつ",
+        "こっきょうをこえる",
+        "ものをわたす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "過つ → あやまつ"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『ぎょこう』qaysi yozuvga mos?",
+      "word": "漁港",
+      "choices": [
+        "漁港",
+        "人並みに生活する",
+        "証券会社",
+        "著名人"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぎょこう → 漁港"
+    },
+    {
+      "id": 91,
+      "questionType": "word",
+      "question": "『maqsadga erishmoq』ning yaponcha ifodasi qaysi?",
+      "word": "目標に到達する",
+      "choices": [
+        "目標に到達する",
+        "天丼",
+        "招待する",
+        "契約をする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "maqsadga erishmoq → 目標に到達する"
+    },
+    {
+      "id": 92,
+      "questionType": "meaning",
+      "question": "『到着する』ning ma'nosi qaysi?",
+      "word": "到着する",
+      "choices": [
+        "jurnal, yozuv",
+        "yetib kelmoq",
+        "sovg'ani eltib berish",
+        "solmoq, gullamoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "到着する → yetib kelmoq"
+    },
+    {
+      "id": 93,
+      "questionType": "kanji",
+      "question": "『とう』qaysi yozuvga mos?",
+      "word": "到",
+      "choices": [
+        "誌",
+        "到",
+        "日本庭園",
+        "家賃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "とう → 到"
+    },
+    {
+      "id": 94,
+      "questionType": "recognition",
+      "question": "『途』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "途方にくれる",
+      "choices": [
+        "盛",
+        "過つ",
+        "道路を渡る",
+        "途方にくれる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "途 → 途方にくれる"
+    }
+  ]
+}

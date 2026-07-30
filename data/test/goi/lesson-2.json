@@ -6,2144 +6,2144 @@
     {
       "id": 1,
       "questionType": "reading",
-      "question": "『原子力発電所』ning o'qilishi qaysi?",
-      "word": "原子力発電所",
+      "question": "『対策する』ning o'qilishi qaysi?",
+      "word": "対策する",
       "choices": [
-        "パワハラする",
-        "どうせ",
-        "たのもしい",
-        "げんしりょくはつでんしょ"
+        "ひそかに",
+        "たいさくする",
+        "たびかさなる",
+        "おれ"
       ],
-      "correctAnswer": 3,
-      "explanation": "原子力発電所 → げんしりょくはつでんしょ"
+      "correctAnswer": 1,
+      "explanation": "対策する → たいさくする"
     },
     {
       "id": 2,
-      "questionType": "meaning",
-      "question": "『害』ning ma'nosi qaysi?",
-      "word": "害",
+      "questionType": "word",
+      "question": "『ko'chirmoq (imtihonda)』ning yaponcha ifodasi qaysi?",
+      "word": "カンニングする",
       "choices": [
-        "zarar",
-        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
-        "ko'chirib yozmoq; suratga olmoq",
-        "shahar qurilishi, shaharsozlik"
+        "ニックネーム",
+        "温暖な",
+        "カンニングする",
+        "意志"
       ],
-      "correctAnswer": 0,
-      "explanation": "害 → zarar"
+      "correctAnswer": 2,
+      "explanation": "ko'chirmoq (imtihonda) → カンニングする"
     },
     {
       "id": 3,
-      "questionType": "kanji",
-      "question": "『たびかさなる』qaysi yozuvga mos?",
-      "word": "度重なる",
-      "choices": [
-        "しつけ",
-        "効く",
-        "荒らす",
-        "度重なる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "たびかさなる → 度重なる"
-    },
-    {
-      "id": 4,
-      "questionType": "meaning",
-      "question": "『農村』ning ma'nosi qaysi?",
-      "word": "農村",
-      "choices": [
-        "tug'ilmoq",
-        "tug'moq, farzand ko'rmoq",
-        "anchadan beri, ko'rishmaganiga ancha bo'ldi",
-        "qishloq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "農村 → qishloq"
-    },
-    {
-      "id": 5,
-      "questionType": "meaning",
-      "question": "『対策する』ning ma'nosi qaysi?",
-      "word": "対策する",
-      "choices": [
-        "chora ko'rmoq",
-        "hurmat qilmoq, qadrlamoq",
-        "havas qilmoq",
-        "yuqori unumli, samarali (texnika)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "対策する → chora ko'rmoq"
-    },
-    {
-      "id": 6,
-      "questionType": "reading",
-      "question": "『ストライキ』ning o'qilishi qaysi?",
-      "word": "ストライキ",
-      "choices": [
-        "めぐまれる",
-        "しみじみ",
-        "はんせいかい",
-        "ストライキ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ストライキ → ストライキ"
-    },
-    {
-      "id": 7,
-      "questionType": "kanji",
-      "question": "『ろうどうする』qaysi yozuvga mos?",
-      "word": "労働する",
-      "choices": [
-        "蚊",
-        "高収入",
-        "思いやる",
-        "労働する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ろうどうする → 労働する"
-    },
-    {
-      "id": 8,
-      "questionType": "sentence",
-      "question": "『対策する』ning ma'nosi qaysi?",
-      "word": "対策する",
-      "choices": [
-        "yengib o'tmoq/boshdan kechirmoq",
-        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
-        "chora ko'rmoq",
-        "yuz ifodasi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "対策する → chora ko'rmoq"
-    },
-    {
-      "id": 9,
-      "questionType": "kanji",
-      "question": "『こうぎする』qaysi yozuvga mos?",
-      "word": "抗議する",
-      "choices": [
-        "ありがとう",
-        "抗議する",
-        "逆らう",
-        "骨折する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "こうぎする → 抗議する"
-    },
-    {
-      "id": 10,
-      "questionType": "kanji",
-      "question": "『だます』qaysi yozuvga mos?",
-      "word": "だます",
-      "choices": [
-        "恵まれる",
-        "似顔絵",
-        "自分勝手な",
-        "だます"
-      ],
-      "correctAnswer": 3,
-      "explanation": "だます → だます"
-    },
-    {
-      "id": 11,
-      "questionType": "kanji",
-      "question": "『ひょうじする』qaysi yozuvga mos?",
-      "word": "表示する",
-      "choices": [
-        "表示する",
-        "書面",
-        "憧れる",
-        "高学歴"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ひょうじする → 表示する"
-    },
-    {
-      "id": 12,
-      "questionType": "kanji",
-      "question": "『ふけいき』qaysi yozuvga mos?",
-      "word": "不景気",
-      "choices": [
-        "心細い",
-        "呼び出す",
-        "不景気",
-        "逆らう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ふけいき → 不景気"
-    },
-    {
-      "id": 13,
-      "questionType": "reading",
-      "question": "『だます』ning o'qilishi qaysi?",
-      "word": "だます",
-      "choices": [
-        "いいだす",
-        "どうせ",
-        "うまれる",
-        "だます"
-      ],
-      "correctAnswer": 3,
-      "explanation": "だます → だます"
-    },
-    {
-      "id": 14,
-      "questionType": "reading",
-      "question": "『解ける』ning o'qilishi qaysi?",
-      "word": "解ける",
-      "choices": [
-        "ふざける",
-        "とける",
-        "こうけつあつ",
-        "てつやする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "解ける → とける"
-    },
-    {
-      "id": 15,
-      "questionType": "word",
-      "question": "『hudud (davlat hududi)』ning yaponcha ifodasi qaysi?",
-      "word": "領土",
-      "choices": [
-        "ストライキ",
-        "察する",
-        "ふざける",
-        "領土"
-      ],
-      "correctAnswer": 3,
-      "explanation": "hudud (davlat hududi) → 領土"
-    },
-    {
-      "id": 16,
-      "questionType": "reading",
-      "question": "『核兵器』ning o'qilishi qaysi?",
-      "word": "核兵器",
-      "choices": [
-        "かくへいき",
-        "ふけいき",
-        "か",
-        "かなう"
-      ],
-      "correctAnswer": 0,
-      "explanation": "核兵器 → かくへいき"
-    },
-    {
-      "id": 17,
-      "questionType": "sentence",
-      "question": "『度重なる』ning ma'nosi qaysi?",
-      "word": "度重なる",
-      "choices": [
-        "qayta-qayta takrorlanmoq (xato, hodisa)",
-        "xatosini anglab mulohaza qilmoq",
-        "homilador ayol",
-        "yaratmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "度重なる → qayta-qayta takrorlanmoq (xato, hodisa)"
-    },
-    {
-      "id": 18,
-      "questionType": "kanji",
-      "question": "『がい』qaysi yozuvga mos?",
-      "word": "害",
-      "choices": [
-        "害",
-        "支援する",
-        "介護する",
-        "呼び出す"
-      ],
-      "correctAnswer": 0,
-      "explanation": "がい → 害"
-    },
-    {
-      "id": 19,
-      "questionType": "kanji",
-      "question": "『にがおえ』qaysi yozuvga mos?",
-      "word": "似顔絵",
-      "choices": [
-        "似顔絵",
-        "荒らす",
-        "盛り上がる",
-        "見習い"
-      ],
-      "correctAnswer": 0,
-      "explanation": "にがおえ → 似顔絵"
-    },
-    {
-      "id": 20,
-      "questionType": "word",
-      "question": "『aldamoq』ning yaponcha ifodasi qaysi?",
-      "word": "だます",
-      "choices": [
-        "だます",
-        "呼び出す",
-        "相談に乗る",
-        "俺"
-      ],
-      "correctAnswer": 0,
-      "explanation": "aldamoq → だます"
-    },
-    {
-      "id": 21,
-      "questionType": "word",
-      "question": "『yechilmoq; erimoq』ning yaponcha ifodasi qaysi?",
-      "word": "解ける",
-      "choices": [
-        "しみじみ",
-        "解ける",
-        "再会する",
-        "害"
-      ],
-      "correctAnswer": 1,
-      "explanation": "yechilmoq; erimoq → 解ける"
-    },
-    {
-      "id": 22,
-      "questionType": "kanji",
-      "question": "『しんぱん』qaysi yozuvga mos?",
-      "word": "審判",
-      "choices": [
-        "高性能",
-        "審判",
-        "出産祝い",
-        "盛り上がる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しんぱん → 審判"
-    },
-    {
-      "id": 23,
-      "questionType": "word",
-      "question": "『ko'rsatmoq, aks ettirmoq (ekranda)』ning yaponcha ifodasi qaysi?",
-      "word": "表示する",
-      "choices": [
-        "表示する",
-        "言い出す",
-        "慰める",
-        "出身"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ko'rsatmoq, aks ettirmoq (ekranda) → 表示する"
-    },
-    {
-      "id": 24,
-      "questionType": "meaning",
-      "question": "『労働する』ning ma'nosi qaysi?",
-      "word": "労働する",
-      "choices": [
-        "rozilik bildirmoq",
-        "mehnat qilmoq",
-        "final",
-        "go'l, hayot tajribasi yo'q (odam)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "労働する → mehnat qilmoq"
-    },
-    {
-      "id": 25,
-      "questionType": "word",
-      "question": "『iliq, mo'tadil (iqlim)』ning yaponcha ifodasi qaysi?",
-      "word": "温暖な",
-      "choices": [
-        "物価",
-        "温暖な",
-        "学食",
-        "罪を犯す"
-      ],
-      "correctAnswer": 1,
-      "explanation": "iliq, mo'tadil (iqlim) → 温暖な"
-    },
-    {
-      "id": 26,
-      "questionType": "reading",
-      "question": "『だます』ning o'qilishi qaysi?",
-      "word": "だます",
-      "choices": [
-        "にんぷ",
-        "まんびきする",
-        "だます",
-        "のうそん"
-      ],
-      "correctAnswer": 2,
-      "explanation": "だます → だます"
-    },
-    {
-      "id": 27,
-      "questionType": "reading",
-      "question": "『害』ning o'qilishi qaysi?",
-      "word": "害",
-      "choices": [
-        "こうがくねん",
-        "てつやする",
-        "がい",
-        "たよりにする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "害 → がい"
-    },
-    {
-      "id": 28,
-      "questionType": "meaning",
-      "question": "『度重なる』ning ma'nosi qaysi?",
-      "word": "度重なる",
-      "choices": [
-        "erkalik",
-        "xatosini anglab mulohaza qilmoq",
-        "maslahat bermoq, dardini eshitmoq",
-        "qayta-qayta takrorlanmoq (xato, hodisa)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "度重なる → qayta-qayta takrorlanmoq (xato, hodisa)"
-    },
-    {
-      "id": 29,
-      "questionType": "sentence",
-      "question": "『罪を犯す』ning ma'nosi qaysi?",
-      "word": "罪を犯す",
-      "choices": [
-        "yozma shakl (hujjat)",
-        "tuni bilan uxlamaslik",
-        "jinoyat sodir qilish",
-        "g'amxo'rlik qilmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "罪を犯す → jinoyat sodir qilish"
-    },
-    {
-      "id": 30,
-      "questionType": "kanji",
-      "question": "『げんしりょくはつでんしょ』qaysi yozuvga mos?",
-      "word": "原子力発電所",
-      "choices": [
-        "原子力発電所",
-        "ファミリー",
-        "万引きする",
-        "対策する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "げんしりょくはつでんしょ → 原子力発電所"
-    },
-    {
-      "id": 31,
-      "questionType": "meaning",
-      "question": "『度重なる』ning ma'nosi qaysi?",
-      "word": "度重なる",
-      "choices": [
-        "narx-navo (umumiy narxlar darajasi)",
-        "zarar",
-        "maslahat bermoq, dardini eshitmoq",
-        "qayta-qayta takrorlanmoq (xato, hodisa)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "度重なる → qayta-qayta takrorlanmoq (xato, hodisa)"
-    },
-    {
-      "id": 32,
-      "questionType": "meaning",
-      "question": "『抗議する』ning ma'nosi qaysi?",
-      "word": "抗議する",
-      "choices": [
-        "norozilik bildirmoq",
-        "yuqori ma'lumotli",
-        "dalda bermoq, ruhlantirmoq",
-        "buzilmoq (shakl/holat)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "抗議する → norozilik bildirmoq"
-    },
-    {
-      "id": 33,
-      "questionType": "kanji",
-      "question": "『てつやする』qaysi yozuvga mos?",
-      "word": "徹夜する",
-      "choices": [
-        "久しい",
-        "募集する",
-        "徹夜する",
-        "見習い"
-      ],
-      "correctAnswer": 2,
-      "explanation": "てつやする → 徹夜する"
-    },
-    {
-      "id": 34,
-      "questionType": "meaning",
-      "question": "『罪を犯す』ning ma'nosi qaysi?",
-      "word": "罪を犯す",
-      "choices": [
-        "avlod",
-        "cheklangan vaqtli chegirma savdosi",
-        "jinoyat sodir qilish",
-        "ko'rsatmoq, aks ettirmoq (ekranda)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "罪を犯す → jinoyat sodir qilish"
-    },
-    {
-      "id": 35,
-      "questionType": "meaning",
-      "question": "『害』ning ma'nosi qaysi?",
-      "word": "害",
-      "choices": [
-        "o'rnak olmoq",
-        "o'tmish",
-        "uyushtiruvchi, tashkilotchi",
-        "zarar"
-      ],
-      "correctAnswer": 3,
-      "explanation": "害 → zarar"
-    },
-    {
-      "id": 36,
-      "questionType": "word",
-      "question": "『kamsitmoq』ning yaponcha ifodasi qaysi?",
-      "word": "差別する",
-      "choices": [
-        "気楽な",
-        "恵まれる",
-        "差別する",
-        "親知らず"
-      ],
-      "correctAnswer": 2,
-      "explanation": "kamsitmoq → 差別する"
-    },
-    {
-      "id": 37,
-      "questionType": "kanji",
-      "question": "『とける』qaysi yozuvga mos?",
-      "word": "解ける",
-      "choices": [
-        "思いやる",
-        "仲良し",
-        "崩れる",
-        "解ける"
-      ],
-      "correctAnswer": 3,
-      "explanation": "とける → 解ける"
-    },
-    {
-      "id": 38,
-      "questionType": "kanji",
-      "question": "『のうそん』qaysi yozuvga mos?",
-      "word": "農村",
-      "choices": [
-        "語り合う",
-        "副作用",
-        "農村",
-        "雑な"
-      ],
-      "correctAnswer": 2,
-      "explanation": "のうそん → 農村"
-    },
-    {
-      "id": 39,
-      "questionType": "reading",
-      "question": "『農村』ning o'qilishi qaysi?",
-      "word": "農村",
-      "choices": [
-        "のうそん",
-        "かいごする",
-        "しんらいする",
-        "としかいはつ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "農村 → のうそん"
-    },
-    {
-      "id": 40,
-      "questionType": "kanji",
-      "question": "『こうぎする』qaysi yozuvga mos?",
-      "word": "抗議する",
-      "choices": [
-        "俺",
-        "抗議する",
-        "大半",
-        "パワハラする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "こうぎする → 抗議する"
-    },
-    {
-      "id": 41,
-      "questionType": "kanji",
-      "question": "『しんぱん』qaysi yozuvga mos?",
-      "word": "審判",
-      "choices": [
-        "役目",
-        "盛り上がる",
-        "審判",
-        "しつける"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しんぱん → 審判"
-    },
-    {
-      "id": 42,
-      "questionType": "meaning",
-      "question": "『カンニングする』ning ma'nosi qaysi?",
-      "word": "カンニングする",
-      "choices": [
-        "ataylab, maqsadli",
-        "ko'chirmoq (imtihonda)",
-        "yuqori ma'lumotli",
-        "g'amxo'rlik"
-      ],
-      "correctAnswer": 1,
-      "explanation": "カンニングする → ko'chirmoq (imtihonda)"
-    },
-    {
-      "id": 43,
-      "questionType": "kanji",
-      "question": "『かくへいき』qaysi yozuvga mos?",
-      "word": "核兵器",
-      "choices": [
-        "慰める",
-        "核兵器",
-        "介護する",
-        "乗り切る"
-      ],
-      "correctAnswer": 1,
-      "explanation": "かくへいき → 核兵器"
-    },
-    {
-      "id": 44,
-      "questionType": "word",
-      "question": "『bekor qilmoq, tugatmoq』ning yaponcha ifodasi qaysi?",
-      "word": "廃止する",
-      "choices": [
-        "ファミリー",
-        "都市開発",
-        "過去",
-        "廃止する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "bekor qilmoq, tugatmoq → 廃止する"
-    },
-    {
-      "id": 45,
-      "questionType": "sentence",
-      "question": "『カンニングする』ning ma'nosi qaysi?",
-      "word": "カンニングする",
-      "choices": [
-        "yuqori qon bosimi",
-        "yashirincha",
-        "ko'chirmoq (imtihonda)",
-        "meros qilib olmoq, davom ettirmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "カンニングする → ko'chirmoq (imtihonda)"
-    },
-    {
-      "id": 46,
-      "questionType": "reading",
-      "question": "『カンニングする』ning o'qilishi qaysi?",
-      "word": "カンニングする",
-      "choices": [
-        "いっかだんらん",
-        "きらくな",
-        "カンニングする",
-        "なっとくする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "カンニングする → カンニングする"
-    },
-    {
-      "id": 47,
-      "questionType": "reading",
-      "question": "『表示する』ning o'qilishi qaysi?",
-      "word": "表示する",
-      "choices": [
-        "がくしょく",
-        "くちをきく",
-        "ひょうじする",
-        "ふくさよう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "表示する → ひょうじする"
-    },
-    {
-      "id": 48,
-      "questionType": "kanji",
-      "question": "『なんみん』qaysi yozuvga mos?",
-      "word": "難民",
-      "choices": [
-        "思いやり",
-        "難民",
-        "散らかる",
-        "罪を犯す"
-      ],
-      "correctAnswer": 1,
-      "explanation": "なんみん → 難民"
-    },
-    {
-      "id": 49,
-      "questionType": "reading",
-      "question": "『害』ning o'qilishi qaysi?",
-      "word": "害",
-      "choices": [
-        "ちしき",
-        "かたりあう",
-        "がい",
-        "うつす"
-      ],
-      "correctAnswer": 2,
-      "explanation": "害 → がい"
-    },
-    {
-      "id": 50,
-      "questionType": "meaning",
-      "question": "『対策する』ning ma'nosi qaysi?",
-      "word": "対策する",
-      "choices": [
-        "hisobot bermoq",
-        "oila",
-        "chora ko'rmoq",
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "対策する → chora ko'rmoq"
-    },
-    {
-      "id": 51,
-      "questionType": "sentence",
-      "question": "『表示する』ning ma'nosi qaysi?",
-      "word": "表示する",
-      "choices": [
-        "haqiqiy kuch, salohiyat",
-        "ko'rsatmoq, aks ettirmoq (ekranda)",
-        "yuqori unumli, samarali (texnika)",
-        "tarbiya, odob"
-      ],
-      "correctAnswer": 1,
-      "explanation": "表示する → ko'rsatmoq, aks ettirmoq (ekranda)"
-    },
-    {
-      "id": 52,
       "questionType": "reading",
       "question": "『抗議する』ning o'qilishi qaysi?",
       "word": "抗議する",
       "choices": [
-        "そうだんにのる",
-        "ざつな",
+        "へいきな",
         "こうぎする",
-        "よびだす"
+        "くずれる",
+        "うつす"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "抗議する → こうぎする"
     },
     {
-      "id": 53,
+      "id": 4,
+      "questionType": "meaning",
+      "question": "『原子力発電所』ning ma'nosi qaysi?",
+      "word": "原子力発電所",
+      "choices": [
+        "atom elektr",
+        "yupatmoq",
+        "yuqori sinf (maktab)",
+        "narx-navo (umumiy narxlar darajasi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "原子力発電所 → atom elektr"
+    },
+    {
+      "id": 5,
+      "questionType": "meaning",
+      "question": "『似顔絵』ning ma'nosi qaysi?",
+      "word": "似顔絵",
+      "choices": [
+        "tug'moq, farzand ko'rmoq",
+        "portret",
+        "tushkunlikka tushmoq",
+        "narx-navo (umumiy narxlar darajasi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "似顔絵 → portret"
+    },
+    {
+      "id": 6,
+      "questionType": "sentence",
+      "question": "『徹夜する』ning ma'nosi qaysi?",
+      "word": "徹夜する",
+      "choices": [
+        "norozilik bildirmoq",
+        "beixtiyor, oddiy",
+        "tuni bilan uxlamaslik",
+        "tushkunlikka tushmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "徹夜する → tuni bilan uxlamaslik"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『核兵器』ning ma'nosi qaysi?",
+      "word": "核兵器",
+      "choices": [
+        "akusherlik-ginekologiya (bo'limi)",
+        "savol",
+        "yadro quroli",
+        "ne'matga muyassar bo'lmoq, omadi kulmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "核兵器 → yadro quroli"
+    },
+    {
+      "id": 8,
+      "questionType": "sentence",
+      "question": "『抗議する』ning ma'nosi qaysi?",
+      "word": "抗議する",
+      "choices": [
+        "hudud (davlat hududi)",
+        "tarbiyalamoq, odob o'rgatmoq",
+        "norozilik bildirmoq",
+        "uyushtiruvchi, tashkilotchi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "抗議する → norozilik bildirmoq"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
+      "question": "『差別する』ning ma'nosi qaysi?",
+      "word": "差別する",
+      "choices": [
+        "yuqori ma'lumotli",
+        "kamsitmoq",
+        "chuqur",
+        "rozilik bildirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "差別する → kamsitmoq"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『りょうど』qaysi yozuvga mos?",
+      "word": "領土",
+      "choices": [
+        "友人",
+        "審判",
+        "介護する",
+        "領土"
+      ],
+      "correctAnswer": 3,
+      "explanation": "りょうど → 領土"
+    },
+    {
+      "id": 11,
+      "questionType": "meaning",
+      "question": "『労働する』ning ma'nosi qaysi?",
+      "word": "労働する",
+      "choices": [
+        "mehnat qilmoq",
+        "gap boshlamoq, birinchi bo'lib aytmoq",
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "g'amxo'rlik qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "労働する → mehnat qilmoq"
+    },
+    {
+      "id": 12,
+      "questionType": "meaning",
+      "question": "『議論する』ning ma'nosi qaysi?",
+      "word": "議論する",
+      "choices": [
+        "tush payti (soat 12)",
+        "amalga oshmoq (orzu)",
+        "muhokama qilmoq, bahs yuritmoq",
+        "ko'chirmoq (imtihonda)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
+    },
+    {
+      "id": 13,
+      "questionType": "reading",
+      "question": "『難民』ning o'qilishi qaysi?",
+      "word": "難民",
+      "choices": [
+        "いっかだんらん",
+        "なんみん",
+        "せけんしらず",
+        "ふぁみりー"
+      ],
+      "correctAnswer": 1,
+      "explanation": "難民 → なんみん"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『審判』ning o'qilishi qaysi?",
+      "word": "審判",
+      "choices": [
+        "たよりになる",
+        "なか",
+        "やくめ",
+        "しんぱん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "審判 → しんぱん"
+    },
+    {
+      "id": 15,
+      "questionType": "reading",
+      "question": "『農村』ning o'qilishi qaysi?",
+      "word": "農村",
+      "choices": [
+        "パワハラする",
+        "あこがれる",
+        "のうそん",
+        "なかよし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "農村 → のうそん"
+    },
+    {
+      "id": 16,
       "questionType": "meaning",
       "question": "『農村』ning ma'nosi qaysi?",
       "word": "農村",
       "choices": [
-        "aql tish",
+        "ko'nmoq, tushunib rozi bo'lmoq",
         "qishloq",
-        "ataylab, maqsadli",
-        "haqiqiy kuch, salohiyat"
+        "teri",
+        "qadrdon do'st"
       ],
       "correctAnswer": 1,
       "explanation": "農村 → qishloq"
     },
     {
-      "id": 54,
-      "questionType": "kanji",
-      "question": "『てつやする』qaysi yozuvga mos?",
-      "word": "徹夜する",
-      "choices": [
-        "徹夜する",
-        "幹事",
-        "俺",
-        "見習う"
-      ],
-      "correctAnswer": 0,
-      "explanation": "てつやする → 徹夜する"
-    },
-    {
-      "id": 55,
-      "questionType": "reading",
-      "question": "『核兵器』ning o'qilishi qaysi?",
-      "word": "核兵器",
-      "choices": [
-        "さからう",
-        "としかいはつ",
-        "しょたいめん",
-        "かくへいき"
-      ],
-      "correctAnswer": 3,
-      "explanation": "核兵器 → かくへいき"
-    },
-    {
-      "id": 56,
-      "questionType": "kanji",
-      "question": "『おんだんな』qaysi yozuvga mos?",
-      "word": "温暖な",
-      "choices": [
-        "温暖な",
-        "打ち明ける",
-        "抗議する",
-        "言いつける"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おんだんな → 温暖な"
-    },
-    {
-      "id": 57,
-      "questionType": "kanji",
-      "question": "『がい』qaysi yozuvga mos?",
-      "word": "害",
-      "choices": [
-        "介護する",
-        "害",
-        "蚊",
-        "差別する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "がい → 害"
-    },
-    {
-      "id": 58,
-      "questionType": "kanji",
-      "question": "『カンニングする』qaysi yozuvga mos?",
-      "word": "カンニングする",
-      "choices": [
-        "妊婦",
-        "放っておく",
-        "質問",
-        "カンニングする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "カンニングする → カンニングする"
-    },
-    {
-      "id": 59,
-      "questionType": "word",
-      "question": "『mehnat qilmoq』ning yaponcha ifodasi qaysi?",
-      "word": "労働する",
-      "choices": [
-        "何気ない",
-        "思いやる",
-        "高性能",
-        "労働する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "mehnat qilmoq → 労働する"
-    },
-    {
-      "id": 60,
-      "questionType": "reading",
-      "question": "『領土』ning o'qilishi qaysi?",
-      "word": "領土",
-      "choices": [
-        "りょうど",
-        "しゅっさんする",
-        "はんせいする",
-        "いっか"
-      ],
-      "correctAnswer": 0,
-      "explanation": "領土 → りょうど"
-    },
-    {
-      "id": 61,
-      "questionType": "kanji",
-      "question": "『たいさくする』qaysi yozuvga mos?",
-      "word": "対策する",
-      "choices": [
-        "対策する",
-        "妊婦",
-        "決勝戦",
-        "ホームヘルパー"
-      ],
-      "correctAnswer": 0,
-      "explanation": "たいさくする → 対策する"
-    },
-    {
-      "id": 62,
+      "id": 17,
       "questionType": "meaning",
-      "question": "『密かに』ning ma'nosi qaysi?",
-      "word": "密かに",
+      "question": "『抗議する』ning ma'nosi qaysi?",
+      "word": "抗議する",
       "choices": [
-        "homilador ayol",
-        "ko'ndirmoq, ishontirmoq",
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "yashirincha"
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "meros qilib olmoq, davom ettirmoq",
+        "norozilik bildirmoq",
+        "kamtarona, sodda"
       ],
-      "correctAnswer": 3,
-      "explanation": "密かに → yashirincha"
+      "correctAnswer": 2,
+      "explanation": "抗議する → norozilik bildirmoq"
     },
     {
-      "id": 63,
-      "questionType": "meaning",
-      "question": "『核兵器』ning ma'nosi qaysi?",
-      "word": "核兵器",
-      "choices": [
-        "yadro quroli",
-        "qarshilik qilmoq, qarshi bormoq",
-        "yozma shakl (hujjat)",
-        "tuni bilan uxlamaslik"
-      ],
-      "correctAnswer": 0,
-      "explanation": "核兵器 → yadro quroli"
-    },
-    {
-      "id": 64,
+      "id": 18,
       "questionType": "kanji",
       "question": "『ひょうじする』qaysi yozuvga mos?",
       "word": "表示する",
       "choices": [
-        "乗り切る",
-        "書面",
-        "励ます",
-        "表示する"
+        "表示する",
+        "知識",
+        "ストライキ",
+        "過去"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "ひょうじする → 表示する"
     },
     {
-      "id": 65,
-      "questionType": "sentence",
-      "question": "『支援する』ning ma'nosi qaysi?",
-      "word": "支援する",
-      "choices": [
-        "aql tish",
-        "aldamoq",
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "qo'llab-quvvatlamoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "支援する → qo'llab-quvvatlamoq"
-    },
-    {
-      "id": 66,
-      "questionType": "reading",
-      "question": "『解ける』ning o'qilishi qaysi?",
-      "word": "解ける",
-      "choices": [
-        "こうぎする",
-        "いいつける",
-        "とける",
-        "だます"
-      ],
-      "correctAnswer": 2,
-      "explanation": "解ける → とける"
-    },
-    {
-      "id": 67,
-      "questionType": "reading",
-      "question": "『差別する』ning o'qilishi qaysi?",
-      "word": "差別する",
-      "choices": [
-        "しつけ",
-        "さべつする",
-        "こっせつする",
-        "か"
-      ],
-      "correctAnswer": 1,
-      "explanation": "差別する → さべつする"
-    },
-    {
-      "id": 68,
-      "questionType": "sentence",
-      "question": "『ストライキ』ning ma'nosi qaysi?",
-      "word": "ストライキ",
-      "choices": [
-        "chora ko'rmoq",
-        "ko'nmoq, tushunib rozi bo'lmoq",
-        "ishonmoq",
-        "ish tashlash"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ストライキ → ish tashlash"
-    },
-    {
-      "id": 69,
-      "questionType": "meaning",
-      "question": "『密かに』ning ma'nosi qaysi?",
-      "word": "密かに",
-      "choices": [
-        "yashirincha",
-        "shahar qurilishi, shaharsozlik",
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "muhokama qilmoq, bahs yuritmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "密かに → yashirincha"
-    },
-    {
-      "id": 70,
-      "questionType": "sentence",
-      "question": "『労働する』ning ma'nosi qaysi?",
-      "word": "労働する",
-      "choices": [
-        "hisobot bermoq",
-        "yengib o'tmoq/boshdan kechirmoq",
-        "mehnat qilmoq",
-        "tug'ilmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "労働する → mehnat qilmoq"
-    },
-    {
-      "id": 71,
-      "questionType": "sentence",
-      "question": "『抗議する』ning ma'nosi qaysi?",
-      "word": "抗議する",
-      "choices": [
-        "qayta uchrashmoq",
-        "qadrdon do'st",
-        "final",
-        "norozilik bildirmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "抗議する → norozilik bildirmoq"
-    },
-    {
-      "id": 72,
-      "questionType": "reading",
-      "question": "『支援する』ning o'qilishi qaysi?",
-      "word": "支援する",
-      "choices": [
-        "こうけつあつ",
-        "おやしらず",
-        "しえんする",
-        "にんしんする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "支援する → しえんする"
-    },
-    {
-      "id": 73,
-      "questionType": "reading",
-      "question": "『似顔絵』ning o'qilishi qaysi?",
-      "word": "似顔絵",
-      "choices": [
-        "たのもしい",
-        "なか",
-        "にがおえ",
-        "かなう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "似顔絵 → にがおえ"
-    },
-    {
-      "id": 74,
-      "questionType": "meaning",
-      "question": "『審判』ning ma'nosi qaysi?",
-      "word": "審判",
-      "choices": [
-        "shahar qurilishi, shaharsozlik",
-        "yaqin do'st",
-        "hakam",
-        "homilador bo'lmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "審判 → hakam"
-    },
-    {
-      "id": 75,
-      "questionType": "kanji",
-      "question": "『ひそかに』qaysi yozuvga mos?",
-      "word": "密かに",
-      "choices": [
-        "解ける",
-        "密かに",
-        "縁",
-        "廃止する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ひそかに → 密かに"
-    },
-    {
-      "id": 76,
-      "questionType": "reading",
-      "question": "『農村』ning o'qilishi qaysi?",
-      "word": "農村",
-      "choices": [
-        "あきれる",
-        "がい",
-        "しつけ",
-        "のうそん"
-      ],
-      "correctAnswer": 3,
-      "explanation": "農村 → のうそん"
-    },
-    {
-      "id": 77,
-      "questionType": "reading",
-      "question": "『難民』ning o'qilishi qaysi?",
-      "word": "難民",
-      "choices": [
-        "なんみん",
-        "じつりょく",
-        "ろうどうする",
-        "いいだす"
-      ],
-      "correctAnswer": 0,
-      "explanation": "難民 → なんみん"
-    },
-    {
-      "id": 78,
-      "questionType": "kanji",
-      "question": "『つみをおかす』qaysi yozuvga mos?",
-      "word": "罪を犯す",
-      "choices": [
-        "妊婦",
-        "友人",
-        "罪を犯す",
-        "出産祝い"
-      ],
-      "correctAnswer": 2,
-      "explanation": "つみをおかす → 罪を犯す"
-    },
-    {
-      "id": 79,
-      "questionType": "meaning",
-      "question": "『解ける』ning ma'nosi qaysi?",
-      "word": "解ける",
-      "choices": [
-        "yuqori (atmosfera) bosim(i)",
-        "yechilmoq; erimoq",
-        "anchadan beri, ko'rishmaganiga ancha bo'ldi",
-        "kamsitmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "解ける → yechilmoq; erimoq"
-    },
-    {
-      "id": 80,
-      "questionType": "kanji",
-      "question": "『ぎろんする』qaysi yozuvga mos?",
-      "word": "議論する",
-      "choices": [
-        "度重なる",
-        "決勝戦",
-        "ジェネレーション",
-        "議論する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ぎろんする → 議論する"
-    },
-    {
-      "id": 81,
-      "questionType": "reading",
-      "question": "『審判』ning o'qilishi qaysi?",
-      "word": "審判",
-      "choices": [
-        "ひさしぶり",
-        "しゅっしん",
-        "しんぱん",
-        "カンニングする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "審判 → しんぱん"
-    },
-    {
-      "id": 82,
-      "questionType": "word",
-      "question": "『qochqin』ning yaponcha ifodasi qaysi?",
-      "word": "難民",
-      "choices": [
-        "久しぶり",
-        "甘やかす",
-        "頼りにする",
-        "難民"
-      ],
-      "correctAnswer": 3,
-      "explanation": "qochqin → 難民"
-    },
-    {
-      "id": 83,
-      "questionType": "kanji",
-      "question": "『りょうど』qaysi yozuvga mos?",
-      "word": "領土",
-      "choices": [
-        "領土",
-        "核兵器",
-        "しつけ",
-        "高学歴"
-      ],
-      "correctAnswer": 0,
-      "explanation": "りょうど → 領土"
-    },
-    {
-      "id": 84,
-      "questionType": "meaning",
-      "question": "『議論する』ning ma'nosi qaysi?",
-      "word": "議論する",
-      "choices": [
-        "yuzma-yuz bo'lmoq, yuzlashmoq",
-        "qayta-qayta takrorlanmoq (xato, hodisa)",
-        "kamsitmoq",
-        "muhokama qilmoq, bahs yuritmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
-    },
-    {
-      "id": 85,
-      "questionType": "reading",
-      "question": "『不景気』ning o'qilishi qaysi?",
-      "word": "不景気",
-      "choices": [
-        "よびだす",
-        "ふけいき",
-        "こんなんな",
-        "りょうど"
-      ],
-      "correctAnswer": 1,
-      "explanation": "不景気 → ふけいき"
-    },
-    {
-      "id": 86,
-      "questionType": "reading",
-      "question": "『難民』ning o'qilishi qaysi?",
-      "word": "難民",
-      "choices": [
-        "からかう",
-        "なんみん",
-        "もりあがる",
-        "こう〜"
-      ],
-      "correctAnswer": 1,
-      "explanation": "難民 → なんみん"
-    },
-    {
-      "id": 87,
-      "questionType": "kanji",
-      "question": "『かくへいき』qaysi yozuvga mos?",
-      "word": "核兵器",
-      "choices": [
-        "ふざける",
-        "写す",
-        "核兵器",
-        "抗議する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かくへいき → 核兵器"
-    },
-    {
-      "id": 88,
-      "questionType": "sentence",
-      "question": "『廃止する』ning ma'nosi qaysi?",
-      "word": "廃止する",
-      "choices": [
-        "yuqori ma'lumotli",
-        "bekor qilmoq, tugatmoq",
-        "uyda parvarish qiluvchi xodim",
-        "aql tish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "廃止する → bekor qilmoq, tugatmoq"
-    },
-    {
-      "id": 89,
-      "questionType": "reading",
-      "question": "『対策する』ning o'qilishi qaysi?",
-      "word": "対策する",
-      "choices": [
-        "たいさくする",
-        "うちあける",
-        "さんふじんか",
-        "たよりになる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "対策する → たいさくする"
-    },
-    {
-      "id": 90,
-      "questionType": "word",
-      "question": "『ish tashlash』ning yaponcha ifodasi qaysi?",
-      "word": "ストライキ",
-      "choices": [
-        "世間知らず",
-        "ストライキ",
-        "審判",
-        "見習い"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ish tashlash → ストライキ"
-    },
-    {
-      "id": 91,
-      "questionType": "kanji",
-      "question": "『しえんする』qaysi yozuvga mos?",
-      "word": "支援する",
-      "choices": [
-        "気楽な",
-        "一家団らん",
-        "支援する",
-        "察する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しえんする → 支援する"
-    },
-    {
-      "id": 92,
-      "questionType": "kanji",
-      "question": "『はいしする』qaysi yozuvga mos?",
-      "word": "廃止する",
-      "choices": [
-        "しつける",
-        "一家団らん",
-        "廃止する",
-        "産む"
-      ],
-      "correctAnswer": 2,
-      "explanation": "はいしする → 廃止する"
-    },
-    {
-      "id": 93,
-      "questionType": "meaning",
-      "question": "『ストライキ』ning ma'nosi qaysi?",
-      "word": "ストライキ",
-      "choices": [
-        "ko'chirib yozmoq; suratga olmoq",
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "ish tashlash"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ストライキ → ish tashlash"
-    },
-    {
-      "id": 94,
-      "questionType": "meaning",
-      "question": "『温暖な』ning ma'nosi qaysi?",
-      "word": "温暖な",
-      "choices": [
-        "iliq, mo'tadil (iqlim)",
-        "yupatmoq",
-        "yashirincha",
-        "qishloq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "温暖な → iliq, mo'tadil (iqlim)"
-    },
-    {
-      "id": 95,
-      "questionType": "kanji",
-      "question": "『りょうど』qaysi yozuvga mos?",
-      "word": "領土",
-      "choices": [
-        "領土",
-        "あえて",
-        "励ます",
-        "高学年"
-      ],
-      "correctAnswer": 0,
-      "explanation": "りょうど → 領土"
-    },
-    {
-      "id": 96,
+      "id": 19,
       "questionType": "reading",
       "question": "『密かに』ning o'qilishi qaysi?",
       "word": "密かに",
       "choices": [
-        "ひさしぶり",
-        "うちあける",
-        "ニックネーム",
+        "えん",
+        "わざわざ",
+        "ていこうする",
         "ひそかに"
       ],
       "correctAnswer": 3,
       "explanation": "密かに → ひそかに"
     },
     {
-      "id": 97,
+      "id": 20,
       "questionType": "kanji",
       "question": "『はいしする』qaysi yozuvga mos?",
       "word": "廃止する",
       "choices": [
-        "廃止する",
-        "仲良し",
-        "作成する",
-        "ジェネレーション"
+        "借金する",
+        "逆らう",
+        "温暖な",
+        "廃止する"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "はいしする → 廃止する"
     },
     {
-      "id": 98,
-      "questionType": "meaning",
-      "question": "『支援する』ning ma'nosi qaysi?",
+      "id": 21,
+      "questionType": "reading",
+      "question": "『不景気』ning o'qilishi qaysi?",
+      "word": "不景気",
+      "choices": [
+        "しゃっきんする",
+        "こころほそい",
+        "しゅっしん",
+        "ふけいき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "不景気 → ふけいき"
+    },
+    {
+      "id": 22,
+      "questionType": "sentence",
+      "question": "『カンニングする』ning ma'nosi qaysi?",
+      "word": "カンニングする",
+      "choices": [
+        "ko'chirmoq (imtihonda)",
+        "ko'nmoq, tushunib rozi bo'lmoq",
+        "erkalanmoq",
+        "oila (sinonim)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "カンニングする → ko'chirmoq (imtihonda)"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『ふけいき』qaysi yozuvga mos?",
+      "word": "不景気",
+      "choices": [
+        "友人",
+        "表示する",
+        "世代",
+        "不景気"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ふけいき → 不景気"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『しえんする』qaysi yozuvga mos?",
       "word": "支援する",
       "choices": [
-        "qo'llab-quvvatlamoq",
-        "ne'matga muyassar bo'lmoq, omadi kulmoq",
-        "chivin",
-        "savol"
-      ],
-      "correctAnswer": 0,
-      "explanation": "支援する → qo'llab-quvvatlamoq"
-    },
-    {
-      "id": 99,
-      "questionType": "kanji",
-      "question": "『つみをおかす』qaysi yozuvga mos?",
-      "word": "罪を犯す",
-      "choices": [
-        "罪を犯す",
-        "呼び出す",
-        "口を利く",
-        "似顔絵"
-      ],
-      "correctAnswer": 0,
-      "explanation": "つみをおかす → 罪を犯す"
-    },
-    {
-      "id": 100,
-      "questionType": "kanji",
-      "question": "『なんみん』qaysi yozuvga mos?",
-      "word": "難民",
-      "choices": [
-        "ありがたい",
-        "難民",
-        "募集する",
-        "高血圧"
+        "高収入",
+        "支援する",
+        "しつけ",
+        "領土"
       ],
       "correctAnswer": 1,
-      "explanation": "なんみん → 難民"
+      "explanation": "しえんする → 支援する"
     },
     {
-      "id": 101,
-      "questionType": "reading",
-      "question": "『労働する』ning o'qilishi qaysi?",
-      "word": "労働する",
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『核兵器』ning ma'nosi qaysi?",
+      "word": "核兵器",
       "choices": [
-        "ろうどうする",
-        "くちをきく",
-        "けっしょうせん",
-        "いいだす"
+        "yadro quroli",
+        "o'tmish",
+        "hisobot bermoq",
+        "norozilik bildirmoq"
       ],
       "correctAnswer": 0,
-      "explanation": "労働する → ろうどうする"
+      "explanation": "核兵器 → yadro quroli"
     },
     {
-      "id": 102,
+      "id": 26,
+      "questionType": "reading",
+      "question": "『カンニングする』ning o'qilishi qaysi?",
+      "word": "カンニングする",
+      "choices": [
+        "たよりにする",
+        "おやしらず",
+        "はだ",
+        "カンニングする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "カンニングする → カンニングする"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『しんぱん』qaysi yozuvga mos?",
+      "word": "審判",
+      "choices": [
+        "意志",
+        "喉",
+        "退屈な",
+        "審判"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しんぱん → 審判"
+    },
+    {
+      "id": 28,
+      "questionType": "reading",
+      "question": "『温暖な』ning o'qilishi qaysi?",
+      "word": "温暖な",
+      "choices": [
+        "あいしょう",
+        "おんだんな",
+        "たびかさなる",
+        "しんらいする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "温暖な → おんだんな"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『qochqin』ning yaponcha ifodasi qaysi?",
+      "word": "難民",
+      "choices": [
+        "難民",
+        "語り合う",
+        "利便性",
+        "頼もしい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qochqin → 難民"
+    },
+    {
+      "id": 30,
+      "questionType": "reading",
+      "question": "『核兵器』ning o'qilishi qaysi?",
+      "word": "核兵器",
+      "choices": [
+        "かくへいき",
+        "しゅっしん",
+        "くちをきく",
+        "たよりにする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "核兵器 → かくへいき"
+    },
+    {
+      "id": 31,
+      "questionType": "reading",
+      "question": "『解ける』ning o'qilishi qaysi?",
+      "word": "解ける",
+      "choices": [
+        "ひさしぶり",
+        "ありがたい",
+        "たいくつな",
+        "とける"
+      ],
+      "correctAnswer": 3,
+      "explanation": "解ける → とける"
+    },
+    {
+      "id": 32,
+      "questionType": "word",
+      "question": "『ish tashlash』ning yaponcha ifodasi qaysi?",
+      "word": "ストライキ",
+      "choices": [
+        "写す",
+        "高〜",
+        "妊婦",
+        "ストライキ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ish tashlash → ストライキ"
+    },
+    {
+      "id": 33,
+      "questionType": "meaning",
+      "question": "『温暖な』ning ma'nosi qaysi?",
+      "word": "温暖な",
+      "choices": [
+        "norozilik bildirmoq",
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "iliq, mo'tadil (iqlim)",
+        "hozir; keldim (uyga)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "温暖な → iliq, mo'tadil (iqlim)"
+    },
+    {
+      "id": 34,
       "questionType": "meaning",
       "question": "『議論する』ning ma'nosi qaysi?",
       "word": "議論する",
       "choices": [
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "jinoyat sodir qilish",
-        "muhokama qilmoq, bahs yuritmoq",
-        "qayta-qayta takrorlanmoq (xato, hodisa)"
+        "yengib o'tmoq/boshdan kechirmoq",
+        "tarbiya, odob",
+        "yechilmoq; erimoq",
+        "muhokama qilmoq, bahs yuritmoq"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
     },
     {
-      "id": 103,
-      "questionType": "sentence",
+      "id": 35,
+      "questionType": "reading",
+      "question": "『不景気』ning o'qilishi qaysi?",
+      "word": "不景気",
+      "choices": [
+        "いっかだんらん",
+        "さくせいする",
+        "ほうっておく",
+        "ふけいき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "不景気 → ふけいき"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『ストライキ』ning o'qilishi qaysi?",
+      "word": "ストライキ",
+      "choices": [
+        "ゆうじん",
+        "ストライキ",
+        "しゅっさんする",
+        "はだ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ストライキ → ストライキ"
+    },
+    {
+      "id": 37,
+      "questionType": "word",
+      "question": "『ko'rsatmoq, aks ettirmoq (ekranda)』ning yaponcha ifodasi qaysi?",
+      "word": "表示する",
+      "choices": [
+        "正午",
+        "久しい",
+        "表示する",
+        "利便性"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ko'rsatmoq, aks ettirmoq (ekranda) → 表示する"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『審判』ning o'qilishi qaysi?",
+      "word": "審判",
+      "choices": [
+        "きらくな",
+        "じぇねれーしょん",
+        "しんぱん",
+        "さいかいする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "審判 → しんぱん"
+    },
+    {
+      "id": 39,
+      "questionType": "reading",
+      "question": "『難民』ning o'qilishi qaysi?",
+      "word": "難民",
+      "choices": [
+        "そんちょうする",
+        "ひそかに",
+        "なんみん",
+        "くちをきく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "難民 → なんみん"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『度重なる』ning o'qilishi qaysi?",
+      "word": "度重なる",
+      "choices": [
+        "ひさしい",
+        "タイムセール",
+        "ちしき",
+        "たびかさなる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "度重なる → たびかさなる"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『だます』ning o'qilishi qaysi?",
+      "word": "だます",
+      "choices": [
+        "なにげない",
+        "いっきに",
+        "えん",
+        "だます"
+      ],
+      "correctAnswer": 3,
+      "explanation": "だます → だます"
+    },
+    {
+      "id": 42,
+      "questionType": "word",
+      "question": "『qo'llab-quvvatlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "支援する",
+      "choices": [
+        "更新する",
+        "あえて",
+        "支援する",
+        "大半"
+      ],
+      "correctAnswer": 2,
+      "explanation": "qo'llab-quvvatlamoq → 支援する"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『不景気』ning ma'nosi qaysi?",
+      "word": "不景気",
+      "choices": [
+        "iqtisodiy pasayish",
+        "fahmlamoq, sezmoq",
+        "zilzilaga chidamlilik",
+        "avlod almashinuvi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "不景気 → iqtisodiy pasayish"
+    },
+    {
+      "id": 44,
+      "questionType": "meaning",
       "question": "『徹夜する』ning ma'nosi qaysi?",
       "word": "徹夜する",
       "choices": [
-        "yordamchi",
-        "oila (sinonim)",
-        "xudbin, o'zboshimcha",
+        "baribir (nima bo'lgan taqdirda xam)",
+        "munosabat",
+        "yetib kelmoq",
         "tuni bilan uxlamaslik"
       ],
       "correctAnswer": 3,
       "explanation": "徹夜する → tuni bilan uxlamaslik"
     },
     {
-      "id": 104,
-      "questionType": "meaning",
-      "question": "『不景気』ning ma'nosi qaysi?",
-      "word": "不景気",
-      "choices": [
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "iqtisodiy pasayish",
-        "oila (sinonim)",
-        "mushkul, qiyin"
-      ],
-      "correctAnswer": 1,
-      "explanation": "不景気 → iqtisodiy pasayish"
-    },
-    {
-      "id": 105,
-      "questionType": "word",
-      "question": "『bekor qilmoq, tugatmoq』ning yaponcha ifodasi qaysi?",
-      "word": "廃止する",
-      "choices": [
-        "廃止する",
-        "対策する",
-        "ふざける",
-        "都市開発"
-      ],
-      "correctAnswer": 0,
-      "explanation": "bekor qilmoq, tugatmoq → 廃止する"
-    },
-    {
-      "id": 106,
-      "questionType": "kanji",
-      "question": "『ストライキ』qaysi yozuvga mos?",
-      "word": "ストライキ",
-      "choices": [
-        "ストライキ",
-        "ホームヘルパー",
-        "高学年",
-        "似顔絵"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ストライキ → ストライキ"
-    },
-    {
-      "id": 107,
+      "id": 45,
       "questionType": "reading",
-      "question": "『審判』ning o'qilishi qaysi?",
-      "word": "審判",
+      "question": "『似顔絵』ning o'qilishi qaysi?",
+      "word": "似顔絵",
       "choices": [
-        "あいしょう",
-        "しんぱん",
-        "ぶっか",
-        "としかいはつ"
+        "ざつな",
+        "かんじ",
+        "おんだんな",
+        "にがおえ"
       ],
-      "correctAnswer": 1,
-      "explanation": "審判 → しんぱん"
+      "correctAnswer": 3,
+      "explanation": "似顔絵 → にがおえ"
     },
     {
-      "id": 108,
-      "questionType": "meaning",
-      "question": "『不景気』ning ma'nosi qaysi?",
-      "word": "不景気",
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『てつやする』qaysi yozuvga mos?",
+      "word": "徹夜する",
       "choices": [
-        "savol",
-        "iqtisodiy pasayish",
-        "qadrdon do'st",
-        "betashvish"
+        "向き合う",
+        "核兵器",
+        "物価",
+        "徹夜する"
       ],
-      "correctAnswer": 1,
-      "explanation": "不景気 → iqtisodiy pasayish"
+      "correctAnswer": 3,
+      "explanation": "てつやする → 徹夜する"
     },
     {
-      "id": 109,
-      "questionType": "word",
-      "question": "『qo'llab-quvvatlamoq』ning yaponcha ifodasi qaysi?",
-      "word": "支援する",
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『げんしりょくはつでんしょ』qaysi yozuvga mos?",
+      "word": "原子力発電所",
       "choices": [
-        "支援する",
         "書面",
-        "憧れる",
-        "励ます"
+        "高性能",
+        "一気に",
+        "原子力発電所"
       ],
-      "correctAnswer": 0,
-      "explanation": "qo'llab-quvvatlamoq → 支援する"
+      "correctAnswer": 3,
+      "explanation": "げんしりょくはつでんしょ → 原子力発電所"
     },
     {
-      "id": 110,
+      "id": 48,
       "questionType": "meaning",
-      "question": "『カンニングする』ning ma'nosi qaysi?",
-      "word": "カンニングする",
+      "question": "『農村』ning ma'nosi qaysi?",
+      "word": "農村",
       "choices": [
-        "oila (sinonim)",
-        "tuni bilan uxlamaslik",
-        "ko'chirmoq (imtihonda)",
-        "ilk uchrashuv"
+        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq",
+        "homilador ayol",
+        "qishloq",
+        "hisobot bermoq"
       ],
       "correctAnswer": 2,
-      "explanation": "カンニングする → ko'chirmoq (imtihonda)"
+      "explanation": "農村 → qishloq"
     },
     {
-      "id": 111,
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『似顔絵』ning ma'nosi qaysi?",
+      "word": "似顔絵",
+      "choices": [
+        "avlod almashinuvi",
+        "avlod",
+        "iroda, qat'iy niyat",
+        "portret"
+      ],
+      "correctAnswer": 3,
+      "explanation": "似顔絵 → portret"
+    },
+    {
+      "id": 50,
+      "questionType": "meaning",
+      "question": "『徹夜する』ning ma'nosi qaysi?",
+      "word": "徹夜する",
+      "choices": [
+        "ko'pi, aksariyati",
+        "tuni bilan uxlamaslik",
+        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
+        "yollamoq, qabul e'lon qilmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "徹夜する → tuni bilan uxlamaslik"
+    },
+    {
+      "id": 51,
+      "questionType": "sentence",
+      "question": "『原子力発電所』ning ma'nosi qaysi?",
+      "word": "原子力発電所",
+      "choices": [
+        "ishonmoq",
+        "atom elektr",
+        "yollamoq, qabul e'lon qilmoq",
+        "teri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "原子力発電所 → atom elektr"
+    },
+    {
+      "id": 52,
       "questionType": "kanji",
-      "question": "『しえんする』qaysi yozuvga mos?",
+      "question": "『だます』qaysi yozuvga mos?",
+      "word": "だます",
+      "choices": [
+        "ジェネレーション",
+        "態度",
+        "だます",
+        "学食"
+      ],
+      "correctAnswer": 2,
+      "explanation": "だます → だます"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『支援する』ning ma'nosi qaysi?",
       "word": "支援する",
       "choices": [
-        "知識",
-        "大半",
-        "支援する",
-        "打ち明ける"
+        "uyushtiruvchi, tashkilotchi",
+        "qo'llab-quvvatlamoq",
+        "qulaylik (darajasi)",
+        "ko'chirmoq (imtihonda)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "支援する → qo'llab-quvvatlamoq"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『りょうど』qaysi yozuvga mos?",
+      "word": "領土",
+      "choices": [
+        "だます",
+        "出身",
+        "領土",
+        "当たり前"
       ],
       "correctAnswer": 2,
-      "explanation": "しえんする → 支援する"
+      "explanation": "りょうど → 領土"
     },
     {
-      "id": 112,
-      "questionType": "kanji",
-      "question": "『とける』qaysi yozuvga mos?",
-      "word": "解ける",
+      "id": 55,
+      "questionType": "sentence",
+      "question": "『罪を犯す』ning ma'nosi qaysi?",
+      "word": "罪を犯す",
       "choices": [
-        "解ける",
-        "密かに",
-        "頼る",
-        "抗議する"
+        "jinoyat sodir qilish",
+        "iqtisodiy pasayish",
+        "dalda bermoq, ruhlantirmoq",
+        "suyagi sinmoq"
       ],
       "correctAnswer": 0,
-      "explanation": "とける → 解ける"
+      "explanation": "罪を犯す → jinoyat sodir qilish"
     },
     {
-      "id": 113,
+      "id": 56,
       "questionType": "reading",
       "question": "『温暖な』ning o'qilishi qaysi?",
       "word": "温暖な",
       "choices": [
-        "ていこうする",
-        "むきあう",
-        "じさんする",
+        "はんせいする",
+        "たいしん",
+        "たいど",
         "おんだんな"
       ],
       "correctAnswer": 3,
       "explanation": "温暖な → おんだんな"
     },
     {
-      "id": 114,
-      "questionType": "word",
-      "question": "『atom elektr』ning yaponcha ifodasi qaysi?",
-      "word": "原子力発電所",
-      "choices": [
-        "だます",
-        "親知らず",
-        "態度",
-        "原子力発電所"
-      ],
-      "correctAnswer": 3,
-      "explanation": "atom elektr → 原子力発電所"
-    },
-    {
-      "id": 115,
+      "id": 57,
       "questionType": "kanji",
-      "question": "『ふけいき』qaysi yozuvga mos?",
-      "word": "不景気",
+      "question": "『カンニングする』qaysi yozuvga mos?",
+      "word": "カンニングする",
       "choices": [
-        "あだ名",
-        "生まれる",
-        "不景気",
-        "思いやる"
+        "頼もしい",
+        "初対面",
+        "カンニングする",
+        "向き合う"
       ],
       "correctAnswer": 2,
-      "explanation": "ふけいき → 不景気"
+      "explanation": "カンニングする → カンニングする"
     },
     {
-      "id": 116,
-      "questionType": "meaning",
-      "question": "『似顔絵』ning ma'nosi qaysi?",
-      "word": "似顔絵",
-      "choices": [
-        "portret",
-        "iroda, qat'iy niyat",
-        "shahar qurilishi, shaharsozlik",
-        "mazax qilmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "似顔絵 → portret"
-    },
-    {
-      "id": 117,
-      "questionType": "kanji",
-      "question": "『ひそかに』qaysi yozuvga mos?",
-      "word": "密かに",
-      "choices": [
-        "尊重する",
-        "密かに",
-        "呼び出す",
-        "ありがとう"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ひそかに → 密かに"
-    },
-    {
-      "id": 118,
-      "questionType": "sentence",
-      "question": "『議論する』ning ma'nosi qaysi?",
-      "word": "議論する",
-      "choices": [
-        "oila (sinonim)",
-        "tug'moq, farzand ko'rmoq",
-        "muhokama qilmoq, bahs yuritmoq",
-        "vaqtni ko'rsatmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
-    },
-    {
-      "id": 119,
-      "questionType": "sentence",
-      "question": "『密かに』ning ma'nosi qaysi?",
-      "word": "密かに",
-      "choices": [
-        "hazillashmoq, sho'xlik qilmoq",
-        "yashirincha",
-        "portret",
-        "oila davrasi, oilaviy chog' o'tirish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "密かに → yashirincha"
-    },
-    {
-      "id": 120,
-      "questionType": "meaning",
-      "question": "『徹夜する』ning ma'nosi qaysi?",
-      "word": "徹夜する",
-      "choices": [
-        "tuni bilan uxlamaslik",
-        "xatosini anglab mulohaza qilmoq",
-        "bekor qilmoq, tugatmoq",
-        "maslahat bermoq, dardini eshitmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "徹夜する → tuni bilan uxlamaslik"
-    },
-    {
-      "id": 121,
-      "questionType": "kanji",
-      "question": "『のうそん』qaysi yozuvga mos?",
-      "word": "農村",
-      "choices": [
-        "農村",
-        "正午",
-        "困難な",
-        "災害"
-      ],
-      "correctAnswer": 0,
-      "explanation": "のうそん → 農村"
-    },
-    {
-      "id": 122,
-      "questionType": "kanji",
-      "question": "『ろうどうする』qaysi yozuvga mos?",
-      "word": "労働する",
-      "choices": [
-        "労働する",
-        "語り合う",
-        "雑な",
-        "心細い"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ろうどうする → 労働する"
-    },
-    {
-      "id": 123,
+      "id": 58,
       "questionType": "reading",
-      "question": "『領土』ning o'qilishi qaysi?",
-      "word": "領土",
-      "choices": [
-        "りょうど",
-        "あらす",
-        "そうだんにのる",
-        "きく"
-      ],
-      "correctAnswer": 0,
-      "explanation": "領土 → りょうど"
-    },
-    {
-      "id": 124,
-      "questionType": "kanji",
-      "question": "『さべつする』qaysi yozuvga mos?",
-      "word": "差別する",
-      "choices": [
-        "信頼する",
-        "募集する",
-        "差別する",
-        "質素な"
-      ],
-      "correctAnswer": 2,
-      "explanation": "さべつする → 差別する"
-    },
-    {
-      "id": 125,
-      "questionType": "reading",
-      "question": "『度重なる』ning o'qilishi qaysi?",
-      "word": "度重なる",
-      "choices": [
-        "きく",
-        "たびかさなる",
-        "あきれる",
-        "なか"
-      ],
-      "correctAnswer": 1,
-      "explanation": "度重なる → たびかさなる"
-    },
-    {
-      "id": 126,
-      "questionType": "kanji",
-      "question": "『たいさくする』qaysi yozuvga mos?",
-      "word": "対策する",
-      "choices": [
-        "対策する",
-        "ふざける",
-        "だます",
-        "久しい"
-      ],
-      "correctAnswer": 0,
-      "explanation": "たいさくする → 対策する"
-    },
-    {
-      "id": 127,
-      "questionType": "meaning",
-      "question": "『原子力発電所』ning ma'nosi qaysi?",
-      "word": "原子力発電所",
-      "choices": [
-        "jinoyat sodir qilish",
-        "vaqtni ko'rsatmoq",
-        "atom elektr",
-        "go'l, hayot tajribasi yo'q (odam)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "原子力発電所 → atom elektr"
-    },
-    {
-      "id": 128,
-      "questionType": "kanji",
-      "question": "『さべつする』qaysi yozuvga mos?",
-      "word": "差別する",
-      "choices": [
-        "効く",
-        "生まれる",
-        "ありがたい",
-        "差別する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "さべつする → 差別する"
-    },
-    {
-      "id": 129,
-      "questionType": "meaning",
-      "question": "『罪を犯す』ning ma'nosi qaysi?",
-      "word": "罪を犯す",
-      "choices": [
-        "beixtiyor, oddiy",
-        "final",
-        "o'tmish",
-        "jinoyat sodir qilish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "罪を犯す → jinoyat sodir qilish"
-    },
-    {
-      "id": 130,
-      "questionType": "word",
-      "question": "『hakam』ning yaponcha ifodasi qaysi?",
-      "word": "審判",
-      "choices": [
-        "審判",
-        "パワハラする",
-        "思いやる",
-        "思いやり"
-      ],
-      "correctAnswer": 0,
-      "explanation": "hakam → 審判"
-    },
-    {
-      "id": 131,
-      "questionType": "kanji",
-      "question": "『だます』qaysi yozuvga mos?",
+      "question": "『だます』ning o'qilishi qaysi?",
       "word": "だます",
       "choices": [
-        "利便性",
+        "ひそかに",
         "だます",
-        "しみじみ",
-        "何気ない"
+        "かなう",
+        "かんりする"
       ],
       "correctAnswer": 1,
       "explanation": "だます → だます"
     },
     {
-      "id": 132,
-      "questionType": "word",
-      "question": "『hudud (davlat hududi)』ning yaponcha ifodasi qaysi?",
-      "word": "領土",
+      "id": 59,
+      "questionType": "sentence",
+      "question": "『度重なる』ning ma'nosi qaysi?",
+      "word": "度重なる",
       "choices": [
-        "決勝戦",
-        "廃止する",
-        "領土",
-        "骨折する"
+        "tarbiyalamoq, odob o'rgatmoq",
+        "qayta-qayta takrorlanmoq (xato, hodisa)",
+        "g'amxo'rlik qilmoq",
+        "yordamchi"
       ],
-      "correctAnswer": 2,
-      "explanation": "hudud (davlat hududi) → 領土"
+      "correctAnswer": 1,
+      "explanation": "度重なる → qayta-qayta takrorlanmoq (xato, hodisa)"
     },
     {
-      "id": 133,
+      "id": 60,
+      "questionType": "meaning",
+      "question": "『審判』ning ma'nosi qaysi?",
+      "word": "審判",
+      "choices": [
+        "iqtisodiy pasayish",
+        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
+        "xudbin, o'zboshimcha",
+        "hakam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "審判 → hakam"
+    },
+    {
+      "id": 61,
       "questionType": "kanji",
-      "question": "『にがおえ』qaysi yozuvga mos?",
+      "question": "『ひょうじする』qaysi yozuvga mos?",
+      "word": "表示する",
+      "choices": [
+        "傷つける",
+        "だます",
+        "高性能",
+        "表示する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ひょうじする → 表示する"
+    },
+    {
+      "id": 62,
+      "questionType": "kanji",
+      "question": "『ひそかに』qaysi yozuvga mos?",
+      "word": "密かに",
+      "choices": [
+        "当たり前",
+        "密かに",
+        "態度",
+        "出身"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ひそかに → 密かに"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『yechilmoq; erimoq』ning yaponcha ifodasi qaysi?",
+      "word": "解ける",
+      "choices": [
+        "荒らす",
+        "解ける",
+        "甘え",
+        "久しい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yechilmoq; erimoq → 解ける"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『害』ning o'qilishi qaysi?",
+      "word": "害",
+      "choices": [
+        "かつどん",
+        "なにげない",
+        "しみじみ",
+        "がい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "害 → がい"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『てつやする』qaysi yozuvga mos?",
+      "word": "徹夜する",
+      "choices": [
+        "不景気",
+        "憧れる",
+        "都市開発",
+        "徹夜する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "てつやする → 徹夜する"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『たびかさなる』qaysi yozuvga mos?",
+      "word": "度重なる",
+      "choices": [
+        "徹夜する",
+        "あきれる",
+        "自分勝手な",
+        "度重なる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "たびかさなる → 度重なる"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『のうそん』qaysi yozuvga mos?",
+      "word": "農村",
+      "choices": [
+        "大幅な",
+        "農村",
+        "あだ名",
+        "縁"
+      ],
+      "correctAnswer": 1,
+      "explanation": "のうそん → 農村"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『しんぱん』qaysi yozuvga mos?",
+      "word": "審判",
+      "choices": [
+        "幹事",
+        "反省する",
+        "審判",
+        "タイムセール"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しんぱん → 審判"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『なんみん』qaysi yozuvga mos?",
+      "word": "難民",
+      "choices": [
+        "似顔絵",
+        "領土",
+        "難民",
+        "甘やかす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "なんみん → 難民"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『さべつする』qaysi yozuvga mos?",
+      "word": "差別する",
+      "choices": [
+        "しつける",
+        "差別する",
+        "語り合う",
+        "高学歴"
+      ],
+      "correctAnswer": 1,
+      "explanation": "さべつする → 差別する"
+    },
+    {
+      "id": 71,
+      "questionType": "meaning",
+      "question": "『難民』ning ma'nosi qaysi?",
+      "word": "難民",
+      "choices": [
+        "qochqin",
+        "rishta, taqdiriy bog'liqlik",
+        "savol",
+        "qulaylik (darajasi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "難民 → qochqin"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『bekor qilmoq, tugatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "廃止する",
+      "choices": [
+        "廃止する",
+        "久しぶり",
+        "不景気",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 0,
+      "explanation": "bekor qilmoq, tugatmoq → 廃止する"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『たびかさなる』qaysi yozuvga mos?",
+      "word": "度重なる",
+      "choices": [
+        "度重なる",
+        "かつ丼",
+        "自立する",
+        "産婦人科"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たびかさなる → 度重なる"
+    },
+    {
+      "id": 74,
+      "questionType": "word",
+      "question": "『chora ko'rmoq』ning yaponcha ifodasi qaysi?",
+      "word": "対策する",
+      "choices": [
+        "表示する",
+        "対策する",
+        "出産祝い",
+        "害"
+      ],
+      "correctAnswer": 1,
+      "explanation": "chora ko'rmoq → 対策する"
+    },
+    {
+      "id": 75,
+      "questionType": "reading",
+      "question": "『似顔絵』ning o'qilishi qaysi?",
       "word": "似顔絵",
       "choices": [
-        "大半",
-        "核兵器",
-        "似顔絵",
-        "しつける"
+        "たよりになる",
+        "にがおえ",
+        "しゅうちゅうりょく",
+        "あえて"
       ],
-      "correctAnswer": 2,
-      "explanation": "にがおえ → 似顔絵"
+      "correctAnswer": 1,
+      "explanation": "似顔絵 → にがおえ"
     },
     {
-      "id": 134,
+      "id": 76,
+      "questionType": "sentence",
+      "question": "『密かに』ning ma'nosi qaysi?",
+      "word": "密かに",
+      "choices": [
+        "yashirincha",
+        "qarshilik qilmoq, qarshi bormoq",
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "ko'chirib yozmoq; suratga olmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "密かに → yashirincha"
+    },
+    {
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『カンニングする』ning ma'nosi qaysi?",
+      "word": "カンニングする",
+      "choices": [
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "qarz olmoq",
+        "ko'chirmoq (imtihonda)",
+        "betashvish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "カンニングする → ko'chirmoq (imtihonda)"
+    },
+    {
+      "id": 78,
+      "questionType": "reading",
+      "question": "『害』ning o'qilishi qaysi?",
+      "word": "害",
+      "choices": [
+        "しえんする",
+        "がい",
+        "せっとくする",
+        "うむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "害 → がい"
+    },
+    {
+      "id": 79,
+      "questionType": "word",
+      "question": "『jinoyat sodir qilish』ning yaponcha ifodasi qaysi?",
+      "word": "罪を犯す",
+      "choices": [
+        "しつける",
+        "罪を犯す",
+        "領土",
+        "反省する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "jinoyat sodir qilish → 罪を犯す"
+    },
+    {
+      "id": 80,
       "questionType": "word",
       "question": "『aldamoq』ning yaponcha ifodasi qaysi?",
       "word": "だます",
       "choices": [
-        "思いやり",
-        "廃止する",
-        "実力",
+        "ただ今",
+        "意志",
+        "頼りになる",
         "だます"
       ],
       "correctAnswer": 3,
       "explanation": "aldamoq → だます"
     },
     {
-      "id": 135,
-      "questionType": "reading",
-      "question": "『不景気』ning o'qilishi qaysi?",
-      "word": "不景気",
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『たいさくする』qaysi yozuvga mos?",
+      "word": "対策する",
       "choices": [
-        "たのもしい",
-        "ふけいき",
-        "じさんする",
-        "かこ"
+        "かつ丼",
+        "放っておく",
+        "対策する",
+        "写す"
       ],
-      "correctAnswer": 1,
-      "explanation": "不景気 → ふけいき"
+      "correctAnswer": 2,
+      "explanation": "たいさくする → 対策する"
     },
     {
-      "id": 136,
+      "id": 82,
+      "questionType": "kanji",
+      "question": "『のうそん』qaysi yozuvga mos?",
+      "word": "農村",
+      "choices": [
+        "農村",
+        "散らかる",
+        "高学年",
+        "ジェネレーション"
+      ],
+      "correctAnswer": 0,
+      "explanation": "のうそん → 農村"
+    },
+    {
+      "id": 83,
+      "questionType": "reading",
+      "question": "『差別する』ning o'qilishi qaysi?",
+      "word": "差別する",
+      "choices": [
+        "さべつする",
+        "ぼしゅうする",
+        "しゃっきんする",
+        "あまやかす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "差別する → さべつする"
+    },
+    {
+      "id": 84,
+      "questionType": "kanji",
+      "question": "『ろうどうする』qaysi yozuvga mos?",
+      "word": "労働する",
+      "choices": [
+        "あだ名",
+        "頼りにする",
+        "呼び出す",
+        "労働する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ろうどうする → 労働する"
+    },
+    {
+      "id": 85,
+      "questionType": "reading",
+      "question": "『罪を犯す』ning o'qilishi qaysi?",
+      "word": "罪を犯す",
+      "choices": [
+        "さっする",
+        "おもいやり",
+        "ぎろんする",
+        "つみをおかす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "罪を犯す → つみをおかす"
+    },
+    {
+      "id": 86,
+      "questionType": "kanji",
+      "question": "『はいしする』qaysi yozuvga mos?",
+      "word": "廃止する",
+      "choices": [
+        "廃止する",
+        "同意する",
+        "語り合う",
+        "態度"
+      ],
+      "correctAnswer": 0,
+      "explanation": "はいしする → 廃止する"
+    },
+    {
+      "id": 87,
+      "questionType": "kanji",
+      "question": "『ぎろんする』qaysi yozuvga mos?",
+      "word": "議論する",
+      "choices": [
+        "害",
+        "罪を犯す",
+        "出産祝い",
+        "議論する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ぎろんする → 議論する"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『おんだんな』qaysi yozuvga mos?",
+      "word": "温暖な",
+      "choices": [
+        "当たり前",
+        "利便性",
+        "介護する",
+        "温暖な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "おんだんな → 温暖な"
+    },
+    {
+      "id": 89,
+      "questionType": "word",
+      "question": "『kamsitmoq』ning yaponcha ifodasi qaysi?",
+      "word": "差別する",
+      "choices": [
+        "差別する",
+        "出産祝い",
+        "審判",
+        "だます"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kamsitmoq → 差別する"
+    },
+    {
+      "id": 90,
+      "questionType": "sentence",
+      "question": "『議論する』ning ma'nosi qaysi?",
+      "word": "議論する",
+      "choices": [
+        "qayta uchrashmoq",
+        "ilk uchrashuv",
+        "atom elektr",
+        "muhokama qilmoq, bahs yuritmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『かくへいき』qaysi yozuvga mos?",
+      "word": "核兵器",
+      "choices": [
+        "幹事",
+        "思いやる",
+        "核兵器",
+        "自分勝手な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かくへいき → 核兵器"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『こうぎする』qaysi yozuvga mos?",
+      "word": "抗議する",
+      "choices": [
+        "骨折する",
+        "抗議する",
+        "語り合う",
+        "あだ名"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こうぎする → 抗議する"
+    },
+    {
+      "id": 93,
+      "questionType": "reading",
+      "question": "『廃止する』ning o'qilishi qaysi?",
+      "word": "廃止する",
+      "choices": [
+        "わざわざ",
+        "こうせいのう",
+        "はいしする",
+        "ひょうじする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "廃止する → はいしする"
+    },
+    {
+      "id": 94,
+      "questionType": "reading",
+      "question": "『解ける』ning o'qilishi qaysi?",
+      "word": "解ける",
+      "choices": [
+        "しょめん",
+        "ニックネーム",
+        "とける",
+        "せだい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "解ける → とける"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『にがおえ』qaysi yozuvga mos?",
+      "word": "似顔絵",
+      "choices": [
+        "似顔絵",
+        "呼び出す",
+        "ファミリー",
+        "初対面"
+      ],
+      "correctAnswer": 0,
+      "explanation": "にがおえ → 似顔絵"
+    },
+    {
+      "id": 96,
+      "questionType": "word",
+      "question": "『yashirincha』ning yaponcha ifodasi qaysi?",
+      "word": "密かに",
+      "choices": [
+        "密かに",
+        "骨折する",
+        "一気に",
+        "からかう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yashirincha → 密かに"
+    },
+    {
+      "id": 97,
+      "questionType": "sentence",
+      "question": "『支援する』ning ma'nosi qaysi?",
+      "word": "支援する",
+      "choices": [
+        "ne'matga muyassar bo'lmoq, omadi kulmoq",
+        "qo'llab-quvvatlamoq",
+        "uzoq vaqt",
+        "uyg'onmoq (ko'zi ochilmoq)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "支援する → qo'llab-quvvatlamoq"
+    },
+    {
+      "id": 98,
+      "questionType": "kanji",
+      "question": "『ろうどうする』qaysi yozuvga mos?",
+      "word": "労働する",
+      "choices": [
+        "万引きする",
+        "ジェネレーション",
+        "難民",
+        "労働する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ろうどうする → 労働する"
+    },
+    {
+      "id": 99,
+      "questionType": "meaning",
+      "question": "『害』ning ma'nosi qaysi?",
+      "word": "害",
+      "choices": [
+        "homilador bo'lmoq",
+        "ishonmoq",
+        "zarar",
+        "yaqin do'st"
+      ],
+      "correctAnswer": 2,
+      "explanation": "害 → zarar"
+    },
+    {
+      "id": 100,
+      "questionType": "meaning",
+      "question": "『領土』ning ma'nosi qaysi?",
+      "word": "領土",
+      "choices": [
+        "do'stlar",
+        "hudud (davlat hududi)",
+        "fahmlamoq, sezmoq",
+        "ko'ndirmoq, ishontirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "領土 → hudud (davlat hududi)"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『つみをおかす』qaysi yozuvga mos?",
+      "word": "罪を犯す",
+      "choices": [
+        "罪を犯す",
+        "質問",
+        "打ち明ける",
+        "放っておく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "つみをおかす → 罪を犯す"
+    },
+    {
+      "id": 102,
+      "questionType": "word",
+      "question": "『hakam』ning yaponcha ifodasi qaysi?",
+      "word": "審判",
+      "choices": [
+        "徹夜する",
+        "蚊",
+        "出産する",
+        "審判"
+      ],
+      "correctAnswer": 3,
+      "explanation": "hakam → 審判"
+    },
+    {
+      "id": 103,
+      "questionType": "kanji",
+      "question": "『おんだんな』qaysi yozuvga mos?",
+      "word": "温暖な",
+      "choices": [
+        "久しい",
+        "温暖な",
+        "知識",
+        "逆らう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "おんだんな → 温暖な"
+    },
+    {
+      "id": 104,
+      "questionType": "reading",
+      "question": "『支援する』ning o'qilishi qaysi?",
+      "word": "支援する",
+      "choices": [
+        "パワハラする",
+        "たびかさなる",
+        "しえんする",
+        "かたりあう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "支援する → しえんする"
+    },
+    {
+      "id": 105,
+      "questionType": "kanji",
+      "question": "『とける』qaysi yozuvga mos?",
+      "word": "解ける",
+      "choices": [
+        "解ける",
+        "決勝戦",
+        "盛り上がる",
+        "過去"
+      ],
+      "correctAnswer": 0,
+      "explanation": "とける → 解ける"
+    },
+    {
+      "id": 106,
+      "questionType": "word",
+      "question": "『bekor qilmoq, tugatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "廃止する",
+      "choices": [
+        "ありがとう",
+        "廃止する",
+        "出身",
+        "頼りにする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bekor qilmoq, tugatmoq → 廃止する"
+    },
+    {
+      "id": 107,
+      "questionType": "kanji",
+      "question": "『がい』qaysi yozuvga mos?",
+      "word": "害",
+      "choices": [
+        "しつける",
+        "核兵器",
+        "しみじみ",
+        "害"
+      ],
+      "correctAnswer": 3,
+      "explanation": "がい → 害"
+    },
+    {
+      "id": 108,
+      "questionType": "meaning",
+      "question": "『だます』ning ma'nosi qaysi?",
+      "word": "だます",
+      "choices": [
+        "ishonmoq",
+        "go'l, hayot tajribasi yo'q (odam)",
+        "aldamoq",
+        "zerikarli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "だます → aldamoq"
+    },
+    {
+      "id": 109,
+      "questionType": "kanji",
+      "question": "『ストライキ』qaysi yozuvga mos?",
+      "word": "ストライキ",
+      "choices": [
+        "反省する",
+        "高学歴",
+        "ストライキ",
+        "当たり前"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ストライキ → ストライキ"
+    },
+    {
+      "id": 110,
+      "questionType": "sentence",
+      "question": "『労働する』ning ma'nosi qaysi?",
+      "word": "労働する",
+      "choices": [
+        "mehnat qilmoq",
+        "xudbin, o'zboshimcha",
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "go'l, hayot tajribasi yo'q (odam)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "労働する → mehnat qilmoq"
+    },
+    {
+      "id": 111,
+      "questionType": "kanji",
+      "question": "『つみをおかす』qaysi yozuvga mos?",
+      "word": "罪を犯す",
+      "choices": [
+        "言いつける",
+        "書面",
+        "罪を犯す",
+        "時間を指す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "つみをおかす → 罪を犯す"
+    },
+    {
+      "id": 112,
+      "questionType": "kanji",
+      "question": "『なんみん』qaysi yozuvga mos?",
+      "word": "難民",
+      "choices": [
+        "耐震",
+        "何気ない",
+        "難民",
+        "恵まれる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "なんみん → 難民"
+    },
+    {
+      "id": 113,
+      "questionType": "meaning",
+      "question": "『ストライキ』ning ma'nosi qaysi?",
+      "word": "ストライキ",
+      "choices": [
+        "yangilamoq",
+        "ish tashlash",
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "qadrdon do'st"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ストライキ → ish tashlash"
+    },
+    {
+      "id": 114,
+      "questionType": "meaning",
+      "question": "『罪を犯す』ning ma'nosi qaysi?",
+      "word": "罪を犯す",
+      "choices": [
+        "vazifa, burch",
+        "iroda, qat'iy niyat",
+        "jinoyat sodir qilish",
+        "oila davrasi, oilaviy chog' o'tirish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "罪を犯す → jinoyat sodir qilish"
+    },
+    {
+      "id": 115,
+      "questionType": "meaning",
+      "question": "『差別する』ning ma'nosi qaysi?",
+      "word": "差別する",
+      "choices": [
+        "kamsitmoq",
+        "qulaylik (darajasi)",
+        "yaratmoq",
+        "tahlil (xulosa) yig'ilishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "差別する → kamsitmoq"
+    },
+    {
+      "id": 116,
+      "questionType": "kanji",
+      "question": "『がい』qaysi yozuvga mos?",
+      "word": "害",
+      "choices": [
+        "副作用",
+        "温暖な",
+        "世代交代",
+        "害"
+      ],
+      "correctAnswer": 3,
+      "explanation": "がい → 害"
+    },
+    {
+      "id": 117,
+      "questionType": "kanji",
+      "question": "『さべつする』qaysi yozuvga mos?",
+      "word": "差別する",
+      "choices": [
+        "差別する",
+        "制限する",
+        "学食",
+        "思いやり"
+      ],
+      "correctAnswer": 0,
+      "explanation": "さべつする → 差別する"
+    },
+    {
+      "id": 118,
+      "questionType": "kanji",
+      "question": "『にがおえ』qaysi yozuvga mos?",
+      "word": "似顔絵",
+      "choices": [
+        "叶う",
+        "一家",
+        "言いつける",
+        "似顔絵"
+      ],
+      "correctAnswer": 3,
+      "explanation": "にがおえ → 似顔絵"
+    },
+    {
+      "id": 119,
+      "questionType": "kanji",
+      "question": "『かくへいき』qaysi yozuvga mos?",
+      "word": "核兵器",
+      "choices": [
+        "あだ名",
+        "見習う",
+        "核兵器",
+        "出産祝い"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かくへいき → 核兵器"
+    },
+    {
+      "id": 120,
+      "questionType": "meaning",
+      "question": "『解ける』ning ma'nosi qaysi?",
+      "word": "解ける",
+      "choices": [
+        "baribir (nima bo'lgan taqdirda xam)",
+        "yechilmoq; erimoq",
+        "shahar qurilishi, shaharsozlik",
+        "avlod almashinuvi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "解ける → yechilmoq; erimoq"
+    },
+    {
+      "id": 121,
+      "questionType": "meaning",
+      "question": "『表示する』ning ma'nosi qaysi?",
+      "word": "表示する",
+      "choices": [
+        "yangilamoq",
+        "zarar",
+        "ozor bermoq, jarohatlamoq",
+        "ko'rsatmoq, aks ettirmoq (ekranda)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "表示する → ko'rsatmoq, aks ettirmoq (ekranda)"
+    },
+    {
+      "id": 122,
+      "questionType": "meaning",
+      "question": "『原子力発電所』ning ma'nosi qaysi?",
+      "word": "原子力発電所",
+      "choices": [
+        "yaratmoq",
+        "atom elektr",
+        "suhbatlashmoq, dil so'zlashmoq",
+        "xudbin, o'zboshimcha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "原子力発電所 → atom elektr"
+    },
+    {
+      "id": 123,
+      "questionType": "kanji",
+      "question": "『ひそかに』qaysi yozuvga mos?",
+      "word": "密かに",
+      "choices": [
+        "何気ない",
+        "表示する",
+        "世間知らず",
+        "密かに"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ひそかに → 密かに"
+    },
+    {
+      "id": 124,
+      "questionType": "word",
+      "question": "『hudud (davlat hududi)』ning yaponcha ifodasi qaysi?",
+      "word": "領土",
+      "choices": [
+        "しつける",
+        "退屈な",
+        "自分勝手な",
+        "領土"
+      ],
+      "correctAnswer": 3,
+      "explanation": "hudud (davlat hududi) → 領土"
+    },
+    {
+      "id": 125,
+      "questionType": "sentence",
+      "question": "『ストライキ』ning ma'nosi qaysi?",
+      "word": "ストライキ",
+      "choices": [
+        "boshqarmoq (nazorat qilish)",
+        "ish tashlash",
+        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
+        "suhbatlashmoq, dil so'zlashmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ストライキ → ish tashlash"
+    },
+    {
+      "id": 126,
+      "questionType": "reading",
+      "question": "『農村』ning o'qilishi qaysi?",
+      "word": "農村",
+      "choices": [
+        "てつやする",
+        "のうそん",
+        "つみをおかす",
+        "しつける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "農村 → のうそん"
+    },
+    {
+      "id": 127,
+      "questionType": "kanji",
+      "question": "『だます』qaysi yozuvga mos?",
+      "word": "だます",
+      "choices": [
+        "だます",
+        "しみじみ",
+        "久しぶり",
+        "蚊"
+      ],
+      "correctAnswer": 0,
+      "explanation": "だます → だます"
+    },
+    {
+      "id": 128,
+      "questionType": "sentence",
+      "question": "『廃止する』ning ma'nosi qaysi?",
+      "word": "廃止する",
+      "choices": [
+        "bekor qilmoq, tugatmoq",
+        "narx-navo (umumiy narxlar darajasi)",
+        "betashvish",
+        "oila"
+      ],
+      "correctAnswer": 0,
+      "explanation": "廃止する → bekor qilmoq, tugatmoq"
+    },
+    {
+      "id": 129,
       "questionType": "reading",
       "question": "『議論する』ning o'qilishi qaysi?",
       "word": "議論する",
       "choices": [
-        "しつもん",
-        "あえて",
-        "たいはん",
+        "カンニングする",
+        "つみをおかす",
+        "とうちゃくする",
         "ぎろんする"
       ],
       "correctAnswer": 3,
       "explanation": "議論する → ぎろんする"
     },
     {
+      "id": 130,
+      "questionType": "reading",
+      "question": "『核兵器』ning o'qilishi qaysi?",
+      "word": "核兵器",
+      "choices": [
+        "だます",
+        "たいさくする",
+        "のりきる",
+        "かくへいき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "核兵器 → かくへいき"
+    },
+    {
+      "id": 131,
+      "questionType": "kanji",
+      "question": "『ふけいき』qaysi yozuvga mos?",
+      "word": "不景気",
+      "choices": [
+        "ジェネレーション",
+        "不景気",
+        "初対面",
+        "雑な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふけいき → 不景気"
+    },
+    {
+      "id": 132,
+      "questionType": "meaning",
+      "question": "『密かに』ning ma'nosi qaysi?",
+      "word": "密かに",
+      "choices": [
+        "yashirincha",
+        "yuqori sinf (maktab)",
+        "minnatdorlik uyg'otadigan, qadrli",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "密かに → yashirincha"
+    },
+    {
+      "id": 133,
+      "questionType": "meaning",
+      "question": "『対策する』ning ma'nosi qaysi?",
+      "word": "対策する",
+      "choices": [
+        "chora ko'rmoq",
+        "ko'ndirmoq, ishontirmoq",
+        "ne'matga muyassar bo'lmoq, omadi kulmoq",
+        "gaplashmoq/muloqot qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "対策する → chora ko'rmoq"
+    },
+    {
+      "id": 134,
+      "questionType": "kanji",
+      "question": "『たいさくする』qaysi yozuvga mos?",
+      "word": "対策する",
+      "choices": [
+        "対策する",
+        "頼りにする",
+        "説得する",
+        "ブランド"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たいさくする → 対策する"
+    },
+    {
+      "id": 135,
+      "questionType": "kanji",
+      "question": "『しえんする』qaysi yozuvga mos?",
+      "word": "支援する",
+      "choices": [
+        "農村",
+        "ストライキ",
+        "傷つける",
+        "支援する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しえんする → 支援する"
+    },
+    {
+      "id": 136,
+      "questionType": "meaning",
+      "question": "『害』ning ma'nosi qaysi?",
+      "word": "害",
+      "choices": [
+        "dalda bermoq, ruhlantirmoq",
+        "zarar",
+        "baribir (nima bo'lgan taqdirda xam)",
+        "olib kelmoq (o'zi bilan)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "害 → zarar"
+    },
+    {
       "id": 137,
+      "questionType": "reading",
+      "question": "『領土』ning o'qilishi qaysi?",
+      "word": "領土",
+      "choices": [
+        "おんだんな",
+        "よびだす",
+        "げんかい",
+        "りょうど"
+      ],
+      "correctAnswer": 3,
+      "explanation": "領土 → りょうど"
+    },
+    {
+      "id": 138,
+      "questionType": "kanji",
+      "question": "『こうぎする』qaysi yozuvga mos?",
+      "word": "抗議する",
+      "choices": [
+        "向き合う",
+        "抗議する",
+        "パワハラする",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こうぎする → 抗議する"
+    },
+    {
+      "id": 139,
+      "questionType": "reading",
+      "question": "『原子力発電所』ning o'qilishi qaysi?",
+      "word": "原子力発電所",
+      "choices": [
+        "げんしりょくはつでんしょ",
+        "なかよし",
+        "こう〜",
+        "にんぷ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "原子力発電所 → げんしりょくはつでんしょ"
+    },
+    {
+      "id": 140,
+      "questionType": "kanji",
+      "question": "『ぎろんする』qaysi yozuvga mos?",
+      "word": "議論する",
+      "choices": [
+        "抵抗する",
+        "蚊",
+        "議論する",
+        "妊娠する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぎろんする → 議論する"
+    },
+    {
+      "id": 141,
+      "questionType": "sentence",
+      "question": "『表示する』ning ma'nosi qaysi?",
+      "word": "表示する",
+      "choices": [
+        "ko'rsatmoq, aks ettirmoq (ekranda)",
+        "tug'ilmoq",
+        "ta'sir qilmoq, samarali bo'lmoq",
+        "bilim"
+      ],
+      "correctAnswer": 0,
+      "explanation": "表示する → ko'rsatmoq, aks ettirmoq (ekranda)"
+    },
+    {
+      "id": 142,
+      "questionType": "reading",
+      "question": "『領土』ning o'qilishi qaysi?",
+      "word": "領土",
+      "choices": [
+        "うまれる",
+        "たいさくする",
+        "りょうど",
+        "こうぎする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "領土 → りょうど"
+    },
+    {
+      "id": 143,
+      "questionType": "reading",
+      "question": "『労働する』ning o'qilishi qaysi?",
+      "word": "労働する",
+      "choices": [
+        "おちこむ",
+        "ろうどうする",
+        "こうしんする",
+        "あまえる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "労働する → ろうどうする"
+    },
+    {
+      "id": 144,
+      "questionType": "meaning",
+      "question": "『度重なる』ning ma'nosi qaysi?",
+      "word": "度重なる",
+      "choices": [
+        "brend (nomlari)",
+        "ta'sir qilmoq, samarali bo'lmoq",
+        "qayta-qayta takrorlanmoq (xato, hodisa)",
+        "tug'moq, farzand ko'rmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "度重なる → qayta-qayta takrorlanmoq (xato, hodisa)"
+    },
+    {
+      "id": 145,
+      "questionType": "word",
+      "question": "『iqtisodiy pasayish』ning yaponcha ifodasi qaysi?",
+      "word": "不景気",
+      "choices": [
+        "俺",
+        "抗議する",
+        "ふざける",
+        "不景気"
+      ],
+      "correctAnswer": 3,
+      "explanation": "iqtisodiy pasayish → 不景気"
+    },
+    {
+      "id": 146,
+      "questionType": "word",
+      "question": "『mehnat qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "労働する",
+      "choices": [
+        "労働する",
+        "ただ今",
+        "罪を犯す",
+        "甘え"
+      ],
+      "correctAnswer": 0,
+      "explanation": "mehnat qilmoq → 労働する"
+    },
+    {
+      "id": 147,
+      "questionType": "sentence",
+      "question": "『対策する』ning ma'nosi qaysi?",
+      "word": "対策する",
+      "choices": [
+        "zilzilaga chidamlilik",
+        "narx-navo (umumiy narxlar darajasi)",
+        "chora ko'rmoq",
+        "aldamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "対策する → chora ko'rmoq"
+    },
+    {
+      "id": 148,
+      "questionType": "meaning",
+      "question": "『温暖な』ning ma'nosi qaysi?",
+      "word": "温暖な",
+      "choices": [
+        "kamsitmoq",
+        "yuz ifodasi",
+        "fahmlamoq, sezmoq",
+        "iliq, mo'tadil (iqlim)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "温暖な → iliq, mo'tadil (iqlim)"
+    },
+    {
+      "id": 149,
       "questionType": "reading",
       "question": "『徹夜する』ning o'qilishi qaysi?",
       "word": "徹夜する",
       "choices": [
-        "じつりょく",
+        "はげます",
         "てつやする",
-        "かたりあう",
-        "あえて"
+        "なか",
+        "あいしょう"
       ],
       "correctAnswer": 1,
       "explanation": "徹夜する → てつやする"
     },
     {
-      "id": 138,
-      "questionType": "sentence",
-      "question": "『差別する』ning ma'nosi qaysi?",
-      "word": "差別する",
+      "id": 150,
+      "questionType": "word",
+      "question": "『qayta-qayta takrorlanmoq (xato, hodisa)』ning yaponcha ifodasi qaysi?",
+      "word": "度重なる",
       "choices": [
-        "gap boshlamoq, birinchi bo'lib aytmoq",
-        "kamsitmoq",
-        "avlod almashinuvi",
-        "yuqori qon bosimi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "差別する → kamsitmoq"
-    },
-    {
-      "id": 139,
-      "questionType": "reading",
-      "question": "『廃止する』ning o'qilishi qaysi?",
-      "word": "廃止する",
-      "choices": [
-        "がい",
-        "せっとくする",
-        "はいしする",
-        "せだい"
-      ],
-      "correctAnswer": 2,
-      "explanation": "廃止する → はいしする"
-    },
-    {
-      "id": 140,
-      "questionType": "kanji",
-      "question": "『おんだんな』qaysi yozuvga mos?",
-      "word": "温暖な",
-      "choices": [
-        "相談に乗る",
-        "温暖な",
-        "察する",
-        "物価"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おんだんな → 温暖な"
-    },
-    {
-      "id": 141,
-      "questionType": "reading",
-      "question": "『似顔絵』ning o'qilishi qaysi?",
-      "word": "似顔絵",
-      "choices": [
-        "にがおえ",
-        "めぐまれる",
-        "しつける",
-        "あらす"
-      ],
-      "correctAnswer": 0,
-      "explanation": "似顔絵 → にがおえ"
-    },
-    {
-      "id": 142,
-      "questionType": "reading",
-      "question": "『罪を犯す』ning o'qilishi qaysi?",
-      "word": "罪を犯す",
-      "choices": [
-        "けっしょうせん",
-        "つみをおかす",
-        "ひょうじする",
-        "しょたいめん"
-      ],
-      "correctAnswer": 1,
-      "explanation": "罪を犯す → つみをおかす"
-    },
-    {
-      "id": 143,
-      "questionType": "reading",
-      "question": "『温暖な』ning o'qilishi qaysi?",
-      "word": "温暖な",
-      "choices": [
-        "しょめん",
-        "しつけ",
-        "ほうっておく",
-        "おんだんな"
+        "慰める",
+        "愛称",
+        "労働する",
+        "度重なる"
       ],
       "correctAnswer": 3,
-      "explanation": "温暖な → おんだんな"
+      "explanation": "qayta-qayta takrorlanmoq (xato, hodisa) → 度重なる"
     },
     {
-      "id": 144,
-      "questionType": "sentence",
-      "question": "『原子力発電所』ning ma'nosi qaysi?",
-      "word": "原子力発電所",
+      "id": 151,
+      "questionType": "kanji",
+      "question": "『とける』qaysi yozuvga mos?",
+      "word": "解ける",
       "choices": [
-        "pala-partish, dag'al (ish)",
-        "atom elektr",
-        "uyg'onmoq (ko'zi ochilmoq)",
-        "hangu mang bo'lmoq, yoqa ushlamoq (salbiy hayrat)"
+        "信頼する",
+        "労働する",
+        "乗り切る",
+        "解ける"
       ],
-      "correctAnswer": 1,
-      "explanation": "原子力発電所 → atom elektr"
+      "correctAnswer": 3,
+      "explanation": "とける → 解ける"
     },
     {
-      "id": 145,
-      "questionType": "word",
-      "question": "『ko'rsatmoq, aks ettirmoq (ekranda)』ning yaponcha ifodasi qaysi?",
+      "id": 152,
+      "questionType": "reading",
+      "question": "『表示する』ning o'qilishi qaysi?",
       "word": "表示する",
       "choices": [
-        "表示する",
-        "抵抗する",
-        "だます",
-        "密かに"
+        "ひょうじする",
+        "しつける",
+        "パワハラする",
+        "ホームヘルパー"
       ],
       "correctAnswer": 0,
-      "explanation": "ko'rsatmoq, aks ettirmoq (ekranda) → 表示する"
+      "explanation": "表示する → ひょうじする"
     },
     {
-      "id": 146,
+      "id": 153,
       "questionType": "word",
       "question": "『norozilik bildirmoq』ning yaponcha ifodasi qaysi?",
       "word": "抗議する",
       "choices": [
         "抗議する",
-        "到着する",
-        "幹事",
-        "崩れる"
+        "議論する",
+        "領土",
+        "荒らす"
       ],
       "correctAnswer": 0,
       "explanation": "norozilik bildirmoq → 抗議する"
-    },
-    {
-      "id": 147,
-      "questionType": "kanji",
-      "question": "『たびかさなる』qaysi yozuvga mos?",
-      "word": "度重なる",
-      "choices": [
-        "ただ今",
-        "度重なる",
-        "ヘルパー",
-        "持参する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "たびかさなる → 度重なる"
-    },
-    {
-      "id": 148,
-      "questionType": "word",
-      "question": "『qochqin』ning yaponcha ifodasi qaysi?",
-      "word": "難民",
-      "choices": [
-        "難民",
-        "災害",
-        "高学歴",
-        "叶う"
-      ],
-      "correctAnswer": 0,
-      "explanation": "qochqin → 難民"
-    },
-    {
-      "id": 149,
-      "questionType": "kanji",
-      "question": "『ぎろんする』qaysi yozuvga mos?",
-      "word": "議論する",
-      "choices": [
-        "議論する",
-        "抵抗する",
-        "持参する",
-        "支援する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ぎろんする → 議論する"
-    },
-    {
-      "id": 150,
-      "questionType": "meaning",
-      "question": "『徹夜する』ning ma'nosi qaysi?",
-      "word": "徹夜する",
-      "choices": [
-        "olib kelmoq (o'zi bilan)",
-        "baribir (nima bo'lgan taqdirda xam)",
-        "do'stlar",
-        "tuni bilan uxlamaslik"
-      ],
-      "correctAnswer": 3,
-      "explanation": "徹夜する → tuni bilan uxlamaslik"
-    },
-    {
-      "id": 151,
-      "questionType": "meaning",
-      "question": "『差別する』ning ma'nosi qaysi?",
-      "word": "差別する",
-      "choices": [
-        "kamsitmoq",
-        "o'tmish",
-        "bilim",
-        "shogird, o'rganuvchi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "差別する → kamsitmoq"
-    },
-    {
-      "id": 152,
-      "questionType": "word",
-      "question": "『portret』ning yaponcha ifodasi qaysi?",
-      "word": "似顔絵",
-      "choices": [
-        "度重なる",
-        "妊娠する",
-        "似顔絵",
-        "世代"
-      ],
-      "correctAnswer": 2,
-      "explanation": "portret → 似顔絵"
-    },
-    {
-      "id": 153,
-      "questionType": "word",
-      "question": "『yadro quroli』ning yaponcha ifodasi qaysi?",
-      "word": "核兵器",
-      "choices": [
-        "徹夜する",
-        "抵抗する",
-        "表示する",
-        "核兵器"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yadro quroli → 核兵器"
     }
   ]
 }
