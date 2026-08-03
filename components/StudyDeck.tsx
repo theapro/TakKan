@@ -239,12 +239,25 @@ export function StudyDeck({
       transition={{ duration: 0.35, ease: [0.22, 1, 0.36, 1] }}
       className="flex min-h-0 w-full min-w-0 flex-1 flex-col justify-center"
     >
+      {/** Goi lessons don't need a separate kanji support card. */}
+      {(() => {
+        const showKanjiCard = section === "kanji";
+
+        return (
+          <>
       <div className="shrink-0 px-0.5">
         <ProgressBar current={exampleProgress} total={totalExamples} />
       </div>
 
-      <div className="mt-4 grid w-full min-w-0 shrink-0 grid-cols-1 items-start gap-3 sm:mt-5 sm:grid-cols-[minmax(0,32fr)_minmax(0,68fr)] sm:gap-4 lg:gap-5">
-        <div className="relative min-w-0 overflow-hidden">
+      <div
+        className={
+          showKanjiCard
+            ? "mt-4 grid w-full min-w-0 shrink-0 grid-cols-1 items-start gap-3 sm:mt-5 sm:grid-cols-[minmax(0,32fr)_minmax(0,68fr)] sm:gap-4 lg:gap-5"
+            : "mt-4 flex w-full min-w-0 shrink-0 justify-center sm:mt-5"
+        }
+      >
+        {showKanjiCard ? (
+        <div className="relative min-w-0 overflow-visible px-1 py-1">
           <AnimatePresence mode="wait" custom={direction}>
             <motion.div
               key={groupKey}
@@ -265,8 +278,15 @@ export function StudyDeck({
             </motion.div>
           </AnimatePresence>
         </div>
+        ) : null}
 
-        <div className="relative min-w-0 overflow-hidden">
+        <div
+          className={
+            showKanjiCard
+              ? "relative min-w-0 overflow-visible px-1 py-1"
+              : "relative w-full max-w-[min(92vw,960px)] overflow-visible px-1 py-1 sm:max-w-[min(88vw,920px)]"
+          }
+        >
           <AnimatePresence mode="wait" custom={direction}>
             <motion.div
               key={exampleKey}
@@ -285,7 +305,7 @@ export function StudyDeck({
                 flipped={exampleFlipped}
                 onFlip={() => setExampleFlipped((value) => !value)}
               />
-              <p className="mt-2.5 text-center text-[12px] text-[var(--text-muted)]">
+              <p className="mt-2.5 text-center text-[12px] text-(--text-muted)">
                 Example {exampleIndex + 1} of {exampleCount}
               </p>
             </motion.div>
@@ -306,7 +326,7 @@ export function StudyDeck({
         <button
           type="button"
           onClick={shuffle}
-          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-[var(--text-muted)] transition-colors hover:text-[var(--text-secondary)]"
+          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-(--text-muted) transition-colors hover:text-(--text-secondary)"
         >
           <Shuffle className="size-3" />
           Shuffle
@@ -314,12 +334,15 @@ export function StudyDeck({
         <button
           type="button"
           onClick={restart}
-          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-[var(--text-muted)] transition-colors hover:text-[var(--text-secondary)]"
+          className="inline-flex min-h-11 items-center gap-1.5 px-1 text-[13px] text-(--text-muted) transition-colors hover:text-(--text-secondary)"
         >
           <RotateCcw className="size-3" />
           Restart
         </button>
       </div>
+          </>
+        );
+      })()}
     </motion.div>
   );
 }
