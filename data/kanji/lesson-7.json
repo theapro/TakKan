@@ -1,0 +1,104 @@
+{
+    "title": "Kanji Lesson 7",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "符",
+          "reading": "ふ",
+          "meaning": "belgi, chipta",
+          "onyomi": "フ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "電車の切符", "reading": "でんしゃのきっぷ", "meaning": "poyezd chiptasi" },
+          { "id": 2, "word": "音符", "reading": "おんぷ", "meaning": "musiqiy nota" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "停",
+          "reading": "てい",
+          "meaning": "to'xtamoq",
+          "onyomi": "テイ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "停車する", "reading": "ていしゃする", "meaning": "poyezdni to'xtashi" },
+          { "id": 2, "word": "バスの停留所", "reading": "バスのていりゅうじょ", "meaning": "avtobus bekati" },
+          { "id": 3, "word": "各駅停車", "reading": "かくえきていしゃ", "meaning": "har bir bekatda to'xtaydigan poyezd" },
+          { "id": 4, "word": "心臓が停止する", "reading": "しんぞうがていしする", "meaning": "yurakning to'xtashi" },
+          { "id": 5, "word": "業務が停滞する", "reading": "ぎょうむがていたいする", "meaning": "ish turg'unlashishi, sekinlashishi" },
+          { "id": 6, "word": "停学", "reading": "ていがく", "meaning": "o'qishdan vaqtincha chetlatish" },
+          { "id": 7, "word": "停戦", "reading": "ていせん", "meaning": "sulh, o't ochishni to'xtatish" },
+          { "id": 8, "word": "停電", "reading": "ていでん", "meaning": "elektr ta'minotidan uzilish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "標",
+          "reading": "ひょう",
+          "meaning": "belgi, standart",
+          "onyomi": "ヒョウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "目標を定める", "reading": "もくひょうをさだめる", "meaning": "maqsadni aniq qilib olish" },
+          { "id": 2, "word": "標準", "reading": "ひょうじゅん", "meaning": "standart, norma" },
+          { "id": 3, "word": "道路標識", "reading": "どうろひょうしき", "meaning": "yo'l belgisi" },
+          { "id": 4, "word": "非難の標的となる", "reading": "ひなんのひょうてきとなる", "meaning": "tanqid nishoniga aylanish" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "普",
+          "reading": "ふ",
+          "meaning": "oddiy, keng tarqalgan",
+          "onyomi": "フ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "普通の家庭", "reading": "ふつうのかてい", "meaning": "oddiy xonadon" },
+          { "id": 2, "word": "普通高校", "reading": "ふつうこうこう", "meaning": "oddiy maktab" },
+          { "id": 3, "word": "普段着", "reading": "ふだんぎ", "meaning": "kunlik kiyim" },
+          { "id": 4, "word": "普及する", "reading": "ふきゅうする", "meaning": "tarqalmoq, mashhur bo'lmoq" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "刻",
+          "reading": "きざむ",
+          "meaning": "kesmoq, vaqt",
+          "onyomi": "コク",
+          "kunyomi": "きざ(む)"
+        },
+        "examples": [
+          { "id": 1, "word": "ねぎを刻む", "reading": "ねぎをきざむ", "meaning": "piyoz to'g'rash" },
+          { "id": 2, "word": "心に刻む", "reading": "こころにきざむ", "meaning": "qalbga joylab olish, bir narsani unutmaslik" },
+          { "id": 3, "word": "遅刻", "reading": "ちこく", "meaning": "kechikish" },
+          { "id": 4, "word": "時刻", "reading": "じこく", "meaning": "vaqt, lahza" },
+          { "id": 5, "word": "深刻な問題", "reading": "しんこくなもんだい", "meaning": "jiddiy muammo" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "違",
+          "reading": "ちがう",
+          "meaning": "farq qilmoq, noto'g'ri",
+          "onyomi": "イ",
+          "kunyomi": "ちが(う)・ちが(える)"
+        },
+        "examples": [
+          { "id": 1, "word": "違う", "reading": "ちがう", "meaning": "farq qilmoq" },
+          { "id": 2, "word": "間違える", "reading": "まちがえる", "meaning": "adashmoq" },
+          { "id": 3, "word": "交通違反", "reading": "こうつういはん", "meaning": "yo'l qoidasini buzish" },
+          { "id": 4, "word": "違法", "reading": "いほう", "meaning": "noqonuniy" }
+        ]
+      }
+    ]
+  }
