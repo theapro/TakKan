@@ -1,0 +1,98 @@
+{
+    "title": "Lesson 8",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "漁",
+          "reading": "ぎょ・りょう",
+          "meaning": "baliqchilik",
+          "onyomi": "ギョ・リョウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "漁業を営む", "reading": "ぎょぎょうをいとなむ", "meaning": "baliqchilik biznesini boshlash" },
+          { "id": 2, "word": "漁村", "reading": "ぎょそん", "meaning": "baliqchilik qishlog'i" },
+          { "id": 3, "word": "漁港", "reading": "ぎょこう", "meaning": "baliqchilik porti" },
+          { "id": 4, "word": "漁をする", "reading": "りょうをする", "meaning": "baliq ovlamoq" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "輸",
+          "reading": "ゆ",
+          "meaning": "tashish, jo'natish",
+          "onyomi": "ユ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "輸送する", "reading": "ゆそうする", "meaning": "yuborish, jo'natish" },
+          { "id": 2, "word": "輸入する", "reading": "ゆにゅうする", "meaning": "import qilish" },
+          { "id": 3, "word": "輸出する", "reading": "ゆしゅつする", "meaning": "eksport qilish" },
+          { "id": 4, "word": "輸血用の血液", "reading": "ゆけつようのけつえき", "meaning": "qon quyishda foydalaniladigan qon" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "製",
+          "reading": "せい",
+          "meaning": "tayyorlash, ishlab chiqarish",
+          "onyomi": "セイ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "新製品", "reading": "しんせいひん", "meaning": "Yangi mahsulot" },
+          { "id": 2, "word": "映画を製作する", "reading": "えいがをせいさくする", "meaning": "film yaratish" },
+          { "id": 3, "word": "イタリア製の靴", "reading": "イタリアせいのくつ", "meaning": "italiyada tayyorlangan tufli" },
+          { "id": 4, "word": "製造年月日", "reading": "せいぞうねんがっぴ", "meaning": "tayyorlangan kun, oy, yil" },
+          { "id": 5, "word": "木製の家具", "reading": "もくせいのかぐ", "meaning": "yog'ochdan tayyorlangan uy jihozi" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "郵",
+          "reading": "ゆう",
+          "meaning": "pochta",
+          "onyomi": "ユウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "郵便局", "reading": "ゆうびんきょく", "meaning": "pochtaxona" },
+          { "id": 2, "word": "郵便が届く", "reading": "ゆうびんがとどく", "meaning": "pochta yetib kelishi" },
+          { "id": 3, "word": "本を郵送する", "reading": "ほんをゆうそうする", "meaning": "kitobni pochta orqali yuborish" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "航",
+          "reading": "こう",
+          "meaning": "suzish, uchish (transport)",
+          "onyomi": "コウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "航空機", "reading": "こうくうき", "meaning": "samolyot" },
+          { "id": 2, "word": "航空便", "reading": "こうくうびん", "meaning": "havo pochtasi" },
+          { "id": 3, "word": "難航する", "reading": "なんこうする", "meaning": "qiyin kechmoq (ish, muzokara)" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "融",
+          "reading": "ゆう",
+          "meaning": "erish, moliya",
+          "onyomi": "ユウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "金融機関", "reading": "きんゆうきかん", "meaning": "moliya instituti (tashkilot)" },
+          { "id": 2, "word": "融通がきかない人", "reading": "ゆうずうがきかないひと", "meaning": "moslashuvchan emas, gap uqmaydigan odam" }
+        ]
+      }
+    ]
+  }
