@@ -1,0 +1,104 @@
+{
+    "title": "Lesson 9",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "戻",
+          "reading": "れい",
+          "meaning": "qaytmoq, qaytarmoq",
+          "onyomi": "レイ",
+          "kunyomi": "もど(る)・もど(す)"
+        },
+        "examples": [
+          { "id": 1, "word": "席に戻る", "reading": "せきにもどる", "meaning": "stulga qaytish" },
+          { "id": 2, "word": "元に戻す", "reading": "もとにもどす", "meaning": "olingan joyga qaytarib qo'yish" },
+          { "id": 3, "word": "払い戻す", "reading": "はらいもどす", "meaning": "pulni qaytarib bermoq" },
+          { "id": 4, "word": "後戻り", "reading": "あともどり", "meaning": "orqaga qaytish" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "換",
+          "reading": "かん",
+          "meaning": "almashtirmoq",
+          "onyomi": "カン",
+          "kunyomi": "か(える)・か(わる)"
+        },
+        "examples": [
+          { "id": 1, "word": "席を換わる", "reading": "せきをかわる", "meaning": "joy almashmoq" },
+          { "id": 2, "word": "換える", "reading": "かえる", "meaning": "almashtirish" },
+          { "id": 3, "word": "換気する", "reading": "かんきする", "meaning": "havo almashtirish" },
+          { "id": 4, "word": "意見を交換する", "reading": "いけんをこうかんする", "meaning": "fikr almashish" },
+          { "id": 5, "word": "変換", "reading": "へんかん", "meaning": "o'zgartirish" },
+          { "id": 6, "word": "気分転換", "reading": "きぶんてんかん", "meaning": "kayfiyatni o'zgartirish, havo almashtirish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "払",
+          "reading": "ふつ",
+          "meaning": "to'lamoq",
+          "onyomi": "フツ",
+          "kunyomi": "はら(う)"
+        },
+        "examples": [
+          { "id": 1, "word": "払う", "reading": "はらう", "meaning": "to'lamoq" },
+          { "id": 2, "word": "前払い", "reading": "まえばらい", "meaning": "avvaldan to'lash" },
+          { "id": 3, "word": "支払い", "reading": "しはらい", "meaning": "to'lov" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "込",
+          "reading": "こむ・こめる",
+          "meaning": "to'ldirmoq, tiqmoq",
+          "onyomi": "",
+          "kunyomi": "こ(む)・こ(める)"
+        },
+        "examples": [
+          { "id": 1, "word": "電車が込む", "reading": "でんしゃがこむ", "meaning": "poyezd gavjum (tirband) bo'lishi" },
+          { "id": 2, "word": "心を込める", "reading": "こころをこめる", "meaning": "yurakdan bajarish" },
+          { "id": 3, "word": "税込み", "reading": "ぜいこみ", "meaning": "soliq ichida" },
+          { "id": 4, "word": "荷物を詰め込む", "reading": "にもつをつめこむ", "meaning": "yuklarni zichlab tiqmoq" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "両",
+          "reading": "りょう",
+          "meaning": "ikkala",
+          "onyomi": "リョウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "両方", "reading": "りょうほう", "meaning": "ikkalasi ham" },
+          { "id": 2, "word": "両側", "reading": "りょうがわ", "meaning": "ikki tomon" },
+          { "id": 3, "word": "両手", "reading": "りょうて", "meaning": "ikki qo'l" },
+          { "id": 4, "word": "車両", "reading": "しゃりょう", "meaning": "transport" },
+          { "id": 5, "word": "両立する", "reading": "りょうりつする", "meaning": "ikkalasini birga olib bormoq" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "替",
+          "reading": "たい",
+          "meaning": "almashtirmoq",
+          "onyomi": "タイ",
+          "kunyomi": "か(える)・か(わる)"
+        },
+        "examples": [
+          { "id": 1, "word": "運転を替わる", "reading": "うんてんをかわる", "meaning": "rulni almashmoq" },
+          { "id": 2, "word": "円をドルに替える", "reading": "えんをどるにかえる", "meaning": "yenni dollarga almashtirish" },
+          { "id": 3, "word": "交替する", "reading": "こうたいする", "meaning": "navbat almashinmoq" },
+          { "id": 4, "word": "両替", "reading": "りょうがえ", "meaning": "pul almashtirish" },
+          { "id": 5, "word": "為替レート", "reading": "かわせレート", "meaning": "valyuta kursi" }
+        ]
+      }
+    ]
+  }

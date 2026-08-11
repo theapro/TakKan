@@ -1,0 +1,175 @@
+{
+    "title": "Lesson 10",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "カップル", "reading": "カップル", "meaning": "juftlik", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "カップル", "reading": "カップル", "meaning": "juftlik" },
+          { "id": 2, "word": "ペア", "reading": "ペア", "meaning": "juftlik" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "愛", "reading": "あい", "meaning": "sevgi", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "愛", "reading": "あい", "meaning": "sevgi" },
+          { "id": 2, "word": "愛する", "reading": "あいする", "meaning": "sevmoq" },
+          { "id": 3, "word": "愛情", "reading": "あいじょう", "meaning": "mehr" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "同士", "reading": "どうし", "meaning": "o'zaro, bir biriga", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "同士", "reading": "どうし", "meaning": "o'zaro, bir biriga" },
+          { "id": 2, "word": "友達同士", "reading": "ともだちどうし", "meaning": "do'stlar" },
+          { "id": 3, "word": "他人同士", "reading": "たにんどうし", "meaning": "begonalar" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "お互い", "reading": "おたがい", "meaning": "bir-birini", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "お互い", "reading": "おたがい", "meaning": "bir-birini" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "つり合う", "reading": "つりあう", "meaning": "mos kelmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "つり合う", "reading": "つりあう", "meaning": "mos kelmoq" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "むしろ", "reading": "むしろ", "meaning": "dan ko'ra", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "むしろ", "reading": "むしろ", "meaning": "dan ko'ra" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "いわば", "reading": "いわば", "meaning": "aytish mumkinki, go'yo", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "いわば", "reading": "いわば", "meaning": "aytish mumkinki, go'yo" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "視線", "reading": "しせん", "meaning": "nigoh, qarash", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "視線", "reading": "しせん", "meaning": "nigoh, qarash" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "見つめる", "reading": "みつめる", "meaning": "tikilib qarash", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "見つめる", "reading": "みつめる", "meaning": "tikilib qarash" },
+          { "id": 2, "word": "見つめ合う", "reading": "みつめあう", "meaning": "bir-biriga tikilib qaramoq" }
+        ]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "そらす", "reading": "そらす", "meaning": "ko'zni olib qochish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "そらす", "reading": "そらす", "meaning": "ko'zni olib qochish" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "ちらっと", "reading": "ちらっと", "meaning": "lip etib, ko'z qiri bilan (qaramoq)", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "ちらっと", "reading": "ちらっと", "meaning": "lip etib, ko'z qiri bilan (qaramoq)" },
+          { "id": 2, "word": "ちらりと", "reading": "ちらりと", "meaning": "lip etib, bir zum" }
+        ]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "もしかすると", "reading": "もしかすると", "meaning": "ehtimol", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "もしかすると", "reading": "もしかすると", "meaning": "ehtimol" },
+          { "id": 2, "word": "もしかしたら、もしかして、ひょっとすると", "reading": "もしかしたら、もしかして、ひょっとすると", "meaning": "ehtimol" }
+        ]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "探る", "reading": "さぐる", "meaning": "paypaslab qidirmoq; 2. yashirincha bilishga urinmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "探る", "reading": "さぐる", "meaning": "paypaslab qidirmoq; 2. yashirincha bilishga urinmoq" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "示す", "reading": "しめす", "meaning": "ko'rsatmoq, namoyish qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "示す", "reading": "しめす", "meaning": "ko'rsatmoq, namoyish qilmoq" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "口実", "reading": "こうじつ", "meaning": "bahona", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "口実", "reading": "こうじつ", "meaning": "bahona" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "うつむく", "reading": "うつむく", "meaning": "pastga qaramoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "うつむく", "reading": "うつむく", "meaning": "pastga qaramoq" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "こそこそする", "reading": "こそこそする", "meaning": "bekitiqcha ish qilmoq, pusmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "こそこそする", "reading": "こそこそする", "meaning": "bekitiqcha ish qilmoq, pusmoq" },
+          { "id": 2, "word": "こっそり", "reading": "こっそり", "meaning": "yashirincha" }
+        ]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "ささやく", "reading": "ささやく", "meaning": "pichirlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "ささやく", "reading": "ささやく", "meaning": "pichirlamoq" },
+          { "id": 2, "word": "つぶやく", "reading": "つぶやく", "meaning": "pichirlab gapirmoq, g'o'ldiramoq" }
+        ]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "禁物", "reading": "きんもつ", "meaning": "mumkin bo'lmagan narsa, taqiqlangan narsa", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "禁物", "reading": "きんもつ", "meaning": "mumkin bo'lmagan narsa, taqiqlangan narsa" },
+          { "id": 2, "word": "禁句", "reading": "きんく", "meaning": "taqiqlangan so'z" }
+        ]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "許す", "reading": "ゆるす", "meaning": "kechirmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "許す", "reading": "ゆるす", "meaning": "kechirmoq" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "合コン", "reading": "ごうこん", "meaning": "tanishuv kechasi (yigit-qizlar davrasi)", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "合コン", "reading": "ごうこん", "meaning": "tanishuv kechasi (yigit-qizlar davrasi)" },
+          { "id": 2, "word": "コンパ", "reading": "コンパ", "meaning": "davra, ziyofat (talabalar)" }
+        ]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "アプローチする", "reading": "アプローチする", "meaning": "yaqinlashmoq, gaplashishga harakat qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "アプローチする", "reading": "アプローチする", "meaning": "yaqinlashmoq, gaplashishga harakat qilmoq" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "運命", "reading": "うんめい", "meaning": "taqdir", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "運命", "reading": "うんめい", "meaning": "taqdir" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "決意する", "reading": "けつい", "meaning": "ahd qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "決意する", "reading": "けつい", "meaning": "ahd qilmoq" },
+          { "id": 2, "word": "決心", "reading": "けっしん", "meaning": "qaror" }
+        ]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "プロポーズする", "reading": "プロポーズする", "meaning": "turmush qurishni taklif qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "プロポーズする", "reading": "プロポーズする", "meaning": "turmush qurishni taklif qilmoq" },
+          { "id": 2, "word": "名曲", "reading": "めいきょく", "meaning": "mashhur kuy" },
+          { "id": 3, "word": "名所", "reading": "めいしょ", "meaning": "mashhur joy" },
+          { "id": 4, "word": "名人", "reading": "めいじん", "meaning": "usta, daho" },
+          { "id": 5, "word": "名産", "reading": "めいさん", "meaning": "mahalliy mahsulot" },
+          { "id": 6, "word": "名医", "reading": "めいい", "meaning": "yaxshi shifokor" },
+          { "id": 7, "word": "名文", "reading": "めいぶん", "meaning": "yaxshi (badiiy go'zal) matn" },
+          { "id": 8, "word": "名著", "reading": "めいちょ", "meaning": "mashhur asar, kitob" },
+          { "id": 9, "word": "名声", "reading": "めいせい", "meaning": "shon-shuhrat" }
+        ]
+      }
+    ]
+  }
