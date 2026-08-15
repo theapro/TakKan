@@ -1,0 +1,130 @@
+{
+    "title": "Lesson 11",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "印象", "reading": "いんしょう", "meaning": "taassurot", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "印象", "reading": "いんしょう", "meaning": "taassurot" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "折りたたみ傘", "reading": "おりたたみがさ", "meaning": "buklanadigan soyabon", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "折りたたみ傘", "reading": "おりたたみがさ", "meaning": "buklanadigan soyabon" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "カーディガン", "reading": "カーディガン", "meaning": "kardigan", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "カーディガン", "reading": "カーディガン", "meaning": "kardigan" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "海岸線", "reading": "かいがんせん", "meaning": "qirg'oq chizig'i", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "海岸線", "reading": "かいがんせん", "meaning": "qirg'oq chizig'i" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "介助犬", "reading": "かいじょけん", "meaning": "yordamchi it (nogironlar uchun)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "介助犬", "reading": "かいじょけん", "meaning": "yordamchi it (nogironlar uchun)" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "機能性", "reading": "きのうせい", "meaning": "funksionallik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "機能性", "reading": "きのうせい", "meaning": "funksionallik" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "候補", "reading": "こうほ", "meaning": "nomzod", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "候補", "reading": "こうほ", "meaning": "nomzod" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "手元", "reading": "てもと", "meaning": "qo'l ostida", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "手元", "reading": "てもと", "meaning": "qo'l ostida" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "土砂降り", "reading": "どしゃぶり", "meaning": "kuchli jala", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "土砂降り", "reading": "どしゃぶり", "meaning": "kuchli jala" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "普段", "reading": "ふだん", "meaning": "odatda, kundalik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "普段", "reading": "ふだん", "meaning": "odatda, kundalik" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "マニュアル", "reading": "マニュアル", "meaning": "qo'llanma", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "マニュアル", "reading": "マニュアル", "meaning": "qo'llanma" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "堅苦しい", "reading": "かたくるしい", "meaning": "o'ta rasmiy, siqiq (muhit)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "堅苦しい", "reading": "かたくるしい", "meaning": "o'ta rasmiy, siqiq (muhit)" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "心無い", "reading": "こころない", "meaning": "o'ylamasdan qilingan, rahmsiz", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "心無い", "reading": "こころない", "meaning": "o'ylamasdan qilingan, rahmsiz" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "スムーズな", "reading": "スムーズな", "meaning": "silliq, muammosiz", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "スムーズな", "reading": "スムーズな", "meaning": "silliq, muammosiz" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "でたらめな", "reading": "でたらめな", "meaning": "bema'ni, mantiqsiz", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "でたらめな", "reading": "でたらめな", "meaning": "bema'ni, mantiqsiz" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "豊富な", "reading": "ほうふな", "meaning": "mo'l, serob", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "豊富な", "reading": "ほうふな", "meaning": "mo'l, serob" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "魅力的な", "reading": "みりょくてきな", "meaning": "jozibali", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "魅力的な", "reading": "みりょくてきな", "meaning": "jozibali" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "失格する", "reading": "しっかくする", "meaning": "diskvalifikatsiya qilinmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "失格する", "reading": "しっかくする", "meaning": "diskvalifikatsiya qilinmoq" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "発着する", "reading": "はっちゃくする", "meaning": "jo'nash va yetib kelish (qatnov)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "発着する", "reading": "はっちゃくする", "meaning": "jo'nash va yetib kelish (qatnov)" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "散らばる", "reading": "ちらばる", "meaning": "sochilib ketmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "散らばる", "reading": "ちらばる", "meaning": "sochilib ketmoq" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "振る", "reading": "ふる", "meaning": "silkitmoq; rad etmoq (sevgilini)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "振る", "reading": "ふる", "meaning": "silkitmoq; rad etmoq (sevgilini)" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "まさか", "reading": "まさか", "meaning": "nahotki, kutilmaganda", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "まさか", "reading": "まさか", "meaning": "nahotki, kutilmaganda" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "涙を流す", "reading": "なみだをながす", "meaning": "yig'lamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "涙を流す", "reading": "なみだをながす", "meaning": "yig'lamoq" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "右に出る者はいない", "reading": "みぎにでるものはいない", "meaning": "tengi yo'q", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "右に出る者はいない", "reading": "みぎにでるものはいない", "meaning": "tengi yo'q" }]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "〜未満", "reading": "〜みまん", "meaning": "dan kam", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "〜未満", "reading": "〜みまん", "meaning": "dan kam" }]
+      }
+    ]
+  }

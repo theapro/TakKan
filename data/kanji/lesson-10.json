@@ -1,0 +1,103 @@
+{
+    "title": "Lesson 10",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "照",
+          "reading": "しょう",
+          "meaning": "yoritmoq",
+          "onyomi": "ショウ",
+          "kunyomi": "て(る)・て(れる)"
+        },
+        "examples": [
+          { "id": 1, "word": "照る", "reading": "てる", "meaning": "yoritmoq, nur sochmoq" },
+          { "id": 2, "word": "照明", "reading": "しょうめい", "meaning": "yoritish, iluminatsiya" },
+          { "id": 3, "word": "残高照会", "reading": "ざんだかしょうかい", "meaning": "qoldiqni so'rash (balans)" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "預",
+          "reading": "よ",
+          "meaning": "omonat qoldirmoq",
+          "onyomi": "ヨ",
+          "kunyomi": "あず(ける)・あず(かる)"
+        },
+        "examples": [
+          { "id": 1, "word": "貴重品を預かる", "reading": "きちょうひんをあずかる", "meaning": "qimmatbaho narsani omonatga olish" },
+          { "id": 2, "word": "荷物を預ける", "reading": "にもつをあずける", "meaning": "yukni qoldirish" },
+          { "id": 3, "word": "預金する", "reading": "よきんする", "meaning": "bankka pul qo'yish" },
+          { "id": 4, "word": "普通預金", "reading": "ふつうよきん", "meaning": "oddiy bank hisobi" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "札",
+          "reading": "さつ・ふだ",
+          "meaning": "belgi, banknota",
+          "onyomi": "サツ",
+          "kunyomi": "ふだ"
+        },
+        "examples": [
+          { "id": 1, "word": "名札をつける", "reading": "なふだをつける", "meaning": "ismi yozilgan beyjik tayyorlash" },
+          { "id": 2, "word": "千円札", "reading": "せんえんさつ", "meaning": "yenlik banknota" },
+          { "id": 3, "word": "札束", "reading": "さつたば", "meaning": "bir dasta pul" },
+          { "id": 4, "word": "駅の改札口", "reading": "えきのかいさつぐち", "meaning": "chipta tekshirish (turniket) darvozasi" },
+          { "id": 5, "word": "玄関の表札", "reading": "げんかんのひょうさつ", "meaning": "eshik taxtachasi (familiya yozilgan)" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "貨",
+          "reading": "か",
+          "meaning": "pul, tovar",
+          "onyomi": "カ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "硬貨", "reading": "こうか", "meaning": "tanga" },
+          { "id": 2, "word": "通貨", "reading": "つうか", "meaning": "valyuta" },
+          { "id": 3, "word": "貨物列車", "reading": "かもつれっしゃ", "meaning": "yuk poyezdi" },
+          { "id": 4, "word": "雑貨", "reading": "ざっか", "meaning": "turli xil mahsulotlar" },
+          { "id": 5, "word": "百貨店", "reading": "ひゃっかてん", "meaning": "univermag, universal magazin" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "帳",
+          "reading": "ちょう",
+          "meaning": "daftar",
+          "onyomi": "チョウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "手帳", "reading": "てちょう", "meaning": "kundalik" },
+          { "id": 2, "word": "銀行の通帳", "reading": "ぎんこうのつうちょう", "meaning": "bank daftarchasi" },
+          { "id": 3, "word": "記帳する", "reading": "きちょうする", "meaning": "daftarga yozib qo'yish" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "振",
+          "reading": "しん",
+          "meaning": "silkitmoq, tebranmoq",
+          "onyomi": "シン",
+          "kunyomi": "ふ(る)・ふ(れる)"
+        },
+        "examples": [
+          { "id": 1, "word": "手を振る", "reading": "てをふる", "meaning": "qo'lni silkitish" },
+          { "id": 2, "word": "針が振れる", "reading": "はりがふれる", "meaning": "mil (strelka) tebranishi" },
+          { "id": 3, "word": "恋人に振られる", "reading": "こいびとにふられる", "meaning": "sevgan inson tomonidan tashlab ketilish" },
+          { "id": 4, "word": "振動", "reading": "しんどう", "meaning": "tebranish, chayqalish" },
+          { "id": 5, "word": "振り込み", "reading": "ふりこみ", "meaning": "bank orqali to'lov qilish" },
+          { "id": 6, "word": "口座振替", "reading": "こうざふりかえ", "meaning": "hisobdan avtomatik yechish (to'lov)" }
+        ]
+      }
+    ]
+  }

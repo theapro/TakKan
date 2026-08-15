@@ -1,0 +1,120 @@
+{
+    "title": "Lesson 12",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "愛情", "reading": "あいじょう", "meaning": "sevgi, muhabbat", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "愛情", "reading": "あいじょう", "meaning": "sevgi, muhabbat" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "ガーデニング", "reading": "ガーデニング", "meaning": "bog'dorchilik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ガーデニング", "reading": "ガーデニング", "meaning": "bog'dorchilik" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "会費", "reading": "かいひ", "meaning": "a'zo to'lovi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "会費", "reading": "かいひ", "meaning": "a'zo to'lovi" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "株価", "reading": "かぶか", "meaning": "aksiyalar narxi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "株価", "reading": "かぶか", "meaning": "aksiyalar narxi" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "食いしん坊", "reading": "くいしんぼう", "meaning": "ochofat, yeyishga o'ch", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "食いしん坊", "reading": "くいしんぼう", "meaning": "ochofat, yeyishga o'ch" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "好景気", "reading": "こうけいき", "meaning": "iqtisodiy farovonlik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "好景気", "reading": "こうけいき", "meaning": "iqtisodiy farovonlik" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "終電", "reading": "しゅうでん", "meaning": "oxirgi poyezd", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "終電", "reading": "しゅうでん", "meaning": "oxirgi poyezd" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "終バス", "reading": "しゅうバス", "meaning": "oxirgi avtobus", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "終バス", "reading": "しゅうバス", "meaning": "oxirgi avtobus" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "知らないふり", "reading": "しらないふり", "meaning": "bilmaslikka olish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "知らないふり", "reading": "しらないふり", "meaning": "bilmaslikka olish" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "病状", "reading": "びょうじょう", "meaning": "kasallik holati", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "病状", "reading": "びょうじょう", "meaning": "kasallik holati" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "ホラ", "reading": "ホラ", "meaning": "qo'rqinchli film yoki hikoya", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ホラ", "reading": "ホラ", "meaning": "qo'rqinchli film yoki hikoya" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "野外", "reading": "やがい", "meaning": "ochiq havoda, tabiatda", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "野外", "reading": "やがい", "meaning": "ochiq havoda, tabiatda" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "老犬", "reading": "ろうけん", "meaning": "keksa it", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "老犬", "reading": "ろうけん", "meaning": "keksa it" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "不運な", "reading": "ふうんな", "meaning": "omadsiz", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "不運な", "reading": "ふうんな", "meaning": "omadsiz" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "無口な", "reading": "むくちな", "meaning": "jim, kam gapiradigan", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "無口な", "reading": "むくちな", "meaning": "jim, kam gapiradigan" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "ユニークな", "reading": "ユニークな", "meaning": "o'ziga xos, betakror", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ユニークな", "reading": "ユニークな", "meaning": "o'ziga xos, betakror" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "輝く", "reading": "かがやく", "meaning": "charaqlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "輝く", "reading": "かがやく", "meaning": "charaqlamoq" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "勤続する", "reading": "きんぞくする", "meaning": "bir joyda uzluksiz ishlash", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "勤続する", "reading": "きんぞくする", "meaning": "bir joyda uzluksiz ishlash" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "懸念する", "reading": "けねんする", "meaning": "xavotirlanmoq, tashvishlanmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "懸念する", "reading": "けねんする", "meaning": "xavotirlanmoq, tashvishlanmoq" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "称賛する", "reading": "しょうさんする", "meaning": "maqtamoq, olqishlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "称賛する", "reading": "しょうさんする", "meaning": "maqtamoq, olqishlamoq" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "点検する", "reading": "てんけんする", "meaning": "tekshirmoq, nazorat qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "点検する", "reading": "てんけんする", "meaning": "tekshirmoq, nazorat qilmoq" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "恋愛する", "reading": "れんあいする", "meaning": "sevib qolmoq, romantik munosabatda bo'lmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "恋愛する", "reading": "れんあいする", "meaning": "sevib qolmoq, romantik munosabatda bo'lmoq" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "口が軽い", "reading": "くちがかるい", "meaning": "og'zi bo'sh (sir saqlay olmaydigan)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "口が軽い", "reading": "くちがかるい", "meaning": "og'zi bo'sh (sir saqlay olmaydigan)" }]
+      }
+    ]
+  }

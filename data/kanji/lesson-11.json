@@ -1,0 +1,97 @@
+{
+    "title": "Lesson 11",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "桜",
+          "reading": "おう・さくら",
+          "meaning": "sakura (gilos guli)",
+          "onyomi": "オウ",
+          "kunyomi": "さくら"
+        },
+        "examples": [
+          { "id": 1, "word": "夜桜", "reading": "よざくら", "meaning": "tungi sakura daraxti" },
+          { "id": 2, "word": "桜前線", "reading": "さくらぜんせん", "meaning": "sakura gullash chizig'i (fronti)" },
+          { "id": 3, "word": "満開", "reading": "まんかい", "meaning": "qiyg'os gullash" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "梅",
+          "reading": "ばい・うめ",
+          "meaning": "o'rik (yapon o'rigi)",
+          "onyomi": "バイ",
+          "kunyomi": "うめ"
+        },
+        "examples": [
+          { "id": 1, "word": "梅", "reading": "うめ", "meaning": "yapon o'rigi" },
+          { "id": 2, "word": "梅雨前線", "reading": "ばいうぜんせん", "meaning": "yomg'ir mavsumi fronti" },
+          { "id": 3, "word": "梅雨", "reading": "つゆ", "meaning": "yomg'irlar mavsumi" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "松",
+          "reading": "しょう・まつ",
+          "meaning": "qarag'ay",
+          "onyomi": "ショウ",
+          "kunyomi": "まつ"
+        },
+        "examples": [
+          { "id": 1, "word": "松の木", "reading": "まつのき", "meaning": "qarag'ay daraxti" },
+          { "id": 2, "word": "松ぼっくり", "reading": "まつぼっくり", "meaning": "qarag'ay g'uddasi, so'tasi" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "杉",
+          "reading": "すぎ",
+          "meaning": "kedr",
+          "onyomi": "",
+          "kunyomi": "すぎ"
+        },
+        "examples": [
+          { "id": 1, "word": "杉の木", "reading": "すぎのき", "meaning": "kedr daraxti" },
+          { "id": 2, "word": "杉の花粉", "reading": "すぎのかふん", "meaning": "kedr daraxti changidan kasallanish" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "美",
+          "reading": "び・うつくしい",
+          "meaning": "go'zal, chiroyli",
+          "onyomi": "ビ",
+          "kunyomi": "うつく(しい)"
+        },
+        "examples": [
+          { "id": 1, "word": "美しい", "reading": "うつくしい", "meaning": "chiroyli" },
+          { "id": 2, "word": "美と健康を保つ", "reading": "びとけんこうをたもつ", "meaning": "go'zallik va salomatlikni saqlash" },
+          { "id": 3, "word": "美容室", "reading": "びようしつ", "meaning": "go'zallik saloni" },
+          { "id": 4, "word": "美人", "reading": "びじん", "meaning": "chiroyli ayol" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "香",
+          "reading": "こう・きょう・かおる・か",
+          "meaning": "hid, xushbo'y",
+          "onyomi": "コウ・キョウ",
+          "kunyomi": "かお(る)・か"
+        },
+        "examples": [
+          { "id": 1, "word": "香る", "reading": "かおる", "meaning": "shirin hid taratmoq" },
+          { "id": 2, "word": "バラの香り", "reading": "バラのかおり", "meaning": "atirgul hidi" },
+          { "id": 3, "word": "お香を焚く", "reading": "おこうをたく", "meaning": "ladan yoqish" },
+          { "id": 4, "word": "香水", "reading": "こうすい", "meaning": "atir" },
+          { "id": 5, "word": "香辛料", "reading": "こうしんりょう", "meaning": "ziravorlar" },
+          { "id": 6, "word": "芳香剤", "reading": "ほうこうざい", "meaning": "havo xushbo'ylagichi" }
+        ]
+      }
+    ]
+  }
