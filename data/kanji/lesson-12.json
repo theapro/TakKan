@@ -1,0 +1,104 @@
+{
+    "title": "Lesson 12",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "脱",
+          "reading": "だつ",
+          "meaning": "yechmoq, chiqib ketmoq",
+          "onyomi": "ダツ",
+          "kunyomi": "ぬ(ぐ)・ぬ(げる)"
+        },
+        "examples": [
+          { "id": 1, "word": "靴が脱げる", "reading": "くつがぬげる", "meaning": "tufli yechilib ketishi" },
+          { "id": 2, "word": "服を脱ぐ", "reading": "ふくをぬぐ", "meaning": "kiyimni yechmoq" },
+          { "id": 3, "word": "離脱", "reading": "りだつ", "meaning": "chiqib ketish, ajralish" },
+          { "id": 4, "word": "脱税", "reading": "だつぜい", "meaning": "soliqdan qochish" },
+          { "id": 5, "word": "脱退", "reading": "だったい", "meaning": "chiqib ketish, tashlab ketish" },
+          { "id": 6, "word": "危機を脱する", "reading": "ききをだっする", "meaning": "xavfdan qutulish" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "掛",
+          "reading": "かける・かかる",
+          "meaning": "osmoq, ilmoq",
+          "onyomi": "",
+          "kunyomi": "か(ける)・か(かる)"
+        },
+        "examples": [
+          { "id": 1, "word": "掛かる", "reading": "かかる", "meaning": "osilib turmoq" },
+          { "id": 2, "word": "布団を掛ける", "reading": "ふとんをかける", "meaning": "ko'rpa yopish" },
+          { "id": 3, "word": "どうぞお掛けください", "reading": "どうぞおかけください", "meaning": "marhamat o'tiring" },
+          { "id": 4, "word": "気掛かりなこと", "reading": "きがかりなこと", "meaning": "xavotir, ko'ngil g'ashligi" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "姿",
+          "reading": "し・すがた",
+          "meaning": "qiyofa, shakl",
+          "onyomi": "シ",
+          "kunyomi": "すがた"
+        },
+        "examples": [
+          { "id": 1, "word": "姿", "reading": "すがた", "meaning": "shakl, qomat" },
+          { "id": 2, "word": "着物姿", "reading": "きものすがた", "meaning": "kimono kiygan qiyofa" },
+          { "id": 3, "word": "日本の姿", "reading": "にほんのすがた", "meaning": "Yaponiya shamoyili, holati" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "勢",
+          "reading": "せい・いきおい",
+          "meaning": "kuch, vaziyat",
+          "onyomi": "セイ",
+          "kunyomi": "いきお(い)"
+        },
+        "examples": [
+          { "id": 1, "word": "勢いよく", "reading": "いきおいよく", "meaning": "bardam, tetik, g'ayrat bilan" },
+          { "id": 2, "word": "チームに勢いがある", "reading": "チームにいきおいがある", "meaning": "jamoani ruhiyati bor" },
+          { "id": 3, "word": "国際情勢", "reading": "こくさいじょうせい", "meaning": "xalqaro vaziyat" },
+          { "id": 4, "word": "姿勢", "reading": "しせい", "meaning": "gavda turishi, holati" },
+          { "id": 5, "word": "台風の勢力", "reading": "たいふうのせいりょく", "meaning": "shamol kuchi" },
+          { "id": 6, "word": "大勢の人", "reading": "おおぜいのひと", "meaning": "ko'p odam" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "柔",
+          "reading": "じゅう・にゅう",
+          "meaning": "yumshoq",
+          "onyomi": "ジュウ・ニュウ",
+          "kunyomi": "やわ(らかい)"
+        },
+        "examples": [
+          { "id": 1, "word": "柔らかな布団", "reading": "やわらかなふとん", "meaning": "yumshoq ko'rpa" },
+          { "id": 2, "word": "体が柔らかい", "reading": "からだがやわらかい", "meaning": "tanasi egiluvchan" },
+          { "id": 3, "word": "柔道", "reading": "じゅうどう", "meaning": "dzyudo" },
+          { "id": 4, "word": "柔和な性格", "reading": "にゅうわなせいかく", "meaning": "yumshoq, muloyim xarakter" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "軟",
+          "reading": "なん",
+          "meaning": "yumshoq, egiluvchan",
+          "onyomi": "ナン",
+          "kunyomi": "やわ(らかい)"
+        },
+        "examples": [
+          { "id": 1, "word": "軟らかく煮る", "reading": "やわらくにる", "meaning": "yumshoq qilib qaynatib pishirish" },
+          { "id": 2, "word": "軟らかいごはん", "reading": "やわらかいごはん", "meaning": "yumshoq, og'izda erib ketadigan ovqat" },
+          { "id": 3, "word": "柔軟", "reading": "じゅうなん", "meaning": "egiluvchan, moslashuvchan" },
+          { "id": 4, "word": "態度が軟化する", "reading": "たいどがなんかする", "meaning": "munosabat yumshashi" }
+        ]
+      }
+    ]
+  }

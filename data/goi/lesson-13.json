@@ -1,0 +1,157 @@
+{
+    "title": "Lesson 13",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "誓う", "reading": "ちかう", "meaning": "qasam ichmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "誓う", "reading": "ちかう", "meaning": "qasam ichmoq" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "花嫁", "reading": "はなよめ", "meaning": "kelin", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "花嫁", "reading": "はなよめ", "meaning": "kelin" },
+          { "id": 2, "word": "花婿", "reading": "はなむこ", "meaning": "kuyov" },
+          { "id": 3, "word": "好印象", "reading": "こういんしょう", "meaning": "yaxshi taassurot" },
+          { "id": 4, "word": "好条件", "reading": "こうじょうけん", "meaning": "yaxshi sharoit" },
+          { "id": 5, "word": "好成績", "reading": "こうせいせき", "meaning": "yaxshi natija" },
+          { "id": 6, "word": "好景気", "reading": "こうけいき", "meaning": "yaxshi iqtisodiy holat" },
+          { "id": 7, "word": "好人物", "reading": "こうじんぶつ", "meaning": "yaxshi xulqli odam" },
+          { "id": 8, "word": "好都合", "reading": "こうつごう", "meaning": "qulay, ayni muddao" },
+          { "id": 9, "word": "悪条件", "reading": "あくじょうけん", "meaning": "yomon sharoit" },
+          { "id": 10, "word": "悪趣味", "reading": "あくしゅみ", "meaning": "yomon odat" },
+          { "id": 11, "word": "悪影響", "reading": "あくえいきょう", "meaning": "yomon ta'sir" },
+          { "id": 12, "word": "悪天候", "reading": "あくてんこう", "meaning": "yomon ob-havo" },
+          { "id": 13, "word": "悪習慣", "reading": "あくしゅうかん", "meaning": "yomon odat, qiliq" },
+          { "id": 14, "word": "悪循環", "reading": "あくじゅんかん", "meaning": "yomon (yopiq) doira, salbiy sikl" },
+          { "id": 15, "word": "悪知恵", "reading": "わるちえ", "meaning": "ayyorlik, hiyla" },
+          { "id": 16, "word": "悪ふざけ", "reading": "悪ふざけ", "meaning": "yomon hazil" },
+          { "id": 17, "word": "悪酔い", "reading": "わるよい", "meaning": "ichib o'zini yomon his qilish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "ささいな", "reading": "ささいな", "meaning": "arzimagan, kichik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ささいな", "reading": "ささいな", "meaning": "arzimagan, kichik" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "避ける", "reading": "さける", "meaning": "qochmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "避ける", "reading": "さける", "meaning": "qochmoq" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "誤解する", "reading": "ごかいする", "meaning": "noto'g'ri tushunmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "誤解する", "reading": "ごかいする", "meaning": "noto'g'ri tushunmoq" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "勘違いする", "reading": "かんちがいする", "meaning": "noto'g'ri tushunib olish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "勘違いする", "reading": "かんちがいする", "meaning": "noto'g'ri tushunib olish" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "言い訳", "reading": "いいわけ", "meaning": "bahona", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "言い訳", "reading": "いいわけ", "meaning": "bahona" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "きっぱり", "reading": "きっぱり", "meaning": "keskin, qat'iy", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "きっぱり", "reading": "きっぱり", "meaning": "keskin, qat'iy" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "ばかにする", "reading": "ばかにする", "meaning": "ustidan kulish, mazax qilish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ばかにする", "reading": "ばかにする", "meaning": "ustidan kulish, mazax qilish" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "いやみな", "reading": "いやみな", "meaning": "pichingli, istehzoli", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "いやみな", "reading": "いやみな", "meaning": "pichingli, istehzoli" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "責める", "reading": "せめる", "meaning": "ayblamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "責める", "reading": "せめる", "meaning": "ayblamoq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "けなす", "reading": "けなす", "meaning": "yerga urmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "けなす", "reading": "けなす", "meaning": "yerga urmoq" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "だまる", "reading": "だまる", "meaning": "jim bo'lmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "だまる", "reading": "だまる", "meaning": "jim bo'lmoq" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "にらむ", "reading": "にらむ", "meaning": "tikilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "にらむ", "reading": "にらむ", "meaning": "tikilmoq" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "裏切る", "reading": "うらぎる", "meaning": "xiyonat qilmoq, sotmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "裏切る", "reading": "うらぎる", "meaning": "xiyonat qilmoq, sotmoq" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "だます", "reading": "だます", "meaning": "aldamoq, chuv tushirmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "だます", "reading": "だます", "meaning": "aldamoq, chuv tushirmoq" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "せい", "reading": "せい", "meaning": "dastidan", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "せい", "reading": "せい", "meaning": "dastidan" },
+          { "id": 2, "word": "おかげ", "reading": "おかげ", "meaning": "sharofati bilan" }
+        ]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "行為", "reading": "こうい", "meaning": "xatti-harakat", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "行為", "reading": "こうい", "meaning": "xatti-harakat" },
+          { "id": 2, "word": "迷惑行為", "reading": "めいわくこうい", "meaning": "bezovta qiluvchi xatti-harakat" }
+        ]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "口論する", "reading": "こうろん", "meaning": "bahslashmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "口論する", "reading": "こうろん", "meaning": "bahslashmoq" },
+          { "id": 2, "word": "口げんかする", "reading": "くちげんかする", "meaning": "bahslashmoq" }
+        ]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "怒鳴る", "reading": "どなる", "meaning": "baqirmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "怒鳴る", "reading": "どなる", "meaning": "baqirmoq" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "殴る", "reading": "なぐる", "meaning": "urmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "殴る", "reading": "なぐる", "meaning": "urmoq" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "貸し借りする", "reading": "かしかりする", "meaning": "pul oldi berdi qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "貸し借りする", "reading": "かしかりする", "meaning": "pul oldi berdi qilmoq" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "ばらす", "reading": "ばらす", "meaning": "aytib qo'ymoq, fosh qilish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ばらす", "reading": "ばらす", "meaning": "aytib qo'ymoq, fosh qilish" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "気まずい", "reading": "きまずい", "meaning": "noqulay, o'ng'aysiz (vaziyat)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "気まずい", "reading": "きまずい", "meaning": "noqulay, o'ng'aysiz (vaziyat)" }]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "今さら", "reading": "いまさら", "meaning": "endi (endi kech ma'nosida)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "今さら", "reading": "いまさら", "meaning": "endi (endi kech ma'nosida)" }]
+      }
+    ]
+  }
