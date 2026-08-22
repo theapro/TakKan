@@ -1,0 +1,100 @@
+{
+    "title": "Lesson 14",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "思春期", "reading": "ししゅんき", "meaning": "balog'at, o'smirlik davri", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "思春期", "reading": "ししゅんき", "meaning": "balog'at, o'smirlik davri" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "視線", "reading": "しせん", "meaning": "qarash, ko'z qarashi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "視線", "reading": "しせん", "meaning": "qarash, ko'z qarashi" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "湿度", "reading": "しつど", "meaning": "namlik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "湿度", "reading": "しつど", "meaning": "namlik" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "商店街", "reading": "しょうてんがい", "meaning": "do'konlar ko'chasi, savdo maydoni", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "商店街", "reading": "しょうてんがい", "meaning": "do'konlar ko'chasi, savdo maydoni" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "段差", "reading": "だんさ", "meaning": "balandlik farqi (pog'ona, ostona)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "段差", "reading": "だんさ", "meaning": "balandlik farqi (pog'ona, ostona)" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "手すり", "reading": "てすり", "meaning": "qo'l tutqichi, panjara", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "手すり", "reading": "てすり", "meaning": "qo'l tutqichi, panjara" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "一目", "reading": "ひとめ", "meaning": "bir qarash; el nigohi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "一目", "reading": "ひとめ", "meaning": "bir qarash; el nigohi" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "正直な", "reading": "しょうじきな", "meaning": "rostgo'y, halol", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "正直な", "reading": "しょうじきな", "meaning": "rostgo'y, halol" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "抑える", "reading": "おさえる", "meaning": "bosmoq, jilovlamoq, cheklamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "抑える", "reading": "おさえる", "meaning": "bosmoq, jilovlamoq, cheklamoq" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "おしゃべりする", "reading": "おしゃべりする", "meaning": "suhbatlashmoq, gaplashmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "おしゃべりする", "reading": "おしゃべりする", "meaning": "suhbatlashmoq, gaplashmoq" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "思いやる", "reading": "おもいやる", "meaning": "e'tiborli bo'lmoq, boshqalarni o'ylamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "思いやる", "reading": "おもいやる", "meaning": "e'tiborli bo'lmoq, boshqalarni o'ylamoq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "介入する", "reading": "かいにゅうする", "meaning": "aralashmoq, vositachilik qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "介入する", "reading": "かいにゅうする", "meaning": "aralashmoq, vositachilik qilmoq" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "悔やむ", "reading": "くやむ", "meaning": "afsuslanmoq, pushaymon bo'lmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "悔やむ", "reading": "くやむ", "meaning": "afsuslanmoq, pushaymon bo'lmoq" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "指導する", "reading": "しどうする", "meaning": "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "指導する", "reading": "しどうする", "meaning": "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "選挙する", "reading": "せんきょする", "meaning": "saylamoq, saylov o'tkazmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "選挙する", "reading": "せんきょする", "meaning": "saylamoq, saylov o'tkazmoq" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "散る", "reading": "ちる", "meaning": "tarqalmoq, sochilib tushmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "散る", "reading": "ちる", "meaning": "tarqalmoq, sochilib tushmoq" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "投票する", "reading": "とうひょうする", "meaning": "ovoz berish, saylovda qatnashish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "投票する", "reading": "とうひょうする", "meaning": "ovoz berish, saylovda qatnashish" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "身支度する", "reading": "みじたくする", "meaning": "kiyinish, tayyorlanish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "身支度する", "reading": "みじたくする", "meaning": "kiyinish, tayyorlanish" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "雲がかかる", "reading": "くもがかかる", "meaning": "osmonni bulut qoplamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "雲がかかる", "reading": "くもがかかる", "meaning": "osmonni bulut qoplamoq" }]
+      }
+    ]
+  }

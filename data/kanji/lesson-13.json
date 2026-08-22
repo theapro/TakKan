@@ -1,0 +1,103 @@
+{
+    "title": "Lesson 13",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "固",
+          "reading": "こ",
+          "meaning": "qattiq, mustahkam",
+          "onyomi": "コ",
+          "kunyomi": "かた(い)・かた(める)"
+        },
+        "examples": [
+          { "id": 1, "word": "固まる", "reading": "かたまる", "meaning": "qotmoq" },
+          { "id": 2, "word": "方針を固める", "reading": "ほうしんをかためる", "meaning": "yo'nalish, siyosat" },
+          { "id": 3, "word": "頭が固い", "reading": "あたまがかたい", "meaning": "o'jar" },
+          { "id": 4, "word": "固体", "reading": "こたい", "meaning": "qattiq jism" },
+          { "id": 5, "word": "固定する", "reading": "こていする", "meaning": "mustahkamlash" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "純",
+          "reading": "じゅん",
+          "meaning": "sof, pok",
+          "onyomi": "ジュン",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "純情な人", "reading": "じゅんじょうなひと", "meaning": "sodda, beg'ubor odam" },
+          { "id": 2, "word": "純粋な心", "reading": "じゅんすいなこころ", "meaning": "sof qalb" },
+          { "id": 3, "word": "単純な問題", "reading": "たんじゅんなもんだい", "meaning": "oddiy savol, muammo" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "快",
+          "reading": "かい",
+          "meaning": "yoqimli, xushnud",
+          "onyomi": "カイ",
+          "kunyomi": "こころよ(い)"
+        },
+        "examples": [
+          { "id": 1, "word": "快い返事", "reading": "こころよいへんじ", "meaning": "yoqimli javob" },
+          { "id": 2, "word": "快く引き受ける", "reading": "こころよくひきうける", "meaning": "mamnuniyat bilan qabul qilish" },
+          { "id": 3, "word": "快適な部屋", "reading": "かいてきなへや", "meaning": "qulay xona" },
+          { "id": 4, "word": "快気祝い", "reading": "かいきいわい", "meaning": "kasallikdan tuzalganlikni nishonlash" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "甘",
+          "reading": "かん",
+          "meaning": "shirin",
+          "onyomi": "カン",
+          "kunyomi": "あま(い)・あま(える)"
+        },
+        "examples": [
+          { "id": 1, "word": "甘える", "reading": "あまえる", "meaning": "erkalanmoq" },
+          { "id": 2, "word": "甘やかす", "reading": "あまやかす", "meaning": "taltaytirmoq" },
+          { "id": 3, "word": "甘いミカン", "reading": "あまいミカン", "meaning": "shirin mandarin" },
+          { "id": 4, "word": "甘い生活", "reading": "あまいせいかつ", "meaning": "shirin hayot" },
+          { "id": 5, "word": "人生は甘くない", "reading": "じんせいはあまくない", "meaning": "hayot oson emas" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "濃",
+          "reading": "のう",
+          "meaning": "quyuq",
+          "onyomi": "ノウ",
+          "kunyomi": "こ(い)"
+        },
+        "examples": [
+          { "id": 1, "word": "味が濃い", "reading": "あじがこい", "meaning": "ta'mi to'q (quyuq)" },
+          { "id": 2, "word": "化粧が濃い", "reading": "けしょうがこい", "meaning": "ko'p bo'yangan" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "薄",
+          "reading": "はく",
+          "meaning": "yupqa, suyuq",
+          "onyomi": "ハク",
+          "kunyomi": "うす(い)・うす(める)"
+        },
+        "examples": [
+          { "id": 1, "word": "水で味を薄める", "reading": "みずであじをうすめる", "meaning": "suv bilan ta'mni me'yorlashtirish" },
+          { "id": 2, "word": "味が薄まる", "reading": "あじがうすまる", "meaning": "ta'mi suyulishi" },
+          { "id": 3, "word": "痛みが薄らぐ", "reading": "いたみがうすらぐ", "meaning": "og'riq susayishi" },
+          { "id": 4, "word": "記憶が薄れる", "reading": "きおくがうすれる", "meaning": "xotirasi yomonlashmoq" },
+          { "id": 5, "word": "色が薄い", "reading": "いろがうすい", "meaning": "rangi och" },
+          { "id": 6, "word": "薄い紙", "reading": "うすいかみ", "meaning": "yupqa qog'oz" },
+          { "id": 7, "word": "軽薄な人", "reading": "けいはくなひと", "meaning": "yengiltak, mulohazasiz odam" }
+        ]
+      }
+    ]
+  }
