@@ -1,0 +1,105 @@
+{
+    "title": "Lesson 15",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "才能", "reading": "さいのう", "meaning": "iste'dod", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "才能", "reading": "さいのう", "meaning": "iste'dod" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "大企業", "reading": "だいきぎょう", "meaning": "yirik kompaniyalar", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "大企業", "reading": "だいきぎょう", "meaning": "yirik kompaniyalar" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "食べ盛り", "reading": "たべざかり", "meaning": "o'sib kelayotgan bolaning katta ishtahasi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "食べ盛り", "reading": "たべざかり", "meaning": "o'sib kelayotgan bolaning katta ishtahasi" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "中小企業", "reading": "ちゅうしょうきぎょう", "meaning": "o'rta va kichik korxonalar", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "中小企業", "reading": "ちゅうしょうきぎょう", "meaning": "o'rta va kichik korxonalar" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "蜂", "reading": "はち", "meaning": "ari", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "蜂", "reading": "はち", "meaning": "ari" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "懐かしい", "reading": "なつかしい", "meaning": "sog'inch uyg'otadigan, eslashga arzigulik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "懐かしい", "reading": "なつかしい", "meaning": "sog'inch uyg'otadigan, eslashga arzigulik" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "聡明な", "reading": "そうめいな", "meaning": "aqlli", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "聡明な", "reading": "そうめいな", "meaning": "aqlli" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "あくびする", "reading": "あくびする", "meaning": "esnamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "あくびする", "reading": "あくびする", "meaning": "esnamoq" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "感心する", "reading": "かんしんする", "meaning": "hayratlanmoq, qoyil qolmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "感心する", "reading": "かんしんする", "meaning": "hayratlanmoq, qoyil qolmoq" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "ご馳走する", "reading": "ごちそうする", "meaning": "mehmon qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ご馳走する", "reading": "ごちそうする", "meaning": "mehmon qilmoq" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "操作する", "reading": "そうさする", "meaning": "boshqarmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "操作する", "reading": "そうさする", "meaning": "boshqarmoq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "注射する", "reading": "ちゅうしゃする", "meaning": "ukol qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "注射する", "reading": "ちゅうしゃする", "meaning": "ukol qilmoq" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "独立する", "reading": "どくりつする", "meaning": "mustaqil bo'lmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "独立する", "reading": "どくりつする", "meaning": "mustaqil bo'lmoq" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "拍手する", "reading": "はくしゅする", "meaning": "qarsak chalmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "拍手する", "reading": "はくしゅする", "meaning": "qarsak chalmoq" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "響く", "reading": "ひびく", "meaning": "aks-sado bermoq, yangramoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "響く", "reading": "ひびく", "meaning": "aks-sado bermoq, yangramoq" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "吠える", "reading": "ほえる", "meaning": "hurmoq (it)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "吠える", "reading": "ほえる", "meaning": "hurmoq (it)" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "もてなす", "reading": "もてなす", "meaning": "mehmon qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "もてなす", "reading": "もてなす", "meaning": "mehmon qilmoq" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "よこす", "reading": "よこす", "meaning": "yubormoq, berib yubormoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "よこす", "reading": "よこす", "meaning": "yubormoq, berib yubormoq" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "いまさら", "reading": "いまさら", "meaning": "endi (kech), shuncha vaqtdan keyin", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "いまさら", "reading": "いまさら", "meaning": "endi (kech), shuncha vaqtdan keyin" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "瞳がきつい", "reading": "ひとみがきつい", "meaning": "nigohi qattiq (badjahl ko'rinish)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "瞳がきつい", "reading": "ひとみがきつい", "meaning": "nigohi qattiq (badjahl ko'rinish)" }]
+      }
+    ]
+  }

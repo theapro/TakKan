@@ -1,0 +1,98 @@
+{
+    "title": "Lesson 14",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "劇",
+          "reading": "げき",
+          "meaning": "sahna asari, drama",
+          "onyomi": "ゲキ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "演劇", "reading": "えんげき", "meaning": "sahna asari" },
+          { "id": 2, "word": "劇場", "reading": "げきじょう", "meaning": "teatr (bino)" },
+          { "id": 3, "word": "悲劇", "reading": "ひげき", "meaning": "fojia (tragediya)" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "舞",
+          "reading": "ぶ",
+          "meaning": "raqs",
+          "onyomi": "ブ",
+          "kunyomi": "ま(う)・まい"
+        },
+        "examples": [
+          { "id": 1, "word": "風に舞う", "reading": "かぜにまう", "meaning": "shamolda raqsga tushmoq" },
+          { "id": 2, "word": "見舞う", "reading": "みまう", "meaning": "holidan xabar olmoq" },
+          { "id": 3, "word": "お見舞い", "reading": "おみまい", "meaning": "kasal ko'rgani borish" },
+          { "id": 4, "word": "舞台に立つ", "reading": "ぶたいにたつ", "meaning": "sahnaga chiqish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "堂",
+          "reading": "どう",
+          "meaning": "zal, bino",
+          "onyomi": "ドウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "食堂", "reading": "しょくどう", "meaning": "oshxona (umumiy)" },
+          { "id": 2, "word": "講堂", "reading": "こうどう", "meaning": "ma'ruza (majlis) zali" },
+          { "id": 3, "word": "国会議事堂", "reading": "こっかいぎじどう", "meaning": "mamlakat parlament binosi" },
+          { "id": 4, "word": "堂々", "reading": "どうどう", "meaning": "salobatli, viqorli" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "展",
+          "reading": "てん",
+          "meaning": "yoyilish, rivojlanish",
+          "onyomi": "テン",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "展示する", "reading": "てんじする", "meaning": "namoyish etish" },
+          { "id": 2, "word": "絵画展", "reading": "かいがてん", "meaning": "rasm ko'rgazmasi" },
+          { "id": 3, "word": "発展する", "reading": "はってんする", "meaning": "rivojlanish" },
+          { "id": 4, "word": "展開", "reading": "てんかい", "meaning": "rivojlanish; yoyilish" },
+          { "id": 5, "word": "進展する", "reading": "しんてんする", "meaning": "rivojlanish" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "宗",
+          "reading": "しゅう・そう",
+          "meaning": "din, mazhab",
+          "onyomi": "シュウ・ソウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "宗教を信仰する", "reading": "しゅうきょうをしんこうする", "meaning": "dinga ishonish" },
+          { "id": 2, "word": "宗派", "reading": "しゅうは", "meaning": "mazhab, tariqat" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "恵",
+          "reading": "けい・え",
+          "meaning": "marhamat, in'om",
+          "onyomi": "ケイ・エ",
+          "kunyomi": "めぐ(む)"
+        },
+        "examples": [
+          { "id": 1, "word": "お金を恵む", "reading": "おかねをめぐむ", "meaning": "in'om qilmoq, sadaqa bermoq" },
+          { "id": 2, "word": "恵まれた生活", "reading": "めぐまれたせいかつ", "meaning": "yaxshi hayot" },
+          { "id": 3, "word": "恩恵を受ける", "reading": "おんけいをうける", "meaning": "foyda olish" }
+        ]
+      }
+    ]
+  }
