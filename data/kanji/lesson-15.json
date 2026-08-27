@@ -1,0 +1,81 @@
+{
+    "title": "Lesson 15",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "宝",
+          "reading": "ほう・たから",
+          "meaning": "xazina, boylik",
+          "onyomi": "ホウ",
+          "kunyomi": "たから"
+        },
+        "examples": [
+          { "id": 1, "word": "宝物", "reading": "たからもの", "meaning": "qimmatbaho buyum" },
+          { "id": 2, "word": "子宝に恵まれる", "reading": "こだからにめぐまれる", "meaning": "farzand bilan siylanmoq" },
+          { "id": 3, "word": "宝くじ", "reading": "たからくじ", "meaning": "lotereya" },
+          { "id": 4, "word": "国宝", "reading": "こくほう", "meaning": "milliy boylik" },
+          { "id": 5, "word": "宝石", "reading": "ほうせき", "meaning": "qimmatbaho tosh" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "城",
+          "reading": "じょう・しろ",
+          "meaning": "qasr",
+          "onyomi": "ジョウ",
+          "kunyomi": "しろ"
+        },
+        "examples": [
+          { "id": 1, "word": "城を築く", "reading": "しろをきずく", "meaning": "qasr bunyod etish" },
+          { "id": 2, "word": "城下町", "reading": "じょうかまち", "meaning": "qasr shahar" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "栄",
+          "reading": "えい",
+          "meaning": "gullamoq, yashnamoq",
+          "onyomi": "エイ",
+          "kunyomi": "さか(える)・はえ"
+        },
+        "examples": [
+          { "id": 1, "word": "文明が栄える", "reading": "ぶんめいがさかえる", "meaning": "sivilizatsiya gullab yashnashi" },
+          { "id": 2, "word": "栄養", "reading": "えいよう", "meaning": "ozuqa" },
+          { "id": 3, "word": "過去の栄光", "reading": "かこのえいこう", "meaning": "o'tmishdagi shon-sharaf" },
+          { "id": 4, "word": "栄えある受賞", "reading": "はえあるじゅしょう", "meaning": "qoyilmaqom mukofot" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "蔵",
+          "reading": "ぞう・くら",
+          "meaning": "ombor, saqlash",
+          "onyomi": "ゾウ",
+          "kunyomi": "くら"
+        },
+        "examples": [
+          { "id": 1, "word": "蔵", "reading": "くら", "meaning": "omborxona" },
+          { "id": 2, "word": "米を貯蔵する", "reading": "こめをちょぞうする", "meaning": "saqlamoq" },
+          { "id": 3, "word": "冷蔵庫", "reading": "れいぞうこ", "meaning": "muzlatkich" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "士",
+          "reading": "し",
+          "meaning": "mutaxassis, kasb egasi",
+          "onyomi": "シ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "建築士", "reading": "けんちくし", "meaning": "arxitektor, quruvchi" },
+          { "id": 2, "word": "介護士", "reading": "かいごし", "meaning": "parvarish xodimi (qariya, bemorlar)" }
+        ]
+      }
+    ]
+  }

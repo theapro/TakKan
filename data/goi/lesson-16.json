@@ -1,0 +1,165 @@
+{
+    "title": "Lesson 16",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "台無し", "reading": "だいなし", "meaning": "barbod, rasvo bo'lish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "台無し", "reading": "だいなし", "meaning": "barbod, rasvo bo'lish" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "うらむ", "reading": "うらむ", "meaning": "gina qilmoq, kek saqlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "うらむ", "reading": "うらむ", "meaning": "gina qilmoq, kek saqlamoq" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "追い出す", "reading": "おいだす", "meaning": "haydab chiqarmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "追い出す", "reading": "おいだす", "meaning": "haydab chiqarmoq" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "仲間はずれ", "reading": "なかまはずれ", "meaning": "davradan chetlatish; chetda qolgan kishi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "仲間はずれ", "reading": "なかまはずれ", "meaning": "davradan chetlatish; chetda qolgan kishi" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "あいつ", "reading": "あいつ", "meaning": "o'sha inson, anovi", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "あいつ", "reading": "あいつ", "meaning": "o'sha inson, anovi" },
+          { "id": 2, "word": "やつ", "reading": "やつ", "meaning": "anovi" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "他人", "reading": "たにん", "meaning": "begona, birov", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "他人", "reading": "たにん", "meaning": "begona, birov" },
+          { "id": 2, "word": "名案", "reading": "めいあん", "meaning": "yaxshi fikr" },
+          { "id": 3, "word": "名作", "reading": "めいさく", "meaning": "shoh asar" },
+          { "id": 4, "word": "名画", "reading": "めいが", "meaning": "mashhur rasm; mashhur film" }
+        ]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "一人住まい", "reading": "ひとりずまい", "meaning": "yolg'iz yashash", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "一人住まい", "reading": "ひとりずまい", "meaning": "yolg'iz yashash" },
+          { "id": 2, "word": "一人暮らし", "reading": "ひとりぐらし", "meaning": "yolg'iz yashash" }
+        ]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "賃貸", "reading": "ちんたい", "meaning": "ijara (ijaraga berish)", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "賃貸", "reading": "ちんたい", "meaning": "ijara (ijaraga berish)" },
+          { "id": 2, "word": "賃貸住宅", "reading": "ちんたいじゅうたく", "meaning": "ijara uyi" }
+        ]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "敷金", "reading": "しききん", "meaning": "uy ijaraga olganda to'lanadigan depozit", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "敷金", "reading": "しききん", "meaning": "uy ijaraga olganda to'lanadigan depozit" },
+          { "id": 2, "word": "礼金", "reading": "れいきん", "meaning": "uy ijaraga olganda minnatdorlik puli (kalit puli ham deyiladi)" }
+        ]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "更新する", "reading": "こうしんする", "meaning": "yangilamoq (shartnoma)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "更新する", "reading": "こうしんする", "meaning": "yangilamoq (shartnoma)" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "ローン", "reading": "ローン", "meaning": "qarz, kredit", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "ローン", "reading": "ローン", "meaning": "qarz, kredit" },
+          { "id": 2, "word": "住宅ローン", "reading": "じゅうたくローン", "meaning": "uy qarzi" }
+        ]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "決まり", "reading": "きまり", "meaning": "qoida", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "決まり", "reading": "きまり", "meaning": "qoida" },
+          { "id": 2, "word": "ルール", "reading": "ルール", "meaning": "qoida" }
+        ]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "一戸建て", "reading": "いっこだて", "meaning": "alohida (xususiy) hovlili uy", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "一戸建て", "reading": "いっこだて", "meaning": "alohida (xususiy) hovlili uy" },
+          { "id": 2, "word": "一軒家", "reading": "いっけんや", "meaning": "bir oilaviy alohida uy" }
+        ]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "マイホーム", "reading": "マイホーム", "meaning": "mening uyim", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "マイホーム", "reading": "マイホーム", "meaning": "mening uyim" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "我が家", "reading": "わがや", "meaning": "uyimiz", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "我が家", "reading": "わがや", "meaning": "uyimiz" },
+          { "id": 2, "word": "わが町", "reading": "わがまち", "meaning": "shahrimiz" },
+          { "id": 3, "word": "わが国", "reading": "わがくに", "meaning": "mamlakatim" }
+        ]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "家屋", "reading": "かおく", "meaning": "uy", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "家屋", "reading": "かおく", "meaning": "uy" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "屋根", "reading": "やね", "meaning": "tom", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "屋根", "reading": "やね", "meaning": "tom" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "洗面所", "reading": "せんめんじょ", "meaning": "yuvinish xonasi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "洗面所", "reading": "せんめんじょ", "meaning": "yuvinish xonasi" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "物置", "reading": "ものおき", "meaning": "ombor", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "物置", "reading": "ものおき", "meaning": "ombor" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "間取り", "reading": "まどり", "meaning": "uy loyihasi (necha xonali ekanligi)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "間取り", "reading": "まどり", "meaning": "uy loyihasi (necha xonali ekanligi)" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "空間", "reading": "くうかん", "meaning": "bo'sh joy, fazo", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "空間", "reading": "くうかん", "meaning": "bo'sh joy, fazo" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "奥", "reading": "おく", "meaning": "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "奥", "reading": "おく", "meaning": "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "手前", "reading": "てまえ", "meaning": "o'z tomoni, oldingi (o'ziga yaqin) tomon", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "手前", "reading": "てまえ", "meaning": "o'z tomoni, oldingi (o'ziga yaqin) tomon" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "南向き", "reading": "みなみむき", "meaning": "janubga qaragan", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "南向き", "reading": "みなみむき", "meaning": "janubga qaragan" },
+          { "id": 2, "word": "北向き", "reading": "きたむき", "meaning": "shimolga qaragan" },
+          { "id": 3, "word": "西向き", "reading": "にしむき", "meaning": "g'arbga qaragan" },
+          { "id": 4, "word": "東向き", "reading": "ひがしむき", "meaning": "sharqqa qaragan" }
+        ]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "温もり", "reading": "ぬくもり", "meaning": "iliqlik, taft", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "温もり", "reading": "ぬくもり", "meaning": "iliqlik, taft" }]
+      }
+    ]
+  }
