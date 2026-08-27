@@ -6,1500 +6,1500 @@
     {
       "id": 1,
       "questionType": "reading",
-      "question": "『出産する』ning o'qilishi qaysi?",
-      "word": "出産する",
+      "question": "『納得する』ning o'qilishi qaysi?",
+      "word": "納得する",
       "choices": [
-        "いいつける",
-        "みならう",
-        "おおはばな",
-        "しゅっさんする"
+        "しらないふり",
+        "なっとくする",
+        "さいかいする",
+        "ともだちづきあい"
       ],
-      "correctAnswer": 3,
-      "explanation": "出産する → しゅっさんする"
+      "correctAnswer": 1,
+      "explanation": "納得する → なっとくする"
     },
     {
       "id": 2,
       "questionType": "kanji",
-      "question": "『さからう』qaysi yozuvga mos?",
-      "word": "逆らう",
-      "choices": [
-        "わざわざ",
-        "逆らう",
-        "産む",
-        "口を利く"
-      ],
-      "correctAnswer": 1,
-      "explanation": "さからう → 逆らう"
-    },
-    {
-      "id": 3,
-      "questionType": "reading",
-      "question": "『反省会』ning o'qilishi qaysi?",
-      "word": "反省会",
-      "choices": [
-        "あらす",
-        "ほうっておく",
-        "はんせいかい",
-        "かいごする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "反省会 → はんせいかい"
-    },
-    {
-      "id": 4,
-      "questionType": "meaning",
-      "question": "『ジェネレーション』ning ma'nosi qaysi?",
-      "word": "ジェネレーション",
-      "choices": [
-        "parvarish qilmoq (keksa, bemorni)",
-        "avlod (sinonim)",
-        "aldamoq",
-        "ataylab, maqsadli"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ジェネレーション → avlod (sinonim)"
-    },
-    {
-      "id": 5,
-      "questionType": "reading",
-      "question": "『意志』ning o'qilishi qaysi?",
-      "word": "意志",
-      "choices": [
-        "いし",
-        "おんだんな",
-        "しんぱん",
-        "さくせいする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "意志 → いし"
-    },
-    {
-      "id": 6,
-      "questionType": "word",
-      "question": "『parvarish qilmoq (keksa, bemorni)』ning yaponcha ifodasi qaysi?",
-      "word": "介護する",
-      "choices": [
-        "タイムセール",
-        "親知らず",
-        "介護する",
-        "説得する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "parvarish qilmoq (keksa, bemorni) → 介護する"
-    },
-    {
-      "id": 7,
-      "questionType": "meaning",
-      "question": "『ホームヘルパー』ning ma'nosi qaysi?",
-      "word": "ホームヘルパー",
-      "choices": [
-        "aql tish",
-        "uyda parvarish qiluvchi xodim",
-        "olib kelmoq (o'zi bilan)",
-        "baribir (nima bo'lgan taqdirda xam)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ホームヘルパー → uyda parvarish qiluvchi xodim"
-    },
-    {
-      "id": 8,
-      "questionType": "meaning",
-      "question": "『甘え』ning ma'nosi qaysi?",
-      "word": "甘え",
-      "choices": [
-        "mushkul, qiyin",
-        "erkalik",
-        "hozir; keldim (uyga)",
-        "katsudon (qovurilgan go'sht qo'yilgan guruch)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "甘え → erkalik"
-    },
-    {
-      "id": 9,
-      "questionType": "word",
-      "question": "『tarbiyalamoq, odob o'rgatmoq』ning yaponcha ifodasi qaysi?",
-      "word": "しつける",
-      "choices": [
-        "逆らう",
-        "高学年",
-        "しつける",
-        "言いつける"
-      ],
-      "correctAnswer": 2,
-      "explanation": "tarbiyalamoq, odob o'rgatmoq → しつける"
-    },
-    {
-      "id": 10,
-      "questionType": "reading",
-      "question": "『意志』ning o'qilishi qaysi?",
-      "word": "意志",
-      "choices": [
-        "じぶんかってな",
-        "いし",
-        "ホームヘルパー",
-        "せっとくする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "意志 → いし"
-    },
-    {
-      "id": 11,
-      "questionType": "meaning",
-      "question": "『言いつける』ning ma'nosi qaysi?",
-      "word": "言いつける",
-      "choices": [
-        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq",
-        "odatiy, tabiiy",
-        "tug'ilmoq",
-        "ishonmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "言いつける → buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
-    },
-    {
-      "id": 12,
-      "questionType": "sentence",
-      "question": "『ファミリー』ning ma'nosi qaysi?",
-      "word": "ファミリー",
-      "choices": [
-        "teri",
-        "erkalanmoq",
-        "oila (sinonim)",
-        "tushunib rozi bo'lmoq, qanoatlanmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ファミリー → oila (sinonim)"
-    },
-    {
-      "id": 13,
-      "questionType": "kanji",
       "question": "『しみじみ』qaysi yozuvga mos?",
       "word": "しみじみ",
       "choices": [
+        "行為",
         "しみじみ",
-        "同意する",
-        "あだ名",
-        "度重なる"
+        "生まれる",
+        "産む"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "しみじみ → しみじみ"
     },
     {
-      "id": 14,
-      "questionType": "sentence",
-      "question": "『しみじみ』ning ma'nosi qaysi?",
-      "word": "しみじみ",
-      "choices": [
-        "final",
-        "ilk uchrashuv",
-        "suyanmoq",
-        "chuqur"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しみじみ → chuqur"
-    },
-    {
-      "id": 15,
+      "id": 3,
       "questionType": "kanji",
       "question": "『せだいこうたい』qaysi yozuvga mos?",
       "word": "世代交代",
       "choices": [
-        "役目",
-        "表示する",
-        "世代交代",
-        "荒らす"
+        "荒らす",
+        "今さら",
+        "決心",
+        "世代交代"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "せだいこうたい → 世代交代"
     },
     {
-      "id": 16,
-      "questionType": "meaning",
-      "question": "『しつけ』ning ma'nosi qaysi?",
-      "word": "しつけ",
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『そんちょうする』qaysi yozuvga mos?",
+      "word": "尊重する",
       "choices": [
-        "dalda bermoq, ruhlantirmoq",
-        "tarbiya, odob",
-        "yadro quroli",
-        "homilador bo'lmoq"
+        "尊重する",
+        "見つめる",
+        "許す",
+        "折りたたみ傘"
       ],
-      "correctAnswer": 1,
-      "explanation": "しつけ → tarbiya, odob"
+      "correctAnswer": 0,
+      "explanation": "そんちょうする → 尊重する"
     },
     {
-      "id": 17,
-      "questionType": "meaning",
-      "question": "『意志』ning ma'nosi qaysi?",
-      "word": "意志",
+      "id": 5,
+      "questionType": "kanji",
+      "question": "『いいつける』qaysi yozuvga mos?",
+      "word": "言いつける",
       "choices": [
-        "suyanmoq, tayanmoq",
-        "iroda, qat'iy niyat",
-        "boshqarmoq (nazorat qilish)",
-        "yuqori sinf (maktab)"
+        "言いつける",
+        "タイムセール",
+        "介護する",
+        "向き合う"
       ],
-      "correctAnswer": 1,
-      "explanation": "意志 → iroda, qat'iy niyat"
+      "correctAnswer": 0,
+      "explanation": "いいつける → 言いつける"
     },
     {
-      "id": 18,
+      "id": 6,
       "questionType": "reading",
-      "question": "『説得する』ning o'qilishi qaysi?",
-      "word": "説得する",
+      "question": "『世代』ning o'qilishi qaysi?",
+      "word": "世代",
       "choices": [
-        "ひさしぶり",
-        "かんりする",
-        "しょたいめん",
-        "せっとくする"
+        "せだい",
+        "さべつする",
+        "でんとう",
+        "にがおえ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "世代 → せだい"
+    },
+    {
+      "id": 7,
+      "questionType": "word",
+      "question": "『oila (sinonim)』ning yaponcha ifodasi qaysi?",
+      "word": "ファミリー",
+      "choices": [
+        "出産する",
+        "目が覚める",
+        "もしかしたら、もしかして、ひょっとすると",
+        "ファミリー"
       ],
       "correctAnswer": 3,
-      "explanation": "説得する → せっとくする"
+      "explanation": "oila (sinonim) → ファミリー"
     },
     {
-      "id": 19,
+      "id": 8,
+      "questionType": "kanji",
+      "question": "『せっとくする』qaysi yozuvga mos?",
+      "word": "説得する",
+      "choices": [
+        "〜未満",
+        "懸念する",
+        "説得する",
+        "出身"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せっとくする → 説得する"
+    },
+    {
+      "id": 9,
       "questionType": "meaning",
       "question": "『反省する』ning ma'nosi qaysi?",
       "word": "反省する",
       "choices": [
-        "avlod",
-        "gaplashmoq/muloqot qilmoq",
-        "suhbatlashmoq, dil so'zlashmoq",
-        "xatosini anglab mulohaza qilmoq"
+        "xatosini anglab mulohaza qilmoq",
+        "keng ko'lamli, sezilarli",
+        "sevgi",
+        "muloqot"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "反省する → xatosini anglab mulohaza qilmoq"
     },
     {
-      "id": 20,
-      "questionType": "sentence",
-      "question": "『抵抗する』ning ma'nosi qaysi?",
-      "word": "抵抗する",
-      "choices": [
-        "qarshilik ko'rsatmoq",
-        "yetib kelmoq",
-        "jon kuydirib xizmat qilmoq, bag'ishlamoq",
-        "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "抵抗する → qarshilik ko'rsatmoq"
-    },
-    {
-      "id": 21,
-      "questionType": "sentence",
-      "question": "『世間知らず』ning ma'nosi qaysi?",
-      "word": "世間知らず",
-      "choices": [
-        "go'l, hayot tajribasi yo'q (odam)",
-        "rozilik bildirmoq",
-        "chegara (sabr, kuch chegarasi)",
-        "jon kuydirib xizmat qilmoq, bag'ishlamoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "世間知らず → go'l, hayot tajribasi yo'q (odam)"
-    },
-    {
-      "id": 22,
-      "questionType": "meaning",
-      "question": "『役目』ning ma'nosi qaysi?",
-      "word": "役目",
-      "choices": [
-        "xudbin, o'zboshimcha",
-        "vazifa, burch",
-        "ozor bermoq, jarohatlamoq",
-        "tushkunlikka tushmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "役目 → vazifa, burch"
-    },
-    {
-      "id": 23,
-      "questionType": "reading",
-      "question": "『甘える』ning o'qilishi qaysi?",
-      "word": "甘える",
-      "choices": [
-        "こっせつする",
-        "ていこうする",
-        "かたりあう",
-        "あまえる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "甘える → あまえる"
-    },
-    {
-      "id": 24,
-      "questionType": "reading",
-      "question": "『納得する』ning o'qilishi qaysi?",
-      "word": "納得する",
-      "choices": [
-        "なっとくする",
-        "おれ",
-        "しつける",
-        "むきあう"
-      ],
-      "correctAnswer": 0,
-      "explanation": "納得する → なっとくする"
-    },
-    {
-      "id": 25,
-      "questionType": "sentence",
-      "question": "『妊娠する』ning ma'nosi qaysi?",
-      "word": "妊娠する",
-      "choices": [
-        "haqiqiy kuch, salohiyat",
-        "suyanmoq, tayanmoq",
-        "homilador bo'lmoq",
-        "qulaylik (darajasi)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "妊娠する → homilador bo'lmoq"
-    },
-    {
-      "id": 26,
-      "questionType": "word",
-      "question": "『minnatdorlik uyg'otadigan, qadrli』ning yaponcha ifodasi qaysi?",
-      "word": "ありがたい",
-      "choices": [
-        "災害",
-        "同意する",
-        "ありがたい",
-        "都市開発"
-      ],
-      "correctAnswer": 2,
-      "explanation": "minnatdorlik uyg'otadigan, qadrli → ありがたい"
-    },
-    {
-      "id": 27,
-      "questionType": "word",
-      "question": "『gap boshlamoq, birinchi bo'lib aytmoq』ning yaponcha ifodasi qaysi?",
-      "word": "言い出す",
-      "choices": [
-        "借金する",
-        "言い出す",
-        "ふざける",
-        "仲"
-      ],
-      "correctAnswer": 1,
-      "explanation": "gap boshlamoq, birinchi bo'lib aytmoq → 言い出す"
-    },
-    {
-      "id": 28,
-      "questionType": "word",
-      "question": "『meros qilib olmoq, qabul qilib olmoq』ning yaponcha ifodasi qaysi?",
-      "word": "受け継ぐ",
-      "choices": [
-        "尊重する",
-        "しつける",
-        "受け継ぐ",
-        "恵まれる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "meros qilib olmoq, qabul qilib olmoq → 受け継ぐ"
-    },
-    {
-      "id": 29,
-      "questionType": "sentence",
-      "question": "『自立する』ning ma'nosi qaysi?",
-      "word": "自立する",
-      "choices": [
-        "savol",
-        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "talabalar oshxonasi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "自立する → mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)"
-    },
-    {
-      "id": 30,
-      "questionType": "reading",
-      "question": "『しつけ』ning o'qilishi qaysi?",
-      "word": "しつけ",
-      "choices": [
-        "タイムセール",
-        "さいかいする",
-        "しつけ",
-        "じりつする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しつけ → しつけ"
-    },
-    {
-      "id": 31,
-      "questionType": "meaning",
-      "question": "『世間知らず』ning ma'nosi qaysi?",
-      "word": "世間知らず",
-      "choices": [
-        "yozma shakl (hujjat)",
-        "go'l, hayot tajribasi yo'q (odam)",
-        "avlod",
-        "ko'ndirmoq, ishontirmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "世間知らず → go'l, hayot tajribasi yo'q (odam)"
-    },
-    {
-      "id": 32,
-      "questionType": "word",
-      "question": "『avlod』ning yaponcha ifodasi qaysi?",
-      "word": "世代",
-      "choices": [
-        "呼び出す",
-        "世代",
-        "不景気",
-        "高気圧"
-      ],
-      "correctAnswer": 1,
-      "explanation": "avlod → 世代"
-    },
-    {
-      "id": 33,
-      "questionType": "word",
-      "question": "『qarshilik qilmoq, qarshi bormoq』ning yaponcha ifodasi qaysi?",
-      "word": "逆らう",
-      "choices": [
-        "何気ない",
-        "逆らう",
-        "継ぐ",
-        "久しぶり"
-      ],
-      "correctAnswer": 1,
-      "explanation": "qarshilik qilmoq, qarshi bormoq → 逆らう"
-    },
-    {
-      "id": 34,
+      "id": 10,
       "questionType": "kanji",
-      "question": "『あまえる』qaysi yozuvga mos?",
-      "word": "甘える",
-      "choices": [
-        "ふざける",
-        "害",
-        "あきれる",
-        "甘える"
-      ],
-      "correctAnswer": 3,
-      "explanation": "あまえる → 甘える"
-    },
-    {
-      "id": 35,
-      "questionType": "reading",
-      "question": "『継ぐ』ning o'qilishi qaysi?",
-      "word": "継ぐ",
-      "choices": [
-        "あまやかす",
-        "りょうど",
-        "どういする",
-        "つぐ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "継ぐ → つぐ"
-    },
-    {
-      "id": 36,
-      "questionType": "reading",
-      "question": "『役目』ning o'qilishi qaysi?",
+      "question": "『やくめ』qaysi yozuvga mos?",
       "word": "役目",
       "choices": [
-        "あらす",
-        "やくめ",
-        "さいかいする",
-        "わざわざ"
+        "役目",
+        "肌",
+        "花嫁",
+        "不運な"
       ],
-      "correctAnswer": 1,
-      "explanation": "役目 → やくめ"
+      "correctAnswer": 0,
+      "explanation": "やくめ → 役目"
     },
     {
-      "id": 37,
-      "questionType": "reading",
-      "question": "『一家』ning o'qilishi qaysi?",
-      "word": "一家",
+      "id": 11,
+      "questionType": "kanji",
+      "question": "『つくづくと』qaysi yozuvga mos?",
+      "word": "つくづくと",
       "choices": [
-        "はんせいかい",
-        "かくへいき",
-        "ちらかる",
-        "いっか"
-      ],
-      "correctAnswer": 3,
-      "explanation": "一家 → いっか"
-    },
-    {
-      "id": 38,
-      "questionType": "reading",
-      "question": "『言い出す』ning o'qilishi qaysi?",
-      "word": "言い出す",
-      "choices": [
-        "なっとくする",
-        "いいだす",
         "つくづくと",
-        "いっきに"
+        "恋愛する",
+        "感心する",
+        "抵抗する"
       ],
-      "correctAnswer": 1,
-      "explanation": "言い出す → いいだす"
+      "correctAnswer": 0,
+      "explanation": "つくづくと → つくづくと"
     },
     {
-      "id": 39,
-      "questionType": "kanji",
-      "question": "『にんぷ』qaysi yozuvga mos?",
-      "word": "妊婦",
-      "choices": [
-        "妊娠する",
-        "口を利く",
-        "妊婦",
-        "核兵器"
-      ],
-      "correctAnswer": 2,
-      "explanation": "にんぷ → 妊婦"
-    },
-    {
-      "id": 40,
+      "id": 12,
       "questionType": "sentence",
       "question": "『出産祝い』ning ma'nosi qaysi?",
       "word": "出産祝い",
       "choices": [
-        "portret",
-        "erkalatmoq, tantiq qilmoq",
+        "qadrdon do'st",
+        "mening uyim",
         "farzand ko'rganlik tabrigi, sovg'asi",
-        "vaqtni ko'rsatmoq"
+        "urmoq, musht tushirmoq"
       ],
       "correctAnswer": 2,
       "explanation": "出産祝い → farzand ko'rganlik tabrigi, sovg'asi"
     },
     {
-      "id": 41,
-      "questionType": "meaning",
-      "question": "『出産する』ning ma'nosi qaysi?",
-      "word": "出産する",
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『いいだす』qaysi yozuvga mos?",
+      "word": "言い出す",
       "choices": [
-        "uyushtiruvchi, tashkilotchi",
-        "hakam",
-        "talabalar oshxonasi",
-        "farzand ko'rmoq, dunyoga keltirmoq"
+        "言い出す",
+        "相談に乗る",
+        "履歴",
+        "結びつく"
       ],
-      "correctAnswer": 3,
-      "explanation": "出産する → farzand ko'rmoq, dunyoga keltirmoq"
+      "correctAnswer": 0,
+      "explanation": "いいだす → 言い出す"
     },
     {
-      "id": 42,
+      "id": 14,
+      "questionType": "meaning",
+      "question": "『一家団らん』ning ma'nosi qaysi?",
+      "word": "一家団らん",
+      "choices": [
+        "anovi",
+        "og'zi bo'sh (sir saqlay olmaydigan)",
+        "oila davrasi, oilaviy chog' o'tirish",
+        "yig'lamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "一家団らん → oila davrasi, oilaviy chog' o'tirish"
+    },
+    {
+      "id": 15,
+      "questionType": "reading",
+      "question": "『説得する』ning o'qilishi qaysi?",
+      "word": "説得する",
+      "choices": [
+        "こういんしょう",
+        "ちる",
+        "せっとくする",
+        "やね"
+      ],
+      "correctAnswer": 2,
+      "explanation": "説得する → せっとくする"
+    },
+    {
+      "id": 16,
+      "questionType": "meaning",
+      "question": "『意志』ning ma'nosi qaysi?",
+      "word": "意志",
+      "choices": [
+        "hakam",
+        "portret",
+        "iroda, qat'iy niyat",
+        "pichirlab gapirmoq, g'o'ldiramoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "意志 → iroda, qat'iy niyat"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『chuqur, chin dildan (感じる bilan ishlatiladi)』ning yaponcha ifodasi qaysi?",
+      "word": "つくづくと",
+      "choices": [
+        "つくづくと",
+        "核兵器",
+        "頼りになる",
+        "振る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "chuqur, chin dildan (感じる bilan ishlatiladi) → つくづくと"
+    },
+    {
+      "id": 18,
+      "questionType": "kanji",
+      "question": "『やしなう』qaysi yozuvga mos?",
+      "word": "養う",
+      "choices": [
+        "カップル",
+        "養う",
+        "悪条件",
+        "散らかる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "やしなう → 養う"
+    },
+    {
+      "id": 19,
+      "questionType": "meaning",
+      "question": "『ありがとう』ning ma'nosi qaysi?",
+      "word": "ありがとう",
+      "choices": [
+        "rahmat",
+        "uy",
+        "yaqinlashmoq, gaplashishga harakat qilmoq",
+        "bezovta qiluvchi xatti-harakat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ありがとう → rahmat"
+    },
+    {
+      "id": 20,
       "questionType": "reading",
       "question": "『世間知らず』ning o'qilishi qaysi?",
       "word": "世間知らず",
       "choices": [
+        "かんちがいする",
         "せけんしらず",
-        "かいごする",
-        "こうぎする",
-        "まんびきする"
+        "ちかう",
+        "あくじゅんかん"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "世間知らず → せけんしらず"
     },
     {
-      "id": 43,
-      "questionType": "reading",
-      "question": "『しつけ』ning o'qilishi qaysi?",
-      "word": "しつけ",
-      "choices": [
-        "えん",
-        "しつけ",
-        "ぼしゅうする",
-        "さくせいする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しつけ → しつけ"
-    },
-    {
-      "id": 44,
-      "questionType": "reading",
-      "question": "『逆らう』ning o'qilishi qaysi?",
-      "word": "逆らう",
-      "choices": [
-        "さからう",
-        "しゅっさんする",
-        "だます",
-        "かくへいき"
-      ],
-      "correctAnswer": 0,
-      "explanation": "逆らう → さからう"
-    },
-    {
-      "id": 45,
-      "questionType": "kanji",
-      "question": "『じりつする』qaysi yozuvga mos?",
+      "id": 21,
+      "questionType": "meaning",
+      "question": "『自立する』ning ma'nosi qaysi?",
       "word": "自立する",
       "choices": [
-        "当たり前",
-        "ニックネーム",
-        "初対面",
-        "自立する"
+        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
+        "taklif qilmoq",
+        "laqab",
+        "aralashmoq, vositachilik qilmoq"
       ],
-      "correctAnswer": 3,
-      "explanation": "じりつする → 自立する"
+      "correctAnswer": 0,
+      "explanation": "自立する → mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)"
     },
     {
-      "id": 46,
-      "questionType": "word",
-      "question": "『rahmat』ning yaponcha ifodasi qaysi?",
+      "id": 22,
+      "questionType": "sentence",
+      "question": "『ありがとう』ning ma'nosi qaysi?",
       "word": "ありがとう",
       "choices": [
-        "限界",
-        "表情",
-        "自分勝手な",
-        "ありがとう"
+        "g'arbga qaragan",
+        "rahmat",
+        "urmoq, musht tushirmoq",
+        "bezovta qiluvchi xatti-harakat"
       ],
-      "correctAnswer": 3,
-      "explanation": "rahmat → ありがとう"
+      "correctAnswer": 1,
+      "explanation": "ありがとう → rahmat"
     },
     {
-      "id": 47,
-      "questionType": "kanji",
-      "question": "『じりつする』qaysi yozuvga mos?",
-      "word": "自立する",
-      "choices": [
-        "自立する",
-        "初対面",
-        "頼りにする",
-        "親知らず"
-      ],
-      "correctAnswer": 0,
-      "explanation": "じりつする → 自立する"
-    },
-    {
-      "id": 48,
+      "id": 23,
       "questionType": "sentence",
-      "question": "『言いつける』ning ma'nosi qaysi?",
-      "word": "言いつける",
+      "question": "『受け継ぐ』ning ma'nosi qaysi?",
+      "word": "受け継ぐ",
       "choices": [
-        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq",
-        "hisobot bermoq",
-        "yashirincha",
-        "bekor qilmoq, tugatmoq"
+        "boshqarmoq",
+        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
+        "meros qilib olmoq, qabul qilib olmoq",
+        "ish tashlash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "受け継ぐ → meros qilib olmoq, qabul qilib olmoq"
+    },
+    {
+      "id": 24,
+      "questionType": "meaning",
+      "question": "『ありがたい』ning ma'nosi qaysi?",
+      "word": "ありがたい",
+      "choices": [
+        "minnatdorlik uyg'otadigan, qadrli",
+        "nigohi qattiq (badjahl ko'rinish)",
+        "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi",
+        "anchadan beri, ko'rishmaganiga ancha bo'ldi"
       ],
       "correctAnswer": 0,
-      "explanation": "言いつける → buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
+      "explanation": "ありがたい → minnatdorlik uyg'otadigan, qadrli"
     },
     {
-      "id": 49,
-      "questionType": "word",
-      "question": "『tahlil (xulosa) yig'ilishi』ning yaponcha ifodasi qaysi?",
-      "word": "反省会",
-      "choices": [
-        "反省会",
-        "労働する",
-        "審判",
-        "語り合う"
-      ],
-      "correctAnswer": 0,
-      "explanation": "tahlil (xulosa) yig'ilishi → 反省会"
-    },
-    {
-      "id": 50,
-      "questionType": "reading",
-      "question": "『ホームヘルパー』ning o'qilishi qaysi?",
-      "word": "ホームヘルパー",
-      "choices": [
-        "もりあがる",
-        "ひょうじする",
-        "まんびきする",
-        "ホームヘルパー"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ホームヘルパー → ホームヘルパー"
-    },
-    {
-      "id": 51,
-      "questionType": "word",
-      "question": "『erkalatmoq, tantiq qilmoq』ning yaponcha ifodasi qaysi?",
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『甘やかす』ning ma'nosi qaysi?",
       "word": "甘やかす",
       "choices": [
-        "高気圧",
-        "温暖な",
-        "度重なる",
-        "甘やかす"
+        "aks-sado bermoq, yangramoq",
+        "qo'l tutqichi, panjara",
+        "qayta uchrashmoq",
+        "erkalatmoq, tantiq qilmoq"
       ],
       "correctAnswer": 3,
-      "explanation": "erkalatmoq, tantiq qilmoq → 甘やかす"
+      "explanation": "甘やかす → erkalatmoq, tantiq qilmoq"
     },
     {
-      "id": 52,
+      "id": 26,
       "questionType": "reading",
-      "question": "『自立する』ning o'qilishi qaysi?",
-      "word": "自立する",
-      "choices": [
-        "じりつする",
-        "ほうっておく",
-        "ざつな",
-        "こんなんな"
-      ],
-      "correctAnswer": 0,
-      "explanation": "自立する → じりつする"
-    },
-    {
-      "id": 53,
-      "questionType": "kanji",
-      "question": "『しゅっさんする』qaysi yozuvga mos?",
-      "word": "出産する",
-      "choices": [
-        "出産する",
-        "学食",
-        "ニックネーム",
-        "制限する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しゅっさんする → 出産する"
-    },
-    {
-      "id": 54,
-      "questionType": "kanji",
-      "question": "『そんちょうする』qaysi yozuvga mos?",
+      "question": "『尊重する』ning o'qilishi qaysi?",
       "word": "尊重する",
       "choices": [
-        "罪を犯す",
-        "利便性",
-        "継ぐ",
-        "尊重する"
+        "のりきる",
+        "つくづくと",
+        "かおく",
+        "そんちょうする"
       ],
       "correctAnswer": 3,
-      "explanation": "そんちょうする → 尊重する"
+      "explanation": "尊重する → そんちょうする"
     },
     {
-      "id": 55,
+      "id": 27,
+      "questionType": "meaning",
+      "question": "『出産する』ning ma'nosi qaysi?",
+      "word": "出産する",
+      "choices": [
+        "xudbin, o'zboshimcha",
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "aldamoq",
+        "yaxshi taassurot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "出産する → farzand ko'rmoq, dunyoga keltirmoq"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『かいごする』qaysi yozuvga mos?",
+      "word": "介護する",
+      "choices": [
+        "花嫁",
+        "介護する",
+        "点検する",
+        "履歴"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かいごする → 介護する"
+    },
+    {
+      "id": 29,
+      "questionType": "reading",
+      "question": "『言いつける』ning o'qilishi qaysi?",
+      "word": "言いつける",
+      "choices": [
+        "でたらめな",
+        "いいつける",
+        "こころほそい",
+        "おじぎする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "言いつける → いいつける"
+    },
+    {
+      "id": 30,
+      "questionType": "reading",
+      "question": "『一家』ning o'qilishi qaysi?",
+      "word": "一家",
+      "choices": [
+        "あこがれる",
+        "きまり",
+        "いっか",
+        "こうしんする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "一家 → いっか"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『言い出す』ning ma'nosi qaysi?",
+      "word": "言い出す",
+      "choices": [
+        "gap boshlamoq, birinchi bo'lib aytmoq",
+        "nojo'ya ta'sir (dorining)",
+        "usta, daho",
+        "hurmat qilmoq, qadrlamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "言い出す → gap boshlamoq, birinchi bo'lib aytmoq"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『世代』ning ma'nosi qaysi?",
+      "word": "世代",
+      "choices": [
+        "avlod",
+        "bahslashmoq",
+        "tikilib qarash",
+        "noqulay, o'ng'aysiz (vaziyat)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "世代 → avlod"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
+      "question": "『反省会』ning o'qilishi qaysi?",
+      "word": "反省会",
+      "choices": [
+        "はんせいかい",
+        "ちゅうしゃする",
+        "あくじゅんかん",
+        "かんせつ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "反省会 → はんせいかい"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『にんしんする』qaysi yozuvga mos?",
+      "word": "妊娠する",
+      "choices": [
+        "持参する",
+        "妊娠する",
+        "ありがたい",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 1,
+      "explanation": "にんしんする → 妊娠する"
+    },
+    {
+      "id": 35,
+      "questionType": "meaning",
+      "question": "『養う』ning ma'nosi qaysi?",
+      "word": "養う",
+      "choices": [
+        "boqmoq, ta'minlamoq",
+        "dalda bermoq, ruhlantirmoq",
+        "tengi yo'q",
+        "g'amxo'rlik qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "養う → boqmoq, ta'minlamoq"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『継ぐ』ning o'qilishi qaysi?",
+      "word": "継ぐ",
+      "choices": [
+        "いっかだんらん",
+        "かんちがいする",
+        "つぐ",
+        "しょめん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "継ぐ → つぐ"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『ジェネレーション』ning ma'nosi qaysi?",
+      "word": "ジェネレーション",
+      "choices": [
+        "janubga qaragan",
+        "kuchli jala",
+        "meros qilib olmoq, davom ettirmoq",
+        "avlod (sinonim)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ジェネレーション → avlod (sinonim)"
+    },
+    {
+      "id": 38,
+      "questionType": "kanji",
+      "question": "『はんせいする』qaysi yozuvga mos?",
+      "word": "反省する",
+      "choices": [
+        "もしかしたら、もしかして、ひょっとすると",
+        "好印象",
+        "反省する",
+        "〜未満"
+      ],
+      "correctAnswer": 2,
+      "explanation": "はんせいする → 反省する"
+    },
+    {
+      "id": 39,
       "questionType": "kanji",
       "question": "『しつける』qaysi yozuvga mos?",
       "word": "しつける",
       "choices": [
         "しつける",
-        "利便性",
-        "ブランド",
-        "作成する"
+        "友人",
+        "悪天候",
+        "履歴"
       ],
       "correctAnswer": 0,
       "explanation": "しつける → しつける"
     },
     {
-      "id": 56,
-      "questionType": "word",
-      "question": "『oila (sinonim)』ning yaponcha ifodasi qaysi?",
-      "word": "ファミリー",
+      "id": 40,
+      "questionType": "reading",
+      "question": "『逆らう』ning o'qilishi qaysi?",
+      "word": "逆らう",
       "choices": [
-        "見習い",
-        "ただ今",
-        "ファミリー",
-        "反省する"
+        "ばかにする",
+        "がくしょく",
+        "こうがくれき",
+        "さからう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "逆らう → さからう"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『反省する』ning o'qilishi qaysi?",
+      "word": "反省する",
+      "choices": [
+        "はんせいする",
+        "つぶやく",
+        "おかげ",
+        "めいが"
+      ],
+      "correctAnswer": 0,
+      "explanation": "反省する → はんせいする"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『むきあう』qaysi yozuvga mos?",
+      "word": "向き合う",
+      "choices": [
+        "向き合う",
+        "勤続する",
+        "利便性",
+        "せい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "むきあう → 向き合う"
+    },
+    {
+      "id": 43,
+      "questionType": "word",
+      "question": "『avlod』ning yaponcha ifodasi qaysi?",
+      "word": "世代",
+      "choices": [
+        "口が軽い",
+        "世代",
+        "再会する",
+        "カンニングする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "avlod → 世代"
+    },
+    {
+      "id": 44,
+      "questionType": "sentence",
+      "question": "『産婦人科』ning ma'nosi qaysi?",
+      "word": "産婦人科",
+      "choices": [
+        "akusherlik-ginekologiya (bo'limi)",
+        "xudbin, o'zboshimcha",
+        "ayyorlik, hiyla",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "産婦人科 → akusherlik-ginekologiya (bo'limi)"
+    },
+    {
+      "id": 45,
+      "questionType": "kanji",
+      "question": "『せだい』qaysi yozuvga mos?",
+      "word": "世代",
+      "choices": [
+        "ペア",
+        "履歴",
+        "世代",
+        "制限する"
       ],
       "correctAnswer": 2,
-      "explanation": "oila (sinonim) → ファミリー"
+      "explanation": "せだい → 世代"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『養う』ning o'qilishi qaysi?",
+      "word": "養う",
+      "choices": [
+        "なし",
+        "はんせいかい",
+        "ひそかに",
+        "やしなう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "養う → やしなう"
+    },
+    {
+      "id": 47,
+      "questionType": "sentence",
+      "question": "『納得する』ning ma'nosi qaysi?",
+      "word": "納得する",
+      "choices": [
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "kam mablag'",
+        "yomon hazil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "納得する → tushunib rozi bo'lmoq, qanoatlanmoq"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『にんぷ』qaysi yozuvga mos?",
+      "word": "妊婦",
+      "choices": [
+        "都市開発",
+        "頼りにする",
+        "妊婦",
+        "誓う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "にんぷ → 妊婦"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『甘える』ning o'qilishi qaysi?",
+      "word": "甘える",
+      "choices": [
+        "りべんせい",
+        "あまえる",
+        "みじたくする",
+        "きたむき"
+      ],
+      "correctAnswer": 1,
+      "explanation": "甘える → あまえる"
+    },
+    {
+      "id": 50,
+      "questionType": "meaning",
+      "question": "『言い出す』ning ma'nosi qaysi?",
+      "word": "言い出す",
+      "choices": [
+        "jo'nash va yetib kelish (qatnov)",
+        "gap boshlamoq, birinchi bo'lib aytmoq",
+        "mazax qilmoq",
+        "begona, birov"
+      ],
+      "correctAnswer": 1,
+      "explanation": "言い出す → gap boshlamoq, birinchi bo'lib aytmoq"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『つぐ』qaysi yozuvga mos?",
+      "word": "継ぐ",
+      "choices": [
+        "ネットワーク",
+        "愛する",
+        "継ぐ",
+        "出産祝い"
+      ],
+      "correctAnswer": 2,
+      "explanation": "つぐ → 継ぐ"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『homilador bo'lmoq』ning yaponcha ifodasi qaysi?",
+      "word": "妊娠する",
+      "choices": [
+        "込める",
+        "蚊",
+        "傷つける",
+        "妊娠する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "homilador bo'lmoq → 妊娠する"
+    },
+    {
+      "id": 53,
+      "questionType": "reading",
+      "question": "『介護する』ning o'qilishi qaysi?",
+      "word": "介護する",
+      "choices": [
+        "つみをおかす",
+        "めがさめる",
+        "かいごする",
+        "てすり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "介護する → かいごする"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『uyda parvarish qiluvchi xodim』ning yaponcha ifodasi qaysi?",
+      "word": "ホームヘルパー",
+      "choices": [
+        "土砂降り",
+        "盛んな",
+        "名産",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 3,
+      "explanation": "uyda parvarish qiluvchi xodim → ホームヘルパー"
+    },
+    {
+      "id": 55,
+      "questionType": "sentence",
+      "question": "『世間知らず』ning ma'nosi qaysi?",
+      "word": "世間知らず",
+      "choices": [
+        "yaxshi (badiiy go'zal) matn",
+        "havas qilmoq",
+        "go'l, hayot tajribasi yo'q (odam)",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "世間知らず → go'l, hayot tajribasi yo'q (odam)"
+    },
+    {
+      "id": 56,
+      "questionType": "word",
+      "question": "『xatosini anglab mulohaza qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "反省する",
+      "choices": [
+        "正午",
+        "ガーデニング",
+        "出身",
+        "反省する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "xatosini anglab mulohaza qilmoq → 反省する"
     },
     {
       "id": 57,
       "questionType": "kanji",
-      "question": "『いいだす』qaysi yozuvga mos?",
-      "word": "言い出す",
+      "question": "『さんふじんか』qaysi yozuvga mos?",
+      "word": "産婦人科",
       "choices": [
-        "養う",
-        "口を利く",
-        "一家団らん",
-        "言い出す"
+        "勤続する",
+        "独立する",
+        "産婦人科",
+        "尊重する"
       ],
-      "correctAnswer": 3,
-      "explanation": "いいだす → 言い出す"
+      "correctAnswer": 2,
+      "explanation": "さんふじんか → 産婦人科"
     },
     {
       "id": 58,
-      "questionType": "meaning",
-      "question": "『尊重する』ning ma'nosi qaysi?",
-      "word": "尊重する",
+      "questionType": "reading",
+      "question": "『放っておく』ning o'qilishi qaysi?",
+      "word": "放っておく",
       "choices": [
-        "hurmat qilmoq, qadrlamoq",
-        "shahar qurilishi, shaharsozlik",
-        "hudud (davlat hududi)",
-        "haqiqiy kuch, salohiyat"
+        "めぐまれる",
+        "こっせつする",
+        "ほうっておく",
+        "ただいま"
       ],
-      "correctAnswer": 0,
-      "explanation": "尊重する → hurmat qilmoq, qadrlamoq"
+      "correctAnswer": 2,
+      "explanation": "放っておく → ほうっておく"
     },
     {
       "id": 59,
       "questionType": "kanji",
-      "question": "『やくめ』qaysi yozuvga mos?",
-      "word": "役目",
-      "choices": [
-        "反省会",
-        "役目",
-        "尊重する",
-        "何気ない"
-      ],
-      "correctAnswer": 1,
-      "explanation": "やくめ → 役目"
-    },
-    {
-      "id": 60,
-      "questionType": "word",
-      "question": "『parvarish qilmoq (keksa, bemorni)』ning yaponcha ifodasi qaysi?",
-      "word": "介護する",
-      "choices": [
-        "都市開発",
-        "介護する",
-        "目が覚める",
-        "気楽な"
-      ],
-      "correctAnswer": 1,
-      "explanation": "parvarish qilmoq (keksa, bemorni) → 介護する"
-    },
-    {
-      "id": 61,
-      "questionType": "reading",
-      "question": "『甘え』ning o'qilishi qaysi?",
-      "word": "甘え",
-      "choices": [
-        "あまえ",
-        "しっそな",
-        "うつす",
-        "さべつする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "甘え → あまえ"
-    },
-    {
-      "id": 62,
-      "questionType": "word",
-      "question": "『go'l, hayot tajribasi yo'q (odam)』ning yaponcha ifodasi qaysi?",
-      "word": "世間知らず",
-      "choices": [
-        "世間知らず",
-        "害",
-        "乗り切る",
-        "管理する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "go'l, hayot tajribasi yo'q (odam) → 世間知らず"
-    },
-    {
-      "id": 63,
-      "questionType": "meaning",
-      "question": "『向き合う』ning ma'nosi qaysi?",
-      "word": "向き合う",
-      "choices": [
-        "yuzma-yuz bo'lmoq, yuzlashmoq",
-        "final",
-        "erkalik",
-        "buzilmoq (shakl/holat)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "向き合う → yuzma-yuz bo'lmoq, yuzlashmoq"
-    },
-    {
-      "id": 64,
-      "questionType": "kanji",
       "question": "『やしなう』qaysi yozuvga mos?",
       "word": "養う",
       "choices": [
-        "似顔絵",
-        "産む",
-        "支援する",
+        "殴る",
+        "ありがとう",
+        "パワハラする",
         "養う"
       ],
       "correctAnswer": 3,
       "explanation": "やしなう → 養う"
     },
     {
-      "id": 65,
-      "questionType": "word",
-      "question": "『qarshilik qilmoq, qarshi bormoq』ning yaponcha ifodasi qaysi?",
+      "id": 60,
+      "questionType": "reading",
+      "question": "『逆らう』ning o'qilishi qaysi?",
       "word": "逆らう",
       "choices": [
-        "副作用",
-        "頼もしい",
-        "逆らう",
-        "ヘルパー"
+        "いまさら",
+        "めいちょ",
+        "さからう",
+        "たいくつな"
       ],
       "correctAnswer": 2,
-      "explanation": "qarshilik qilmoq, qarshi bormoq → 逆らう"
+      "explanation": "逆らう → さからう"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『iroda, qat'iy niyat』ning yaponcha ifodasi qaysi?",
+      "word": "意志",
+      "choices": [
+        "意志",
+        "だます",
+        "ありがとう",
+        "憧れる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "iroda, qat'iy niyat → 意志"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『意志』ning o'qilishi qaysi?",
+      "word": "意志",
+      "choices": [
+        "きんじょづきあい",
+        "いし",
+        "たいさくする",
+        "ひょうじする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "意志 → いし"
+    },
+    {
+      "id": 63,
+      "questionType": "kanji",
+      "question": "『にんしんする』qaysi yozuvga mos?",
+      "word": "妊娠する",
+      "choices": [
+        "しみじみ",
+        "盛り上がる",
+        "不景気",
+        "妊娠する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "にんしんする → 妊娠する"
+    },
+    {
+      "id": 64,
+      "questionType": "kanji",
+      "question": "『じりつする』qaysi yozuvga mos?",
+      "word": "自立する",
+      "choices": [
+        "自立する",
+        "勘違いする",
+        "もしかすると",
+        "頼りにする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "じりつする → 自立する"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『farzand ko'rmoq, dunyoga keltirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "出産する",
+      "choices": [
+        "誤解する",
+        "親知らず",
+        "出産する",
+        "落ち込む"
+      ],
+      "correctAnswer": 2,
+      "explanation": "farzand ko'rmoq, dunyoga keltirmoq → 出産する"
     },
     {
       "id": 66,
-      "questionType": "sentence",
-      "question": "『ヘルパー』ning ma'nosi qaysi?",
-      "word": "ヘルパー",
+      "questionType": "reading",
+      "question": "『世代』ning o'qilishi qaysi?",
+      "word": "世代",
       "choices": [
-        "kelib chiqishi (qayerlik)",
-        "homilador bo'lmoq",
-        "meros qilib olmoq, qabul qilib olmoq",
-        "yordamchi"
+        "こうろん",
+        "せだい",
+        "かんちがいする",
+        "ニックネーム"
       ],
-      "correctAnswer": 3,
-      "explanation": "ヘルパー → yordamchi"
+      "correctAnswer": 1,
+      "explanation": "世代 → せだい"
     },
     {
       "id": 67,
-      "questionType": "kanji",
-      "question": "『はんせいする』qaysi yozuvga mos?",
-      "word": "反省する",
-      "choices": [
-        "反省する",
-        "時間を指す",
-        "あだ名",
-        "効く"
-      ],
-      "correctAnswer": 0,
-      "explanation": "はんせいする → 反省する"
-    },
-    {
-      "id": 68,
       "questionType": "word",
       "question": "『chuqur』ning yaponcha ifodasi qaysi?",
       "word": "しみじみ",
       "choices": [
-        "管理する",
-        "害",
+        "反省会",
+        "大いに",
         "しみじみ",
-        "ジェネレーション"
+        "継ぐ"
       ],
       "correctAnswer": 2,
       "explanation": "chuqur → しみじみ"
     },
     {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『あまえ』qaysi yozuvga mos?",
+      "word": "甘え",
+      "choices": [
+        "甘え",
+        "わが町",
+        "近所付き合い",
+        "食べ盛り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あまえ → 甘え"
+    },
+    {
       "id": 69,
-      "questionType": "sentence",
-      "question": "『尊重する』ning ma'nosi qaysi?",
+      "questionType": "kanji",
+      "question": "『そんちょうする』qaysi yozuvga mos?",
       "word": "尊重する",
       "choices": [
-        "tushunib rozi bo'lmoq, qanoatlanmoq",
-        "aldamoq",
-        "parvarish qilmoq (keksa, bemorni)",
-        "hurmat qilmoq, qadrlamoq"
+        "高〜",
+        "避ける",
+        "向き合う",
+        "尊重する"
       ],
       "correctAnswer": 3,
-      "explanation": "尊重する → hurmat qilmoq, qadrlamoq"
+      "explanation": "そんちょうする → 尊重する"
     },
     {
       "id": 70,
-      "questionType": "kanji",
-      "question": "『しつけ』qaysi yozuvga mos?",
-      "word": "しつけ",
+      "questionType": "sentence",
+      "question": "『言いつける』ning ma'nosi qaysi?",
+      "word": "言いつける",
       "choices": [
-        "甘える",
-        "しつけ",
-        "察する",
-        "高収入"
+        "sochilib ketmoq",
+        "dan ko'ra",
+        "an'ana",
+        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
       ],
-      "correctAnswer": 1,
-      "explanation": "しつけ → しつけ"
+      "correctAnswer": 3,
+      "explanation": "言いつける → buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
     },
     {
       "id": 71,
-      "questionType": "kanji",
-      "question": "『ヘルパー』qaysi yozuvga mos?",
-      "word": "ヘルパー",
+      "questionType": "meaning",
+      "question": "『役目』ning ma'nosi qaysi?",
+      "word": "役目",
       "choices": [
-        "議論する",
-        "募集する",
-        "ヘルパー",
-        "審判"
+        "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi",
+        "shahar qurilishi, shaharsozlik",
+        "qo'li bo'sh, hech narsa olib kelmasdan",
+        "vazifa, burch"
       ],
-      "correctAnswer": 2,
-      "explanation": "ヘルパー → ヘルパー"
+      "correctAnswer": 3,
+      "explanation": "役目 → vazifa, burch"
     },
     {
       "id": 72,
-      "questionType": "meaning",
-      "question": "『説得する』ning ma'nosi qaysi?",
-      "word": "説得する",
+      "questionType": "kanji",
+      "question": "『いいだす』qaysi yozuvga mos?",
+      "word": "言い出す",
       "choices": [
-        "keng ko'lamli, sezilarli",
-        "ko'ndirmoq, ishontirmoq",
-        "yechilmoq; erimoq",
-        "suyagi sinmoq"
+        "おかげ",
+        "友人達",
+        "不景気",
+        "言い出す"
       ],
-      "correctAnswer": 1,
-      "explanation": "説得する → ko'ndirmoq, ishontirmoq"
+      "correctAnswer": 3,
+      "explanation": "いいだす → 言い出す"
     },
     {
       "id": 73,
-      "questionType": "reading",
-      "question": "『養う』ning o'qilishi qaysi?",
-      "word": "養う",
+      "questionType": "meaning",
+      "question": "『尊重する』ning ma'nosi qaysi?",
+      "word": "尊重する",
       "choices": [
-        "やしなう",
-        "こうがくねん",
-        "よびだす",
-        "しゃっきんする"
+        "qayta-qayta takrorlanmoq (xato, hodisa)",
+        "hurmat qilmoq, qadrlamoq",
+        "zilzilaga chidamlilik",
+        "dan kam"
       ],
-      "correctAnswer": 0,
-      "explanation": "養う → やしなう"
+      "correctAnswer": 1,
+      "explanation": "尊重する → hurmat qilmoq, qadrlamoq"
     },
     {
       "id": 74,
-      "questionType": "kanji",
-      "question": "『しゅっさんする』qaysi yozuvga mos?",
-      "word": "出産する",
+      "questionType": "word",
+      "question": "『tahlil (xulosa) yig'ilishi』ning yaponcha ifodasi qaysi?",
+      "word": "反省会",
       "choices": [
-        "出産する",
-        "徹夜する",
-        "世代交代",
-        "パワハラする"
+        "同意する",
+        "あきれる",
+        "愛情",
+        "反省会"
       ],
-      "correctAnswer": 0,
-      "explanation": "しゅっさんする → 出産する"
+      "correctAnswer": 3,
+      "explanation": "tahlil (xulosa) yig'ilishi → 反省会"
     },
     {
       "id": 75,
-      "questionType": "reading",
-      "question": "『逆らう』ning o'qilishi qaysi?",
-      "word": "逆らう",
+      "questionType": "kanji",
+      "question": "『むきあう』qaysi yozuvga mos?",
+      "word": "向き合う",
       "choices": [
-        "さからう",
-        "たよる",
-        "ぶっか",
-        "ヘルパー"
+        "追い出す",
+        "友達同士",
+        "吠える",
+        "向き合う"
       ],
-      "correctAnswer": 0,
-      "explanation": "逆らう → さからう"
+      "correctAnswer": 3,
+      "explanation": "むきあう → 向き合う"
     },
     {
       "id": 76,
       "questionType": "reading",
-      "question": "『つくづくと』ning o'qilishi qaysi?",
-      "word": "つくづくと",
+      "question": "『ホームヘルパー』ning o'qilishi qaysi?",
+      "word": "ホームヘルパー",
       "choices": [
-        "つくづくと",
-        "うけつぐ",
-        "めぐまれる",
-        "としかいはつ"
+        "ホームヘルパー",
+        "ひょうじょう",
+        "きんもつ",
+        "くちげんかする"
       ],
       "correctAnswer": 0,
-      "explanation": "つくづくと → つくづくと"
+      "explanation": "ホームヘルパー → ホームヘルパー"
     },
     {
       "id": 77,
-      "questionType": "sentence",
-      "question": "『ありがとう』ning ma'nosi qaysi?",
-      "word": "ありがとう",
+      "questionType": "word",
+      "question": "『meros qilib olmoq, davom ettirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "継ぐ",
       "choices": [
-        "qarz olmoq",
-        "iroda, qat'iy niyat",
-        "keng ko'lamli, sezilarli",
-        "rahmat"
+        "ローン",
+        "[〜を]結び付ける",
+        "継ぐ",
+        "友人達"
       ],
-      "correctAnswer": 3,
-      "explanation": "ありがとう → rahmat"
+      "correctAnswer": 2,
+      "explanation": "meros qilib olmoq, davom ettirmoq → 継ぐ"
     },
     {
       "id": 78,
-      "questionType": "kanji",
-      "question": "『さからう』qaysi yozuvga mos?",
-      "word": "逆らう",
+      "questionType": "sentence",
+      "question": "『一家団らん』ning ma'nosi qaysi?",
+      "word": "一家団らん",
       "choices": [
-        "持参する",
-        "パワハラする",
-        "久しい",
-        "逆らう"
+        "yaxshi (badiiy go'zal) matn",
+        "tikilib qarash",
+        "sevgi",
+        "oila davrasi, oilaviy chog' o'tirish"
       ],
       "correctAnswer": 3,
-      "explanation": "さからう → 逆らう"
+      "explanation": "一家団らん → oila davrasi, oilaviy chog' o'tirish"
     },
     {
       "id": 79,
-      "questionType": "reading",
-      "question": "『放っておく』ning o'qilishi qaysi?",
-      "word": "放っておく",
+      "questionType": "kanji",
+      "question": "『あまえる』qaysi yozuvga mos?",
+      "word": "甘える",
       "choices": [
-        "ひょうじする",
-        "こんなんな",
-        "ちしき",
-        "ほうっておく"
+        "久しぶり",
+        "頼もしい",
+        "甘える",
+        "見つめ合う"
       ],
-      "correctAnswer": 3,
-      "explanation": "放っておく → ほうっておく"
+      "correctAnswer": 2,
+      "explanation": "あまえる → 甘える"
     },
     {
       "id": 80,
-      "questionType": "kanji",
-      "question": "『ホームヘルパー』qaysi yozuvga mos?",
-      "word": "ホームヘルパー",
+      "questionType": "word",
+      "question": "『akusherlik-ginekologiya (bo'limi)』ning yaponcha ifodasi qaysi?",
+      "word": "産婦人科",
       "choices": [
-        "世間知らず",
-        "ホームヘルパー",
-        "度重なる",
-        "一家団らん"
+        "持参する",
+        "盛んな",
+        "注射する",
+        "産婦人科"
       ],
-      "correctAnswer": 1,
-      "explanation": "ホームヘルパー → ホームヘルパー"
+      "correctAnswer": 3,
+      "explanation": "akusherlik-ginekologiya (bo'limi) → 産婦人科"
     },
     {
       "id": 81,
       "questionType": "word",
-      "question": "『mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)』ning yaponcha ifodasi qaysi?",
-      "word": "自立する",
+      "question": "『avlod almashinuvi』ning yaponcha ifodasi qaysi?",
+      "word": "世代交代",
       "choices": [
-        "自立する",
-        "ストライキ",
-        "説得する",
-        "縁"
+        "世代交代",
+        "散らばる",
+        "夢中な",
+        "高血圧"
       ],
       "correctAnswer": 0,
-      "explanation": "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq) → 自立する"
+      "explanation": "avlod almashinuvi → 世代交代"
     },
     {
       "id": 82,
       "questionType": "meaning",
-      "question": "『出産する』ning ma'nosi qaysi?",
-      "word": "出産する",
+      "question": "『言いつける』ning ma'nosi qaysi?",
+      "word": "言いつける",
       "choices": [
-        "erkalatmoq, tantiq qilmoq",
-        "yuragi g'ash, o'zini yolg'iz his qiladigan",
-        "farzand ko'rmoq, dunyoga keltirmoq",
-        "tushkunlikka tushmoq"
+        "davradan chetlatish; chetda qolgan kishi",
+        "chuqur",
+        "uzoq vaqt",
+        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
       ],
-      "correctAnswer": 2,
-      "explanation": "出産する → farzand ko'rmoq, dunyoga keltirmoq"
+      "correctAnswer": 3,
+      "explanation": "言いつける → buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
     },
     {
       "id": 83,
       "questionType": "kanji",
-      "question": "『ていこうする』qaysi yozuvga mos?",
-      "word": "抵抗する",
-      "choices": [
-        "抵抗する",
-        "励ます",
-        "ありがとう",
-        "向き合う"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ていこうする → 抵抗する"
-    },
-    {
-      "id": 84,
-      "questionType": "sentence",
-      "question": "『放っておく』ning ma'nosi qaysi?",
-      "word": "放っておく",
-      "choices": [
-        "go'l, hayot tajribasi yo'q (odam)",
-        "kamsitmoq",
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
-        "chegara (sabr, kuch chegarasi)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "放っておく → o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
-    },
-    {
-      "id": 85,
-      "questionType": "kanji",
-      "question": "『いっか』qaysi yozuvga mos?",
-      "word": "一家",
-      "choices": [
-        "大半",
-        "一家",
-        "高収入",
-        "落ち込む"
-      ],
-      "correctAnswer": 1,
-      "explanation": "いっか → 一家"
-    },
-    {
-      "id": 86,
-      "questionType": "sentence",
-      "question": "『世代交代』ning ma'nosi qaysi?",
-      "word": "世代交代",
-      "choices": [
-        "ataylab, maqsadli",
-        "sirini ochmoq, yorilmoq",
-        "yuqori (atmosfera) bosim(i)",
-        "avlod almashinuvi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "世代交代 → avlod almashinuvi"
-    },
-    {
-      "id": 87,
-      "questionType": "kanji",
-      "question": "『なっとくする』qaysi yozuvga mos?",
-      "word": "納得する",
-      "choices": [
-        "高〜",
-        "納得する",
-        "世代交代",
-        "一家"
-      ],
-      "correctAnswer": 1,
-      "explanation": "なっとくする → 納得する"
-    },
-    {
-      "id": 88,
-      "questionType": "word",
-      "question": "『avlod almashinuvi』ning yaponcha ifodasi qaysi?",
-      "word": "世代交代",
-      "choices": [
-        "労働する",
-        "かつ丼",
-        "世代交代",
-        "友人達"
-      ],
-      "correctAnswer": 2,
-      "explanation": "avlod almashinuvi → 世代交代"
-    },
-    {
-      "id": 89,
-      "questionType": "word",
-      "question": "『chuqur, chin dildan (感じる bilan ishlatiladi)』ning yaponcha ifodasi qaysi?",
-      "word": "つくづくと",
-      "choices": [
-        "つくづくと",
-        "過去",
-        "呼び出す",
-        "尊重する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "chuqur, chin dildan (感じる bilan ishlatiladi) → つくづくと"
-    },
-    {
-      "id": 90,
-      "questionType": "meaning",
-      "question": "『産婦人科』ning ma'nosi qaysi?",
-      "word": "産婦人科",
-      "choices": [
-        "akusherlik-ginekologiya (bo'limi)",
-        "brend (nomlari)",
-        "bekor qilmoq, tugatmoq",
-        "rahmat"
-      ],
-      "correctAnswer": 0,
-      "explanation": "産婦人科 → akusherlik-ginekologiya (bo'limi)"
-    },
-    {
-      "id": 91,
-      "questionType": "sentence",
-      "question": "『出産する』ning ma'nosi qaysi?",
-      "word": "出産する",
-      "choices": [
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "final",
-        "farzand ko'rmoq, dunyoga keltirmoq",
-        "qarz olmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "出産する → farzand ko'rmoq, dunyoga keltirmoq"
-    },
-    {
-      "id": 92,
-      "questionType": "kanji",
-      "question": "『やくめ』qaysi yozuvga mos?",
-      "word": "役目",
-      "choices": [
-        "一家",
-        "高収入",
-        "役目",
-        "利便性"
-      ],
-      "correctAnswer": 2,
-      "explanation": "やくめ → 役目"
-    },
-    {
-      "id": 93,
-      "questionType": "meaning",
-      "question": "『尊重する』ning ma'nosi qaysi?",
-      "word": "尊重する",
-      "choices": [
-        "haqiqiy kuch, salohiyat",
-        "iqtisodiy pasayish",
-        "hurmat qilmoq, qadrlamoq",
-        "suhbatlashmoq, dil so'zlashmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "尊重する → hurmat qilmoq, qadrlamoq"
-    },
-    {
-      "id": 94,
-      "questionType": "meaning",
-      "question": "『納得する』ning ma'nosi qaysi?",
-      "word": "納得する",
-      "choices": [
-        "tushunib rozi bo'lmoq, qanoatlanmoq",
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
-        "diqqatni jamlash kuchi",
-        "hozir; keldim (uyga)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "納得する → tushunib rozi bo'lmoq, qanoatlanmoq"
-    },
-    {
-      "id": 95,
-      "questionType": "kanji",
-      "question": "『いっか』qaysi yozuvga mos?",
-      "word": "一家",
-      "choices": [
-        "一家",
-        "集中力",
-        "困難な",
-        "肌"
-      ],
-      "correctAnswer": 0,
-      "explanation": "いっか → 一家"
-    },
-    {
-      "id": 96,
-      "questionType": "meaning",
-      "question": "『養う』ning ma'nosi qaysi?",
-      "word": "養う",
-      "choices": [
-        "rishta, taqdiriy bog'liqlik",
-        "suyagi sinmoq",
-        "boqmoq, ta'minlamoq",
-        "rozilik bildirmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "養う → boqmoq, ta'minlamoq"
-    },
-    {
-      "id": 97,
-      "questionType": "reading",
-      "question": "『反省する』ning o'qilishi qaysi?",
-      "word": "反省する",
-      "choices": [
-        "はんせいする",
-        "どういする",
-        "ほうっておく",
-        "かくへいき"
-      ],
-      "correctAnswer": 0,
-      "explanation": "反省する → はんせいする"
-    },
-    {
-      "id": 98,
-      "questionType": "meaning",
-      "question": "『世代』ning ma'nosi qaysi?",
-      "word": "世代",
-      "choices": [
-        "o'tmish",
-        "go'l, hayot tajribasi yo'q (odam)",
-        "yollamoq, qabul e'lon qilmoq",
-        "avlod"
-      ],
-      "correctAnswer": 3,
-      "explanation": "世代 → avlod"
-    },
-    {
-      "id": 99,
-      "questionType": "sentence",
-      "question": "『言い出す』ning ma'nosi qaysi?",
-      "word": "言い出す",
-      "choices": [
-        "kamtarona, sodda",
-        "chegara (sabr, kuch chegarasi)",
-        "gap boshlamoq, birinchi bo'lib aytmoq",
-        "narx-navo (umumiy narxlar darajasi)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "言い出す → gap boshlamoq, birinchi bo'lib aytmoq"
-    },
-    {
-      "id": 100,
-      "questionType": "kanji",
-      "question": "『せだい』qaysi yozuvga mos?",
-      "word": "世代",
-      "choices": [
-        "ブランド",
-        "思いやり",
-        "世代",
-        "ニックネーム"
-      ],
-      "correctAnswer": 2,
-      "explanation": "せだい → 世代"
-    },
-    {
-      "id": 101,
-      "questionType": "meaning",
-      "question": "『放っておく』ning ma'nosi qaysi?",
-      "word": "放っておく",
-      "choices": [
-        "yaqin do'st",
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
-        "o'rnak olmoq",
-        "qayta uchrashmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "放っておく → o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
-    },
-    {
-      "id": 102,
-      "questionType": "kanji",
       "question": "『つぐ』qaysi yozuvga mos?",
       "word": "継ぐ",
       "choices": [
-        "一家",
-        "意志",
-        "持参する",
+        "自分勝手な",
+        "低レベル",
+        "段差",
         "継ぐ"
       ],
       "correctAnswer": 3,
       "explanation": "つぐ → 継ぐ"
     },
     {
-      "id": 103,
+      "id": 84,
+      "questionType": "sentence",
+      "question": "『介護する』ning ma'nosi qaysi?",
+      "word": "介護する",
+      "choices": [
+        "odatiy, tabiiy",
+        "davradan chetlatish; chetda qolgan kishi",
+        "parvarish qilmoq (keksa, bemorni)",
+        "atom elektr"
+      ],
+      "correctAnswer": 2,
+      "explanation": "介護する → parvarish qilmoq (keksa, bemorni)"
+    },
+    {
+      "id": 85,
+      "questionType": "kanji",
+      "question": "『うけつぐ』qaysi yozuvga mos?",
+      "word": "受け継ぐ",
+      "choices": [
+        "悪酔い",
+        "利便性",
+        "思い込む",
+        "受け継ぐ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "うけつぐ → 受け継ぐ"
+    },
+    {
+      "id": 86,
+      "questionType": "sentence",
+      "question": "『放っておく』ning ma'nosi qaysi?",
+      "word": "放っておく",
+      "choices": [
+        "yuvinish xonasi",
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
+        "baqirmoq",
+        "ko'chirib yozmoq; suratga olmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "放っておく → o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
+    },
+    {
+      "id": 87,
       "questionType": "word",
       "question": "『tushunib rozi bo'lmoq, qanoatlanmoq』ning yaponcha ifodasi qaysi?",
       "word": "納得する",
       "choices": [
-        "かつ丼",
-        "頼りにする",
-        "ファミリー",
-        "納得する"
+        "介護する",
+        "納得する",
+        "カンニングする",
+        "かつ丼"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "tushunib rozi bo'lmoq, qanoatlanmoq → 納得する"
     },
     {
-      "id": 104,
+      "id": 88,
       "questionType": "kanji",
-      "question": "『むきあう』qaysi yozuvga mos?",
-      "word": "向き合う",
+      "question": "『いし』qaysi yozuvga mos?",
+      "word": "意志",
       "choices": [
-        "言い出す",
-        "再会する",
-        "向き合う",
-        "時間を指す"
+        "意志",
+        "ローン",
+        "生まれる",
+        "口論する"
       ],
-      "correctAnswer": 2,
-      "explanation": "むきあう → 向き合う"
+      "correctAnswer": 0,
+      "explanation": "いし → 意志"
+    },
+    {
+      "id": 89,
+      "questionType": "kanji",
+      "question": "『あまえる』qaysi yozuvga mos?",
+      "word": "甘える",
+      "choices": [
+        "抵抗する",
+        "甘える",
+        "夢中な",
+        "名案"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あまえる → 甘える"
+    },
+    {
+      "id": 90,
+      "questionType": "meaning",
+      "question": "『甘える』ning ma'nosi qaysi?",
+      "word": "甘える",
+      "choices": [
+        "xotira",
+        "erkalanmoq",
+        "shaxsiy metod",
+        "hurmoq (it)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "甘える → erkalanmoq"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『せけんしらず』qaysi yozuvga mos?",
+      "word": "世間知らず",
+      "choices": [
+        "受け継ぐ",
+        "悪趣味",
+        "ちらっと",
+        "世間知らず"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せけんしらず → 世間知らず"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『いっか』qaysi yozuvga mos?",
+      "word": "一家",
+      "choices": [
+        "一家",
+        "きっぱり",
+        "大幅な",
+        "梨"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いっか → 一家"
+    },
+    {
+      "id": 93,
+      "questionType": "sentence",
+      "question": "『世代交代』ning ma'nosi qaysi?",
+      "word": "世代交代",
+      "choices": [
+        "ijara (ijaraga berish)",
+        "avlod almashinuvi",
+        "xatti-harakat",
+        "o'zini tanishtirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "世代交代 → avlod almashinuvi"
+    },
+    {
+      "id": 94,
+      "questionType": "meaning",
+      "question": "『妊娠する』ning ma'nosi qaysi?",
+      "word": "妊娠する",
+      "choices": [
+        "homilador bo'lmoq",
+        "sochilib yotmoq, to'zib ketmoq",
+        "yaxshi sharoit",
+        "begona, birov"
+      ],
+      "correctAnswer": 0,
+      "explanation": "妊娠する → homilador bo'lmoq"
+    },
+    {
+      "id": 95,
+      "questionType": "reading",
+      "question": "『役目』ning o'qilishi qaysi?",
+      "word": "役目",
+      "choices": [
+        "うけつぐ",
+        "やくめ",
+        "こうせいのう",
+        "たいど"
+      ],
+      "correctAnswer": 1,
+      "explanation": "役目 → やくめ"
+    },
+    {
+      "id": 96,
+      "questionType": "meaning",
+      "question": "『逆らう』ning ma'nosi qaysi?",
+      "word": "逆らう",
+      "choices": [
+        "bir-biriga tikilib qaramoq",
+        "qarshilik qilmoq, qarshi bormoq",
+        "iliqlik, taft",
+        "qochmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "逆らう → qarshilik qilmoq, qarshi bormoq"
+    },
+    {
+      "id": 97,
+      "questionType": "kanji",
+      "question": "『じりつする』qaysi yozuvga mos?",
+      "word": "自立する",
+      "choices": [
+        "自立する",
+        "もしかしたら、もしかして、ひょっとすると",
+        "散らかる",
+        "どうせ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "じりつする → 自立する"
+    },
+    {
+      "id": 98,
+      "questionType": "meaning",
+      "question": "『世間知らず』ning ma'nosi qaysi?",
+      "word": "世間知らず",
+      "choices": [
+        "go'l, hayot tajribasi yo'q (odam)",
+        "yaxshi (badiiy go'zal) matn",
+        "boshqarmoq (nazorat qilish)",
+        "xo'jayin, egasi (hayvonning)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "世間知らず → go'l, hayot tajribasi yo'q (odam)"
+    },
+    {
+      "id": 99,
+      "questionType": "word",
+      "question": "『vazifa, burch』ning yaponcha ifodasi qaysi?",
+      "word": "役目",
+      "choices": [
+        "追い出す",
+        "乗り切る",
+        "仲間はずれ",
+        "役目"
+      ],
+      "correctAnswer": 3,
+      "explanation": "vazifa, burch → 役目"
+    },
+    {
+      "id": 100,
+      "questionType": "meaning",
+      "question": "『ありがたい』ning ma'nosi qaysi?",
+      "word": "ありがたい",
+      "choices": [
+        "minnatdorlik uyg'otadigan, qadrli",
+        "o'tmish",
+        "chegara (sabr, kuch chegarasi)",
+        "go'l, hayot tajribasi yo'q (odam)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ありがたい → minnatdorlik uyg'otadigan, qadrli"
+    },
+    {
+      "id": 101,
+      "questionType": "reading",
+      "question": "『妊婦』ning o'qilishi qaysi?",
+      "word": "妊婦",
+      "choices": [
+        "にんぷ",
+        "にしむき",
+        "あまやかす",
+        "たいはん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "妊婦 → にんぷ"
+    },
+    {
+      "id": 102,
+      "questionType": "sentence",
+      "question": "『抵抗する』ning ma'nosi qaysi?",
+      "word": "抵抗する",
+      "choices": [
+        "balandlik farqi (pog'ona, ostona)",
+        "qarshilik ko'rsatmoq",
+        "endi (kech), shuncha vaqtdan keyin",
+        "aytish mumkinki, go'yo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "抵抗する → qarshilik ko'rsatmoq"
+    },
+    {
+      "id": 103,
+      "questionType": "sentence",
+      "question": "『尊重する』ning ma'nosi qaysi?",
+      "word": "尊重する",
+      "choices": [
+        "hurmat qilmoq, qadrlamoq",
+        "bilvosita",
+        "qo'llab-quvvatlamoq",
+        "dalda bermoq, ruhlantirmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "尊重する → hurmat qilmoq, qadrlamoq"
+    },
+    {
+      "id": 104,
+      "questionType": "meaning",
+      "question": "『説得する』ning ma'nosi qaysi?",
+      "word": "説得する",
+      "choices": [
+        "ehtimol",
+        "ko'ndirmoq, ishontirmoq",
+        "dan kam",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "説得する → ko'ndirmoq, ishontirmoq"
     },
     {
       "id": 105,
       "questionType": "reading",
-      "question": "『尊重する』ning o'qilishi qaysi?",
-      "word": "尊重する",
+      "question": "『自立する』ning o'qilishi qaysi?",
+      "word": "自立する",
       "choices": [
-        "かいごする",
-        "せだい",
-        "そんちょうする",
-        "たびかさなる"
+        "たいくつな",
+        "じりつする",
+        "わがまち",
+        "むすびつく"
       ],
-      "correctAnswer": 2,
-      "explanation": "尊重する → そんちょうする"
+      "correctAnswer": 1,
+      "explanation": "自立する → じりつする"
     },
     {
       "id": 106,
-      "questionType": "word",
-      "question": "『minnatdorlik uyg'otadigan, qadrli』ning yaponcha ifodasi qaysi?",
-      "word": "ありがたい",
+      "questionType": "kanji",
+      "question": "『しゅっさんする』qaysi yozuvga mos?",
+      "word": "出産する",
       "choices": [
-        "物価",
-        "ありがたい",
-        "尽くす",
-        "生まれる"
+        "好成績",
+        "世代交代",
+        "出産する",
+        "けなす"
       ],
-      "correctAnswer": 1,
-      "explanation": "minnatdorlik uyg'otadigan, qadrli → ありがたい"
+      "correctAnswer": 2,
+      "explanation": "しゅっさんする → 出産する"
     },
     {
       "id": 107,
-      "questionType": "kanji",
-      "question": "『にんしんする』qaysi yozuvga mos?",
-      "word": "妊娠する",
+      "questionType": "word",
+      "question": "『oila』ning yaponcha ifodasi qaysi?",
+      "word": "一家",
       "choices": [
-        "パワハラする",
-        "出産祝い",
-        "妊娠する",
-        "見習い"
+        "雲がかかる",
+        "一家",
+        "コンパ",
+        "物価"
       ],
-      "correctAnswer": 2,
-      "explanation": "にんしんする → 妊娠する"
+      "correctAnswer": 1,
+      "explanation": "oila → 一家"
     },
     {
       "id": 108,
@@ -1507,1133 +1507,1133 @@
       "question": "『かいごする』qaysi yozuvga mos?",
       "word": "介護する",
       "choices": [
-        "介護する",
-        "口を利く",
-        "抗議する",
-        "信頼する"
+        "よこす",
+        "信頼する",
+        "低血圧",
+        "介護する"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "かいごする → 介護する"
     },
     {
       "id": 109,
-      "questionType": "meaning",
-      "question": "『妊婦』ning ma'nosi qaysi?",
-      "word": "妊婦",
+      "questionType": "reading",
+      "question": "『一家』ning o'qilishi qaysi?",
+      "word": "一家",
       "choices": [
-        "homilador ayol",
-        "hazillashmoq, sho'xlik qilmoq",
-        "vazifa, burch",
-        "teri"
+        "いっか",
+        "こうじょうけん",
+        "しんらいする",
+        "めいぶん"
       ],
       "correctAnswer": 0,
-      "explanation": "妊婦 → homilador ayol"
+      "explanation": "一家 → いっか"
     },
     {
       "id": 110,
-      "questionType": "kanji",
-      "question": "『しつけ』qaysi yozuvga mos?",
-      "word": "しつけ",
+      "questionType": "word",
+      "question": "『oila』ning yaponcha ifodasi qaysi?",
+      "word": "一家",
       "choices": [
-        "しつけ",
-        "気楽な",
-        "罪を犯す",
-        "縁"
+        "振る",
+        "一家",
+        "核兵器",
+        "あだ名"
       ],
-      "correctAnswer": 0,
-      "explanation": "しつけ → しつけ"
+      "correctAnswer": 1,
+      "explanation": "oila → 一家"
     },
     {
       "id": 111,
-      "questionType": "kanji",
-      "question": "『うけつぐ』qaysi yozuvga mos?",
-      "word": "受け継ぐ",
-      "choices": [
-        "限界",
-        "時間を指す",
-        "ありがたい",
-        "受け継ぐ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "うけつぐ → 受け継ぐ"
-    },
-    {
-      "id": 112,
-      "questionType": "sentence",
-      "question": "『介護する』ning ma'nosi qaysi?",
-      "word": "介護する",
-      "choices": [
-        "savol",
-        "teri",
-        "parvarish qilmoq (keksa, bemorni)",
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "介護する → parvarish qilmoq (keksa, bemorni)"
-    },
-    {
-      "id": 113,
-      "questionType": "kanji",
-      "question": "『あまえる』qaysi yozuvga mos?",
-      "word": "甘える",
-      "choices": [
-        "出身",
-        "甘える",
-        "見習う",
-        "正午"
-      ],
-      "correctAnswer": 1,
-      "explanation": "あまえる → 甘える"
-    },
-    {
-      "id": 114,
-      "questionType": "meaning",
-      "question": "『反省する』ning ma'nosi qaysi?",
-      "word": "反省する",
-      "choices": [
-        "men (erkaklar tilida, dag'alroq)",
-        "yuqori ma'lumotli",
-        "g'amxo'rlik qilmoq",
-        "xatosini anglab mulohaza qilmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "反省する → xatosini anglab mulohaza qilmoq"
-    },
-    {
-      "id": 115,
-      "questionType": "reading",
-      "question": "『役目』ning o'qilishi qaysi?",
-      "word": "役目",
-      "choices": [
-        "ふぁみりー",
-        "しんらいする",
-        "ふけいき",
-        "やくめ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "役目 → やくめ"
-    },
-    {
-      "id": 116,
-      "questionType": "kanji",
-      "question": "『つくづくと』qaysi yozuvga mos?",
-      "word": "つくづくと",
-      "choices": [
-        "過去",
-        "呼び出す",
-        "役目",
-        "つくづくと"
-      ],
-      "correctAnswer": 3,
-      "explanation": "つくづくと → つくづくと"
-    },
-    {
-      "id": 117,
-      "questionType": "sentence",
-      "question": "『向き合う』ning ma'nosi qaysi?",
-      "word": "向き合う",
-      "choices": [
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "avlod (sinonim)",
-        "yuzma-yuz bo'lmoq, yuzlashmoq",
-        "hangu mang bo'lmoq, yoqa ushlamoq (salbiy hayrat)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "向き合う → yuzma-yuz bo'lmoq, yuzlashmoq"
-    },
-    {
-      "id": 118,
-      "questionType": "kanji",
-      "question": "『いし』qaysi yozuvga mos?",
-      "word": "意志",
-      "choices": [
-        "出身",
-        "意志",
-        "大幅な",
-        "度重なる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "いし → 意志"
-    },
-    {
-      "id": 119,
-      "questionType": "kanji",
-      "question": "『いいだす』qaysi yozuvga mos?",
-      "word": "言い出す",
-      "choices": [
-        "労働する",
-        "しつけ",
-        "言い出す",
-        "タイムセール"
-      ],
-      "correctAnswer": 2,
-      "explanation": "いいだす → 言い出す"
-    },
-    {
-      "id": 120,
-      "questionType": "sentence",
-      "question": "『ホームヘルパー』ning ma'nosi qaysi?",
-      "word": "ホームヘルパー",
-      "choices": [
-        "parvarish qilmoq (keksa, bemorni)",
-        "uyda parvarish qiluvchi xodim",
-        "yangilamoq",
-        "kelib chiqishi (qayerlik)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ホームヘルパー → uyda parvarish qiluvchi xodim"
-    },
-    {
-      "id": 121,
-      "questionType": "sentence",
-      "question": "『反省する』ning ma'nosi qaysi?",
-      "word": "反省する",
-      "choices": [
-        "amalga oshmoq (orzu)",
-        "xatosini anglab mulohaza qilmoq",
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "hangu mang bo'lmoq, yoqa ushlamoq (salbiy hayrat)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "反省する → xatosini anglab mulohaza qilmoq"
-    },
-    {
-      "id": 122,
-      "questionType": "kanji",
-      "question": "『かいごする』qaysi yozuvga mos?",
-      "word": "介護する",
-      "choices": [
-        "効く",
-        "議論する",
-        "介護する",
-        "態度"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かいごする → 介護する"
-    },
-    {
-      "id": 123,
-      "questionType": "kanji",
-      "question": "『そんちょうする』qaysi yozuvga mos?",
-      "word": "尊重する",
-      "choices": [
-        "労働する",
-        "養う",
-        "尊重する",
-        "産婦人科"
-      ],
-      "correctAnswer": 2,
-      "explanation": "そんちょうする → 尊重する"
-    },
-    {
-      "id": 124,
-      "questionType": "kanji",
-      "question": "『つぐ』qaysi yozuvga mos?",
-      "word": "継ぐ",
-      "choices": [
-        "効く",
-        "継ぐ",
-        "対策する",
-        "察する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "つぐ → 継ぐ"
-    },
-    {
-      "id": 125,
-      "questionType": "kanji",
-      "question": "『ほうっておく』qaysi yozuvga mos?",
-      "word": "放っておく",
-      "choices": [
-        "同意する",
-        "口を利く",
-        "放っておく",
-        "慰める"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ほうっておく → 放っておく"
-    },
-    {
-      "id": 126,
-      "questionType": "reading",
-      "question": "『妊婦』ning o'qilishi qaysi?",
-      "word": "妊婦",
-      "choices": [
-        "あいしょう",
-        "にんぷ",
-        "つくす",
-        "はだ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "妊婦 → にんぷ"
-    },
-    {
-      "id": 127,
-      "questionType": "sentence",
-      "question": "『産婦人科』ning ma'nosi qaysi?",
-      "word": "産婦人科",
-      "choices": [
-        "g'amxo'rlik",
-        "suyanmoq, tayanmoq",
-        "hisobot bermoq",
-        "akusherlik-ginekologiya (bo'limi)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "産婦人科 → akusherlik-ginekologiya (bo'limi)"
-    },
-    {
-      "id": 128,
-      "questionType": "meaning",
-      "question": "『放っておく』ning ma'nosi qaysi?",
-      "word": "放っておく",
-      "choices": [
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
-        "zilzilaga chidamlilik",
-        "zerikarli",
-        "yuqori sinf (maktab)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "放っておく → o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
-    },
-    {
-      "id": 129,
-      "questionType": "word",
-      "question": "『meros qilib olmoq, davom ettirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "継ぐ",
-      "choices": [
-        "励ます",
-        "継ぐ",
-        "利便性",
-        "喉"
-      ],
-      "correctAnswer": 1,
-      "explanation": "meros qilib olmoq, davom ettirmoq → 継ぐ"
-    },
-    {
-      "id": 130,
-      "questionType": "meaning",
-      "question": "『役目』ning ma'nosi qaysi?",
-      "word": "役目",
-      "choices": [
-        "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)",
-        "vazifa, burch",
-        "erkalatmoq, tantiq qilmoq",
-        "ta'sir qilmoq, samarali bo'lmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "役目 → vazifa, burch"
-    },
-    {
-      "id": 131,
       "questionType": "reading",
       "question": "『継ぐ』ning o'qilishi qaysi?",
       "word": "継ぐ",
       "choices": [
-        "タイムセール",
-        "こうきあつ",
-        "わざわざ",
+        "ぶっか",
+        "たにん",
+        "たいど",
         "つぐ"
       ],
       "correctAnswer": 3,
       "explanation": "継ぐ → つぐ"
     },
     {
-      "id": 132,
+      "id": 112,
       "questionType": "reading",
-      "question": "『ありがたい』ning o'qilishi qaysi?",
-      "word": "ありがたい",
-      "choices": [
-        "かなう",
-        "ありがたい",
-        "あたりまえ",
-        "そうだんにのる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ありがたい → ありがたい"
-    },
-    {
-      "id": 133,
-      "questionType": "kanji",
-      "question": "『あまえ』qaysi yozuvga mos?",
+      "question": "『甘え』ning o'qilishi qaysi?",
       "word": "甘え",
       "choices": [
-        "頼りになる",
-        "決勝戦",
-        "相談に乗る",
-        "甘え"
-      ],
-      "correctAnswer": 3,
-      "explanation": "あまえ → 甘え"
-    },
-    {
-      "id": 134,
-      "questionType": "meaning",
-      "question": "『ヘルパー』ning ma'nosi qaysi?",
-      "word": "ヘルパー",
-      "choices": [
-        "ishonmoq",
-        "katsudon (qovurilgan go'sht qo'yilgan guruch)",
-        "yordamchi",
-        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ヘルパー → yordamchi"
-    },
-    {
-      "id": 135,
-      "questionType": "word",
-      "question": "『homilador bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "妊娠する",
-      "choices": [
-        "不景気",
-        "妊娠する",
-        "一気に",
-        "ただ今"
-      ],
-      "correctAnswer": 1,
-      "explanation": "homilador bo'lmoq → 妊娠する"
-    },
-    {
-      "id": 136,
-      "questionType": "word",
-      "question": "『meros qilib olmoq, davom ettirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "継ぐ",
-      "choices": [
-        "継ぐ",
-        "愛称",
-        "察する",
-        "原子力発電所"
+        "あまえ",
+        "きぎょう",
+        "ひとりずまい",
+        "なまけもの"
       ],
       "correctAnswer": 0,
-      "explanation": "meros qilib olmoq, davom ettirmoq → 継ぐ"
+      "explanation": "甘え → あまえ"
     },
     {
-      "id": 137,
-      "questionType": "sentence",
-      "question": "『説得する』ning ma'nosi qaysi?",
-      "word": "説得する",
-      "choices": [
-        "hangu mang bo'lmoq, yoqa ushlamoq (salbiy hayrat)",
-        "ko'ndirmoq, ishontirmoq",
-        "qarshilik qilmoq, qarshi bormoq",
-        "bilim"
-      ],
-      "correctAnswer": 1,
-      "explanation": "説得する → ko'ndirmoq, ishontirmoq"
-    },
-    {
-      "id": 138,
-      "questionType": "kanji",
-      "question": "『いし』qaysi yozuvga mos?",
-      "word": "意志",
-      "choices": [
-        "友人達",
-        "傷つける",
-        "恵まれる",
-        "意志"
-      ],
-      "correctAnswer": 3,
-      "explanation": "いし → 意志"
-    },
-    {
-      "id": 139,
-      "questionType": "reading",
-      "question": "『一家』ning o'qilishi qaysi?",
-      "word": "一家",
-      "choices": [
-        "うまれる",
-        "ひさしぶり",
-        "どういする",
-        "いっか"
-      ],
-      "correctAnswer": 3,
-      "explanation": "一家 → いっか"
-    },
-    {
-      "id": 140,
+      "id": 113,
       "questionType": "sentence",
       "question": "『しつける』ning ma'nosi qaysi?",
       "word": "しつける",
       "choices": [
         "tarbiyalamoq, odob o'rgatmoq",
-        "erkalik",
-        "tayanmoq",
-        "erkalatmoq, tantiq qilmoq"
+        "hudud (davlat hududi)",
+        "haydab chiqarmoq",
+        "bir-biriga tikilib qaramoq"
       ],
       "correctAnswer": 0,
       "explanation": "しつける → tarbiyalamoq, odob o'rgatmoq"
     },
     {
-      "id": 141,
+      "id": 114,
       "questionType": "meaning",
-      "question": "『つくづくと』ning ma'nosi qaysi?",
-      "word": "つくづくと",
+      "question": "『尊重する』ning ma'nosi qaysi?",
+      "word": "尊重する",
       "choices": [
-        "erkalanmoq",
-        "yuz ifodasi",
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "yuzma-yuz bo'lmoq, yuzlashmoq"
+        "yangilamoq",
+        "paypaslab qidirmoq; 2. yashirincha bilishga urinmoq",
+        "hurmat qilmoq, qadrlamoq",
+        "juda"
       ],
       "correctAnswer": 2,
-      "explanation": "つくづくと → chuqur, chin dildan (感じる bilan ishlatiladi)"
+      "explanation": "尊重する → hurmat qilmoq, qadrlamoq"
     },
     {
-      "id": 142,
-      "questionType": "meaning",
-      "question": "『出産祝い』ning ma'nosi qaysi?",
-      "word": "出産祝い",
-      "choices": [
-        "farzand ko'rganlik tabrigi, sovg'asi",
-        "suyanmoq",
-        "aldamoq",
-        "baribir (nima bo'lgan taqdirda xam)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "出産祝い → farzand ko'rganlik tabrigi, sovg'asi"
-    },
-    {
-      "id": 143,
-      "questionType": "meaning",
-      "question": "『向き合う』ning ma'nosi qaysi?",
-      "word": "向き合う",
-      "choices": [
-        "erkalanmoq",
-        "akusherlik-ginekologiya (bo'limi)",
-        "yuzma-yuz bo'lmoq, yuzlashmoq",
-        "brend (nomlari)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "向き合う → yuzma-yuz bo'lmoq, yuzlashmoq"
-    },
-    {
-      "id": 144,
+      "id": 115,
       "questionType": "word",
-      "question": "『uyda parvarish qiluvchi xodim』ning yaponcha ifodasi qaysi?",
-      "word": "ホームヘルパー",
+      "question": "『o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "放っておく",
       "choices": [
-        "見習い",
-        "尊重する",
-        "ホームヘルパー",
-        "ファミリー"
-      ],
-      "correctAnswer": 2,
-      "explanation": "uyda parvarish qiluvchi xodim → ホームヘルパー"
-    },
-    {
-      "id": 145,
-      "questionType": "sentence",
-      "question": "『一家団らん』ning ma'nosi qaysi?",
-      "word": "一家団らん",
-      "choices": [
-        "aql tish",
-        "oila davrasi, oilaviy chog' o'tirish",
-        "haqiqiy kuch, salohiyat",
-        "suyagi sinmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "一家団らん → oila davrasi, oilaviy chog' o'tirish"
-    },
-    {
-      "id": 146,
-      "questionType": "word",
-      "question": "『homilador bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "妊娠する",
-      "choices": [
-        "甘える",
         "妊娠する",
-        "ホームヘルパー",
-        "不景気"
-      ],
-      "correctAnswer": 1,
-      "explanation": "homilador bo'lmoq → 妊娠する"
-    },
-    {
-      "id": 147,
-      "questionType": "kanji",
-      "question": "『せっとくする』qaysi yozuvga mos?",
-      "word": "説得する",
-      "choices": [
-        "思いやる",
-        "養う",
-        "逆らう",
-        "説得する"
+        "当たり前",
+        "受け継ぐ",
+        "放っておく"
       ],
       "correctAnswer": 3,
-      "explanation": "せっとくする → 説得する"
+      "explanation": "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq → 放っておく"
     },
     {
-      "id": 148,
-      "questionType": "reading",
-      "question": "『妊娠する』ning o'qilishi qaysi?",
-      "word": "妊娠する",
-      "choices": [
-        "おれ",
-        "にんしんする",
-        "せだい",
-        "りべんせい"
-      ],
-      "correctAnswer": 1,
-      "explanation": "妊娠する → にんしんする"
-    },
-    {
-      "id": 149,
-      "questionType": "kanji",
-      "question": "『やしなう』qaysi yozuvga mos?",
-      "word": "養う",
-      "choices": [
-        "学食",
-        "知識",
-        "養う",
-        "更新する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "やしなう → 養う"
-    },
-    {
-      "id": 150,
-      "questionType": "kanji",
-      "question": "『はんせいかい』qaysi yozuvga mos?",
-      "word": "反省会",
-      "choices": [
-        "高収入",
-        "高気圧",
-        "反省会",
-        "都市開発"
-      ],
-      "correctAnswer": 2,
-      "explanation": "はんせいかい → 反省会"
-    },
-    {
-      "id": 151,
-      "questionType": "reading",
-      "question": "『甘える』ning o'qilishi qaysi?",
-      "word": "甘える",
-      "choices": [
-        "ひょうじする",
-        "あこがれる",
-        "そうだんにのる",
-        "あまえる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "甘える → あまえる"
-    },
-    {
-      "id": 152,
-      "questionType": "kanji",
-      "question": "『はんせいする』qaysi yozuvga mos?",
-      "word": "反省する",
-      "choices": [
-        "尽くす",
-        "あえて",
-        "向き合う",
-        "反省する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "はんせいする → 反省する"
-    },
-    {
-      "id": 153,
-      "questionType": "meaning",
-      "question": "『養う』ning ma'nosi qaysi?",
-      "word": "養う",
-      "choices": [
-        "boqmoq, ta'minlamoq",
-        "o'tmish",
-        "atayin, ovora bo'lib",
-        "oila"
-      ],
-      "correctAnswer": 0,
-      "explanation": "養う → boqmoq, ta'minlamoq"
-    },
-    {
-      "id": 154,
-      "questionType": "sentence",
-      "question": "『甘やかす』ning ma'nosi qaysi?",
-      "word": "甘やかす",
-      "choices": [
-        "yuzma-yuz bo'lmoq, yuzlashmoq",
-        "g'amxo'rlik qilmoq",
-        "qadrdon do'st",
-        "erkalatmoq, tantiq qilmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "甘やかす → erkalatmoq, tantiq qilmoq"
-    },
-    {
-      "id": 155,
-      "questionType": "meaning",
-      "question": "『甘える』ning ma'nosi qaysi?",
-      "word": "甘える",
-      "choices": [
-        "erkalanmoq",
-        "ta'sir qilmoq, samarali bo'lmoq",
-        "ilk uchrashuv",
-        "tushunib rozi bo'lmoq, qanoatlanmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "甘える → erkalanmoq"
-    },
-    {
-      "id": 156,
-      "questionType": "reading",
-      "question": "『言いつける』ning o'qilishi qaysi?",
-      "word": "言いつける",
-      "choices": [
-        "てつやする",
-        "しゃっきんする",
-        "さいかいする",
-        "いいつける"
-      ],
-      "correctAnswer": 3,
-      "explanation": "言いつける → いいつける"
-    },
-    {
-      "id": 157,
-      "questionType": "kanji",
-      "question": "『さんふじんか』qaysi yozuvga mos?",
-      "word": "産婦人科",
-      "choices": [
-        "産婦人科",
-        "友人達",
-        "似顔絵",
-        "気楽な"
-      ],
-      "correctAnswer": 0,
-      "explanation": "さんふじんか → 産婦人科"
-    },
-    {
-      "id": 158,
-      "questionType": "sentence",
-      "question": "『ありがたい』ning ma'nosi qaysi?",
-      "word": "ありがたい",
-      "choices": [
-        "jinoyat sodir qilish",
-        "gap boshlamoq, birinchi bo'lib aytmoq",
-        "minnatdorlik uyg'otadigan, qadrli",
-        "yuzma-yuz bo'lmoq, yuzlashmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ありがたい → minnatdorlik uyg'otadigan, qadrli"
-    },
-    {
-      "id": 159,
-      "questionType": "reading",
-      "question": "『介護する』ning o'qilishi qaysi?",
-      "word": "介護する",
-      "choices": [
-        "うつす",
-        "せけんしらず",
-        "つみをおかす",
-        "かいごする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "介護する → かいごする"
-    },
-    {
-      "id": 160,
-      "questionType": "word",
-      "question": "『iroda, qat'iy niyat』ning yaponcha ifodasi qaysi?",
-      "word": "意志",
-      "choices": [
-        "意志",
-        "効く",
-        "大半",
-        "副作用"
-      ],
-      "correctAnswer": 0,
-      "explanation": "iroda, qat'iy niyat → 意志"
-    },
-    {
-      "id": 161,
+      "id": 116,
       "questionType": "word",
       "question": "『qarshilik ko'rsatmoq』ning yaponcha ifodasi qaysi?",
       "word": "抵抗する",
       "choices": [
-        "実力",
+        "大企業",
         "抵抗する",
-        "しみじみ",
-        "どうせ"
+        "当たり前",
+        "悪習慣"
       ],
       "correctAnswer": 1,
       "explanation": "qarshilik ko'rsatmoq → 抵抗する"
     },
     {
-      "id": 162,
-      "questionType": "word",
-      "question": "『tarbiya, odob』ning yaponcha ifodasi qaysi?",
-      "word": "しつけ",
-      "choices": [
-        "肌",
-        "カンニングする",
-        "しつけ",
-        "核兵器"
-      ],
-      "correctAnswer": 2,
-      "explanation": "tarbiya, odob → しつけ"
-    },
-    {
-      "id": 163,
+      "id": 117,
       "questionType": "kanji",
-      "question": "『いいつける』qaysi yozuvga mos?",
-      "word": "言いつける",
+      "question": "『ありがたい』qaysi yozuvga mos?",
+      "word": "ありがたい",
       "choices": [
-        "実力",
-        "何気ない",
-        "言いつける",
-        "久しい"
-      ],
-      "correctAnswer": 2,
-      "explanation": "いいつける → 言いつける"
-    },
-    {
-      "id": 164,
-      "questionType": "kanji",
-      "question": "『なっとくする』qaysi yozuvga mos?",
-      "word": "納得する",
-      "choices": [
-        "ストライキ",
-        "パワハラする",
-        "困難な",
-        "納得する"
+        "思いやり",
+        "悪ふざけ",
+        "住宅ローン",
+        "ありがたい"
       ],
       "correctAnswer": 3,
-      "explanation": "なっとくする → 納得する"
+      "explanation": "ありがたい → ありがたい"
     },
     {
-      "id": 165,
-      "questionType": "sentence",
-      "question": "『つくづくと』ning ma'nosi qaysi?",
-      "word": "つくづくと",
+      "id": 118,
+      "questionType": "kanji",
+      "question": "『はんせいかい』qaysi yozuvga mos?",
+      "word": "反省会",
       "choices": [
-        "chuqur, chin dildan (感じる bilan ishlatiladi)",
-        "maslahat bermoq, dardini eshitmoq",
-        "mushkul, qiyin",
-        "chora ko'rmoq"
+        "反省会",
+        "差別する",
+        "あだ名",
+        "間接"
       ],
       "correctAnswer": 0,
-      "explanation": "つくづくと → chuqur, chin dildan (感じる bilan ishlatiladi)"
+      "explanation": "はんせいかい → 反省会"
     },
     {
-      "id": 166,
-      "questionType": "word",
-      "question": "『ko'ndirmoq, ishontirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "説得する",
-      "choices": [
-        "説得する",
-        "高性能",
-        "頼りになる",
-        "更新する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ko'ndirmoq, ishontirmoq → 説得する"
-    },
-    {
-      "id": 167,
-      "questionType": "sentence",
+      "id": 119,
+      "questionType": "meaning",
       "question": "『納得する』ning ma'nosi qaysi?",
       "word": "納得する",
       "choices": [
         "tushunib rozi bo'lmoq, qanoatlanmoq",
-        "yuqori unumli, samarali (texnika)",
-        "meros qilib olmoq, davom ettirmoq",
-        "anchadan beri, ko'rishmaganiga ancha bo'ldi"
+        "dangasa odam",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)",
+        "rishta, taqdiriy bog'liqlik"
       ],
       "correctAnswer": 0,
       "explanation": "納得する → tushunib rozi bo'lmoq, qanoatlanmoq"
     },
     {
-      "id": 168,
-      "questionType": "meaning",
-      "question": "『一家』ning ma'nosi qaysi?",
-      "word": "一家",
-      "choices": [
-        "narx-navo (umumiy narxlar darajasi)",
-        "oila",
-        "xudbin, o'zboshimcha",
-        "boshqarmoq (nazorat qilish)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "一家 → oila"
-    },
-    {
-      "id": 169,
-      "questionType": "kanji",
-      "question": "『むきあう』qaysi yozuvga mos?",
-      "word": "向き合う",
-      "choices": [
-        "向き合う",
-        "言い出す",
-        "ホームヘルパー",
-        "ブランド"
-      ],
-      "correctAnswer": 0,
-      "explanation": "むきあう → 向き合う"
-    },
-    {
-      "id": 170,
-      "questionType": "reading",
-      "question": "『世代』ning o'qilishi qaysi?",
-      "word": "世代",
-      "choices": [
-        "みとめる",
-        "せだい",
-        "たいくつな",
-        "ひょうじょう"
-      ],
-      "correctAnswer": 1,
-      "explanation": "世代 → せだい"
-    },
-    {
-      "id": 171,
-      "questionType": "kanji",
-      "question": "『しゅっさんいわい』qaysi yozuvga mos?",
-      "word": "出産祝い",
-      "choices": [
-        "到着する",
-        "出産祝い",
-        "役目",
-        "仲良し"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しゅっさんいわい → 出産祝い"
-    },
-    {
-      "id": 172,
-      "questionType": "kanji",
-      "question": "『せだい』qaysi yozuvga mos?",
-      "word": "世代",
-      "choices": [
-        "温暖な",
-        "世代",
-        "難民",
-        "知識"
-      ],
-      "correctAnswer": 1,
-      "explanation": "せだい → 世代"
-    },
-    {
-      "id": 173,
-      "questionType": "reading",
-      "question": "『世代』ning o'qilishi qaysi?",
-      "word": "世代",
-      "choices": [
-        "みならう",
-        "きく",
-        "せだい",
-        "あきれる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "世代 → せだい"
-    },
-    {
-      "id": 174,
-      "questionType": "word",
-      "question": "『mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)』ning yaponcha ifodasi qaysi?",
+      "id": 120,
+      "questionType": "sentence",
+      "question": "『自立する』ning ma'nosi qaysi?",
       "word": "自立する",
       "choices": [
-        "大幅な",
-        "過去",
-        "自立する",
-        "核兵器"
+        "buzilmoq, qulamoq (ob-havo buzilishi)",
+        "ari",
+        "ochiq havoda, tabiatda",
+        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)"
       ],
-      "correctAnswer": 2,
-      "explanation": "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq) → 自立する"
+      "correctAnswer": 3,
+      "explanation": "自立する → mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)"
     },
     {
-      "id": 175,
+      "id": 121,
+      "questionType": "reading",
+      "question": "『養う』ning o'qilishi qaysi?",
+      "word": "養う",
+      "choices": [
+        "なっとくする",
+        "おもいやり",
+        "やしなう",
+        "ひそかに"
+      ],
+      "correctAnswer": 2,
+      "explanation": "養う → やしなう"
+    },
+    {
+      "id": 122,
       "questionType": "word",
-      "question": "『oila』ning yaponcha ifodasi qaysi?",
-      "word": "一家",
+      "question": "『parvarish qilmoq (keksa, bemorni)』ning yaponcha ifodasi qaysi?",
+      "word": "介護する",
       "choices": [
-        "傷つける",
-        "一家",
-        "原子力発電所",
-        "信頼する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "oila → 一家"
-    },
-    {
-      "id": 176,
-      "questionType": "sentence",
-      "question": "『受け継ぐ』ning ma'nosi qaysi?",
-      "word": "受け継ぐ",
-      "choices": [
-        "baribir (nima bo'lgan taqdirda xam)",
-        "meros qilib olmoq, qabul qilib olmoq",
-        "qulaylik (darajasi)",
-        "aql tish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "受け継ぐ → meros qilib olmoq, qabul qilib olmoq"
-    },
-    {
-      "id": 177,
-      "questionType": "meaning",
-      "question": "『言い出す』ning ma'nosi qaysi?",
-      "word": "言い出す",
-      "choices": [
-        "havas qilmoq",
-        "nojo'ya ta'sir (dorining)",
-        "gap boshlamoq, birinchi bo'lib aytmoq",
-        "avlod"
-      ],
-      "correctAnswer": 2,
-      "explanation": "言い出す → gap boshlamoq, birinchi bo'lib aytmoq"
-    },
-    {
-      "id": 178,
-      "questionType": "kanji",
-      "question": "『せっとくする』qaysi yozuvga mos?",
-      "word": "説得する",
-      "choices": [
-        "説得する",
-        "仲",
-        "喉",
-        "散らかる"
+        "介護する",
+        "わざわざ",
+        "好印象",
+        "礼金"
       ],
       "correctAnswer": 0,
-      "explanation": "せっとくする → 説得する"
+      "explanation": "parvarish qilmoq (keksa, bemorni) → 介護する"
     },
     {
-      "id": 179,
+      "id": 123,
       "questionType": "kanji",
-      "question": "『せけんしらず』qaysi yozuvga mos?",
-      "word": "世間知らず",
+      "question": "『ていこうする』qaysi yozuvga mos?",
+      "word": "抵抗する",
       "choices": [
-        "効く",
-        "尽くす",
-        "世間知らず",
-        "久しぶり"
+        "低次元",
+        "高学歴",
+        "抵抗する",
+        "飼い主"
       ],
       "correctAnswer": 2,
-      "explanation": "せけんしらず → 世間知らず"
+      "explanation": "ていこうする → 抵抗する"
     },
     {
-      "id": 180,
-      "questionType": "word",
-      "question": "『erkalanmoq』ning yaponcha ifodasi qaysi?",
-      "word": "甘える",
-      "choices": [
-        "甘える",
-        "生まれる",
-        "災害",
-        "表示する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "erkalanmoq → 甘える"
-    },
-    {
-      "id": 181,
+      "id": 124,
       "questionType": "sentence",
       "question": "『ジェネレーション』ning ma'nosi qaysi?",
       "word": "ジェネレーション",
       "choices": [
-        "tayanmoq",
-        "kamtarona, sodda",
-        "yollamoq, qabul e'lon qilmoq",
+        "suyagi sinmoq",
+        "nolish, shikoyat",
+        "aloqa, munosabat",
         "avlod (sinonim)"
       ],
       "correctAnswer": 3,
       "explanation": "ジェネレーション → avlod (sinonim)"
     },
     {
-      "id": 182,
+      "id": 125,
+      "questionType": "reading",
+      "question": "『意志』ning o'qilishi qaysi?",
+      "word": "意志",
+      "choices": [
+        "しゅうでん",
+        "たびかさなる",
+        "いし",
+        "わがや"
+      ],
+      "correctAnswer": 2,
+      "explanation": "意志 → いし"
+    },
+    {
+      "id": 126,
+      "questionType": "reading",
+      "question": "『妊娠する』ning o'qilishi qaysi?",
+      "word": "妊娠する",
+      "choices": [
+        "にんしんする",
+        "じこりゅう",
+        "そうめいな",
+        "ありがとう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "妊娠する → にんしんする"
+    },
+    {
+      "id": 127,
+      "questionType": "sentence",
+      "question": "『甘やかす』ning ma'nosi qaysi?",
+      "word": "甘やかす",
+      "choices": [
+        "munosabat",
+        "mamlakatim",
+        "erkalatmoq, tantiq qilmoq",
+        "davra, ziyofat (talabalar)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "甘やかす → erkalatmoq, tantiq qilmoq"
+    },
+    {
+      "id": 128,
+      "questionType": "meaning",
+      "question": "『世間知らず』ning ma'nosi qaysi?",
+      "word": "世間知らず",
+      "choices": [
+        "betashvish",
+        "qarz olmoq",
+        "go'l, hayot tajribasi yo'q (odam)",
+        "hayratlanmoq, qoyil qolmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "世間知らず → go'l, hayot tajribasi yo'q (odam)"
+    },
+    {
+      "id": 129,
+      "questionType": "word",
+      "question": "『yordamchi』ning yaponcha ifodasi qaysi?",
+      "word": "ヘルパー",
+      "choices": [
+        "ヘルパー",
+        "終バス",
+        "困難な",
+        "土砂降り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yordamchi → ヘルパー"
+    },
+    {
+      "id": 130,
+      "questionType": "word",
+      "question": "『farzand ko'rganlik tabrigi, sovg'asi』ning yaponcha ifodasi qaysi?",
+      "word": "出産祝い",
+      "choices": [
+        "愛情",
+        "出産祝い",
+        "食べ盛り",
+        "大幅な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "farzand ko'rganlik tabrigi, sovg'asi → 出産祝い"
+    },
+    {
+      "id": 131,
+      "questionType": "reading",
+      "question": "『つくづくと』ning o'qilishi qaysi?",
+      "word": "つくづくと",
+      "choices": [
+        "つくづくと",
+        "ぐち",
+        "おやしらず",
+        "うちあける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "つくづくと → つくづくと"
+    },
+    {
+      "id": 132,
+      "questionType": "meaning",
+      "question": "『甘え』ning ma'nosi qaysi?",
+      "word": "甘え",
+      "choices": [
+        "erkalik",
+        "shogird, o'rganuvchi",
+        "yaxshi taassurot",
+        "qaror"
+      ],
+      "correctAnswer": 0,
+      "explanation": "甘え → erkalik"
+    },
+    {
+      "id": 133,
+      "questionType": "kanji",
+      "question": "『やくめ』qaysi yozuvga mos?",
+      "word": "役目",
+      "choices": [
+        "せい",
+        "役目",
+        "名産",
+        "ニックネーム"
+      ],
+      "correctAnswer": 1,
+      "explanation": "やくめ → 役目"
+    },
+    {
+      "id": 134,
+      "questionType": "kanji",
+      "question": "『しゅっさんする』qaysi yozuvga mos?",
+      "word": "出産する",
+      "choices": [
+        "貸し借りする",
+        "出産する",
+        "会費",
+        "こそこそする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しゅっさんする → 出産する"
+    },
+    {
+      "id": 135,
+      "questionType": "kanji",
+      "question": "『なっとくする』qaysi yozuvga mos?",
+      "word": "納得する",
+      "choices": [
+        "わが国",
+        "だます",
+        "納得する",
+        "結びつく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "なっとくする → 納得する"
+    },
+    {
+      "id": 136,
+      "questionType": "word",
+      "question": "『mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)』ning yaponcha ifodasi qaysi?",
+      "word": "自立する",
+      "choices": [
+        "呼び止める",
+        "手すり",
+        "自立する",
+        "ささやく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq) → 自立する"
+    },
+    {
+      "id": 137,
+      "questionType": "kanji",
+      "question": "『さからう』qaysi yozuvga mos?",
+      "word": "逆らう",
+      "choices": [
+        "甘え",
+        "不運な",
+        "逆らう",
+        "度重なる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "さからう → 逆らう"
+    },
+    {
+      "id": 138,
+      "questionType": "word",
+      "question": "『o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "放っておく",
+      "choices": [
+        "一戸建て",
+        "信頼する",
+        "放っておく",
+        "悪循環"
+      ],
+      "correctAnswer": 2,
+      "explanation": "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq → 放っておく"
+    },
+    {
+      "id": 139,
+      "questionType": "word",
+      "question": "『meros qilib olmoq, qabul qilib olmoq』ning yaponcha ifodasi qaysi?",
+      "word": "受け継ぐ",
+      "choices": [
+        "口実",
+        "受け継ぐ",
+        "避ける",
+        "礼金"
+      ],
+      "correctAnswer": 1,
+      "explanation": "meros qilib olmoq, qabul qilib olmoq → 受け継ぐ"
+    },
+    {
+      "id": 140,
+      "questionType": "sentence",
+      "question": "『しみじみ』ning ma'nosi qaysi?",
+      "word": "しみじみ",
+      "choices": [
+        "kuyov",
+        "chuqur",
+        "portret",
+        "sevib qolmoq, romantik munosabatda bo'lmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しみじみ → chuqur"
+    },
+    {
+      "id": 141,
+      "questionType": "kanji",
+      "question": "『さからう』qaysi yozuvga mos?",
+      "word": "逆らう",
+      "choices": [
+        "徹夜する",
+        "言い訳",
+        "継ぐ",
+        "逆らう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "さからう → 逆らう"
+    },
+    {
+      "id": 142,
+      "questionType": "sentence",
+      "question": "『説得する』ning ma'nosi qaysi?",
+      "word": "説得する",
+      "choices": [
+        "sharqqa qaragan",
+        "ko'ndirmoq, ishontirmoq",
+        "hayratlanmoq, qoyil qolmoq",
+        "tarbiyalamoq, odob o'rgatmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "説得する → ko'ndirmoq, ishontirmoq"
+    },
+    {
+      "id": 143,
+      "questionType": "meaning",
+      "question": "『ホームヘルパー』ning ma'nosi qaysi?",
+      "word": "ホームヘルパー",
+      "choices": [
+        "jozibali",
+        "men (erkaklar tilida, dag'alroq)",
+        "o'ta rasmiy, siqiq (muhit)",
+        "uyda parvarish qiluvchi xodim"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ホームヘルパー → uyda parvarish qiluvchi xodim"
+    },
+    {
+      "id": 144,
+      "questionType": "kanji",
+      "question": "『せっとくする』qaysi yozuvga mos?",
+      "word": "説得する",
+      "choices": [
+        "説得する",
+        "込める",
+        "きっぱり",
+        "身支度する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せっとくする → 説得する"
+    },
+    {
+      "id": 145,
+      "questionType": "word",
+      "question": "『tarbiyalamoq, odob o'rgatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "しつける",
+      "choices": [
+        "しつける",
+        "低予算",
+        "どうせ",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tarbiyalamoq, odob o'rgatmoq → しつける"
+    },
+    {
+      "id": 146,
+      "questionType": "sentence",
+      "question": "『ファミリー』ning ma'nosi qaysi?",
+      "word": "ファミリー",
+      "choices": [
+        "juftlik",
+        "qarz olmoq",
+        "rozilik bildirmoq",
+        "oila (sinonim)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ファミリー → oila (sinonim)"
+    },
+    {
+      "id": 147,
+      "questionType": "kanji",
+      "question": "『なっとくする』qaysi yozuvga mos?",
+      "word": "納得する",
+      "choices": [
+        "害",
+        "納得する",
+        "迷惑行為",
+        "ご馳走する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なっとくする → 納得する"
+    },
+    {
+      "id": 148,
+      "questionType": "sentence",
+      "question": "『言い出す』ning ma'nosi qaysi?",
+      "word": "言い出す",
+      "choices": [
+        "tush payti (soat 12)",
+        "rozilik bildirmoq",
+        "aks-sado bermoq, yangramoq",
+        "gap boshlamoq, birinchi bo'lib aytmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "言い出す → gap boshlamoq, birinchi bo'lib aytmoq"
+    },
+    {
+      "id": 149,
+      "questionType": "word",
+      "question": "『qarshilik qilmoq, qarshi bormoq』ning yaponcha ifodasi qaysi?",
+      "word": "逆らう",
+      "choices": [
+        "逆らう",
+        "多岐にわたる",
+        "書面",
+        "奥"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qarshilik qilmoq, qarshi bormoq → 逆らう"
+    },
+    {
+      "id": 150,
+      "questionType": "reading",
+      "question": "『しつけ』ning o'qilishi qaysi?",
+      "word": "しつけ",
+      "choices": [
+        "でんとう",
+        "しつもん",
+        "つぐ",
+        "しつけ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しつけ → しつけ"
+    },
+    {
+      "id": 151,
+      "questionType": "kanji",
+      "question": "『ほうっておく』qaysi yozuvga mos?",
+      "word": "放っておく",
+      "choices": [
+        "手前",
+        "お互い",
+        "放っておく",
+        "集中力"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ほうっておく → 放っておく"
+    },
+    {
+      "id": 152,
+      "questionType": "sentence",
+      "question": "『向き合う』ning ma'nosi qaysi?",
+      "word": "向き合う",
+      "choices": [
+        "diqqatni jamlash kuchi",
+        "kam mablag'",
+        "uyushtiruvchi, tashkilotchi",
+        "yuzma-yuz bo'lmoq, yuzlashmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "向き合う → yuzma-yuz bo'lmoq, yuzlashmoq"
+    },
+    {
+      "id": 153,
+      "questionType": "sentence",
+      "question": "『ヘルパー』ning ma'nosi qaysi?",
+      "word": "ヘルパー",
+      "choices": [
+        "yaxshi natija",
+        "iqtisodiy farovonlik",
+        "anovi",
+        "yordamchi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ヘルパー → yordamchi"
+    },
+    {
+      "id": 154,
+      "questionType": "reading",
+      "question": "『甘える』ning o'qilishi qaysi?",
+      "word": "甘える",
+      "choices": [
+        "うたがう",
+        "ひとめ",
+        "あまえる",
+        "どうし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "甘える → あまえる"
+    },
+    {
+      "id": 155,
+      "questionType": "meaning",
+      "question": "『介護する』ning ma'nosi qaysi?",
+      "word": "介護する",
+      "choices": [
+        "uy ijaraga olganda minnatdorlik puli (kalit puli ham deyiladi)",
+        "parvarish qilmoq (keksa, bemorni)",
+        "yuvinish xonasi",
+        "qo'li bo'sh, hech narsa olib kelmasdan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "介護する → parvarish qilmoq (keksa, bemorni)"
+    },
+    {
+      "id": 156,
+      "questionType": "kanji",
+      "question": "『せだい』qaysi yozuvga mos?",
+      "word": "世代",
+      "choices": [
+        "世代",
+        "探る",
+        "再会する",
+        "株価"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せだい → 世代"
+    },
+    {
+      "id": 157,
+      "questionType": "meaning",
+      "question": "『説得する』ning ma'nosi qaysi?",
+      "word": "説得する",
+      "choices": [
+        "ko'ndirmoq, ishontirmoq",
+        "shubhalanmoq",
+        "qarsak chalmoq",
+        "bo'sh joy, fazo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "説得する → ko'ndirmoq, ishontirmoq"
+    },
+    {
+      "id": 158,
+      "questionType": "word",
+      "question": "『tarbiya, odob』ning yaponcha ifodasi qaysi?",
+      "word": "しつけ",
+      "choices": [
+        "もしかしたら、もしかして、ひょっとすると",
+        "実力",
+        "しつけ",
+        "名著"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tarbiya, odob → しつけ"
+    },
+    {
+      "id": 159,
+      "questionType": "word",
+      "question": "『chuqur, chin dildan (感じる bilan ishlatiladi)』ning yaponcha ifodasi qaysi?",
+      "word": "つくづくと",
+      "choices": [
+        "作成する",
+        "どうせ",
+        "親知らず",
+        "つくづくと"
+      ],
+      "correctAnswer": 3,
+      "explanation": "chuqur, chin dildan (感じる bilan ishlatiladi) → つくづくと"
+    },
+    {
+      "id": 160,
+      "questionType": "kanji",
+      "question": "『しつけ』qaysi yozuvga mos?",
+      "word": "しつけ",
+      "choices": [
+        "都市開発",
+        "土砂降り",
+        "自己紹介",
+        "しつけ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しつけ → しつけ"
+    },
+    {
+      "id": 161,
+      "questionType": "kanji",
+      "question": "『しつけ』qaysi yozuvga mos?",
+      "word": "しつけ",
+      "choices": [
+        "堅苦しい",
+        "近所付き合い",
+        "しつけ",
+        "ルール"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しつけ → しつけ"
+    },
+    {
+      "id": 162,
+      "questionType": "meaning",
+      "question": "『妊婦』ning ma'nosi qaysi?",
+      "word": "妊婦",
+      "choices": [
+        "homilador ayol",
+        "endi (endi kech ma'nosida)",
+        "ayblamoq",
+        "fahmlamoq, sezmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "妊婦 → homilador ayol"
+    },
+    {
+      "id": 163,
+      "questionType": "sentence",
+      "question": "『反省する』ning ma'nosi qaysi?",
+      "word": "反省する",
+      "choices": [
+        "rishta, taqdiriy bog'liqlik",
+        "olib kelmoq (o'zi bilan)",
+        "xatosini anglab mulohaza qilmoq",
+        "sharqqa qaragan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "反省する → xatosini anglab mulohaza qilmoq"
+    },
+    {
+      "id": 164,
+      "questionType": "kanji",
+      "question": "『いし』qaysi yozuvga mos?",
+      "word": "意志",
+      "choices": [
+        "時間を指す",
+        "カーディガン",
+        "そらす",
+        "意志"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いし → 意志"
+    },
+    {
+      "id": 165,
+      "questionType": "meaning",
+      "question": "『言いつける』ning ma'nosi qaysi?",
+      "word": "言いつける",
+      "choices": [
+        "yaxshi taassurot",
+        "haqiqiy kuch, salohiyat",
+        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq",
+        "ukol qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "言いつける → buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
+    },
+    {
+      "id": 166,
+      "questionType": "kanji",
+      "question": "『しゅっさんいわい』qaysi yozuvga mos?",
+      "word": "出産祝い",
+      "choices": [
+        "いまさら",
+        "迷惑行為",
+        "出産祝い",
+        "受け継ぐ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しゅっさんいわい → 出産祝い"
+    },
+    {
+      "id": 167,
+      "questionType": "kanji",
+      "question": "『はんせいする』qaysi yozuvga mos?",
+      "word": "反省する",
+      "choices": [
+        "高気圧",
+        "示す",
+        "反省する",
+        "企業"
+      ],
+      "correctAnswer": 2,
+      "explanation": "はんせいする → 反省する"
+    },
+    {
+      "id": 168,
       "questionType": "kanji",
       "question": "『あまやかす』qaysi yozuvga mos?",
       "word": "甘やかす",
       "choices": [
+        "当たり前",
         "甘やかす",
-        "からかう",
-        "ホームヘルパー",
-        "だます"
+        "退屈な",
+        "口実"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "あまやかす → 甘やかす"
     },
     {
-      "id": 183,
-      "questionType": "kanji",
-      "question": "『にんしんする』qaysi yozuvga mos?",
-      "word": "妊娠する",
+      "id": 169,
+      "questionType": "reading",
+      "question": "『言い出す』ning o'qilishi qaysi?",
+      "word": "言い出す",
       "choices": [
-        "妊娠する",
-        "制限する",
-        "養う",
-        "友人達"
+        "いいだす",
+        "さいのう",
+        "そうさする",
+        "ぎろんする"
       ],
       "correctAnswer": 0,
-      "explanation": "にんしんする → 妊娠する"
+      "explanation": "言い出す → いいだす"
     },
     {
-      "id": 184,
-      "questionType": "kanji",
-      "question": "『ありがたい』qaysi yozuvga mos?",
-      "word": "ありがたい",
+      "id": 170,
+      "questionType": "reading",
+      "question": "『出産する』ning o'qilishi qaysi?",
+      "word": "出産する",
       "choices": [
-        "ありがたい",
-        "副作用",
-        "察する",
-        "役目"
+        "か",
+        "しみじみ",
+        "さいがい",
+        "しゅっさんする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "出産する → しゅっさんする"
+    },
+    {
+      "id": 171,
+      "questionType": "kanji",
+      "question": "『いっか』qaysi yozuvga mos?",
+      "word": "一家",
+      "choices": [
+        "一家",
+        "タイムセール",
+        "交わす",
+        "せい"
       ],
       "correctAnswer": 0,
-      "explanation": "ありがたい → ありがたい"
+      "explanation": "いっか → 一家"
     },
     {
-      "id": 185,
+      "id": 172,
+      "questionType": "sentence",
+      "question": "『ホームヘルパー』ning ma'nosi qaysi?",
+      "word": "ホームヘルパー",
+      "choices": [
+        "hakam",
+        "yerga urmoq",
+        "suyagi sinmoq",
+        "uyda parvarish qiluvchi xodim"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ホームヘルパー → uyda parvarish qiluvchi xodim"
+    },
+    {
+      "id": 173,
+      "questionType": "meaning",
+      "question": "『向き合う』ning ma'nosi qaysi?",
+      "word": "向き合う",
+      "choices": [
+        "yomon sharoit",
+        "iroda, qat'iy niyat",
+        "yuzma-yuz bo'lmoq, yuzlashmoq",
+        "ukol qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "向き合う → yuzma-yuz bo'lmoq, yuzlashmoq"
+    },
+    {
+      "id": 174,
       "questionType": "reading",
       "question": "『向き合う』ning o'qilishi qaysi?",
       "word": "向き合う",
       "choices": [
-        "うむ",
-        "むきあう",
-        "たよる",
-        "こんなんな"
+        "もてなす",
+        "ちらばる",
+        "あいしょう",
+        "むきあう"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "向き合う → むきあう"
     },
     {
-      "id": 186,
-      "questionType": "word",
-      "question": "『oila davrasi, oilaviy chog' o'tirish』ning yaponcha ifodasi qaysi?",
-      "word": "一家団らん",
+      "id": 175,
+      "questionType": "reading",
+      "question": "『役目』ning o'qilishi qaysi?",
+      "word": "役目",
       "choices": [
-        "反省する",
-        "一家団らん",
-        "頼りにする",
-        "パワハラする"
+        "やくめ",
+        "みなみむき",
+        "もしかすると",
+        "さぐる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "役目 → やくめ"
+    },
+    {
+      "id": 176,
+      "questionType": "word",
+      "question": "『boqmoq, ta'minlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "養う",
+      "choices": [
+        "幹事",
+        "商店街",
+        "養う",
+        "語り合う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "boqmoq, ta'minlamoq → 養う"
+    },
+    {
+      "id": 177,
+      "questionType": "reading",
+      "question": "『しつけ』ning o'qilishi qaysi?",
+      "word": "しつけ",
+      "choices": [
+        "しつけ",
+        "たよる",
+        "しえんする",
+        "うんめい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しつけ → しつけ"
+    },
+    {
+      "id": 178,
+      "questionType": "meaning",
+      "question": "『しつけ』ning ma'nosi qaysi?",
+      "word": "しつけ",
+      "choices": [
+        "nigohi qattiq (badjahl ko'rinish)",
+        "pala-partish, dag'al (ish)",
+        "ishonsa bo'ladigan, ishonchli",
+        "tarbiya, odob"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しつけ → tarbiya, odob"
+    },
+    {
+      "id": 179,
+      "questionType": "reading",
+      "question": "『ありがたい』ning o'qilishi qaysi?",
+      "word": "ありがたい",
+      "choices": [
+        "ゆうじんたち",
+        "よびだす",
+        "おれ",
+        "ありがたい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ありがたい → ありがたい"
+    },
+    {
+      "id": 180,
+      "questionType": "sentence",
+      "question": "『妊娠する』ning ma'nosi qaysi?",
+      "word": "妊娠する",
+      "choices": [
+        "ustidan kulish, mazax qilish",
+        "homilador bo'lmoq",
+        "xatosini anglab mulohaza qilmoq",
+        "ta'sir qilmoq, samarali bo'lmoq"
       ],
       "correctAnswer": 1,
-      "explanation": "oila davrasi, oilaviy chog' o'tirish → 一家団らん"
+      "explanation": "妊娠する → homilador bo'lmoq"
+    },
+    {
+      "id": 181,
+      "questionType": "sentence",
+      "question": "『出産する』ning ma'nosi qaysi?",
+      "word": "出産する",
+      "choices": [
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "o'sha inson, anovi",
+        "paypaslab qidirmoq; 2. yashirincha bilishga urinmoq",
+        "kam mablag'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "出産する → farzand ko'rmoq, dunyoga keltirmoq"
+    },
+    {
+      "id": 182,
+      "questionType": "meaning",
+      "question": "『向き合う』ning ma'nosi qaysi?",
+      "word": "向き合う",
+      "choices": [
+        "aldamoq",
+        "yechilmoq; erimoq",
+        "xiyonat qilmoq, sotmoq",
+        "yuzma-yuz bo'lmoq, yuzlashmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "向き合う → yuzma-yuz bo'lmoq, yuzlashmoq"
+    },
+    {
+      "id": 183,
+      "questionType": "word",
+      "question": "『meros qilib olmoq, davom ettirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "継ぐ",
+      "choices": [
+        "指導する",
+        "継ぐ",
+        "賃貸",
+        "ジェネレーション"
+      ],
+      "correctAnswer": 1,
+      "explanation": "meros qilib olmoq, davom ettirmoq → 継ぐ"
+    },
+    {
+      "id": 184,
+      "questionType": "sentence",
+      "question": "『ありがたい』ning ma'nosi qaysi?",
+      "word": "ありがたい",
+      "choices": [
+        "minnatdorlik uyg'otadigan, qadrli",
+        "yuqori (atmosfera) bosim(i)",
+        "fahmlamoq, sezmoq",
+        "bog'dorchilik"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ありがたい → minnatdorlik uyg'otadigan, qadrli"
+    },
+    {
+      "id": 185,
+      "questionType": "sentence",
+      "question": "『つくづくと』ning ma'nosi qaysi?",
+      "word": "つくづくと",
+      "choices": [
+        "chuqur, chin dildan (感じる bilan ishlatiladi)",
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "yangilamoq",
+        "e'tiborli bo'lmoq, boshqalarni o'ylamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "つくづくと → chuqur, chin dildan (感じる bilan ishlatiladi)"
+    },
+    {
+      "id": 186,
+      "questionType": "kanji",
+      "question": "『ホームヘルパー』qaysi yozuvga mos?",
+      "word": "ホームヘルパー",
+      "choices": [
+        "ありがたい",
+        "ホームヘルパー",
+        "呼び止める",
+        "終電"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ホームヘルパー → ホームヘルパー"
     },
     {
       "id": 187,
-      "questionType": "reading",
-      "question": "『養う』ning o'qilishi qaysi?",
-      "word": "養う",
+      "questionType": "meaning",
+      "question": "『甘える』ning ma'nosi qaysi?",
+      "word": "甘える",
       "choices": [
-        "やしなう",
-        "ちしき",
-        "ちらかる",
-        "タイムセール"
+        "qoida",
+        "erkalanmoq",
+        "yomon odat, qiliq",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
       ],
-      "correctAnswer": 0,
-      "explanation": "養う → やしなう"
+      "correctAnswer": 1,
+      "explanation": "甘える → erkalanmoq"
     },
     {
       "id": 188,
-      "questionType": "word",
-      "question": "『buyurmoq, topshirmoq; 2. chaqimchilik qilmoq』ning yaponcha ifodasi qaysi?",
-      "word": "言いつける",
+      "questionType": "kanji",
+      "question": "『ヘルパー』qaysi yozuvga mos?",
+      "word": "ヘルパー",
       "choices": [
-        "ふざける",
-        "平気な",
-        "言いつける",
-        "当たり前"
+        "大いに",
+        "ヘルパー",
+        "乗り切る",
+        "吠える"
       ],
-      "correctAnswer": 2,
-      "explanation": "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq → 言いつける"
+      "correctAnswer": 1,
+      "explanation": "ヘルパー → ヘルパー"
     }
   ]
 }

@@ -1,0 +1,1113 @@
+{
+  "title": "Lesson 11 Test",
+  "type": "kanji",
+  "lesson": "lesson-11",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "sentence",
+      "question": "『お香を焚く』ning ma'nosi qaysi?",
+      "word": "お香を焚く",
+      "choices": [
+        "daftar",
+        "chiroyli",
+        "ladan yoqish",
+        "sulh, o't ochishni to'xtatish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "お香を焚く → ladan yoqish"
+    },
+    {
+      "id": 2,
+      "questionType": "recognition",
+      "question": "『松』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "松の木",
+      "choices": [
+        "栄養",
+        "振り込み",
+        "松の木",
+        "着物姿"
+      ],
+      "correctAnswer": 2,
+      "explanation": "松 → 松の木"
+    },
+    {
+      "id": 3,
+      "questionType": "reading",
+      "question": "『夜桜』ning o'qilishi qaysi?",
+      "word": "夜桜",
+      "choices": [
+        "ゆにゅうする",
+        "でんしゃがこむ",
+        "どう",
+        "よざくら"
+      ],
+      "correctAnswer": 3,
+      "explanation": "夜桜 → よざくら"
+    },
+    {
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『びようしつ』qaysi yozuvga mos?",
+      "word": "美容室",
+      "choices": [
+        "美容室",
+        "舞台に立つ",
+        "姿勢",
+        "業務が停滞する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "びようしつ → 美容室"
+    },
+    {
+      "id": 5,
+      "questionType": "recognition",
+      "question": "『桜』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "桜前線",
+      "choices": [
+        "桜前線",
+        "証券会社",
+        "難航する",
+        "劇場"
+      ],
+      "correctAnswer": 0,
+      "explanation": "桜 → 桜前線"
+    },
+    {
+      "id": 6,
+      "questionType": "word",
+      "question": "『qarag'ay daraxti』ning yaponcha ifodasi qaysi?",
+      "word": "松の木",
+      "choices": [
+        "利益を配分する",
+        "金融機関",
+        "松の木",
+        "換気する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "qarag'ay daraxti → 松の木"
+    },
+    {
+      "id": 7,
+      "questionType": "recognition",
+      "question": "『松』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "松ぼっくり",
+      "choices": [
+        "杉の花粉",
+        "快い返事",
+        "松ぼっくり",
+        "松"
+      ],
+      "correctAnswer": 2,
+      "explanation": "松 → 松ぼっくり"
+    },
+    {
+      "id": 8,
+      "questionType": "sentence",
+      "question": "『杉の花粉』ning ma'nosi qaysi?",
+      "word": "杉の花粉",
+      "choices": [
+        "guvohnoma",
+        "kedr daraxti changidan kasallanish",
+        "teatr tomoshasi, spektakl",
+        "chipta, hujjat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "杉の花粉 → kedr daraxti changidan kasallanish"
+    },
+    {
+      "id": 9,
+      "questionType": "reading",
+      "question": "『松の木』ning o'qilishi qaysi?",
+      "word": "松の木",
+      "choices": [
+        "ちょう",
+        "まつのき",
+        "つゆ",
+        "こころよいへんじ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "松の木 → まつのき"
+    },
+    {
+      "id": 10,
+      "questionType": "reading",
+      "question": "『香水』ning o'qilishi qaysi?",
+      "word": "香水",
+      "choices": [
+        "ゆけつようのけつえき",
+        "こうすい",
+        "えい",
+        "さいばんしょでしょうげんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "香水 → こうすい"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『hid, xushbo'y』ning yaponcha ifodasi qaysi?",
+      "word": "香",
+      "choices": [
+        "香",
+        "振動",
+        "日本庭園",
+        "濃"
+      ],
+      "correctAnswer": 0,
+      "explanation": "hid, xushbo'y → 香"
+    },
+    {
+      "id": 12,
+      "questionType": "reading",
+      "question": "『杉』ning o'qilishi qaysi?",
+      "word": "杉",
+      "choices": [
+        "にわ",
+        "すぎ",
+        "ていせん",
+        "きがかりなこと"
+      ],
+      "correctAnswer": 1,
+      "explanation": "杉 → すぎ"
+    },
+    {
+      "id": 13,
+      "questionType": "reading",
+      "question": "『美しい』ning o'qilishi qaysi?",
+      "word": "美しい",
+      "choices": [
+        "チームにいきおいがある",
+        "ききをだっする",
+        "うつくしい",
+        "しはらい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "美しい → うつくしい"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『こう・きょう・かおる・か』qaysi yozuvga mos?",
+      "word": "香",
+      "choices": [
+        "香",
+        "製造年月日",
+        "本を郵送する",
+        "玄関の表札"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こう・きょう・かおる・か → 香"
+    },
+    {
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『さくらぜんせん』qaysi yozuvga mos?",
+      "word": "桜前線",
+      "choices": [
+        "桜前線",
+        "込",
+        "両立する",
+        "軟"
+      ],
+      "correctAnswer": 0,
+      "explanation": "さくらぜんせん → 桜前線"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『すぎのき』qaysi yozuvga mos?",
+      "word": "杉の木",
+      "choices": [
+        "杉の木",
+        "甘える",
+        "税込み",
+        "気を配る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "すぎのき → 杉の木"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『ladan yoqish』ning yaponcha ifodasi qaysi?",
+      "word": "お香を焚く",
+      "choices": [
+        "前途多難",
+        "お香を焚く",
+        "包帯を巻く",
+        "変換"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ladan yoqish → お香を焚く"
+    },
+    {
+      "id": 18,
+      "questionType": "word",
+      "question": "『tungi sakura daraxti』ning yaponcha ifodasi qaysi?",
+      "word": "夜桜",
+      "choices": [
+        "手帳",
+        "お土産を届ける",
+        "夜桜",
+        "心臓が停止する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tungi sakura daraxti → 夜桜"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『ばいうぜんせん』qaysi yozuvga mos?",
+      "word": "梅雨前線",
+      "choices": [
+        "契",
+        "梅雨前線",
+        "居",
+        "宝"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ばいうぜんせん → 梅雨前線"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『香る』ning o'qilishi qaysi?",
+      "word": "香る",
+      "choices": [
+        "すぎる",
+        "よざくら",
+        "かかる",
+        "かおる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "香る → かおる"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『chiroyli』ning yaponcha ifodasi qaysi?",
+      "word": "美しい",
+      "choices": [
+        "美しい",
+        "指輪",
+        "賃金",
+        "心を込める"
+      ],
+      "correctAnswer": 0,
+      "explanation": "chiroyli → 美しい"
+    },
+    {
+      "id": 22,
+      "questionType": "reading",
+      "question": "『香』ning o'qilishi qaysi?",
+      "word": "香",
+      "choices": [
+        "こう・きょう・かおる・か",
+        "ファッションし",
+        "ゆう",
+        "ぎかいをしょうしゅうする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "香 → こう・きょう・かおる・か"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『まんかい』qaysi yozuvga mos?",
+      "word": "満開",
+      "choices": [
+        "満開",
+        "変換",
+        "家賃",
+        "雑音がする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "まんかい → 満開"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『kedr daraxti changidan kasallanish』ning yaponcha ifodasi qaysi?",
+      "word": "杉の花粉",
+      "choices": [
+        "支払い",
+        "杉の花粉",
+        "非難の標的となる",
+        "途中"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kedr daraxti changidan kasallanish → 杉の花粉"
+    },
+    {
+      "id": 25,
+      "questionType": "word",
+      "question": "『atirgul hidi』ning yaponcha ifodasi qaysi?",
+      "word": "バラの香り",
+      "choices": [
+        "みそ汁",
+        "仮定する",
+        "銀行の通帳",
+        "バラの香り"
+      ],
+      "correctAnswer": 3,
+      "explanation": "atirgul hidi → バラの香り"
+    },
+    {
+      "id": 26,
+      "questionType": "meaning",
+      "question": "『美容室』ning ma'nosi qaysi?",
+      "word": "美容室",
+      "choices": [
+        "kundalik",
+        "bankka pul qo'yish",
+        "go'zallik saloni",
+        "to'xtamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "美容室 → go'zallik saloni"
+    },
+    {
+      "id": 27,
+      "questionType": "meaning",
+      "question": "『美』ning ma'nosi qaysi?",
+      "word": "美",
+      "choices": [
+        "ertalabki gazeta",
+        "yukni qoldirish",
+        "go'zal, chiroyli",
+        "elektr ta'minotidan uzilish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "美 → go'zal, chiroyli"
+    },
+    {
+      "id": 28,
+      "questionType": "reading",
+      "question": "『香辛料』ning o'qilishi qaysi?",
+      "word": "香辛料",
+      "choices": [
+        "しょう・まつ",
+        "〜をけいきに",
+        "こうしんりょう",
+        "てんかい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "香辛料 → こうしんりょう"
+    },
+    {
+      "id": 29,
+      "questionType": "reading",
+      "question": "『満開』ning o'qilishi qaysi?",
+      "word": "満開",
+      "choices": [
+        "しょう",
+        "かはんすう",
+        "うんてんをかわる",
+        "まんかい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "満開 → まんかい"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『havo xushbo'ylagichi』ning yaponcha ifodasi qaysi?",
+      "word": "芳香剤",
+      "choices": [
+        "態度が軟化する",
+        "芳香剤",
+        "両替",
+        "水で味を薄める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "havo xushbo'ylagichi → 芳香剤"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『つゆ』qaysi yozuvga mos?",
+      "word": "梅雨",
+      "choices": [
+        "梅雨",
+        "到",
+        "仮説を立てる",
+        "本を著す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "つゆ → 梅雨"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『桜前線』ning ma'nosi qaysi?",
+      "word": "桜前線",
+      "choices": [
+        "og'izga suv olish",
+        "tarqatmoq, taqsimlamoq",
+        "sakura gullash chizig'i (fronti)",
+        "turli maqsadda ishlatsa bo'ladigan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "桜前線 → sakura gullash chizig'i (fronti)"
+    },
+    {
+      "id": 33,
+      "questionType": "recognition",
+      "question": "『香』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "香辛料",
+      "choices": [
+        "立ち入り禁止区域",
+        "香辛料",
+        "時刻",
+        "食堂"
+      ],
+      "correctAnswer": 1,
+      "explanation": "香 → 香辛料"
+    },
+    {
+      "id": 34,
+      "questionType": "meaning",
+      "question": "『梅雨』ning ma'nosi qaysi?",
+      "word": "梅雨",
+      "choices": [
+        "doira shaklini hosil qilish",
+        "taltaytirmoq",
+        "yomg'irlar mavsumi",
+        "bint o'ramoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "梅雨 → yomg'irlar mavsumi"
+    },
+    {
+      "id": 35,
+      "questionType": "word",
+      "question": "『atir』ning yaponcha ifodasi qaysi?",
+      "word": "香水",
+      "choices": [
+        "並",
+        "香水",
+        "のり巻き",
+        "皿におかずを盛る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "atir → 香水"
+    },
+    {
+      "id": 36,
+      "questionType": "word",
+      "question": "『yomg'ir mavsumi fronti』ning yaponcha ifodasi qaysi?",
+      "word": "梅雨前線",
+      "choices": [
+        "舞台に立つ",
+        "大盛り",
+        "舞",
+        "梅雨前線"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yomg'ir mavsumi fronti → 梅雨前線"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『美と健康を保つ』ning ma'nosi qaysi?",
+      "word": "美と健康を保つ",
+      "choices": [
+        "go'zallik va salomatlikni saqlash",
+        "ko'rpa yopish",
+        "yo'lni kesib o'tish",
+        "yetib bormoq, yetkazmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "美と健康を保つ → go'zallik va salomatlikni saqlash"
+    },
+    {
+      "id": 38,
+      "questionType": "meaning",
+      "question": "『香辛料』ning ma'nosi qaysi?",
+      "word": "香辛料",
+      "choices": [
+        "qotmoq",
+        "ziravorlar",
+        "yapon o'rigi",
+        "pochta yetib kelishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "香辛料 → ziravorlar"
+    },
+    {
+      "id": 39,
+      "questionType": "meaning",
+      "question": "『杉』ning ma'nosi qaysi?",
+      "word": "杉",
+      "choices": [
+        "kedr",
+        "ta'mi suyulishi",
+        "tufli yechilib ketishi",
+        "muzni erishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "杉 → kedr"
+    },
+    {
+      "id": 40,
+      "questionType": "word",
+      "question": "『chiroyli ayol』ning yaponcha ifodasi qaysi?",
+      "word": "美人",
+      "choices": [
+        "美人",
+        "杉の木",
+        "招",
+        "贈り物"
+      ],
+      "correctAnswer": 0,
+      "explanation": "chiroyli ayol → 美人"
+    },
+    {
+      "id": 41,
+      "questionType": "meaning",
+      "question": "『満開』ning ma'nosi qaysi?",
+      "word": "満開",
+      "choices": [
+        "chiroyli",
+        "qulay xona",
+        "qiyg'os gullash",
+        "aralashmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "満開 → qiyg'os gullash"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『おう・さくら』qaysi yozuvga mos?",
+      "word": "桜",
+      "choices": [
+        "純",
+        "掛",
+        "桜",
+        "贈り物"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おう・さくら → 桜"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『こうしんりょう』qaysi yozuvga mos?",
+      "word": "香辛料",
+      "choices": [
+        "香辛料",
+        "〜を契機に",
+        "振",
+        "堂"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こうしんりょう → 香辛料"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『ばい・うめ』qaysi yozuvga mos?",
+      "word": "梅",
+      "choices": [
+        "証券会社",
+        "梅",
+        "振動",
+        "証"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ばい・うめ → 梅"
+    },
+    {
+      "id": 45,
+      "questionType": "kanji",
+      "question": "『び・うつくしい』qaysi yozuvga mos?",
+      "word": "美",
+      "choices": [
+        "美",
+        "輸入する",
+        "家賃",
+        "丼"
+      ],
+      "correctAnswer": 0,
+      "explanation": "び・うつくしい → 美"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『美人』ning o'qilishi qaysi?",
+      "word": "美人",
+      "choices": [
+        "よ",
+        "にほんていえん",
+        "びじん",
+        "ちょしゃ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "美人 → びじん"
+    },
+    {
+      "id": 47,
+      "questionType": "sentence",
+      "question": "『バラの香り』ning ma'nosi qaysi?",
+      "word": "バラの香り",
+      "choices": [
+        "hudud",
+        "sivilizatsiya gullab yashnashi",
+        "atirgul hidi",
+        "standart, norma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "バラの香り → atirgul hidi"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『びじん』qaysi yozuvga mos?",
+      "word": "美人",
+      "choices": [
+        "純粋な心",
+        "美人",
+        "杉の木",
+        "両方"
+      ],
+      "correctAnswer": 1,
+      "explanation": "びじん → 美人"
+    },
+    {
+      "id": 49,
+      "questionType": "sentence",
+      "question": "『美と健康を保つ』ning ma'nosi qaysi?",
+      "word": "美と健康を保つ",
+      "choices": [
+        "go'zallik va salomatlikni saqlash",
+        "qimmatbaho tosh",
+        "mashhur inson",
+        "foyda olish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "美と健康を保つ → go'zallik va salomatlikni saqlash"
+    },
+    {
+      "id": 50,
+      "questionType": "kanji",
+      "question": "『すぎ』qaysi yozuvga mos?",
+      "word": "杉",
+      "choices": [
+        "前払い",
+        "漁業を営む",
+        "名前を汚す",
+        "杉"
+      ],
+      "correctAnswer": 3,
+      "explanation": "すぎ → 杉"
+    },
+    {
+      "id": 51,
+      "questionType": "reading",
+      "question": "『梅』ning o'qilishi qaysi?",
+      "word": "梅",
+      "choices": [
+        "うめ",
+        "わになる",
+        "じょうかまち",
+        "しょうめい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "梅 → うめ"
+    },
+    {
+      "id": 52,
+      "questionType": "sentence",
+      "question": "『梅雨前線』ning ma'nosi qaysi?",
+      "word": "梅雨前線",
+      "choices": [
+        "xonani iflos qilish",
+        "kasal ko'rgani borish",
+        "yomg'ir mavsumi fronti",
+        "belgi, chipta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "梅雨前線 → yomg'ir mavsumi fronti"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『ほうこうざい』qaysi yozuvga mos?",
+      "word": "芳香剤",
+      "choices": [
+        "残高照会",
+        "芳香剤",
+        "預金する",
+        "雑貨"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ほうこうざい → 芳香剤"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『かおる』qaysi yozuvga mos?",
+      "word": "香る",
+      "choices": [
+        "製造年月日",
+        "香る",
+        "絵の具を溶く",
+        "皿におかずを盛る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かおる → 香る"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『こうすい』qaysi yozuvga mos?",
+      "word": "香水",
+      "choices": [
+        "香水",
+        "桜前線",
+        "靴が脱げる",
+        "ねぎを刻む"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こうすい → 香水"
+    },
+    {
+      "id": 56,
+      "questionType": "word",
+      "question": "『kedr daraxti』ning yaponcha ifodasi qaysi?",
+      "word": "杉の木",
+      "choices": [
+        "杉の木",
+        "脱",
+        "貴重品を預かる",
+        "舞台に立つ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kedr daraxti → 杉の木"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『qarag'ay』ning yaponcha ifodasi qaysi?",
+      "word": "松",
+      "choices": [
+        "育ち盛り",
+        "松",
+        "軟らかく煮る",
+        "到"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qarag'ay → 松"
+    },
+    {
+      "id": 58,
+      "questionType": "reading",
+      "question": "『桜』ning o'qilishi qaysi?",
+      "word": "桜",
+      "choices": [
+        "ほうこうざい",
+        "ぎんこうのつうちょう",
+        "よやくがさっとうする",
+        "おう・さくら"
+      ],
+      "correctAnswer": 3,
+      "explanation": "桜 → おう・さくら"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『桜前線』ning o'qilishi qaysi?",
+      "word": "桜前線",
+      "choices": [
+        "ぎょうむがていたいする",
+        "くうこう",
+        "じこく",
+        "さくらぜんせん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "桜前線 → さくらぜんせん"
+    },
+    {
+      "id": 60,
+      "questionType": "reading",
+      "question": "『松』ning o'qilishi qaysi?",
+      "word": "松",
+      "choices": [
+        "しょう・まつ",
+        "ぶんめいがさかえる",
+        "どうろひょうしき",
+        "ていがく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "松 → しょう・まつ"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『美容室』ning o'qilishi qaysi?",
+      "word": "美容室",
+      "choices": [
+        "しょうけんがいしゃ",
+        "どうぞおかけください",
+        "どう",
+        "びようしつ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "美容室 → びようしつ"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『杉の木』ning o'qilishi qaysi?",
+      "word": "杉の木",
+      "choices": [
+        "そうじする",
+        "なん",
+        "あまいせいかつ",
+        "すぎのき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "杉の木 → すぎのき"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『美』ning o'qilishi qaysi?",
+      "word": "美",
+      "choices": [
+        "やわらかなふとん",
+        "ふだんぎ",
+        "かわのりゅういき",
+        "び・うつくしい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "美 → び・うつくしい"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『芳香剤』ning o'qilishi qaysi?",
+      "word": "芳香剤",
+      "choices": [
+        "ほうこうざい",
+        "ふとんをかける",
+        "あたまがかたい",
+        "りょうをする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "芳香剤 → ほうこうざい"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『o'rik (yapon o'rigi)』ning yaponcha ifodasi qaysi?",
+      "word": "梅",
+      "choices": [
+        "換える",
+        "水で味を薄める",
+        "城下町",
+        "梅"
+      ],
+      "correctAnswer": 3,
+      "explanation": "o'rik (yapon o'rigi) → 梅"
+    },
+    {
+      "id": 66,
+      "questionType": "word",
+      "question": "『qarag'ay g'uddasi, so'tasi』ning yaponcha ifodasi qaysi?",
+      "word": "松ぼっくり",
+      "choices": [
+        "教室の清掃をする",
+        "記憶が薄れる",
+        "換える",
+        "松ぼっくり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qarag'ay g'uddasi, so'tasi → 松ぼっくり"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『梅』ning o'qilishi qaysi?",
+      "word": "梅",
+      "choices": [
+        "ばい・うめ",
+        "ぎょそん",
+        "みまう",
+        "ゆ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "梅 → ばい・うめ"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『すぎのかふん』qaysi yozuvga mos?",
+      "word": "杉の花粉",
+      "choices": [
+        "汚れた服",
+        "宗",
+        "杉の花粉",
+        "整理整頓"
+      ],
+      "correctAnswer": 2,
+      "explanation": "すぎのかふん → 杉の花粉"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『うつくしい』qaysi yozuvga mos?",
+      "word": "美しい",
+      "choices": [
+        "柔和な性格",
+        "証",
+        "小麦粉と卵を混ぜる",
+        "美しい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "うつくしい → 美しい"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『しょう・まつ』qaysi yozuvga mos?",
+      "word": "松",
+      "choices": [
+        "天丼",
+        "松",
+        "本を著す",
+        "漁業を営む"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しょう・まつ → 松"
+    },
+    {
+      "id": 71,
+      "questionType": "word",
+      "question": "『sakura (gilos guli)』ning yaponcha ifodasi qaysi?",
+      "word": "桜",
+      "choices": [
+        "桜",
+        "各駅停車",
+        "国境を越える",
+        "仮"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sakura (gilos guli) → 桜"
+    },
+    {
+      "id": 72,
+      "questionType": "kanji",
+      "question": "『まつのき』qaysi yozuvga mos?",
+      "word": "松の木",
+      "choices": [
+        "針が振れる",
+        "利益を配分する",
+        "松の木",
+        "照る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "まつのき → 松の木"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『梅雨』ning o'qilishi qaysi?",
+      "word": "梅雨",
+      "choices": [
+        "しせい",
+        "すぎのかふん",
+        "つゆ",
+        "ひゃっかてん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "梅雨 → つゆ"
+    },
+    {
+      "id": 74,
+      "questionType": "sentence",
+      "question": "『松ぼっくり』ning ma'nosi qaysi?",
+      "word": "松ぼっくり",
+      "choices": [
+        "raqs",
+        "kitob yozmoq, nashr etmoq",
+        "qarag'ay g'uddasi, so'tasi",
+        "vaqt, lahza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "松ぼっくり → qarag'ay g'uddasi, so'tasi"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『よざくら』qaysi yozuvga mos?",
+      "word": "夜桜",
+      "choices": [
+        "硬貨",
+        "悲劇",
+        "前途多難",
+        "夜桜"
+      ],
+      "correctAnswer": 3,
+      "explanation": "よざくら → 夜桜"
+    },
+    {
+      "id": 76,
+      "questionType": "meaning",
+      "question": "『梅』ning ma'nosi qaysi?",
+      "word": "梅",
+      "choices": [
+        "havo pochtasi",
+        "kechikish",
+        "yapon o'rigi",
+        "kuch, vaziyat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "梅 → yapon o'rigi"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『うめ』qaysi yozuvga mos?",
+      "word": "梅",
+      "choices": [
+        "バスの停留所",
+        "梅",
+        "電車の切符",
+        "松ぼっくり"
+      ],
+      "correctAnswer": 1,
+      "explanation": "うめ → 梅"
+    },
+    {
+      "id": 78,
+      "questionType": "meaning",
+      "question": "『香る』ning ma'nosi qaysi?",
+      "word": "香る",
+      "choices": [
+        "shirin hid taratmoq",
+        "gavda turishi, holati",
+        "foydani taqsimlash",
+        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "香る → shirin hid taratmoq"
+    },
+    {
+      "id": 79,
+      "questionType": "recognition",
+      "question": "『美』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "美人",
+      "choices": [
+        "城",
+        "住居",
+        "美人",
+        "純粋な心"
+      ],
+      "correctAnswer": 2,
+      "explanation": "美 → 美人"
+    }
+  ]
+}

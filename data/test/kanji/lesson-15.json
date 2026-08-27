@@ -1,0 +1,903 @@
+{
+  "title": "Lesson 15 Test",
+  "type": "kanji",
+  "lesson": "lesson-15",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "reading",
+      "question": "『士』ning o'qilishi qaysi?",
+      "word": "士",
+      "choices": [
+        "せい・いきおい",
+        "よざくら",
+        "ざっしをよむ",
+        "し"
+      ],
+      "correctAnswer": 3,
+      "explanation": "士 → し"
+    },
+    {
+      "id": 2,
+      "questionType": "sentence",
+      "question": "『栄えある受賞』ning ma'nosi qaysi?",
+      "word": "栄えある受賞",
+      "choices": [
+        "gipoteza (faraz) qo'ymoq",
+        "foydani taqsimlash",
+        "piyoz to'g'rash",
+        "qoyilmaqom mukofot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "栄えある受賞 → qoyilmaqom mukofot"
+    },
+    {
+      "id": 3,
+      "questionType": "word",
+      "question": "『parvarish xodimi (qariya, bemorlar)』ning yaponcha ifodasi qaysi?",
+      "word": "介護士",
+      "choices": [
+        "絵画展",
+        "介護士",
+        "汁",
+        "間違える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "parvarish xodimi (qariya, bemorlar) → 介護士"
+    },
+    {
+      "id": 4,
+      "questionType": "sentence",
+      "question": "『米を貯蔵する』ning ma'nosi qaysi?",
+      "word": "米を貯蔵する",
+      "choices": [
+        "navbat almashinmoq",
+        "bank orqali to'lov qilish",
+        "oldindagi mashinani quvib o'tmoq",
+        "saqlamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "米を貯蔵する → saqlamoq"
+    },
+    {
+      "id": 5,
+      "questionType": "kanji",
+      "question": "『けんちくし』qaysi yozuvga mos?",
+      "word": "建築士",
+      "choices": [
+        "契約書",
+        "過去の栄光",
+        "建築士",
+        "のり巻き"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けんちくし → 建築士"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『ほう・たから』qaysi yozuvga mos?",
+      "word": "宝",
+      "choices": [
+        "プレゼントを贈る",
+        "快",
+        "製造年月日",
+        "宝"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ほう・たから → 宝"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『えいよう』qaysi yozuvga mos?",
+      "word": "栄養",
+      "choices": [
+        "宝くじ",
+        "栄養",
+        "育ち盛り",
+        "配"
+      ],
+      "correctAnswer": 1,
+      "explanation": "えいよう → 栄養"
+    },
+    {
+      "id": 8,
+      "questionType": "reading",
+      "question": "『栄養』ning o'qilishi qaysi?",
+      "word": "栄養",
+      "choices": [
+        "うすいかみ",
+        "りょうがわ",
+        "えいよう",
+        "きぶんてんかん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "栄養 → えいよう"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『じょう・しろ』qaysi yozuvga mos?",
+      "word": "城",
+      "choices": [
+        "車両",
+        "目標を定める",
+        "城",
+        "預"
+      ],
+      "correctAnswer": 2,
+      "explanation": "じょう・しろ → 城"
+    },
+    {
+      "id": 10,
+      "questionType": "meaning",
+      "question": "『栄』ning ma'nosi qaysi?",
+      "word": "栄",
+      "choices": [
+        "kir bo'lgan kiyim",
+        "tiqilinch, gavjumlik",
+        "yupqa, suyuq",
+        "gullamoq, yashnamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "栄 → gullamoq, yashnamoq"
+    },
+    {
+      "id": 11,
+      "questionType": "kanji",
+      "question": "『たからもの』qaysi yozuvga mos?",
+      "word": "宝物",
+      "choices": [
+        "梅",
+        "味が薄まる",
+        "並",
+        "宝物"
+      ],
+      "correctAnswer": 3,
+      "explanation": "たからもの → 宝物"
+    },
+    {
+      "id": 12,
+      "questionType": "sentence",
+      "question": "『文明が栄える』ning ma'nosi qaysi?",
+      "word": "文明が栄える",
+      "choices": [
+        "sivilizatsiya gullab yashnashi",
+        "xalqaro vaziyat",
+        "qalb tozalanmoq",
+        "yoqimli javob"
+      ],
+      "correctAnswer": 0,
+      "explanation": "文明が栄える → sivilizatsiya gullab yashnashi"
+    },
+    {
+      "id": 13,
+      "questionType": "reading",
+      "question": "『栄』ning o'qilishi qaysi?",
+      "word": "栄",
+      "choices": [
+        "えい",
+        "きがかりなこと",
+        "まんかい",
+        "パーティーにまねく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "栄 → えい"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『しろをきずく』qaysi yozuvga mos?",
+      "word": "城を築く",
+      "choices": [
+        "城を築く",
+        "千円札",
+        "輸送する",
+        "バラの香り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しろをきずく → 城を築く"
+    },
+    {
+      "id": 15,
+      "questionType": "recognition",
+      "question": "『宝』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "子宝に恵まれる",
+      "choices": [
+        "普通の家庭",
+        "気分転換",
+        "子宝に恵まれる",
+        "宗"
+      ],
+      "correctAnswer": 2,
+      "explanation": "宝 → 子宝に恵まれる"
+    },
+    {
+      "id": 16,
+      "questionType": "meaning",
+      "question": "『宝石』ning ma'nosi qaysi?",
+      "word": "宝石",
+      "choices": [
+        "gipoteza (faraz) qo'ymoq",
+        "avtobus bekati",
+        "tortmoq, solmoq (idishga)",
+        "qimmatbaho tosh"
+      ],
+      "correctAnswer": 3,
+      "explanation": "宝石 → qimmatbaho tosh"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『じょうかまち』qaysi yozuvga mos?",
+      "word": "城下町",
+      "choices": [
+        "宝",
+        "お金を恵む",
+        "複雑な計算",
+        "城下町"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じょうかまち → 城下町"
+    },
+    {
+      "id": 18,
+      "questionType": "word",
+      "question": "『qasr』ning yaponcha ifodasi qaysi?",
+      "word": "城",
+      "choices": [
+        "城",
+        "日本庭園",
+        "宝物",
+        "犬の首輪"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qasr → 城"
+    },
+    {
+      "id": 19,
+      "questionType": "word",
+      "question": "『lotereya』ning yaponcha ifodasi qaysi?",
+      "word": "宝くじ",
+      "choices": [
+        "輸血用の血液",
+        "宝くじ",
+        "心に刻む",
+        "旅券"
+      ],
+      "correctAnswer": 1,
+      "explanation": "lotereya → 宝くじ"
+    },
+    {
+      "id": 20,
+      "questionType": "recognition",
+      "question": "『蔵』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "蔵",
+      "choices": [
+        "姿勢",
+        "蔵",
+        "免許証",
+        "込"
+      ],
+      "correctAnswer": 1,
+      "explanation": "蔵 → 蔵"
+    },
+    {
+      "id": 21,
+      "questionType": "meaning",
+      "question": "『栄えある受賞』ning ma'nosi qaysi?",
+      "word": "栄えある受賞",
+      "choices": [
+        "ish turg'unlashishi, sekinlashishi",
+        "bo'yinbog' (hayvon uchun)",
+        "qoyilmaqom mukofot",
+        "supurmoq, tozalamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "栄えある受賞 → qoyilmaqom mukofot"
+    },
+    {
+      "id": 22,
+      "questionType": "recognition",
+      "question": "『城』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "城下町",
+      "choices": [
+        "杉の木",
+        "混ざる",
+        "城下町",
+        "著"
+      ],
+      "correctAnswer": 2,
+      "explanation": "城 → 城下町"
+    },
+    {
+      "id": 23,
+      "questionType": "word",
+      "question": "『o'tmishdagi shon-sharaf』ning yaponcha ifodasi qaysi?",
+      "word": "過去の栄光",
+      "choices": [
+        "非難の標的となる",
+        "過去の栄光",
+        "方針を固める",
+        "雑"
+      ],
+      "correctAnswer": 1,
+      "explanation": "o'tmishdagi shon-sharaf → 過去の栄光"
+    },
+    {
+      "id": 24,
+      "questionType": "meaning",
+      "question": "『栄養』ning ma'nosi qaysi?",
+      "word": "栄養",
+      "choices": [
+        "brokerlik kompaniyasi",
+        "o'qishdan vaqtincha chetlatish",
+        "bankka pul qo'yish",
+        "ozuqa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "栄養 → ozuqa"
+    },
+    {
+      "id": 25,
+      "questionType": "sentence",
+      "question": "『子宝に恵まれる』ning ma'nosi qaysi?",
+      "word": "子宝に恵まれる",
+      "choices": [
+        "belgi, banknota",
+        "farzand bilan siylanmoq",
+        "piyoz to'g'rash",
+        "almashtirish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "子宝に恵まれる → farzand bilan siylanmoq"
+    },
+    {
+      "id": 26,
+      "questionType": "meaning",
+      "question": "『文明が栄える』ning ma'nosi qaysi?",
+      "word": "文明が栄える",
+      "choices": [
+        "sivilizatsiya gullab yashnashi",
+        "yurakdan bajarish",
+        "chiroyli",
+        "adashmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "文明が栄える → sivilizatsiya gullab yashnashi"
+    },
+    {
+      "id": 27,
+      "questionType": "recognition",
+      "question": "『蔵』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "米を貯蔵する",
+      "choices": [
+        "快気祝い",
+        "部屋を汚す",
+        "米を貯蔵する",
+        "過つ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "蔵 → 米を貯蔵する"
+    },
+    {
+      "id": 28,
+      "questionType": "reading",
+      "question": "『宝石』ning o'qilishi qaysi?",
+      "word": "宝石",
+      "choices": [
+        "わ",
+        "しょうけんがいしゃ",
+        "ほうせき",
+        "たんじゅんなもんだい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "宝石 → ほうせき"
+    },
+    {
+      "id": 29,
+      "questionType": "meaning",
+      "question": "『子宝に恵まれる』ning ma'nosi qaysi?",
+      "word": "子宝に恵まれる",
+      "choices": [
+        "farzand bilan siylanmoq",
+        "yapon usulidagi bog'",
+        "adashmoq, xato qilmoq",
+        "havo almashtirish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "子宝に恵まれる → farzand bilan siylanmoq"
+    },
+    {
+      "id": 30,
+      "questionType": "meaning",
+      "question": "『蔵』ning ma'nosi qaysi?",
+      "word": "蔵",
+      "choices": [
+        "shirin hayot",
+        "hudud",
+        "moslashuvchan emas, gap uqmaydigan odam",
+        "omborxona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "蔵 → omborxona"
+    },
+    {
+      "id": 31,
+      "questionType": "word",
+      "question": "『arxitektor, quruvchi』ning yaponcha ifodasi qaysi?",
+      "word": "建築士",
+      "choices": [
+        "建築士",
+        "明るい家庭を築く",
+        "台風の勢力",
+        "軽薄な人"
+      ],
+      "correctAnswer": 0,
+      "explanation": "arxitektor, quruvchi → 建築士"
+    },
+    {
+      "id": 32,
+      "questionType": "recognition",
+      "question": "『宝』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "国宝",
+      "choices": [
+        "国宝",
+        "介護士",
+        "駐車禁止",
+        "混ざる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "宝 → 国宝"
+    },
+    {
+      "id": 33,
+      "questionType": "word",
+      "question": "『muzlatkich』ning yaponcha ifodasi qaysi?",
+      "word": "冷蔵庫",
+      "choices": [
+        "堂々",
+        "盛",
+        "混乱",
+        "冷蔵庫"
+      ],
+      "correctAnswer": 3,
+      "explanation": "muzlatkich → 冷蔵庫"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『くら』qaysi yozuvga mos?",
+      "word": "蔵",
+      "choices": [
+        "蔵",
+        "旅券",
+        "郵便局",
+        "美人"
+      ],
+      "correctAnswer": 0,
+      "explanation": "くら → 蔵"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『ぞう・くら』qaysi yozuvga mos?",
+      "word": "蔵",
+      "choices": [
+        "航空便",
+        "日誌をつける",
+        "蔵",
+        "千円札"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぞう・くら → 蔵"
+    },
+    {
+      "id": 36,
+      "questionType": "word",
+      "question": "『mutaxassis, kasb egasi』ning yaponcha ifodasi qaysi?",
+      "word": "士",
+      "choices": [
+        "普通預金",
+        "松",
+        "士",
+        "快い返事"
+      ],
+      "correctAnswer": 2,
+      "explanation": "mutaxassis, kasb egasi → 士"
+    },
+    {
+      "id": 37,
+      "questionType": "word",
+      "question": "『saqlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "米を貯蔵する",
+      "choices": [
+        "米を貯蔵する",
+        "標準",
+        "週刊誌",
+        "混雑"
+      ],
+      "correctAnswer": 0,
+      "explanation": "saqlamoq → 米を貯蔵する"
+    },
+    {
+      "id": 38,
+      "questionType": "sentence",
+      "question": "『城を築く』ning ma'nosi qaysi?",
+      "word": "城を築く",
+      "choices": [
+        "ifloslantirilgan daryo",
+        "sahnaga chiqish",
+        "kitobni pochta orqali yuborish",
+        "qasr bunyod etish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "城を築く → qasr bunyod etish"
+    },
+    {
+      "id": 39,
+      "questionType": "meaning",
+      "question": "『宝物』ning ma'nosi qaysi?",
+      "word": "宝物",
+      "choices": [
+        "o'rtacha hayot kechirish",
+        "qimmatbaho buyum",
+        "tiqilinch, gavjumlik",
+        "univermag, universal magazin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "宝物 → qimmatbaho buyum"
+    },
+    {
+      "id": 40,
+      "questionType": "meaning",
+      "question": "『国宝』ning ma'nosi qaysi?",
+      "word": "国宝",
+      "choices": [
+        "sahnaga chiqish",
+        "katta portsiya ovqat",
+        "milliy boylik",
+        "poyezdni to'xtashi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "国宝 → milliy boylik"
+    },
+    {
+      "id": 41,
+      "questionType": "meaning",
+      "question": "『城を築く』ning ma'nosi qaysi?",
+      "word": "城を築く",
+      "choices": [
+        "qasr bunyod etish",
+        "osmoq, ilmoq",
+        "qotmoq",
+        "sovg'a"
+      ],
+      "correctAnswer": 0,
+      "explanation": "城を築く → qasr bunyod etish"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『たからくじ』qaysi yozuvga mos?",
+      "word": "宝くじ",
+      "choices": [
+        "越",
+        "快い返事",
+        "遅刻",
+        "宝くじ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "たからくじ → 宝くじ"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『宝』ning o'qilishi qaysi?",
+      "word": "宝",
+      "choices": [
+        "か",
+        "こめのなかにむぎがまじっている",
+        "ほう・たから",
+        "にほんのすがた"
+      ],
+      "correctAnswer": 2,
+      "explanation": "宝 → ほう・たから"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『冷蔵庫』ning o'qilishi qaysi?",
+      "word": "冷蔵庫",
+      "choices": [
+        "れいぞうこ",
+        "し・すがた",
+        "やわらかいごはん",
+        "けいはくなひと"
+      ],
+      "correctAnswer": 0,
+      "explanation": "冷蔵庫 → れいぞうこ"
+    },
+    {
+      "id": 45,
+      "questionType": "kanji",
+      "question": "『こくほう』qaysi yozuvga mos?",
+      "word": "国宝",
+      "choices": [
+        "住居",
+        "明るい家庭を築く",
+        "子供を送り届ける",
+        "国宝"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こくほう → 国宝"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『宝くじ』ning o'qilishi qaysi?",
+      "word": "宝くじ",
+      "choices": [
+        "いま",
+        "ぎょ・りょう",
+        "たからくじ",
+        "じゅん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "宝くじ → たからくじ"
+    },
+    {
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『えい』qaysi yozuvga mos?",
+      "word": "栄",
+      "choices": [
+        "硬貨",
+        "絵の具を溶く",
+        "栄",
+        "混乱"
+      ],
+      "correctAnswer": 2,
+      "explanation": "えい → 栄"
+    },
+    {
+      "id": 48,
+      "questionType": "reading",
+      "question": "『建築士』ning o'qilishi qaysi?",
+      "word": "建築士",
+      "choices": [
+        "さつ・ふだ",
+        "けんちくし",
+        "ひげき",
+        "こうしんりょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "建築士 → けんちくし"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『蔵』ning o'qilishi qaysi?",
+      "word": "蔵",
+      "choices": [
+        "ぞう・くら",
+        "てる",
+        "どうろひょうしき",
+        "はらいもどす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "蔵 → ぞう・くら"
+    },
+    {
+      "id": 50,
+      "questionType": "reading",
+      "question": "『城』ning o'qilishi qaysi?",
+      "word": "城",
+      "choices": [
+        "めんきょしょう",
+        "じょう・しろ",
+        "もる",
+        "ふつうこうこう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "城 → じょう・しろ"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『し』qaysi yozuvga mos?",
+      "word": "士",
+      "choices": [
+        "両方",
+        "通貨",
+        "士",
+        "換える"
+      ],
+      "correctAnswer": 2,
+      "explanation": "し → 士"
+    },
+    {
+      "id": 52,
+      "questionType": "sentence",
+      "question": "『過去の栄光』ning ma'nosi qaysi?",
+      "word": "過去の栄光",
+      "choices": [
+        "o'tmishdagi shon-sharaf",
+        "almashtirmoq",
+        "erish, moliya",
+        "suzish, uchish (transport)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "過去の栄光 → o'tmishdagi shon-sharaf"
+    },
+    {
+      "id": 53,
+      "questionType": "reading",
+      "question": "『介護士』ning o'qilishi qaysi?",
+      "word": "介護士",
+      "choices": [
+        "あやまちをおかす",
+        "かいごし",
+        "いたみがうすらぐ",
+        "えんげき"
+      ],
+      "correctAnswer": 1,
+      "explanation": "介護士 → かいごし"
+    },
+    {
+      "id": 54,
+      "questionType": "reading",
+      "question": "『宝物』ning o'qilishi qaysi?",
+      "word": "宝物",
+      "choices": [
+        "もくひょうにとうたつする",
+        "おんけいをうける",
+        "よごれたふく",
+        "たからもの"
+      ],
+      "correctAnswer": 3,
+      "explanation": "宝物 → たからもの"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『かいごし』qaysi yozuvga mos?",
+      "word": "介護士",
+      "choices": [
+        "普通高校",
+        "定期券",
+        "介護士",
+        "郵便局"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かいごし → 介護士"
+    },
+    {
+      "id": 56,
+      "questionType": "reading",
+      "question": "『蔵』ning o'qilishi qaysi?",
+      "word": "蔵",
+      "choices": [
+        "くら",
+        "パーティーにまねく",
+        "しんこくなもんだい",
+        "ととのえる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "蔵 → くら"
+    },
+    {
+      "id": 57,
+      "questionType": "recognition",
+      "question": "『城』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "城を築く",
+      "choices": [
+        "味が薄まる",
+        "漁",
+        "舞",
+        "城を築く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "城 → 城を築く"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『宝』ning ma'nosi qaysi?",
+      "word": "宝",
+      "choices": [
+        "tiqilinch, gavjumlik",
+        "taklif qilmoq",
+        "chuqur kosa (donburi)",
+        "xazina, boylik"
+      ],
+      "correctAnswer": 3,
+      "explanation": "宝 → xazina, boylik"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『れいぞうこ』qaysi yozuvga mos?",
+      "word": "冷蔵庫",
+      "choices": [
+        "証明する",
+        "柔道",
+        "保証人",
+        "冷蔵庫"
+      ],
+      "correctAnswer": 3,
+      "explanation": "れいぞうこ → 冷蔵庫"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『ほうせき』qaysi yozuvga mos?",
+      "word": "宝石",
+      "choices": [
+        "香辛料",
+        "域",
+        "宝石",
+        "プレゼントを贈る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ほうせき → 宝石"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『城下町』ning o'qilishi qaysi?",
+      "word": "城下町",
+      "choices": [
+        "おくる",
+        "じょうかまち",
+        "つゆ",
+        "たきでしんしんをきよめる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "城下町 → じょうかまち"
+    },
+    {
+      "id": 62,
+      "questionType": "word",
+      "question": "『ombor, saqlash』ning yaponcha ifodasi qaysi?",
+      "word": "蔵",
+      "choices": [
+        "宗派",
+        "払い戻す",
+        "服を脱ぐ",
+        "蔵"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ombor, saqlash → 蔵"
+    },
+    {
+      "id": 63,
+      "questionType": "meaning",
+      "question": "『城下町』ning ma'nosi qaysi?",
+      "word": "城下町",
+      "choices": [
+        "qasr shahar",
+        "hovli, bog'",
+        "katta portsiya ovqat",
+        "o'rtacha hayot kechirish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "城下町 → qasr shahar"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『国宝』ning o'qilishi qaysi?",
+      "word": "国宝",
+      "choices": [
+        "じゅんすいなこころ",
+        "こくほう",
+        "バターとかす",
+        "かわせレート"
+      ],
+      "correctAnswer": 1,
+      "explanation": "国宝 → こくほう"
+    }
+  ]
+}

@@ -1,0 +1,1883 @@
+{
+  "title": "Lesson 12 Test",
+  "type": "goi",
+  "lesson": "lesson-12",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "kanji",
+      "question": "『あいじょう』qaysi yozuvga mos?",
+      "word": "愛情",
+      "choices": [
+        "家屋",
+        "利便性",
+        "愛情",
+        "夢中な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あいじょう → 愛情"
+    },
+    {
+      "id": 2,
+      "questionType": "word",
+      "question": "『oxirgi avtobus』ning yaponcha ifodasi qaysi?",
+      "word": "終バス",
+      "choices": [
+        "あえて",
+        "好景気",
+        "称賛する",
+        "終バス"
+      ],
+      "correctAnswer": 3,
+      "explanation": "oxirgi avtobus → 終バス"
+    },
+    {
+      "id": 3,
+      "questionType": "meaning",
+      "question": "『ガーデニング』ning ma'nosi qaysi?",
+      "word": "ガーデニング",
+      "choices": [
+        "hakam",
+        "bog'dorchilik",
+        "sharofati bilan",
+        "yuqori unumli, samarali (texnika)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ガーデニング → bog'dorchilik"
+    },
+    {
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『れんあいする』qaysi yozuvga mos?",
+      "word": "恋愛する",
+      "choices": [
+        "散らばる",
+        "いまさら",
+        "甘える",
+        "恋愛する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "れんあいする → 恋愛する"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『bir joyda uzluksiz ishlash』ning yaponcha ifodasi qaysi?",
+      "word": "勤続する",
+      "choices": [
+        "マイホーム",
+        "ささいな",
+        "勤続する",
+        "ホラ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "bir joyda uzluksiz ishlash → 勤続する"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『しゅうバス』qaysi yozuvga mos?",
+      "word": "終バス",
+      "choices": [
+        "制限する",
+        "悪条件",
+        "終バス",
+        "ペア"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しゅうバス → 終バス"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『しゅうでん』qaysi yozuvga mos?",
+      "word": "終電",
+      "choices": [
+        "崩れる",
+        "終電",
+        "勤続する",
+        "もしかすると"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しゅうでん → 終電"
+    },
+    {
+      "id": 8,
+      "questionType": "word",
+      "question": "『charaqlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "輝く",
+      "choices": [
+        "輝く",
+        "ご馳走する",
+        "何気ない",
+        "覚え"
+      ],
+      "correctAnswer": 0,
+      "explanation": "charaqlamoq → 輝く"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『しゅうでん』qaysi yozuvga mos?",
+      "word": "終電",
+      "choices": [
+        "独立する",
+        "名声",
+        "一人暮らし",
+        "終電"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しゅうでん → 終電"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『ガーデニング』ning ma'nosi qaysi?",
+      "word": "ガーデニング",
+      "choices": [
+        "bog'dorchilik",
+        "jon kuydirib xizmat qilmoq, bag'ishlamoq",
+        "o'z tomoni, oldingi (o'ziga yaqin) tomon",
+        "sharofati bilan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ガーデニング → bog'dorchilik"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『点検する』ning o'qilishi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "ひとみがきつい",
+        "ちる",
+        "てんけんする",
+        "ぎろんする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "点検する → てんけんする"
+    },
+    {
+      "id": 12,
+      "questionType": "meaning",
+      "question": "『輝く』ning ma'nosi qaysi?",
+      "word": "輝く",
+      "choices": [
+        "charaqlamoq",
+        "kasallik holati",
+        "kamsitmoq",
+        "sevmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "輝く → charaqlamoq"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『かがやく』qaysi yozuvga mos?",
+      "word": "輝く",
+      "choices": [
+        "介助犬",
+        "難民",
+        "妊娠する",
+        "輝く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かがやく → 輝く"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『かがやく』qaysi yozuvga mos?",
+      "word": "輝く",
+      "choices": [
+        "無口な",
+        "親元",
+        "密かに",
+        "輝く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かがやく → 輝く"
+    },
+    {
+      "id": 15,
+      "questionType": "reading",
+      "question": "『株価』ning o'qilishi qaysi?",
+      "word": "株価",
+      "choices": [
+        "わるちえ",
+        "かぶか",
+        "ていじげん",
+        "めがさめる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "株価 → かぶか"
+    },
+    {
+      "id": 16,
+      "questionType": "reading",
+      "question": "『知らないふり』ning o'qilishi qaysi?",
+      "word": "知らないふり",
+      "choices": [
+        "りべんせい",
+        "ルール",
+        "しらないふり",
+        "ていじげん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "知らないふり → しらないふり"
+    },
+    {
+      "id": 17,
+      "questionType": "meaning",
+      "question": "『終電』ning ma'nosi qaysi?",
+      "word": "終電",
+      "choices": [
+        "lip etib, bir zum",
+        "o'rnak olmoq",
+        "oxirgi poyezd",
+        "bekitiqcha ish qilmoq, pusmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "終電 → oxirgi poyezd"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『不運な』ning ma'nosi qaysi?",
+      "word": "不運な",
+      "choices": [
+        "aytish mumkinki, go'yo",
+        "omadsiz",
+        "yaxshi fikr",
+        "baqirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "不運な → omadsiz"
+    },
+    {
+      "id": 19,
+      "questionType": "meaning",
+      "question": "『ユニークな』ning ma'nosi qaysi?",
+      "word": "ユニークな",
+      "choices": [
+        "uy loyihasi (necha xonali ekanligi)",
+        "og'zi bo'sh (sir saqlay olmaydigan)",
+        "(gap, salom, qo'l) almashmoq",
+        "o'ziga xos, betakror"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ユニークな → o'ziga xos, betakror"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『会費』ning o'qilishi qaysi?",
+      "word": "会費",
+      "choices": [
+        "ぐち",
+        "かいひ",
+        "ちる",
+        "どうき"
+      ],
+      "correctAnswer": 1,
+      "explanation": "会費 → かいひ"
+    },
+    {
+      "id": 21,
+      "questionType": "sentence",
+      "question": "『称賛する』ning ma'nosi qaysi?",
+      "word": "称賛する",
+      "choices": [
+        "tikilmoq",
+        "maqtamoq, olqishlamoq",
+        "bir joyda uzluksiz ishlash",
+        "bilvosita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "称賛する → maqtamoq, olqishlamoq"
+    },
+    {
+      "id": 22,
+      "questionType": "word",
+      "question": "『tekshirmoq, nazorat qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "制限する",
+        "好条件",
+        "責める",
+        "点検する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "tekshirmoq, nazorat qilmoq → 点検する"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『てんけんする』qaysi yozuvga mos?",
+      "word": "点検する",
+      "choices": [
+        "点検する",
+        "梨",
+        "空間",
+        "近所付き合い"
+      ],
+      "correctAnswer": 0,
+      "explanation": "てんけんする → 点検する"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『くちがかるい』qaysi yozuvga mos?",
+      "word": "口が軽い",
+      "choices": [
+        "口が軽い",
+        "ローン",
+        "ジェネレーション",
+        "散る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "くちがかるい → 口が軽い"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『かいひ』qaysi yozuvga mos?",
+      "word": "会費",
+      "choices": [
+        "尊重する",
+        "会費",
+        "俺",
+        "高血圧"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かいひ → 会費"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『しらないふり』qaysi yozuvga mos?",
+      "word": "知らないふり",
+      "choices": [
+        "アプローチする",
+        "西向き",
+        "知らないふり",
+        "ユニークな"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しらないふり → 知らないふり"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『れんあいする』qaysi yozuvga mos?",
+      "word": "恋愛する",
+      "choices": [
+        "迷惑行為",
+        "恋愛する",
+        "信頼する",
+        "奥"
+      ],
+      "correctAnswer": 1,
+      "explanation": "れんあいする → 恋愛する"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『かぶか』qaysi yozuvga mos?",
+      "word": "株価",
+      "choices": [
+        "株価",
+        "あくびする",
+        "わざわざ",
+        "自分勝手な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かぶか → 株価"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『aksiyalar narxi』ning yaponcha ifodasi qaysi?",
+      "word": "株価",
+      "choices": [
+        "株価",
+        "抗議する",
+        "頼る",
+        "ローン"
+      ],
+      "correctAnswer": 0,
+      "explanation": "aksiyalar narxi → 株価"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『sevgi, muhabbat』ning yaponcha ifodasi qaysi?",
+      "word": "愛情",
+      "choices": [
+        "誓う",
+        "愛情",
+        "もしかすると",
+        "議論する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sevgi, muhabbat → 愛情"
+    },
+    {
+      "id": 31,
+      "questionType": "reading",
+      "question": "『輝く』ning o'qilishi qaysi?",
+      "word": "輝く",
+      "choices": [
+        "かがやく",
+        "きんじょづきあい",
+        "たよりになる",
+        "ガーデニング"
+      ],
+      "correctAnswer": 0,
+      "explanation": "輝く → かがやく"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『むくちな』qaysi yozuvga mos?",
+      "word": "無口な",
+      "choices": [
+        "一戸建て",
+        "打ち明ける",
+        "無口な",
+        "心当たり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "むくちな → 無口な"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『くいしんぼう』qaysi yozuvga mos?",
+      "word": "食いしん坊",
+      "choices": [
+        "荒らす",
+        "過去",
+        "食いしん坊",
+        "書面"
+      ],
+      "correctAnswer": 2,
+      "explanation": "くいしんぼう → 食いしん坊"
+    },
+    {
+      "id": 34,
+      "questionType": "reading",
+      "question": "『老犬』ning o'qilishi qaysi?",
+      "word": "老犬",
+      "choices": [
+        "まどり",
+        "あいつ",
+        "いまさら",
+        "ろうけん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "老犬 → ろうけん"
+    },
+    {
+      "id": 35,
+      "questionType": "reading",
+      "question": "『不運な』ning o'qilishi qaysi?",
+      "word": "不運な",
+      "choices": [
+        "しゅっしん",
+        "わるちえ",
+        "ふけいき",
+        "ふうんな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "不運な → ふうんな"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『くちがかるい』qaysi yozuvga mos?",
+      "word": "口が軽い",
+      "choices": [
+        "口が軽い",
+        "役目",
+        "正午",
+        "徹夜する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "くちがかるい → 口が軽い"
+    },
+    {
+      "id": 37,
+      "questionType": "sentence",
+      "question": "『口が軽い』ning ma'nosi qaysi?",
+      "word": "口が軽い",
+      "choices": [
+        "ichib o'zini yomon his qilish",
+        "sog'inch uyg'otadigan, eslashga arzigulik",
+        "mehr",
+        "og'zi bo'sh (sir saqlay olmaydigan)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "口が軽い → og'zi bo'sh (sir saqlay olmaydigan)"
+    },
+    {
+      "id": 38,
+      "questionType": "kanji",
+      "question": "『ホラ』qaysi yozuvga mos?",
+      "word": "ホラ",
+      "choices": [
+        "ホラ",
+        "示す",
+        "接する",
+        "集中力"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ホラ → ホラ"
+    },
+    {
+      "id": 39,
+      "questionType": "meaning",
+      "question": "『食いしん坊』ning ma'nosi qaysi?",
+      "word": "食いしん坊",
+      "choices": [
+        "bezovta qiluvchi xatti-harakat",
+        "gina qilmoq, kek saqlamoq",
+        "ochofat, yeyishga o'ch",
+        "zarar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "食いしん坊 → ochofat, yeyishga o'ch"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『ユニークな』ning o'qilishi qaysi?",
+      "word": "ユニークな",
+      "choices": [
+        "もしかすると",
+        "たにんどうし",
+        "ただいま",
+        "ユニークな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ユニークな → ユニークな"
+    },
+    {
+      "id": 41,
+      "questionType": "kanji",
+      "question": "『ろうけん』qaysi yozuvga mos?",
+      "word": "老犬",
+      "choices": [
+        "貸し借りする",
+        "物置",
+        "好印象",
+        "老犬"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ろうけん → 老犬"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『びょうじょう』qaysi yozuvga mos?",
+      "word": "病状",
+      "choices": [
+        "〜未満",
+        "仲良し",
+        "病状",
+        "食べ盛り"
+      ],
+      "correctAnswer": 2,
+      "explanation": "びょうじょう → 病状"
+    },
+    {
+      "id": 43,
+      "questionType": "word",
+      "question": "『oxirgi poyezd』ning yaponcha ifodasi qaysi?",
+      "word": "終電",
+      "choices": [
+        "好印象",
+        "終電",
+        "頼る",
+        "借金する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "oxirgi poyezd → 終電"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『好景気』ning o'qilishi qaysi?",
+      "word": "好景気",
+      "choices": [
+        "ちらりと",
+        "こうけいき",
+        "あまえ",
+        "ストライキ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "好景気 → こうけいき"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『終電』ning o'qilishi qaysi?",
+      "word": "終電",
+      "choices": [
+        "せんめんじょ",
+        "めいせい",
+        "うらぎる",
+        "しゅうでん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "終電 → しゅうでん"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『恋愛する』ning o'qilishi qaysi?",
+      "word": "恋愛する",
+      "choices": [
+        "くちげんかする",
+        "はいしする",
+        "れんあいする",
+        "そらす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "恋愛する → れんあいする"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『omadsiz』ning yaponcha ifodasi qaysi?",
+      "word": "不運な",
+      "choices": [
+        "不運な",
+        "聡明な",
+        "産婦人科",
+        "避ける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "omadsiz → 不運な"
+    },
+    {
+      "id": 48,
+      "questionType": "reading",
+      "question": "『称賛する』ning o'qilishi qaysi?",
+      "word": "称賛する",
+      "choices": [
+        "せっする",
+        "ざつな",
+        "しょうさんする",
+        "のうそん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "称賛する → しょうさんする"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『愛情』ning o'qilishi qaysi?",
+      "word": "愛情",
+      "choices": [
+        "あいじょう",
+        "どういする",
+        "ヘルパー",
+        "はち"
+      ],
+      "correctAnswer": 0,
+      "explanation": "愛情 → あいじょう"
+    },
+    {
+      "id": 50,
+      "questionType": "word",
+      "question": "『sevib qolmoq, romantik munosabatda bo'lmoq』ning yaponcha ifodasi qaysi?",
+      "word": "恋愛する",
+      "choices": [
+        "わが町",
+        "恋愛する",
+        "おかげ",
+        "放っておく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sevib qolmoq, romantik munosabatda bo'lmoq → 恋愛する"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『やがい』qaysi yozuvga mos?",
+      "word": "野外",
+      "choices": [
+        "反省会",
+        "害",
+        "乗り切る",
+        "野外"
+      ],
+      "correctAnswer": 3,
+      "explanation": "やがい → 野外"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『xavotirlanmoq, tashvishlanmoq』ning yaponcha ifodasi qaysi?",
+      "word": "懸念する",
+      "choices": [
+        "乗り切る",
+        "懸念する",
+        "むしろ",
+        "独立する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "xavotirlanmoq, tashvishlanmoq → 懸念する"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『点検する』ning ma'nosi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "hurmat qilmoq, qadrlamoq",
+        "o'sha inson, anovi",
+        "tarmoq; aloqalar tarmog'i",
+        "tekshirmoq, nazorat qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "点検する → tekshirmoq, nazorat qilmoq"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『やがい』qaysi yozuvga mos?",
+      "word": "野外",
+      "choices": [
+        "納得する",
+        "野外",
+        "ぐち",
+        "介助犬"
+      ],
+      "correctAnswer": 1,
+      "explanation": "やがい → 野外"
+    },
+    {
+      "id": 55,
+      "questionType": "word",
+      "question": "『kasallik holati』ning yaponcha ifodasi qaysi?",
+      "word": "病状",
+      "choices": [
+        "病状",
+        "打ち明ける",
+        "ユニークな",
+        "思いやり"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kasallik holati → 病状"
+    },
+    {
+      "id": 56,
+      "questionType": "sentence",
+      "question": "『懸念する』ning ma'nosi qaysi?",
+      "word": "懸念する",
+      "choices": [
+        "yaxshi xulqli odam",
+        "shahar qurilishi, shaharsozlik",
+        "mamlakatim",
+        "xavotirlanmoq, tashvishlanmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "懸念する → xavotirlanmoq, tashvishlanmoq"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『こうけいき』qaysi yozuvga mos?",
+      "word": "好景気",
+      "choices": [
+        "堅苦しい",
+        "住宅ローン",
+        "野外",
+        "好景気"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こうけいき → 好景気"
+    },
+    {
+      "id": 58,
+      "questionType": "kanji",
+      "question": "『ホラ』qaysi yozuvga mos?",
+      "word": "ホラ",
+      "choices": [
+        "出身",
+        "ホラ",
+        "散らかる",
+        "カンニングする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ホラ → ホラ"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『愛情』ning o'qilishi qaysi?",
+      "word": "愛情",
+      "choices": [
+        "あいじょう",
+        "たどりつく",
+        "こうじつ",
+        "たよりにする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "愛情 → あいじょう"
+    },
+    {
+      "id": 60,
+      "questionType": "reading",
+      "question": "『口が軽い』ning o'qilishi qaysi?",
+      "word": "口が軽い",
+      "choices": [
+        "せいげんする",
+        "あくじゅんかん",
+        "くちがかるい",
+        "ふだん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "口が軽い → くちがかるい"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『ochiq havoda, tabiatda』ning yaponcha ifodasi qaysi?",
+      "word": "野外",
+      "choices": [
+        "蜂",
+        "野外",
+        "低姿勢",
+        "言い訳"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ochiq havoda, tabiatda → 野外"
+    },
+    {
+      "id": 62,
+      "questionType": "kanji",
+      "question": "『てんけんする』qaysi yozuvga mos?",
+      "word": "点検する",
+      "choices": [
+        "点検する",
+        "手ぶら",
+        "見つめる",
+        "口が軽い"
+      ],
+      "correctAnswer": 0,
+      "explanation": "てんけんする → 点検する"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『oxirgi avtobus』ning yaponcha ifodasi qaysi?",
+      "word": "終バス",
+      "choices": [
+        "終バス",
+        "近所付き合い",
+        "うつむく",
+        "称賛する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "oxirgi avtobus → 終バス"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『会費』ning ma'nosi qaysi?",
+      "word": "会費",
+      "choices": [
+        "ko'chirmoq (imtihonda)",
+        "bezovta qiluvchi xatti-harakat",
+        "a'zo to'lovi",
+        "hangu mang bo'lmoq, yoqa ushlamoq (salbiy hayrat)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "会費 → a'zo to'lovi"
+    },
+    {
+      "id": 65,
+      "questionType": "reading",
+      "question": "『懸念する』ning o'qilishi qaysi?",
+      "word": "懸念する",
+      "choices": [
+        "きんく",
+        "こうほ",
+        "もも",
+        "けねんする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "懸念する → けねんする"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『きんぞくする』qaysi yozuvga mos?",
+      "word": "勤続する",
+      "choices": [
+        "右に出る者はいない",
+        "悪天候",
+        "瞳がきつい",
+        "勤続する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "きんぞくする → 勤続する"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『ふうんな』qaysi yozuvga mos?",
+      "word": "不運な",
+      "choices": [
+        "解ける",
+        "高学年",
+        "不運な",
+        "呼び出す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ふうんな → 不運な"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『しゅうバス』qaysi yozuvga mos?",
+      "word": "終バス",
+      "choices": [
+        "終バス",
+        "だまる",
+        "一目",
+        "役目"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しゅうバス → 終バス"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『きんぞくする』qaysi yozuvga mos?",
+      "word": "勤続する",
+      "choices": [
+        "勤続する",
+        "独立する",
+        "人通り",
+        "悪ふざけ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きんぞくする → 勤続する"
+    },
+    {
+      "id": 70,
+      "questionType": "reading",
+      "question": "『ホラ』ning o'qilishi qaysi?",
+      "word": "ホラ",
+      "choices": [
+        "こうけつあつ",
+        "ホラ",
+        "うらやましい",
+        "たいくつな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ホラ → ホラ"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『むくちな』qaysi yozuvga mos?",
+      "word": "無口な",
+      "choices": [
+        "瞳がきつい",
+        "ジェネレーション",
+        "無口な",
+        "洗面所"
+      ],
+      "correctAnswer": 2,
+      "explanation": "むくちな → 無口な"
+    },
+    {
+      "id": 72,
+      "questionType": "reading",
+      "question": "『会費』ning o'qilishi qaysi?",
+      "word": "会費",
+      "choices": [
+        "かいひ",
+        "こんなんな",
+        "きんじょづきあい",
+        "くうかん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "会費 → かいひ"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『ふうんな』qaysi yozuvga mos?",
+      "word": "不運な",
+      "choices": [
+        "学食",
+        "名著",
+        "世代",
+        "不運な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ふうんな → 不運な"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『終バス』ning o'qilishi qaysi?",
+      "word": "終バス",
+      "choices": [
+        "れいきん",
+        "しゅうバス",
+        "ろうけん",
+        "からかう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "終バス → しゅうバス"
+    },
+    {
+      "id": 75,
+      "questionType": "word",
+      "question": "『jim, kam gapiradigan』ning yaponcha ifodasi qaysi?",
+      "word": "無口な",
+      "choices": [
+        "注意報",
+        "覚え",
+        "無口な",
+        "まさか"
+      ],
+      "correctAnswer": 2,
+      "explanation": "jim, kam gapiradigan → 無口な"
+    },
+    {
+      "id": 76,
+      "questionType": "word",
+      "question": "『aksiyalar narxi』ning yaponcha ifodasi qaysi?",
+      "word": "株価",
+      "choices": [
+        "折りたたみ傘",
+        "株価",
+        "禁物",
+        "注射する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "aksiyalar narxi → 株価"
+    },
+    {
+      "id": 77,
+      "questionType": "reading",
+      "question": "『輝く』ning o'qilishi qaysi?",
+      "word": "輝く",
+      "choices": [
+        "みつめる",
+        "こうろん",
+        "コンパ",
+        "かがやく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輝く → かがやく"
+    },
+    {
+      "id": 78,
+      "questionType": "word",
+      "question": "『iqtisodiy farovonlik』ning yaponcha ifodasi qaysi?",
+      "word": "好景気",
+      "choices": [
+        "名曲",
+        "表示する",
+        "度重なる",
+        "好景気"
+      ],
+      "correctAnswer": 3,
+      "explanation": "iqtisodiy farovonlik → 好景気"
+    },
+    {
+      "id": 79,
+      "questionType": "sentence",
+      "question": "『ユニークな』ning ma'nosi qaysi?",
+      "word": "ユニークな",
+      "choices": [
+        "yadro quroli",
+        "qasam ichmoq",
+        "past qon bosimi",
+        "o'ziga xos, betakror"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ユニークな → o'ziga xos, betakror"
+    },
+    {
+      "id": 80,
+      "questionType": "meaning",
+      "question": "『懸念する』ning ma'nosi qaysi?",
+      "word": "懸念する",
+      "choices": [
+        "xavotirlanmoq, tashvishlanmoq",
+        "bir qarash; el nigohi",
+        "charaqlamoq",
+        "keksa it"
+      ],
+      "correctAnswer": 0,
+      "explanation": "懸念する → xavotirlanmoq, tashvishlanmoq"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『びょうじょう』qaysi yozuvga mos?",
+      "word": "病状",
+      "choices": [
+        "乗り切る",
+        "低血圧",
+        "病状",
+        "好成績"
+      ],
+      "correctAnswer": 2,
+      "explanation": "びょうじょう → 病状"
+    },
+    {
+      "id": 82,
+      "questionType": "reading",
+      "question": "『不運な』ning o'qilishi qaysi?",
+      "word": "不運な",
+      "choices": [
+        "どうせ",
+        "ストライキ",
+        "いっこだて",
+        "ふうんな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "不運な → ふうんな"
+    },
+    {
+      "id": 83,
+      "questionType": "reading",
+      "question": "『勤続する』ning o'qilishi qaysi?",
+      "word": "勤続する",
+      "choices": [
+        "がくしょく",
+        "へいきな",
+        "きんぞくする",
+        "パワハラする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "勤続する → きんぞくする"
+    },
+    {
+      "id": 84,
+      "questionType": "reading",
+      "question": "『ガーデニング』ning o'qilishi qaysi?",
+      "word": "ガーデニング",
+      "choices": [
+        "みなみむき",
+        "ガーデニング",
+        "ひそかに",
+        "つくす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ガーデニング → ガーデニング"
+    },
+    {
+      "id": 85,
+      "questionType": "reading",
+      "question": "『無口な』ning o'qilishi qaysi?",
+      "word": "無口な",
+      "choices": [
+        "うつす",
+        "そうさする",
+        "むくちな",
+        "あくしゅうかん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "無口な → むくちな"
+    },
+    {
+      "id": 86,
+      "questionType": "reading",
+      "question": "『野外』ning o'qilishi qaysi?",
+      "word": "野外",
+      "choices": [
+        "わるよい",
+        "つうしんする",
+        "やがい",
+        "ちんたい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "野外 → やがい"
+    },
+    {
+      "id": 87,
+      "questionType": "meaning",
+      "question": "『ユニークな』ning ma'nosi qaysi?",
+      "word": "ユニークな",
+      "choices": [
+        "nahotki, kutilmaganda",
+        "noto'g'ri tushunmoq",
+        "iqtisodiy farovonlik",
+        "o'ziga xos, betakror"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ユニークな → o'ziga xos, betakror"
+    },
+    {
+      "id": 88,
+      "questionType": "sentence",
+      "question": "『食いしん坊』ning ma'nosi qaysi?",
+      "word": "食いしん坊",
+      "choices": [
+        "amalga oshmoq (orzu)",
+        "kelin",
+        "ochofat, yeyishga o'ch",
+        "o'sha inson, anovi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "食いしん坊 → ochofat, yeyishga o'ch"
+    },
+    {
+      "id": 89,
+      "questionType": "word",
+      "question": "『qo'rqinchli film yoki hikoya』ning yaponcha ifodasi qaysi?",
+      "word": "ホラ",
+      "choices": [
+        "名画",
+        "指導する",
+        "むしろ",
+        "ホラ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qo'rqinchli film yoki hikoya → ホラ"
+    },
+    {
+      "id": 90,
+      "questionType": "reading",
+      "question": "『病状』ning o'qilishi qaysi?",
+      "word": "病状",
+      "choices": [
+        "ていけつあつ",
+        "むしろ",
+        "しょめん",
+        "びょうじょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "病状 → びょうじょう"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『けねんする』qaysi yozuvga mos?",
+      "word": "懸念する",
+      "choices": [
+        "受け継ぐ",
+        "決勝戦",
+        "北向き",
+        "懸念する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "けねんする → 懸念する"
+    },
+    {
+      "id": 92,
+      "questionType": "word",
+      "question": "『sevgi, muhabbat』ning yaponcha ifodasi qaysi?",
+      "word": "愛情",
+      "choices": [
+        "怒鳴る",
+        "甘え",
+        "ペア",
+        "愛情"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sevgi, muhabbat → 愛情"
+    },
+    {
+      "id": 93,
+      "questionType": "word",
+      "question": "『qo'rqinchli film yoki hikoya』ning yaponcha ifodasi qaysi?",
+      "word": "ホラ",
+      "choices": [
+        "ホラ",
+        "抑える",
+        "核兵器",
+        "結びつく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qo'rqinchli film yoki hikoya → ホラ"
+    },
+    {
+      "id": 94,
+      "questionType": "meaning",
+      "question": "『勤続する』ning ma'nosi qaysi?",
+      "word": "勤続する",
+      "choices": [
+        "yaxshi shifokor",
+        "bir joyda uzluksiz ishlash",
+        "yuragi g'ash, o'zini yolg'iz his qiladigan",
+        "mashhur rasm; mashhur film"
+      ],
+      "correctAnswer": 1,
+      "explanation": "勤続する → bir joyda uzluksiz ishlash"
+    },
+    {
+      "id": 95,
+      "questionType": "word",
+      "question": "『ochiq havoda, tabiatda』ning yaponcha ifodasi qaysi?",
+      "word": "野外",
+      "choices": [
+        "野外",
+        "言い出す",
+        "東向き",
+        "効く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ochiq havoda, tabiatda → 野外"
+    },
+    {
+      "id": 96,
+      "questionType": "meaning",
+      "question": "『称賛する』ning ma'nosi qaysi?",
+      "word": "称賛する",
+      "choices": [
+        "maqtamoq, olqishlamoq",
+        "davradan chetlatish; chetda qolgan kishi",
+        "nolish, shikoyat",
+        "(ob-havo) ogohlantirishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "称賛する → maqtamoq, olqishlamoq"
+    },
+    {
+      "id": 97,
+      "questionType": "reading",
+      "question": "『株価』ning o'qilishi qaysi?",
+      "word": "株価",
+      "choices": [
+        "ヘルパー",
+        "かぶか",
+        "つみをおかす",
+        "あくしゅうかん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "株価 → かぶか"
+    },
+    {
+      "id": 98,
+      "questionType": "meaning",
+      "question": "『称賛する』ning ma'nosi qaysi?",
+      "word": "称賛する",
+      "choices": [
+        "kelib chiqishi (qayerlik)",
+        "yomon hazil",
+        "g'amxo'rlik",
+        "maqtamoq, olqishlamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "称賛する → maqtamoq, olqishlamoq"
+    },
+    {
+      "id": 99,
+      "questionType": "word",
+      "question": "『iqtisodiy farovonlik』ning yaponcha ifodasi qaysi?",
+      "word": "好景気",
+      "choices": [
+        "産婦人科",
+        "ご馳走する",
+        "ささやく",
+        "好景気"
+      ],
+      "correctAnswer": 3,
+      "explanation": "iqtisodiy farovonlik → 好景気"
+    },
+    {
+      "id": 100,
+      "questionType": "sentence",
+      "question": "『勤続する』ning ma'nosi qaysi?",
+      "word": "勤続する",
+      "choices": [
+        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
+        "kamsitmoq",
+        "bir joyda uzluksiz ishlash",
+        "iste'dod"
+      ],
+      "correctAnswer": 2,
+      "explanation": "勤続する → bir joyda uzluksiz ishlash"
+    },
+    {
+      "id": 101,
+      "questionType": "meaning",
+      "question": "『ガーデニング』ning ma'nosi qaysi?",
+      "word": "ガーデニング",
+      "choices": [
+        "(ob-havo) ogohlantirishi",
+        "ochiq havoda, tabiatda",
+        "bog'dorchilik",
+        "chora ko'rmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ガーデニング → bog'dorchilik"
+    },
+    {
+      "id": 102,
+      "questionType": "word",
+      "question": "『bilmaslikka olish』ning yaponcha ifodasi qaysi?",
+      "word": "知らないふり",
+      "choices": [
+        "知らないふり",
+        "独立する",
+        "骨折する",
+        "交わす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "bilmaslikka olish → 知らないふり"
+    },
+    {
+      "id": 103,
+      "questionType": "meaning",
+      "question": "『老犬』ning ma'nosi qaysi?",
+      "word": "老犬",
+      "choices": [
+        "rostgo'y, halol",
+        "ko'ndirmoq, ishontirmoq",
+        "zarar",
+        "keksa it"
+      ],
+      "correctAnswer": 3,
+      "explanation": "老犬 → keksa it"
+    },
+    {
+      "id": 104,
+      "questionType": "reading",
+      "question": "『野外』ning o'qilishi qaysi?",
+      "word": "野外",
+      "choices": [
+        "タイムセール",
+        "やがい",
+        "ししゅんき",
+        "さくせいする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "野外 → やがい"
+    },
+    {
+      "id": 105,
+      "questionType": "word",
+      "question": "『og'zi bo'sh (sir saqlay olmaydigan)』ning yaponcha ifodasi qaysi?",
+      "word": "口が軽い",
+      "choices": [
+        "持参する",
+        "度重なる",
+        "口が軽い",
+        "相談に乗る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "og'zi bo'sh (sir saqlay olmaydigan) → 口が軽い"
+    },
+    {
+      "id": 106,
+      "questionType": "kanji",
+      "question": "『ユニークな』qaysi yozuvga mos?",
+      "word": "ユニークな",
+      "choices": [
+        "合コン",
+        "悪知恵",
+        "ユニークな",
+        "募集する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ユニークな → ユニークな"
+    },
+    {
+      "id": 107,
+      "questionType": "meaning",
+      "question": "『知らないふり』ning ma'nosi qaysi?",
+      "word": "知らないふり",
+      "choices": [
+        "dangasa odam",
+        "mumkin bo'lmagan narsa, taqiqlangan narsa",
+        "bilmaslikka olish",
+        "tan olmoq; ruxsat bermoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "知らないふり → bilmaslikka olish"
+    },
+    {
+      "id": 108,
+      "questionType": "reading",
+      "question": "『無口な』ning o'qilishi qaysi?",
+      "word": "無口な",
+      "choices": [
+        "まんびきする",
+        "ざつな",
+        "むくちな",
+        "ふくさよう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "無口な → むくちな"
+    },
+    {
+      "id": 109,
+      "questionType": "word",
+      "question": "『kasallik holati』ning yaponcha ifodasi qaysi?",
+      "word": "病状",
+      "choices": [
+        "妊婦",
+        "身支度する",
+        "病状",
+        "しみじみ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kasallik holati → 病状"
+    },
+    {
+      "id": 110,
+      "questionType": "meaning",
+      "question": "『食いしん坊』ning ma'nosi qaysi?",
+      "word": "食いしん坊",
+      "choices": [
+        "noto'g'ri tushunib olish",
+        "yuqori (atmosfera) bosim(i)",
+        "ochofat, yeyishga o'ch",
+        "nomzod"
+      ],
+      "correctAnswer": 2,
+      "explanation": "食いしん坊 → ochofat, yeyishga o'ch"
+    },
+    {
+      "id": 111,
+      "questionType": "reading",
+      "question": "『食いしん坊』ning o'qilishi qaysi?",
+      "word": "食いしん坊",
+      "choices": [
+        "くいしんぼう",
+        "むちゅう",
+        "ひそかに",
+        "ホラ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "食いしん坊 → くいしんぼう"
+    },
+    {
+      "id": 112,
+      "questionType": "reading",
+      "question": "『好景気』ning o'qilishi qaysi?",
+      "word": "好景気",
+      "choices": [
+        "こうけいき",
+        "せだい",
+        "ちらばる",
+        "あたりまえ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "好景気 → こうけいき"
+    },
+    {
+      "id": 113,
+      "questionType": "reading",
+      "question": "『終バス』ning o'qilishi qaysi?",
+      "word": "終バス",
+      "choices": [
+        "かわす",
+        "だまる",
+        "ひとみがきつい",
+        "しゅうバス"
+      ],
+      "correctAnswer": 3,
+      "explanation": "終バス → しゅうバス"
+    },
+    {
+      "id": 114,
+      "questionType": "sentence",
+      "question": "『知らないふり』ning ma'nosi qaysi?",
+      "word": "知らないふり",
+      "choices": [
+        "tarbiyalamoq, odob o'rgatmoq",
+        "bilmaslikka olish",
+        "mashhur joy",
+        "qochqin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "知らないふり → bilmaslikka olish"
+    },
+    {
+      "id": 115,
+      "questionType": "meaning",
+      "question": "『無口な』ning ma'nosi qaysi?",
+      "word": "無口な",
+      "choices": [
+        "balog'at, o'smirlik davri",
+        "yuzma-yuz bo'lmoq, yuzlashmoq",
+        "kamsitmoq",
+        "jim, kam gapiradigan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "無口な → jim, kam gapiradigan"
+    },
+    {
+      "id": 116,
+      "questionType": "reading",
+      "question": "『老犬』ning o'qilishi qaysi?",
+      "word": "老犬",
+      "choices": [
+        "ろうけん",
+        "しょくば",
+        "げんしりょくはつでんしょ",
+        "そうさする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "老犬 → ろうけん"
+    },
+    {
+      "id": 117,
+      "questionType": "reading",
+      "question": "『病状』ning o'qilishi qaysi?",
+      "word": "病状",
+      "choices": [
+        "ユニークな",
+        "のど",
+        "びょうじょう",
+        "ちんたいじゅうたく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "病状 → びょうじょう"
+    },
+    {
+      "id": 118,
+      "questionType": "word",
+      "question": "『keksa it』ning yaponcha ifodasi qaysi?",
+      "word": "老犬",
+      "choices": [
+        "間接",
+        "老犬",
+        "一人住まい",
+        "終電"
+      ],
+      "correctAnswer": 1,
+      "explanation": "keksa it → 老犬"
+    },
+    {
+      "id": 119,
+      "questionType": "meaning",
+      "question": "『恋愛する』ning ma'nosi qaysi?",
+      "word": "恋愛する",
+      "choices": [
+        "sevib qolmoq, romantik munosabatda bo'lmoq",
+        "xayolga kelmaydigan, noma'lum",
+        "muloqot",
+        "ish tashlash"
+      ],
+      "correctAnswer": 0,
+      "explanation": "恋愛する → sevib qolmoq, romantik munosabatda bo'lmoq"
+    },
+    {
+      "id": 120,
+      "questionType": "kanji",
+      "question": "『しょうさんする』qaysi yozuvga mos?",
+      "word": "称賛する",
+      "choices": [
+        "蜂",
+        "出産する",
+        "称賛する",
+        "名産"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しょうさんする → 称賛する"
+    },
+    {
+      "id": 121,
+      "questionType": "kanji",
+      "question": "『かぶか』qaysi yozuvga mos?",
+      "word": "株価",
+      "choices": [
+        "悪影響",
+        "西向き",
+        "履歴",
+        "株価"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かぶか → 株価"
+    },
+    {
+      "id": 122,
+      "questionType": "kanji",
+      "question": "『けねんする』qaysi yozuvga mos?",
+      "word": "懸念する",
+      "choices": [
+        "交わす",
+        "抵抗する",
+        "叶う",
+        "懸念する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "けねんする → 懸念する"
+    },
+    {
+      "id": 123,
+      "questionType": "kanji",
+      "question": "『ガーデニング』qaysi yozuvga mos?",
+      "word": "ガーデニング",
+      "choices": [
+        "盛んな",
+        "ガーデニング",
+        "崩れる",
+        "そらす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ガーデニング → ガーデニング"
+    },
+    {
+      "id": 124,
+      "questionType": "sentence",
+      "question": "『恋愛する』ning ma'nosi qaysi?",
+      "word": "恋愛する",
+      "choices": [
+        "o'rta va kichik korxonalar",
+        "yomon odat",
+        "lip etib, bir zum",
+        "sevib qolmoq, romantik munosabatda bo'lmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "恋愛する → sevib qolmoq, romantik munosabatda bo'lmoq"
+    },
+    {
+      "id": 125,
+      "questionType": "reading",
+      "question": "『終電』ning o'qilishi qaysi?",
+      "word": "終電",
+      "choices": [
+        "しえんする",
+        "しゅうでん",
+        "ひさしい",
+        "たのもしい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "終電 → しゅうでん"
+    },
+    {
+      "id": 126,
+      "questionType": "meaning",
+      "question": "『口が軽い』ning ma'nosi qaysi?",
+      "word": "口が軽い",
+      "choices": [
+        "(gap, salom, qo'l) almashmoq",
+        "og'zi bo'sh (sir saqlay olmaydigan)",
+        "qo'llanma",
+        "olib kelmoq (o'zi bilan)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "口が軽い → og'zi bo'sh (sir saqlay olmaydigan)"
+    },
+    {
+      "id": 127,
+      "questionType": "kanji",
+      "question": "『ろうけん』qaysi yozuvga mos?",
+      "word": "老犬",
+      "choices": [
+        "合コン",
+        "大いに",
+        "持参する",
+        "老犬"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ろうけん → 老犬"
+    },
+    {
+      "id": 128,
+      "questionType": "sentence",
+      "question": "『点検する』ning ma'nosi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "sir",
+        "tekshirmoq, nazorat qilmoq",
+        "ijara uyi",
+        "begona, birov"
+      ],
+      "correctAnswer": 1,
+      "explanation": "点検する → tekshirmoq, nazorat qilmoq"
+    },
+    {
+      "id": 129,
+      "questionType": "kanji",
+      "question": "『しょうさんする』qaysi yozuvga mos?",
+      "word": "称賛する",
+      "choices": [
+        "態度",
+        "称賛する",
+        "奥",
+        "仲間はずれ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しょうさんする → 称賛する"
+    },
+    {
+      "id": 130,
+      "questionType": "kanji",
+      "question": "『あいじょう』qaysi yozuvga mos?",
+      "word": "愛情",
+      "choices": [
+        "かつ丼",
+        "愛情",
+        "乗り切る",
+        "支援する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あいじょう → 愛情"
+    },
+    {
+      "id": 131,
+      "questionType": "reading",
+      "question": "『ホラ』ning o'qilishi qaysi?",
+      "word": "ホラ",
+      "choices": [
+        "あくてんこう",
+        "ぬくもり",
+        "ありがたい",
+        "ホラ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ホラ → ホラ"
+    },
+    {
+      "id": 132,
+      "questionType": "meaning",
+      "question": "『会費』ning ma'nosi qaysi?",
+      "word": "会費",
+      "choices": [
+        "suyagi sinmoq",
+        "bir-biriga tikilib qaramoq",
+        "a'zo to'lovi",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "会費 → a'zo to'lovi"
+    },
+    {
+      "id": 133,
+      "questionType": "kanji",
+      "question": "『こうけいき』qaysi yozuvga mos?",
+      "word": "好景気",
+      "choices": [
+        "名声",
+        "好景気",
+        "世代交代",
+        "聡明な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こうけいき → 好景気"
+    },
+    {
+      "id": 134,
+      "questionType": "kanji",
+      "question": "『かいひ』qaysi yozuvga mos?",
+      "word": "会費",
+      "choices": [
+        "通信する",
+        "勘違いする",
+        "間接",
+        "会費"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かいひ → 会費"
+    }
+  ]
+}

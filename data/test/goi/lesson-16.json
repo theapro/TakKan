@@ -1,0 +1,2667 @@
+{
+  "title": "Lesson 16 Test",
+  "type": "goi",
+  "lesson": "lesson-16",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "sentence",
+      "question": "『一人暮らし』ning ma'nosi qaysi?",
+      "word": "一人暮らし",
+      "choices": [
+        "yolg'iz yashash",
+        "diqqatni jamlash kuchi",
+        "teri",
+        "yadro quroli"
+      ],
+      "correctAnswer": 0,
+      "explanation": "一人暮らし → yolg'iz yashash"
+    },
+    {
+      "id": 2,
+      "questionType": "meaning",
+      "question": "『温もり』ning ma'nosi qaysi?",
+      "word": "温もり",
+      "choices": [
+        "iliqlik, taft",
+        "mushkul, qiyin",
+        "mamlakatim",
+        "tarix, qaydlar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "温もり → iliqlik, taft"
+    },
+    {
+      "id": 3,
+      "questionType": "word",
+      "question": "『ombor』ning yaponcha ifodasi qaysi?",
+      "word": "物置",
+      "choices": [
+        "物置",
+        "履歴",
+        "恵まれる",
+        "悪知恵"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ombor → 物置"
+    },
+    {
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『おく』qaysi yozuvga mos?",
+      "word": "奥",
+      "choices": [
+        "出身",
+        "東向き",
+        "奥",
+        "俺"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おく → 奥"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『shimolga qaragan』ning yaponcha ifodasi qaysi?",
+      "word": "北向き",
+      "choices": [
+        "叶う",
+        "つり合う",
+        "北向き",
+        "秘密"
+      ],
+      "correctAnswer": 2,
+      "explanation": "shimolga qaragan → 北向き"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『わがや』qaysi yozuvga mos?",
+      "word": "我が家",
+      "choices": [
+        "こっそり",
+        "運命",
+        "けなす",
+        "我が家"
+      ],
+      "correctAnswer": 3,
+      "explanation": "わがや → 我が家"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『おいだす』qaysi yozuvga mos?",
+      "word": "追い出す",
+      "choices": [
+        "俺",
+        "追い出す",
+        "叶う",
+        "普段"
+      ],
+      "correctAnswer": 1,
+      "explanation": "おいだす → 追い出す"
+    },
+    {
+      "id": 8,
+      "questionType": "word",
+      "question": "『ombor』ning yaponcha ifodasi qaysi?",
+      "word": "物置",
+      "choices": [
+        "物置",
+        "管理する",
+        "蚊",
+        "見習う"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ombor → 物置"
+    },
+    {
+      "id": 9,
+      "questionType": "reading",
+      "question": "『空間』ning o'qilishi qaysi?",
+      "word": "空間",
+      "choices": [
+        "くうかん",
+        "ばらす",
+        "ちょくせつ",
+        "りれき"
+      ],
+      "correctAnswer": 0,
+      "explanation": "空間 → くうかん"
+    },
+    {
+      "id": 10,
+      "questionType": "word",
+      "question": "『uyimiz』ning yaponcha ifodasi qaysi?",
+      "word": "我が家",
+      "choices": [
+        "介護する",
+        "疑う",
+        "まさか",
+        "我が家"
+      ],
+      "correctAnswer": 3,
+      "explanation": "uyimiz → 我が家"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『janubga qaragan』ning yaponcha ifodasi qaysi?",
+      "word": "南向き",
+      "choices": [
+        "てっきり",
+        "南向き",
+        "盛り上がる",
+        "いやみな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "janubga qaragan → 南向き"
+    },
+    {
+      "id": 12,
+      "questionType": "kanji",
+      "question": "『ルール』qaysi yozuvga mos?",
+      "word": "ルール",
+      "choices": [
+        "同意する",
+        "縁",
+        "一目",
+        "ルール"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ルール → ルール"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『こうしんする』qaysi yozuvga mos?",
+      "word": "更新する",
+      "choices": [
+        "更新する",
+        "マニュアル",
+        "貸し借りする",
+        "廃止する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こうしんする → 更新する"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『しききん』qaysi yozuvga mos?",
+      "word": "敷金",
+      "choices": [
+        "物価",
+        "あくびする",
+        "敷金",
+        "介入する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しききん → 敷金"
+    },
+    {
+      "id": 15,
+      "questionType": "reading",
+      "question": "『名画』ning o'qilishi qaysi?",
+      "word": "名画",
+      "choices": [
+        "かたりあう",
+        "めいが",
+        "しょうじきな",
+        "つりあう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "名画 → めいが"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『せんめんじょ』qaysi yozuvga mos?",
+      "word": "洗面所",
+      "choices": [
+        "洗面所",
+        "病状",
+        "世間知らず",
+        "しつける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せんめんじょ → 洗面所"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『o'sha inson, anovi』ning yaponcha ifodasi qaysi?",
+      "word": "あいつ",
+      "choices": [
+        "指導する",
+        "害",
+        "あいつ",
+        "災害"
+      ],
+      "correctAnswer": 2,
+      "explanation": "o'sha inson, anovi → あいつ"
+    },
+    {
+      "id": 18,
+      "questionType": "reading",
+      "question": "『やつ』ning o'qilishi qaysi?",
+      "word": "やつ",
+      "choices": [
+        "まどり",
+        "やつ",
+        "れんあいする",
+        "めいじん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "やつ → やつ"
+    },
+    {
+      "id": 19,
+      "questionType": "reading",
+      "question": "『他人』ning o'qilishi qaysi?",
+      "word": "他人",
+      "choices": [
+        "ペア",
+        "てもと",
+        "めいぶん",
+        "たにん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "他人 → たにん"
+    },
+    {
+      "id": 20,
+      "questionType": "word",
+      "question": "『haydab chiqarmoq』ning yaponcha ifodasi qaysi?",
+      "word": "追い出す",
+      "choices": [
+        "支援する",
+        "追い出す",
+        "似顔絵",
+        "呼び出す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "haydab chiqarmoq → 追い出す"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『手前』ning o'qilishi qaysi?",
+      "word": "手前",
+      "choices": [
+        "てまえ",
+        "てすり",
+        "ローン",
+        "こうがくねん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "手前 → てまえ"
+    },
+    {
+      "id": 22,
+      "questionType": "meaning",
+      "question": "『間取り』ning ma'nosi qaysi?",
+      "word": "間取り",
+      "choices": [
+        "uyda parvarish qiluvchi xodim",
+        "qochqin",
+        "ish joyi",
+        "uy loyihasi (necha xonali ekanligi)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "間取り → uy loyihasi (necha xonali ekanligi)"
+    },
+    {
+      "id": 23,
+      "questionType": "reading",
+      "question": "『一戸建て』ning o'qilishi qaysi?",
+      "word": "一戸建て",
+      "choices": [
+        "いっこだて",
+        "かしかりする",
+        "あだな",
+        "くいしんぼう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "一戸建て → いっこだて"
+    },
+    {
+      "id": 24,
+      "questionType": "reading",
+      "question": "『手前』ning o'qilishi qaysi?",
+      "word": "手前",
+      "choices": [
+        "とうちゃくする",
+        "ローン",
+        "てまえ",
+        "ぬくもり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "手前 → てまえ"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『きまり』qaysi yozuvga mos?",
+      "word": "決まり",
+      "choices": [
+        "領土",
+        "気まずい",
+        "決まり",
+        "賃貸"
+      ],
+      "correctAnswer": 2,
+      "explanation": "きまり → 決まり"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『ひとりずまい』qaysi yozuvga mos?",
+      "word": "一人住まい",
+      "choices": [
+        "手元",
+        "一人住まい",
+        "低レベル",
+        "身支度する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ひとりずまい → 一人住まい"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『みなみむき』qaysi yozuvga mos?",
+      "word": "南向き",
+      "choices": [
+        "履歴",
+        "南向き",
+        "荒らす",
+        "気配りする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "みなみむき → 南向き"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『かおく』qaysi yozuvga mos?",
+      "word": "家屋",
+      "choices": [
+        "決まり",
+        "愛する",
+        "家屋",
+        "疑う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かおく → 家屋"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『おいだす』qaysi yozuvga mos?",
+      "word": "追い出す",
+      "choices": [
+        "時間を指す",
+        "気まずい",
+        "追い出す",
+        "見習う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おいだす → 追い出す"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『yolg'iz yashash』ning yaponcha ifodasi qaysi?",
+      "word": "一人住まい",
+      "choices": [
+        "一人住まい",
+        "ヘルパー",
+        "注意報",
+        "審判"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yolg'iz yashash → 一人住まい"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『わがや』qaysi yozuvga mos?",
+      "word": "我が家",
+      "choices": [
+        "我が家",
+        "愛",
+        "懸念する",
+        "手ぶら"
+      ],
+      "correctAnswer": 0,
+      "explanation": "わがや → 我が家"
+    },
+    {
+      "id": 32,
+      "questionType": "reading",
+      "question": "『間取り』ning o'qilishi qaysi?",
+      "word": "間取り",
+      "choices": [
+        "まどり",
+        "きのうせい",
+        "うらやましい",
+        "せけんしらず"
+      ],
+      "correctAnswer": 0,
+      "explanation": "間取り → まどり"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
+      "question": "『北向き』ning o'qilishi qaysi?",
+      "word": "北向き",
+      "choices": [
+        "ほうこくする",
+        "しょたいめん",
+        "うらやましい",
+        "きたむき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "北向き → きたむき"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『てまえ』qaysi yozuvga mos?",
+      "word": "手前",
+      "choices": [
+        "奥",
+        "手前",
+        "ファミリー",
+        "自分勝手な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てまえ → 手前"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『てまえ』qaysi yozuvga mos?",
+      "word": "手前",
+      "choices": [
+        "表情",
+        "困難な",
+        "手前",
+        "注射する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てまえ → 手前"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『ローン』qaysi yozuvga mos?",
+      "word": "ローン",
+      "choices": [
+        "効く",
+        "ローン",
+        "名人",
+        "大幅な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ローン → ローン"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『更新する』ning ma'nosi qaysi?",
+      "word": "更新する",
+      "choices": [
+        "yangilamoq (shartnoma)",
+        "yomon sharoit",
+        "meros qilib olmoq, qabul qilib olmoq",
+        "amalga oshmoq (orzu)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "更新する → yangilamoq (shartnoma)"
+    },
+    {
+      "id": 38,
+      "questionType": "word",
+      "question": "『uy ijaraga olganda minnatdorlik puli (kalit puli ham deyiladi)』ning yaponcha ifodasi qaysi?",
+      "word": "礼金",
+      "choices": [
+        "ホラ",
+        "思いやる",
+        "決心",
+        "礼金"
+      ],
+      "correctAnswer": 3,
+      "explanation": "uy ijaraga olganda minnatdorlik puli (kalit puli ham deyiladi) → 礼金"
+    },
+    {
+      "id": 39,
+      "questionType": "word",
+      "question": "『mening uyim』ning yaponcha ifodasi qaysi?",
+      "word": "マイホーム",
+      "choices": [
+        "抑える",
+        "呼び出す",
+        "かつ丼",
+        "マイホーム"
+      ],
+      "correctAnswer": 3,
+      "explanation": "mening uyim → マイホーム"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『礼金』ning o'qilishi qaysi?",
+      "word": "礼金",
+      "choices": [
+        "こっせつする",
+        "れいきん",
+        "だいきぎょう",
+        "ぬくもり"
+      ],
+      "correctAnswer": 1,
+      "explanation": "礼金 → れいきん"
+    },
+    {
+      "id": 41,
+      "questionType": "kanji",
+      "question": "『いっこだて』qaysi yozuvga mos?",
+      "word": "一戸建て",
+      "choices": [
+        "一戸建て",
+        "アプローチする",
+        "間接",
+        "うらむ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いっこだて → 一戸建て"
+    },
+    {
+      "id": 42,
+      "questionType": "word",
+      "question": "『shoh asar』ning yaponcha ifodasi qaysi?",
+      "word": "名作",
+      "choices": [
+        "写す",
+        "妊娠する",
+        "商店街",
+        "名作"
+      ],
+      "correctAnswer": 3,
+      "explanation": "shoh asar → 名作"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『温もり』ning o'qilishi qaysi?",
+      "word": "温もり",
+      "choices": [
+        "ぬくもり",
+        "きおく",
+        "もしかしたら、もしかして、ひょっとすると",
+        "うらやましい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "温もり → ぬくもり"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『南向き』ning o'qilishi qaysi?",
+      "word": "南向き",
+      "choices": [
+        "けっしょうせん",
+        "おれ",
+        "みなみむき",
+        "あいする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "南向き → みなみむき"
+    },
+    {
+      "id": 45,
+      "questionType": "kanji",
+      "question": "『めいが』qaysi yozuvga mos?",
+      "word": "名画",
+      "choices": [
+        "正直な",
+        "名画",
+        "名作",
+        "悪影響"
+      ],
+      "correctAnswer": 1,
+      "explanation": "めいが → 名画"
+    },
+    {
+      "id": 46,
+      "questionType": "word",
+      "question": "『uyimiz』ning yaponcha ifodasi qaysi?",
+      "word": "我が家",
+      "choices": [
+        "慰める",
+        "産婦人科",
+        "我が家",
+        "似顔絵"
+      ],
+      "correctAnswer": 2,
+      "explanation": "uyimiz → 我が家"
+    },
+    {
+      "id": 47,
+      "questionType": "meaning",
+      "question": "『屋根』ning ma'nosi qaysi?",
+      "word": "屋根",
+      "choices": [
+        "qo'li bo'sh, hech narsa olib kelmasdan",
+        "yomon sharoit",
+        "tom",
+        "iqtisodiy farovonlik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "屋根 → tom"
+    },
+    {
+      "id": 48,
+      "questionType": "reading",
+      "question": "『洗面所』ning o'qilishi qaysi?",
+      "word": "洗面所",
+      "choices": [
+        "おちこむ",
+        "せんめんじょ",
+        "そうめいな",
+        "ありがたい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "洗面所 → せんめんじょ"
+    },
+    {
+      "id": 49,
+      "questionType": "word",
+      "question": "『begona, birov』ning yaponcha ifodasi qaysi?",
+      "word": "他人",
+      "choices": [
+        "ホームヘルパー",
+        "他人",
+        "振り返る",
+        "一戸建て"
+      ],
+      "correctAnswer": 1,
+      "explanation": "begona, birov → 他人"
+    },
+    {
+      "id": 50,
+      "questionType": "meaning",
+      "question": "『他人』ning ma'nosi qaysi?",
+      "word": "他人",
+      "choices": [
+        "oila",
+        "begona, birov",
+        "anchadan beri, ko'rishmaganiga ancha bo'ldi",
+        "bahona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "他人 → begona, birov"
+    },
+    {
+      "id": 51,
+      "questionType": "reading",
+      "question": "『台無し』ning o'qilishi qaysi?",
+      "word": "台無し",
+      "choices": [
+        "どういする",
+        "みりょくてきな",
+        "だいなし",
+        "へいきな"
+      ],
+      "correctAnswer": 2,
+      "explanation": "台無し → だいなし"
+    },
+    {
+      "id": 52,
+      "questionType": "kanji",
+      "question": "『うらむ』qaysi yozuvga mos?",
+      "word": "うらむ",
+      "choices": [
+        "ばかにする",
+        "直接",
+        "うらむ",
+        "高学年"
+      ],
+      "correctAnswer": 2,
+      "explanation": "うらむ → うらむ"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『ルール』ning ma'nosi qaysi?",
+      "word": "ルール",
+      "choices": [
+        "yomon ob-havo",
+        "qoida",
+        "ijara (ijaraga berish)",
+        "xayolga keladigan narsa, taxmin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ルール → qoida"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『alohida (xususiy) hovlili uy』ning yaponcha ifodasi qaysi?",
+      "word": "一戸建て",
+      "choices": [
+        "とっさに",
+        "質問",
+        "一戸建て",
+        "表示する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "alohida (xususiy) hovlili uy → 一戸建て"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『だいなし』qaysi yozuvga mos?",
+      "word": "台無し",
+      "choices": [
+        "久しい",
+        "豊富な",
+        "口げんかする",
+        "台無し"
+      ],
+      "correctAnswer": 3,
+      "explanation": "だいなし → 台無し"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『マイホーム』qaysi yozuvga mos?",
+      "word": "マイホーム",
+      "choices": [
+        "世代交代",
+        "あきれる",
+        "マイホーム",
+        "見つめ合う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "マイホーム → マイホーム"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『davradan chetlatish; chetda qolgan kishi』ning yaponcha ifodasi qaysi?",
+      "word": "仲間はずれ",
+      "choices": [
+        "ご馳走する",
+        "仲間はずれ",
+        "ローン",
+        "悪影響"
+      ],
+      "correctAnswer": 1,
+      "explanation": "davradan chetlatish; chetda qolgan kishi → 仲間はずれ"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『西向き』ning ma'nosi qaysi?",
+      "word": "西向き",
+      "choices": [
+        "erkalanmoq",
+        "bir-birini",
+        "g'arbga qaragan",
+        "dastidan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "西向き → g'arbga qaragan"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『にしむき』qaysi yozuvga mos?",
+      "word": "西向き",
+      "choices": [
+        "困難な",
+        "決勝戦",
+        "招く",
+        "西向き"
+      ],
+      "correctAnswer": 3,
+      "explanation": "にしむき → 西向き"
+    },
+    {
+      "id": 60,
+      "questionType": "reading",
+      "question": "『ローン』ning o'qilishi qaysi?",
+      "word": "ローン",
+      "choices": [
+        "ひょうじする",
+        "いっきに",
+        "ローン",
+        "かがやく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ローン → ローン"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『西向き』ning o'qilishi qaysi?",
+      "word": "西向き",
+      "choices": [
+        "かいごする",
+        "かんせつ",
+        "ごちそうする",
+        "にしむき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "西向き → にしむき"
+    },
+    {
+      "id": 62,
+      "questionType": "kanji",
+      "question": "『あいつ』qaysi yozuvga mos?",
+      "word": "あいつ",
+      "choices": [
+        "あいつ",
+        "指導する",
+        "ちらっと",
+        "正午"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あいつ → あいつ"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『uy』ning yaponcha ifodasi qaysi?",
+      "word": "家屋",
+      "choices": [
+        "うつむく",
+        "家屋",
+        "貸し借りする",
+        "限界"
+      ],
+      "correctAnswer": 1,
+      "explanation": "uy → 家屋"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『屋根』ning o'qilishi qaysi?",
+      "word": "屋根",
+      "choices": [
+        "やね",
+        "めいあん",
+        "わがや",
+        "たいくつな"
+      ],
+      "correctAnswer": 0,
+      "explanation": "屋根 → やね"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『一人住まい』ning ma'nosi qaysi?",
+      "word": "一人住まい",
+      "choices": [
+        "yolg'iz yashash",
+        "oila",
+        "chivin",
+        "bir-biriga tikilib qaramoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "一人住まい → yolg'iz yashash"
+    },
+    {
+      "id": 66,
+      "questionType": "meaning",
+      "question": "『家屋』ning ma'nosi qaysi?",
+      "word": "家屋",
+      "choices": [
+        "buzilmoq (shakl/holat)",
+        "oila davrasi, oilaviy chog' o'tirish",
+        "zilzilaga chidamlilik",
+        "uy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "家屋 → uy"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『ちんたい』qaysi yozuvga mos?",
+      "word": "賃貸",
+      "choices": [
+        "賃貸",
+        "俺",
+        "ネットワーク",
+        "悪趣味"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちんたい → 賃貸"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『みなみむき』qaysi yozuvga mos?",
+      "word": "南向き",
+      "choices": [
+        "南向き",
+        "決心",
+        "右に出る者はいない",
+        "込める"
+      ],
+      "correctAnswer": 0,
+      "explanation": "みなみむき → 南向き"
+    },
+    {
+      "id": 69,
+      "questionType": "meaning",
+      "question": "『賃貸』ning ma'nosi qaysi?",
+      "word": "賃貸",
+      "choices": [
+        "haqiqiy kuch, salohiyat",
+        "suyanmoq, tayanmoq",
+        "a'zo to'lovi",
+        "ijara (ijaraga berish)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "賃貸 → ijara (ijaraga berish)"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『まどり』qaysi yozuvga mos?",
+      "word": "間取り",
+      "choices": [
+        "勤続する",
+        "蚊",
+        "許す",
+        "間取り"
+      ],
+      "correctAnswer": 3,
+      "explanation": "まどり → 間取り"
+    },
+    {
+      "id": 71,
+      "questionType": "meaning",
+      "question": "『洗面所』ning ma'nosi qaysi?",
+      "word": "洗面所",
+      "choices": [
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "erkalatmoq, tantiq qilmoq",
+        "yuvinish xonasi",
+        "ko'ndirmoq, ishontirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "洗面所 → yuvinish xonasi"
+    },
+    {
+      "id": 72,
+      "questionType": "meaning",
+      "question": "『奥』ning ma'nosi qaysi?",
+      "word": "奥",
+      "choices": [
+        "savol",
+        "yirik kompaniyalar",
+        "mening uyim",
+        "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "奥 → biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『賃貸』ning o'qilishi qaysi?",
+      "word": "賃貸",
+      "choices": [
+        "こうしゅうにゅう",
+        "おく",
+        "そうだんにのる",
+        "ちんたい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "賃貸 → ちんたい"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『賃貸』ning o'qilishi qaysi?",
+      "word": "賃貸",
+      "choices": [
+        "せけんしらず",
+        "きずつける",
+        "むきあう",
+        "ちんたい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "賃貸 → ちんたい"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『せんめんじょ』qaysi yozuvga mos?",
+      "word": "洗面所",
+      "choices": [
+        "洗面所",
+        "ファミリー",
+        "当たり前",
+        "ささやく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せんめんじょ → 洗面所"
+    },
+    {
+      "id": 76,
+      "questionType": "word",
+      "question": "『mashhur rasm; mashhur film』ning yaponcha ifodasi qaysi?",
+      "word": "名画",
+      "choices": [
+        "到着する",
+        "称賛する",
+        "口実",
+        "名画"
+      ],
+      "correctAnswer": 3,
+      "explanation": "mashhur rasm; mashhur film → 名画"
+    },
+    {
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『空間』ning ma'nosi qaysi?",
+      "word": "空間",
+      "choices": [
+        "yig'lamoq",
+        "bog'lamoq",
+        "bo'sh joy, fazo",
+        "gaplashmoq/muloqot qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "空間 → bo'sh joy, fazo"
+    },
+    {
+      "id": 78,
+      "questionType": "meaning",
+      "question": "『間取り』ning ma'nosi qaysi?",
+      "word": "間取り",
+      "choices": [
+        "ko'nmoq, tushunib rozi bo'lmoq",
+        "vazifa, burch",
+        "o'sib kelayotgan bolaning katta ishtahasi",
+        "uy loyihasi (necha xonali ekanligi)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "間取り → uy loyihasi (necha xonali ekanligi)"
+    },
+    {
+      "id": 79,
+      "questionType": "word",
+      "question": "『mamlakatim』ning yaponcha ifodasi qaysi?",
+      "word": "わが国",
+      "choices": [
+        "わが国",
+        "甘やかす",
+        "差別する",
+        "妊娠する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "mamlakatim → わが国"
+    },
+    {
+      "id": 80,
+      "questionType": "reading",
+      "question": "『我が家』ning o'qilishi qaysi?",
+      "word": "我が家",
+      "choices": [
+        "くやむ",
+        "しゅっしん",
+        "さからう",
+        "わがや"
+      ],
+      "correctAnswer": 3,
+      "explanation": "我が家 → わがや"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『ぬくもり』qaysi yozuvga mos?",
+      "word": "温もり",
+      "choices": [
+        "家屋",
+        "時間を指す",
+        "温もり",
+        "印象"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぬくもり → 温もり"
+    },
+    {
+      "id": 82,
+      "questionType": "word",
+      "question": "『bir oilaviy alohida uy』ning yaponcha ifodasi qaysi?",
+      "word": "一軒家",
+      "choices": [
+        "意志",
+        "一軒家",
+        "東向き",
+        "秘密"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bir oilaviy alohida uy → 一軒家"
+    },
+    {
+      "id": 83,
+      "questionType": "kanji",
+      "question": "『きまり』qaysi yozuvga mos?",
+      "word": "決まり",
+      "choices": [
+        "ばらす",
+        "吠える",
+        "仲良し",
+        "決まり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "きまり → 決まり"
+    },
+    {
+      "id": 84,
+      "questionType": "reading",
+      "question": "『名作』ning o'qilishi qaysi?",
+      "word": "名作",
+      "choices": [
+        "はだ",
+        "だんさ",
+        "めいさく",
+        "かいじょけん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "名作 → めいさく"
+    },
+    {
+      "id": 85,
+      "questionType": "kanji",
+      "question": "『くうかん』qaysi yozuvga mos?",
+      "word": "空間",
+      "choices": [
+        "自立する",
+        "借金する",
+        "空間",
+        "再会する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "くうかん → 空間"
+    },
+    {
+      "id": 86,
+      "questionType": "meaning",
+      "question": "『一人住まい』ning ma'nosi qaysi?",
+      "word": "一人住まい",
+      "choices": [
+        "buzilmoq (shakl/holat)",
+        "avlod almashinuvi",
+        "yolg'iz yashash",
+        "endi (endi kech ma'nosida)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "一人住まい → yolg'iz yashash"
+    },
+    {
+      "id": 87,
+      "questionType": "reading",
+      "question": "『物置』ning o'qilishi qaysi?",
+      "word": "物置",
+      "choices": [
+        "えん",
+        "じぶんかってな",
+        "こうじょうけん",
+        "ものおき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "物置 → ものおき"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『ちんたいじゅうたく』qaysi yozuvga mos?",
+      "word": "賃貸住宅",
+      "choices": [
+        "ルール",
+        "賃貸住宅",
+        "再会する",
+        "許す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちんたいじゅうたく → 賃貸住宅"
+    },
+    {
+      "id": 89,
+      "questionType": "reading",
+      "question": "『洗面所』ning o'qilishi qaysi?",
+      "word": "洗面所",
+      "choices": [
+        "けっしょうせん",
+        "けねんする",
+        "せんめんじょ",
+        "さいのう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "洗面所 → せんめんじょ"
+    },
+    {
+      "id": 90,
+      "questionType": "meaning",
+      "question": "『手前』ning ma'nosi qaysi?",
+      "word": "手前",
+      "choices": [
+        "o'z tomoni, oldingi (o'ziga yaqin) tomon",
+        "ahd qilmoq",
+        "suyanmoq, tayanmoq",
+        "pichirlab gapirmoq, g'o'ldiramoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "手前 → o'z tomoni, oldingi (o'ziga yaqin) tomon"
+    },
+    {
+      "id": 91,
+      "questionType": "reading",
+      "question": "『ルール』ning o'qilishi qaysi?",
+      "word": "ルール",
+      "choices": [
+        "ルール",
+        "いし",
+        "かつどん",
+        "しょうご"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ルール → ルール"
+    },
+    {
+      "id": 92,
+      "questionType": "reading",
+      "question": "『南向き』ning o'qilishi qaysi?",
+      "word": "南向き",
+      "choices": [
+        "しっかくする",
+        "はげます",
+        "さいのう",
+        "みなみむき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "南向き → みなみむき"
+    },
+    {
+      "id": 93,
+      "questionType": "reading",
+      "question": "『敷金』ning o'qilishi qaysi?",
+      "word": "敷金",
+      "choices": [
+        "まんびきする",
+        "しききん",
+        "ぐち",
+        "じゅうたくローン"
+      ],
+      "correctAnswer": 1,
+      "explanation": "敷金 → しききん"
+    },
+    {
+      "id": 94,
+      "questionType": "sentence",
+      "question": "『追い出す』ning ma'nosi qaysi?",
+      "word": "追い出す",
+      "choices": [
+        "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)",
+        "haydab chiqarmoq",
+        "nojo'ya ta'sir (dorining)",
+        "portret"
+      ],
+      "correctAnswer": 1,
+      "explanation": "追い出す → haydab chiqarmoq"
+    },
+    {
+      "id": 95,
+      "questionType": "reading",
+      "question": "『名案』ning o'qilishi qaysi?",
+      "word": "名案",
+      "choices": [
+        "きおく",
+        "しんらいする",
+        "めいあん",
+        "おりたたみがさ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "名案 → めいあん"
+    },
+    {
+      "id": 96,
+      "questionType": "kanji",
+      "question": "『くうかん』qaysi yozuvga mos?",
+      "word": "空間",
+      "choices": [
+        "行為",
+        "しつける",
+        "空間",
+        "親元"
+      ],
+      "correctAnswer": 2,
+      "explanation": "くうかん → 空間"
+    },
+    {
+      "id": 97,
+      "questionType": "meaning",
+      "question": "『一戸建て』ning ma'nosi qaysi?",
+      "word": "一戸建て",
+      "choices": [
+        "talabalar oshxonasi",
+        "alohida (xususiy) hovlili uy",
+        "homilador bo'lmoq",
+        "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "一戸建て → alohida (xususiy) hovlili uy"
+    },
+    {
+      "id": 98,
+      "questionType": "reading",
+      "question": "『追い出す』ning o'qilishi qaysi?",
+      "word": "追い出す",
+      "choices": [
+        "くずれる",
+        "はげます",
+        "おしゃべりする",
+        "おいだす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "追い出す → おいだす"
+    },
+    {
+      "id": 99,
+      "questionType": "meaning",
+      "question": "『あいつ』ning ma'nosi qaysi?",
+      "word": "あいつ",
+      "choices": [
+        "nigohi qattiq (badjahl ko'rinish)",
+        "aksiyalar narxi",
+        "o'sha inson, anovi",
+        "kelib chiqishi (qayerlik)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あいつ → o'sha inson, anovi"
+    },
+    {
+      "id": 100,
+      "questionType": "sentence",
+      "question": "『マイホーム』ning ma'nosi qaysi?",
+      "word": "マイホーム",
+      "choices": [
+        "nomzod",
+        "tekshirmoq, nazorat qilmoq",
+        "mening uyim",
+        "falokat/ ofat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "マイホーム → mening uyim"
+    },
+    {
+      "id": 101,
+      "questionType": "meaning",
+      "question": "『温もり』ning ma'nosi qaysi?",
+      "word": "温もり",
+      "choices": [
+        "iliqlik, taft",
+        "suhbatlashmoq, gaplashmoq",
+        "norozilik bildirmoq",
+        "yollamoq, qabul e'lon qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "温もり → iliqlik, taft"
+    },
+    {
+      "id": 102,
+      "questionType": "reading",
+      "question": "『決まり』ning o'qilishi qaysi?",
+      "word": "決まり",
+      "choices": [
+        "あだな",
+        "きまり",
+        "みぎにでるものはいない",
+        "ていがくねん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "決まり → きまり"
+    },
+    {
+      "id": 103,
+      "questionType": "reading",
+      "question": "『物置』ning o'qilishi qaysi?",
+      "word": "物置",
+      "choices": [
+        "きおく",
+        "ごかいする",
+        "ものおき",
+        "としかいはつ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "物置 → ものおき"
+    },
+    {
+      "id": 104,
+      "questionType": "meaning",
+      "question": "『南向き』ning ma'nosi qaysi?",
+      "word": "南向き",
+      "choices": [
+        "sochilib yotmoq, to'zib ketmoq",
+        "yuqori sinf (maktab)",
+        "davradan chetlatish; chetda qolgan kishi",
+        "janubga qaragan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "南向き → janubga qaragan"
+    },
+    {
+      "id": 105,
+      "questionType": "kanji",
+      "question": "『ちんたい』qaysi yozuvga mos?",
+      "word": "賃貸",
+      "choices": [
+        "傷つける",
+        "気配りする",
+        "賃貸",
+        "審判"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちんたい → 賃貸"
+    },
+    {
+      "id": 106,
+      "questionType": "meaning",
+      "question": "『敷金』ning ma'nosi qaysi?",
+      "word": "敷金",
+      "choices": [
+        "ko'zni olib qochish",
+        "uy ijaraga olganda to'lanadigan depozit",
+        "tarbiyalamoq, odob o'rgatmoq",
+        "tarmoq; aloqalar tarmog'i"
+      ],
+      "correctAnswer": 1,
+      "explanation": "敷金 → uy ijaraga olganda to'lanadigan depozit"
+    },
+    {
+      "id": 107,
+      "questionType": "meaning",
+      "question": "『ローン』ning ma'nosi qaysi?",
+      "word": "ローン",
+      "choices": [
+        "mamlakatim",
+        "dastidan",
+        "qarz, kredit",
+        "yaxshi fikr"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ローン → qarz, kredit"
+    },
+    {
+      "id": 108,
+      "questionType": "reading",
+      "question": "『他人』ning o'qilishi qaysi?",
+      "word": "他人",
+      "choices": [
+        "がい",
+        "ちんたい",
+        "あいじょう",
+        "たにん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "他人 → たにん"
+    },
+    {
+      "id": 109,
+      "questionType": "reading",
+      "question": "『一軒家』ning o'qilishi qaysi?",
+      "word": "一軒家",
+      "choices": [
+        "いっけんや",
+        "みりょくてきな",
+        "うまれる",
+        "まんびきする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "一軒家 → いっけんや"
+    },
+    {
+      "id": 110,
+      "questionType": "meaning",
+      "question": "『空間』ning ma'nosi qaysi?",
+      "word": "空間",
+      "choices": [
+        "xavotirlanmoq, tashvishlanmoq",
+        "mashhur rasm; mashhur film",
+        "go'l, hayot tajribasi yo'q (odam)",
+        "bo'sh joy, fazo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "空間 → bo'sh joy, fazo"
+    },
+    {
+      "id": 111,
+      "questionType": "word",
+      "question": "『gina qilmoq, kek saqlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "うらむ",
+      "choices": [
+        "西向き",
+        "おかげ",
+        "うらむ",
+        "信頼する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "gina qilmoq, kek saqlamoq → うらむ"
+    },
+    {
+      "id": 112,
+      "questionType": "kanji",
+      "question": "『たにん』qaysi yozuvga mos?",
+      "word": "他人",
+      "choices": [
+        "他人",
+        "西向き",
+        "口を利く",
+        "口論する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たにん → 他人"
+    },
+    {
+      "id": 113,
+      "questionType": "kanji",
+      "question": "『いっこだて』qaysi yozuvga mos?",
+      "word": "一戸建て",
+      "choices": [
+        "一戸建て",
+        "今さら",
+        "カンニングする",
+        "決心"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いっこだて → 一戸建て"
+    },
+    {
+      "id": 114,
+      "questionType": "word",
+      "question": "『tom』ning yaponcha ifodasi qaysi?",
+      "word": "屋根",
+      "choices": [
+        "屋根",
+        "秘密",
+        "ネットワーク",
+        "借金する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tom → 屋根"
+    },
+    {
+      "id": 115,
+      "questionType": "reading",
+      "question": "『わが国』ning o'qilishi qaysi?",
+      "word": "わが国",
+      "choices": [
+        "わがくに",
+        "はなむこ",
+        "たどりつく",
+        "えん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "わが国 → わがくに"
+    },
+    {
+      "id": 116,
+      "questionType": "reading",
+      "question": "『屋根』ning o'qilishi qaysi?",
+      "word": "屋根",
+      "choices": [
+        "あだな",
+        "やね",
+        "みつめる",
+        "おしゃべりする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "屋根 → やね"
+    },
+    {
+      "id": 117,
+      "questionType": "kanji",
+      "question": "『やね』qaysi yozuvga mos?",
+      "word": "屋根",
+      "choices": [
+        "屋根",
+        "コンパ",
+        "選挙する",
+        "気配りする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "やね → 屋根"
+    },
+    {
+      "id": 118,
+      "questionType": "kanji",
+      "question": "『おく』qaysi yozuvga mos?",
+      "word": "奥",
+      "choices": [
+        "仲",
+        "勘違いする",
+        "奥",
+        "仲間はずれ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おく → 奥"
+    },
+    {
+      "id": 119,
+      "questionType": "sentence",
+      "question": "『一戸建て』ning ma'nosi qaysi?",
+      "word": "一戸建て",
+      "choices": [
+        "yetib bormoq",
+        "g'amxo'rlik",
+        "endi (endi kech ma'nosida)",
+        "alohida (xususiy) hovlili uy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "一戸建て → alohida (xususiy) hovlili uy"
+    },
+    {
+      "id": 120,
+      "questionType": "word",
+      "question": "『yuvinish xonasi』ning yaponcha ifodasi qaysi?",
+      "word": "洗面所",
+      "choices": [
+        "終バス",
+        "名産",
+        "洗面所",
+        "雲がかかる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yuvinish xonasi → 洗面所"
+    },
+    {
+      "id": 121,
+      "questionType": "kanji",
+      "question": "『わがくに』qaysi yozuvga mos?",
+      "word": "わが国",
+      "choices": [
+        "口が軽い",
+        "わが国",
+        "好印象",
+        "意志"
+      ],
+      "correctAnswer": 1,
+      "explanation": "わがくに → わが国"
+    },
+    {
+      "id": 122,
+      "questionType": "reading",
+      "question": "『家屋』ning o'qilishi qaysi?",
+      "word": "家屋",
+      "choices": [
+        "さいかいする",
+        "こうけつあつ",
+        "かおく",
+        "かいぬし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "家屋 → かおく"
+    },
+    {
+      "id": 123,
+      "questionType": "meaning",
+      "question": "『敷金』ning ma'nosi qaysi?",
+      "word": "敷金",
+      "choices": [
+        "cheklamoq",
+        "uy ijaraga olganda to'lanadigan depozit",
+        "pul oldi berdi qilmoq",
+        "(gap, salom, qo'l) almashmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "敷金 → uy ijaraga olganda to'lanadigan depozit"
+    },
+    {
+      "id": 124,
+      "questionType": "reading",
+      "question": "『一人住まい』ning o'qilishi qaysi?",
+      "word": "一人住まい",
+      "choices": [
+        "ひとりずまい",
+        "こうがくれき",
+        "きまずい",
+        "ていレベル"
+      ],
+      "correctAnswer": 0,
+      "explanation": "一人住まい → ひとりずまい"
+    },
+    {
+      "id": 125,
+      "questionType": "reading",
+      "question": "『マイホーム』ning o'qilishi qaysi?",
+      "word": "マイホーム",
+      "choices": [
+        "しょうご",
+        "アプローチする",
+        "マイホーム",
+        "ともだちどうし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "マイホーム → マイホーム"
+    },
+    {
+      "id": 126,
+      "questionType": "kanji",
+      "question": "『やね』qaysi yozuvga mos?",
+      "word": "屋根",
+      "choices": [
+        "つぶやく",
+        "屋根",
+        "写す",
+        "感心する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "やね → 屋根"
+    },
+    {
+      "id": 127,
+      "questionType": "meaning",
+      "question": "『わが町』ning ma'nosi qaysi?",
+      "word": "わが町",
+      "choices": [
+        "bekitiqcha ish qilmoq, pusmoq",
+        "shahrimiz",
+        "ehtimol",
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "わが町 → shahrimiz"
+    },
+    {
+      "id": 128,
+      "questionType": "kanji",
+      "question": "『ものおき』qaysi yozuvga mos?",
+      "word": "物置",
+      "choices": [
+        "物置",
+        "役目",
+        "徹夜する",
+        "拍手する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ものおき → 物置"
+    },
+    {
+      "id": 129,
+      "questionType": "reading",
+      "question": "『間取り』ning o'qilishi qaysi?",
+      "word": "間取り",
+      "choices": [
+        "きらくな",
+        "めいぶん",
+        "ばらす",
+        "まどり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "間取り → まどり"
+    },
+    {
+      "id": 130,
+      "questionType": "meaning",
+      "question": "『うらむ』ning ma'nosi qaysi?",
+      "word": "うらむ",
+      "choices": [
+        "buzmoq, tartibsiz holga keltirmoq",
+        "gina qilmoq, kek saqlamoq",
+        "shubhalanmoq",
+        "davradan chetlatish; chetda qolgan kishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "うらむ → gina qilmoq, kek saqlamoq"
+    },
+    {
+      "id": 131,
+      "questionType": "word",
+      "question": "『yolg'iz yashash』ning yaponcha ifodasi qaysi?",
+      "word": "一人暮らし",
+      "choices": [
+        "でたらめな",
+        "悪天候",
+        "一人暮らし",
+        "秘密"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yolg'iz yashash → 一人暮らし"
+    },
+    {
+      "id": 132,
+      "questionType": "reading",
+      "question": "『うらむ』ning o'qilishi qaysi?",
+      "word": "うらむ",
+      "choices": [
+        "うらむ",
+        "あいする",
+        "いっかだんらん",
+        "かたりあう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うらむ → うらむ"
+    },
+    {
+      "id": 133,
+      "questionType": "kanji",
+      "question": "『まどり』qaysi yozuvga mos?",
+      "word": "間取り",
+      "choices": [
+        "発着する",
+        "納得する",
+        "覚え",
+        "間取り"
+      ],
+      "correctAnswer": 3,
+      "explanation": "まどり → 間取り"
+    },
+    {
+      "id": 134,
+      "questionType": "word",
+      "question": "『biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi』ning yaponcha ifodasi qaysi?",
+      "word": "奥",
+      "choices": [
+        "平気な",
+        "記憶",
+        "奥",
+        "一家団らん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi → 奥"
+    },
+    {
+      "id": 135,
+      "questionType": "word",
+      "question": "『ijara (ijaraga berish)』ning yaponcha ifodasi qaysi?",
+      "word": "賃貸",
+      "choices": [
+        "度重なる",
+        "賃貸",
+        "過去",
+        "ご馳走する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ijara (ijaraga berish) → 賃貸"
+    },
+    {
+      "id": 136,
+      "questionType": "kanji",
+      "question": "『ローン』qaysi yozuvga mos?",
+      "word": "ローン",
+      "choices": [
+        "ローン",
+        "心無い",
+        "だます",
+        "骨折する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ローン → ローン"
+    },
+    {
+      "id": 137,
+      "questionType": "sentence",
+      "question": "『更新する』ning ma'nosi qaysi?",
+      "word": "更新する",
+      "choices": [
+        "yangilamoq (shartnoma)",
+        "o'ta rasmiy, siqiq (muhit)",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)",
+        "yaxshi fikr"
+      ],
+      "correctAnswer": 0,
+      "explanation": "更新する → yangilamoq (shartnoma)"
+    },
+    {
+      "id": 138,
+      "questionType": "kanji",
+      "question": "『きたむき』qaysi yozuvga mos?",
+      "word": "北向き",
+      "choices": [
+        "北向き",
+        "投票する",
+        "同士",
+        "物価"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きたむき → 北向き"
+    },
+    {
+      "id": 139,
+      "questionType": "reading",
+      "question": "『敷金』ning o'qilishi qaysi?",
+      "word": "敷金",
+      "choices": [
+        "うらぎる",
+        "しききん",
+        "こっそり",
+        "しせん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "敷金 → しききん"
+    },
+    {
+      "id": 140,
+      "questionType": "kanji",
+      "question": "『だいなし』qaysi yozuvga mos?",
+      "word": "台無し",
+      "choices": [
+        "空間",
+        "高〜",
+        "注意報",
+        "台無し"
+      ],
+      "correctAnswer": 3,
+      "explanation": "だいなし → 台無し"
+    },
+    {
+      "id": 141,
+      "questionType": "word",
+      "question": "『uy qarzi』ning yaponcha ifodasi qaysi?",
+      "word": "住宅ローン",
+      "choices": [
+        "住宅ローン",
+        "視線",
+        "低次元",
+        "持参する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "uy qarzi → 住宅ローン"
+    },
+    {
+      "id": 142,
+      "questionType": "meaning",
+      "question": "『仲間はずれ』ning ma'nosi qaysi?",
+      "word": "仲間はずれ",
+      "choices": [
+        "past daraja",
+        "suhbatlashmoq, dil so'zlashmoq",
+        "davradan chetlatish; chetda qolgan kishi",
+        "odatiy, tabiiy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "仲間はずれ → davradan chetlatish; chetda qolgan kishi"
+    },
+    {
+      "id": 143,
+      "questionType": "word",
+      "question": "『o'z tomoni, oldingi (o'ziga yaqin) tomon』ning yaponcha ifodasi qaysi?",
+      "word": "手前",
+      "choices": [
+        "手前",
+        "信頼する",
+        "食べ盛り",
+        "失格する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "o'z tomoni, oldingi (o'ziga yaqin) tomon → 手前"
+    },
+    {
+      "id": 144,
+      "questionType": "word",
+      "question": "『ijara uyi』ning yaponcha ifodasi qaysi?",
+      "word": "賃貸住宅",
+      "choices": [
+        "励ます",
+        "招く",
+        "廃止する",
+        "賃貸住宅"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ijara uyi → 賃貸住宅"
+    },
+    {
+      "id": 145,
+      "questionType": "reading",
+      "question": "『あいつ』ning o'qilishi qaysi?",
+      "word": "あいつ",
+      "choices": [
+        "みならう",
+        "あいつ",
+        "ゆうじんたち",
+        "[〜を]むすびつける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あいつ → あいつ"
+    },
+    {
+      "id": 146,
+      "questionType": "kanji",
+      "question": "『こうしんする』qaysi yozuvga mos?",
+      "word": "更新する",
+      "choices": [
+        "会費",
+        "向き合う",
+        "振り返る",
+        "更新する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こうしんする → 更新する"
+    },
+    {
+      "id": 147,
+      "questionType": "word",
+      "question": "『barbod, rasvo bo'lish』ning yaponcha ifodasi qaysi?",
+      "word": "台無し",
+      "choices": [
+        "仲間はずれ",
+        "一目",
+        "台無し",
+        "うつむく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "barbod, rasvo bo'lish → 台無し"
+    },
+    {
+      "id": 148,
+      "questionType": "word",
+      "question": "『barbod, rasvo bo'lish』ning yaponcha ifodasi qaysi?",
+      "word": "台無し",
+      "choices": [
+        "呼び出す",
+        "うらやましい",
+        "台無し",
+        "名画"
+      ],
+      "correctAnswer": 2,
+      "explanation": "barbod, rasvo bo'lish → 台無し"
+    },
+    {
+      "id": 149,
+      "questionType": "reading",
+      "question": "『あいつ』ning o'qilishi qaysi?",
+      "word": "あいつ",
+      "choices": [
+        "いっきに",
+        "あいつ",
+        "きく",
+        "しみじみ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あいつ → あいつ"
+    },
+    {
+      "id": 150,
+      "questionType": "reading",
+      "question": "『空間』ning o'qilishi qaysi?",
+      "word": "空間",
+      "choices": [
+        "としかいはつ",
+        "めいさん",
+        "くうかん",
+        "ぐち"
+      ],
+      "correctAnswer": 2,
+      "explanation": "空間 → くうかん"
+    },
+    {
+      "id": 151,
+      "questionType": "kanji",
+      "question": "『しききん』qaysi yozuvga mos?",
+      "word": "敷金",
+      "choices": [
+        "名案",
+        "敷金",
+        "俺",
+        "産婦人科"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しききん → 敷金"
+    },
+    {
+      "id": 152,
+      "questionType": "kanji",
+      "question": "『ぬくもり』qaysi yozuvga mos?",
+      "word": "温もり",
+      "choices": [
+        "温もり",
+        "甘える",
+        "労働する",
+        "不運な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぬくもり → 温もり"
+    },
+    {
+      "id": 153,
+      "questionType": "kanji",
+      "question": "『かおく』qaysi yozuvga mos?",
+      "word": "家屋",
+      "choices": [
+        "家屋",
+        "失格する",
+        "介助犬",
+        "災害"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かおく → 家屋"
+    },
+    {
+      "id": 154,
+      "questionType": "word",
+      "question": "『yaxshi fikr』ning yaponcha ifodasi qaysi?",
+      "word": "名案",
+      "choices": [
+        "名案",
+        "低次元",
+        "家屋",
+        "到着する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yaxshi fikr → 名案"
+    },
+    {
+      "id": 155,
+      "questionType": "kanji",
+      "question": "『うらむ』qaysi yozuvga mos?",
+      "word": "うらむ",
+      "choices": [
+        "うらむ",
+        "悪循環",
+        "そらす",
+        "効く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うらむ → うらむ"
+    },
+    {
+      "id": 156,
+      "questionType": "reading",
+      "question": "『うらむ』ning o'qilishi qaysi?",
+      "word": "うらむ",
+      "choices": [
+        "あいしょう",
+        "うらむ",
+        "うちあける",
+        "ひがしむき"
+      ],
+      "correctAnswer": 1,
+      "explanation": "うらむ → うらむ"
+    },
+    {
+      "id": 157,
+      "questionType": "kanji",
+      "question": "『あいつ』qaysi yozuvga mos?",
+      "word": "あいつ",
+      "choices": [
+        "あいつ",
+        "夢中な",
+        "名案",
+        "ヘルパー"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あいつ → あいつ"
+    },
+    {
+      "id": 158,
+      "questionType": "reading",
+      "question": "『温もり』ning o'qilishi qaysi?",
+      "word": "温もり",
+      "choices": [
+        "けつい",
+        "でんとう",
+        "にらむ",
+        "ぬくもり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "温もり → ぬくもり"
+    },
+    {
+      "id": 159,
+      "questionType": "kanji",
+      "question": "『めいさく』qaysi yozuvga mos?",
+      "word": "名作",
+      "choices": [
+        "つぶやく",
+        "悔やむ",
+        "うらむ",
+        "名作"
+      ],
+      "correctAnswer": 3,
+      "explanation": "めいさく → 名作"
+    },
+    {
+      "id": 160,
+      "questionType": "sentence",
+      "question": "『仲間はずれ』ning ma'nosi qaysi?",
+      "word": "仲間はずれ",
+      "choices": [
+        "davradan chetlatish; chetda qolgan kishi",
+        "mashhur kuy",
+        "norozilik bildirmoq",
+        "hurmat qilmoq, qadrlamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "仲間はずれ → davradan chetlatish; chetda qolgan kishi"
+    },
+    {
+      "id": 161,
+      "questionType": "word",
+      "question": "『sharqqa qaragan』ning yaponcha ifodasi qaysi?",
+      "word": "東向き",
+      "choices": [
+        "言いつける",
+        "東向き",
+        "再会する",
+        "アプローチする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sharqqa qaragan → 東向き"
+    },
+    {
+      "id": 162,
+      "questionType": "reading",
+      "question": "『ローン』ning o'qilishi qaysi?",
+      "word": "ローン",
+      "choices": [
+        "ローン",
+        "とっさに",
+        "たいど",
+        "こうつごう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ローン → ローン"
+    },
+    {
+      "id": 163,
+      "questionType": "kanji",
+      "question": "『たにん』qaysi yozuvga mos?",
+      "word": "他人",
+      "choices": [
+        "他人",
+        "散らばる",
+        "再会する",
+        "自己紹介"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たにん → 他人"
+    },
+    {
+      "id": 164,
+      "questionType": "reading",
+      "question": "『奥』ning o'qilishi qaysi?",
+      "word": "奥",
+      "choices": [
+        "うつす",
+        "かくへいき",
+        "おく",
+        "めいきょく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "奥 → おく"
+    },
+    {
+      "id": 165,
+      "questionType": "word",
+      "question": "『qoida』ning yaponcha ifodasi qaysi?",
+      "word": "決まり",
+      "choices": [
+        "裏切る",
+        "決まり",
+        "接する",
+        "思いやる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qoida → 決まり"
+    },
+    {
+      "id": 166,
+      "questionType": "reading",
+      "question": "『台無し』ning o'qilishi qaysi?",
+      "word": "台無し",
+      "choices": [
+        "こうがくれき",
+        "どうし",
+        "ふうんな",
+        "だいなし"
+      ],
+      "correctAnswer": 3,
+      "explanation": "台無し → だいなし"
+    },
+    {
+      "id": 167,
+      "questionType": "reading",
+      "question": "『家屋』ning o'qilishi qaysi?",
+      "word": "家屋",
+      "choices": [
+        "いっけんや",
+        "もりあがる",
+        "とける",
+        "かおく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "家屋 → かおく"
+    },
+    {
+      "id": 168,
+      "questionType": "reading",
+      "question": "『決まり』ning o'qilishi qaysi?",
+      "word": "決まり",
+      "choices": [
+        "はち",
+        "きまり",
+        "ふうんな",
+        "とける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "決まり → きまり"
+    },
+    {
+      "id": 169,
+      "questionType": "meaning",
+      "question": "『ローン』ning ma'nosi qaysi?",
+      "word": "ローン",
+      "choices": [
+        "qarsak chalmoq",
+        "qarz, kredit",
+        "bir yilda ishga kirgan tengdosh, kursdosh",
+        "ta'sir qilmoq, samarali bo'lmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ローン → qarz, kredit"
+    },
+    {
+      "id": 170,
+      "questionType": "reading",
+      "question": "『東向き』ning o'qilishi qaysi?",
+      "word": "東向き",
+      "choices": [
+        "ヘルパー",
+        "ひがしむき",
+        "ガーデニング",
+        "さくせいする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "東向き → ひがしむき"
+    },
+    {
+      "id": 171,
+      "questionType": "kanji",
+      "question": "『なかまはずれ』qaysi yozuvga mos?",
+      "word": "仲間はずれ",
+      "choices": [
+        "感心する",
+        "決まり",
+        "仲間はずれ",
+        "手前"
+      ],
+      "correctAnswer": 2,
+      "explanation": "なかまはずれ → 仲間はずれ"
+    },
+    {
+      "id": 172,
+      "questionType": "kanji",
+      "question": "『ものおき』qaysi yozuvga mos?",
+      "word": "物置",
+      "choices": [
+        "うらむ",
+        "間接",
+        "写す",
+        "物置"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ものおき → 物置"
+    },
+    {
+      "id": 173,
+      "questionType": "word",
+      "question": "『haydab chiqarmoq』ning yaponcha ifodasi qaysi?",
+      "word": "追い出す",
+      "choices": [
+        "大いに",
+        "追い出す",
+        "作成する",
+        "罪を犯す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "haydab chiqarmoq → 追い出す"
+    },
+    {
+      "id": 174,
+      "questionType": "sentence",
+      "question": "『住宅ローン』ning ma'nosi qaysi?",
+      "word": "住宅ローン",
+      "choices": [
+        "uy qarzi",
+        "o'tmish",
+        "juftlik",
+        "o'zaro bog'lanmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "住宅ローン → uy qarzi"
+    },
+    {
+      "id": 175,
+      "questionType": "kanji",
+      "question": "『わがまち』qaysi yozuvga mos?",
+      "word": "わが町",
+      "choices": [
+        "好都合",
+        "わが町",
+        "花婿",
+        "病状"
+      ],
+      "correctAnswer": 1,
+      "explanation": "わがまち → わが町"
+    },
+    {
+      "id": 176,
+      "questionType": "reading",
+      "question": "『我が家』ning o'qilishi qaysi?",
+      "word": "我が家",
+      "choices": [
+        "ガーデニング",
+        "てもと",
+        "わがや",
+        "りべんせい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "我が家 → わがや"
+    },
+    {
+      "id": 177,
+      "questionType": "kanji",
+      "question": "『れいきん』qaysi yozuvga mos?",
+      "word": "礼金",
+      "choices": [
+        "自分勝手な",
+        "礼金",
+        "雲がかかる",
+        "お互い"
+      ],
+      "correctAnswer": 1,
+      "explanation": "れいきん → 礼金"
+    },
+    {
+      "id": 178,
+      "questionType": "sentence",
+      "question": "『賃貸住宅』ning ma'nosi qaysi?",
+      "word": "賃貸住宅",
+      "choices": [
+        "juftlik",
+        "boqmoq, ta'minlamoq",
+        "ijara uyi",
+        "kam mablag'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "賃貸住宅 → ijara uyi"
+    },
+    {
+      "id": 179,
+      "questionType": "kanji",
+      "question": "『ひがしむき』qaysi yozuvga mos?",
+      "word": "東向き",
+      "choices": [
+        "納得する",
+        "病状",
+        "東向き",
+        "聡明な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ひがしむき → 東向き"
+    },
+    {
+      "id": 180,
+      "questionType": "kanji",
+      "question": "『いっけんや』qaysi yozuvga mos?",
+      "word": "一軒家",
+      "choices": [
+        "怒鳴る",
+        "悪天候",
+        "都市開発",
+        "一軒家"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いっけんや → 一軒家"
+    },
+    {
+      "id": 181,
+      "questionType": "reading",
+      "question": "『仲間はずれ』ning o'qilishi qaysi?",
+      "word": "仲間はずれ",
+      "choices": [
+        "なかまはずれ",
+        "なにげない",
+        "うんめい",
+        "みつめあう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "仲間はずれ → なかまはずれ"
+    },
+    {
+      "id": 182,
+      "questionType": "word",
+      "question": "『anovi』ning yaponcha ifodasi qaysi?",
+      "word": "やつ",
+      "choices": [
+        "やつ",
+        "追い出す",
+        "心当たり",
+        "罪を犯す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "anovi → やつ"
+    },
+    {
+      "id": 183,
+      "questionType": "kanji",
+      "question": "『やつ』qaysi yozuvga mos?",
+      "word": "やつ",
+      "choices": [
+        "勘違いする",
+        "振り返る",
+        "やつ",
+        "ささいな"
+      ],
+      "correctAnswer": 2,
+      "explanation": "やつ → やつ"
+    },
+    {
+      "id": 184,
+      "questionType": "reading",
+      "question": "『わが町』ning o'qilishi qaysi?",
+      "word": "わが町",
+      "choices": [
+        "いっけんや",
+        "かんちがいする",
+        "わがまち",
+        "げんかい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "わが町 → わがまち"
+    },
+    {
+      "id": 185,
+      "questionType": "reading",
+      "question": "『更新する』ning o'qilishi qaysi?",
+      "word": "更新する",
+      "choices": [
+        "こうい",
+        "きんく",
+        "こうしんする",
+        "やね"
+      ],
+      "correctAnswer": 2,
+      "explanation": "更新する → こうしんする"
+    },
+    {
+      "id": 186,
+      "questionType": "word",
+      "question": "『yangilamoq (shartnoma)』ning yaponcha ifodasi qaysi?",
+      "word": "更新する",
+      "choices": [
+        "更新する",
+        "避ける",
+        "養う",
+        "勤続する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yangilamoq (shartnoma) → 更新する"
+    },
+    {
+      "id": 187,
+      "questionType": "meaning",
+      "question": "『マイホーム』ning ma'nosi qaysi?",
+      "word": "マイホーム",
+      "choices": [
+        "mening uyim",
+        "do'konlar ko'chasi, savdo maydoni",
+        "yangilamoq (shartnoma)",
+        "nomzod"
+      ],
+      "correctAnswer": 0,
+      "explanation": "マイホーム → mening uyim"
+    },
+    {
+      "id": 188,
+      "questionType": "kanji",
+      "question": "『めいあん』qaysi yozuvga mos?",
+      "word": "名案",
+      "choices": [
+        "名案",
+        "決心",
+        "領土",
+        "許す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "めいあん → 名案"
+    },
+    {
+      "id": 189,
+      "questionType": "reading",
+      "question": "『奥』ning o'qilishi qaysi?",
+      "word": "奥",
+      "choices": [
+        "まんびきする",
+        "ひがしむき",
+        "おく",
+        "きたむき"
+      ],
+      "correctAnswer": 2,
+      "explanation": "奥 → おく"
+    },
+    {
+      "id": 190,
+      "questionType": "word",
+      "question": "『qoida』ning yaponcha ifodasi qaysi?",
+      "word": "決まり",
+      "choices": [
+        "名著",
+        "決まり",
+        "ホームヘルパー",
+        "食べ盛り"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qoida → 決まり"
+    }
+  ]
+}

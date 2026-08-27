@@ -5,983 +5,983 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "kanji",
-      "question": "『さいがい』qaysi yozuvga mos?",
-      "word": "災害",
+      "questionType": "word",
+      "question": "『vaqtni ko'rsatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "時間を指す",
       "choices": [
-        "幹事",
-        "親知らず",
-        "災害",
-        "議論する"
+        "手ぶら",
+        "ささいな",
+        "集中力",
+        "時間を指す"
       ],
-      "correctAnswer": 2,
-      "explanation": "さいがい → 災害"
+      "correctAnswer": 3,
+      "explanation": "vaqtni ko'rsatmoq → 時間を指す"
     },
     {
       "id": 2,
-      "questionType": "kanji",
-      "question": "『くずれる』qaysi yozuvga mos?",
-      "word": "崩れる",
+      "questionType": "meaning",
+      "question": "『蚊』ning ma'nosi qaysi?",
+      "word": "蚊",
       "choices": [
-        "崩れる",
-        "察する",
-        "高血圧",
-        "都市開発"
+        "vazifa, burch",
+        "ayyorlik, hiyla",
+        "chivin",
+        "bog'lamoq"
       ],
-      "correctAnswer": 0,
-      "explanation": "くずれる → 崩れる"
+      "correctAnswer": 2,
+      "explanation": "蚊 → chivin"
     },
     {
       "id": 3,
-      "questionType": "kanji",
-      "question": "『しょうご』qaysi yozuvga mos?",
-      "word": "正午",
-      "choices": [
-        "正午",
-        "介護する",
-        "見習う",
-        "どうせ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しょうご → 正午"
-    },
-    {
-      "id": 4,
-      "questionType": "kanji",
-      "question": "『とうちゃくする』qaysi yozuvga mos?",
-      "word": "到着する",
-      "choices": [
-        "集中力",
-        "副作用",
-        "到着する",
-        "労働する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "とうちゃくする → 到着する"
-    },
-    {
-      "id": 5,
-      "questionType": "word",
-      "question": "『ko'nmoq, tushunib rozi bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "納得する",
-      "choices": [
-        "納得する",
-        "骨折する",
-        "憧れる",
-        "友人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ko'nmoq, tushunib rozi bo'lmoq → 納得する"
-    },
-    {
-      "id": 6,
-      "questionType": "sentence",
-      "question": "『同意する』ning ma'nosi qaysi?",
-      "word": "同意する",
-      "choices": [
-        "rozilik bildirmoq",
-        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
-        "gap boshlamoq, birinchi bo'lib aytmoq",
-        "katsudon (qovurilgan go'sht qo'yilgan guruch)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "同意する → rozilik bildirmoq"
-    },
-    {
-      "id": 7,
-      "questionType": "kanji",
-      "question": "『どういする』qaysi yozuvga mos?",
-      "word": "同意する",
-      "choices": [
-        "出産する",
-        "抵抗する",
-        "どうせ",
-        "同意する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "どういする → 同意する"
-    },
-    {
-      "id": 8,
-      "questionType": "reading",
-      "question": "『到着する』ning o'qilishi qaysi?",
-      "word": "到着する",
-      "choices": [
-        "とうちゃくする",
-        "うちあける",
-        "こうぎする",
-        "ストライキ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "到着する → とうちゃくする"
-    },
-    {
-      "id": 9,
-      "questionType": "reading",
-      "question": "『憧れる』ning o'qilishi qaysi?",
-      "word": "憧れる",
-      "choices": [
-        "のど",
-        "あこがれる",
-        "うむ",
-        "はんせいかい"
-      ],
-      "correctAnswer": 1,
-      "explanation": "憧れる → あこがれる"
-    },
-    {
-      "id": 10,
-      "questionType": "kanji",
-      "question": "『なっとくする』qaysi yozuvga mos?",
-      "word": "納得する",
-      "choices": [
-        "納得する",
-        "ふざける",
-        "度重なる",
-        "災害"
-      ],
-      "correctAnswer": 0,
-      "explanation": "なっとくする → 納得する"
-    },
-    {
-      "id": 11,
-      "questionType": "word",
-      "question": "『talabalar oshxonasi』ning yaponcha ifodasi qaysi?",
-      "word": "学食",
-      "choices": [
-        "ただ今",
-        "口を利く",
-        "効く",
-        "学食"
-      ],
-      "correctAnswer": 3,
-      "explanation": "talabalar oshxonasi → 学食"
-    },
-    {
-      "id": 12,
-      "questionType": "reading",
-      "question": "『蚊』ning o'qilishi qaysi?",
-      "word": "蚊",
-      "choices": [
-        "か",
-        "はいしする",
-        "ただいま",
-        "しつけ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "蚊 → か"
-    },
-    {
-      "id": 13,
-      "questionType": "reading",
-      "question": "『時間を指す』ning o'qilishi qaysi?",
-      "word": "時間を指す",
-      "choices": [
-        "かつどん",
-        "じかんをさす",
-        "つぐ",
-        "なにげない"
-      ],
-      "correctAnswer": 1,
-      "explanation": "時間を指す → じかんをさす"
-    },
-    {
-      "id": 14,
-      "questionType": "meaning",
-      "question": "『同意する』ning ma'nosi qaysi?",
-      "word": "同意する",
-      "choices": [
-        "rozilik bildirmoq",
-        "g'amxo'rlik",
-        "uyda parvarish qiluvchi xodim",
-        "meros qilib olmoq, davom ettirmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "同意する → rozilik bildirmoq"
-    },
-    {
-      "id": 15,
-      "questionType": "kanji",
-      "question": "『どういする』qaysi yozuvga mos?",
-      "word": "同意する",
-      "choices": [
-        "抗議する",
-        "目が覚める",
-        "同意する",
-        "ホームヘルパー"
-      ],
-      "correctAnswer": 2,
-      "explanation": "どういする → 同意する"
-    },
-    {
-      "id": 16,
-      "questionType": "kanji",
-      "question": "『あこがれる』qaysi yozuvga mos?",
-      "word": "憧れる",
-      "choices": [
-        "見習う",
-        "目が覚める",
-        "言い出す",
-        "憧れる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "あこがれる → 憧れる"
-    },
-    {
-      "id": 17,
-      "questionType": "sentence",
-      "question": "『到着する』ning ma'nosi qaysi?",
-      "word": "到着する",
-      "choices": [
-        "chuqur",
-        "yetib kelmoq",
-        "uyushtiruvchi, tashkilotchi",
-        "yuqori ma'lumotli"
-      ],
-      "correctAnswer": 1,
-      "explanation": "到着する → yetib kelmoq"
-    },
-    {
-      "id": 18,
-      "questionType": "sentence",
-      "question": "『親知らず』ning ma'nosi qaysi?",
-      "word": "親知らず",
-      "choices": [
-        "aql tish",
-        "ko'nmoq, tushunib rozi bo'lmoq",
-        "kamtarona, sodda",
-        "shogird, o'rganuvchi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "親知らず → aql tish"
-    },
-    {
-      "id": 19,
-      "questionType": "reading",
-      "question": "『正午』ning o'qilishi qaysi?",
-      "word": "正午",
-      "choices": [
-        "じかんをさす",
-        "おもいやり",
-        "しょうご",
-        "ストライキ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "正午 → しょうご"
-    },
-    {
-      "id": 20,
-      "questionType": "meaning",
-      "question": "『憧れる』ning ma'nosi qaysi?",
-      "word": "憧れる",
-      "choices": [
-        "farzand ko'rganlik tabrigi, sovg'asi",
-        "chivin",
-        "havas qilmoq",
-        "erkalanmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "憧れる → havas qilmoq"
-    },
-    {
-      "id": 21,
-      "questionType": "kanji",
-      "question": "『がくしょく』qaysi yozuvga mos?",
-      "word": "学食",
-      "choices": [
-        "困難な",
-        "ブランド",
-        "学食",
-        "当たり前"
-      ],
-      "correctAnswer": 2,
-      "explanation": "がくしょく → 学食"
-    },
-    {
-      "id": 22,
       "questionType": "kanji",
       "question": "『か』qaysi yozuvga mos?",
       "word": "蚊",
       "choices": [
         "蚊",
-        "荒らす",
-        "物価",
-        "高学年"
+        "ささやく",
+        "わが町",
+        "抵抗する"
       ],
       "correctAnswer": 0,
       "explanation": "か → 蚊"
     },
     {
-      "id": 23,
-      "questionType": "kanji",
-      "question": "『くずれる』qaysi yozuvga mos?",
-      "word": "崩れる",
-      "choices": [
-        "議論する",
-        "言い出す",
-        "崩れる",
-        "荒らす"
-      ],
-      "correctAnswer": 2,
-      "explanation": "くずれる → 崩れる"
-    },
-    {
-      "id": 24,
-      "questionType": "reading",
-      "question": "『親知らず』ning o'qilishi qaysi?",
-      "word": "親知らず",
-      "choices": [
-        "さべつする",
-        "しつもん",
-        "おやしらず",
-        "だます"
-      ],
-      "correctAnswer": 2,
-      "explanation": "親知らず → おやしらず"
-    },
-    {
-      "id": 25,
-      "questionType": "reading",
-      "question": "『学食』ning o'qilishi qaysi?",
-      "word": "学食",
-      "choices": [
-        "がくしょく",
-        "こうきあつ",
-        "あたりまえ",
-        "ブランド"
-      ],
-      "correctAnswer": 0,
-      "explanation": "学食 → がくしょく"
-    },
-    {
-      "id": 26,
-      "questionType": "reading",
-      "question": "『正午』ning o'qilishi qaysi?",
-      "word": "正午",
-      "choices": [
-        "じかんをさす",
-        "しゃっきんする",
-        "しょうご",
-        "なにげない"
-      ],
-      "correctAnswer": 2,
-      "explanation": "正午 → しょうご"
-    },
-    {
-      "id": 27,
-      "questionType": "kanji",
-      "question": "『じかんをさす』qaysi yozuvga mos?",
-      "word": "時間を指す",
-      "choices": [
-        "作成する",
-        "久しい",
-        "時間を指す",
-        "出産する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "じかんをさす → 時間を指す"
-    },
-    {
-      "id": 28,
-      "questionType": "word",
-      "question": "『havas qilmoq』ning yaponcha ifodasi qaysi?",
-      "word": "憧れる",
-      "choices": [
-        "継ぐ",
-        "放っておく",
-        "あきれる",
-        "憧れる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "havas qilmoq → 憧れる"
-    },
-    {
-      "id": 29,
-      "questionType": "kanji",
-      "question": "『とうちゃくする』qaysi yozuvga mos?",
-      "word": "到着する",
-      "choices": [
-        "抵抗する",
-        "一家団らん",
-        "耐震",
-        "到着する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "とうちゃくする → 到着する"
-    },
-    {
-      "id": 30,
-      "questionType": "reading",
-      "question": "『憧れる』ning o'qilishi qaysi?",
-      "word": "憧れる",
-      "choices": [
-        "あこがれる",
-        "ぎろんする",
-        "みならい",
-        "しみじみ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "憧れる → あこがれる"
-    },
-    {
-      "id": 31,
-      "questionType": "meaning",
-      "question": "『親知らず』ning ma'nosi qaysi?",
-      "word": "親知らず",
-      "choices": [
-        "diqqatni jamlash kuchi",
-        "aql tish",
-        "shogird, o'rganuvchi",
-        "narx-navo (umumiy narxlar darajasi)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "親知らず → aql tish"
-    },
-    {
-      "id": 32,
-      "questionType": "word",
-      "question": "『buzilmoq (shakl/holat)』ning yaponcha ifodasi qaysi?",
-      "word": "崩れる",
-      "choices": [
-        "崩れる",
-        "幹事",
-        "借金する",
-        "一家団らん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "buzilmoq (shakl/holat) → 崩れる"
-    },
-    {
-      "id": 33,
-      "questionType": "sentence",
-      "question": "『納得する』ning ma'nosi qaysi?",
-      "word": "納得する",
-      "choices": [
-        "ko'nmoq, tushunib rozi bo'lmoq",
-        "cheklangan vaqtli chegirma savdosi",
-        "erkalanmoq",
-        "hazillashmoq, sho'xlik qilmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "納得する → ko'nmoq, tushunib rozi bo'lmoq"
-    },
-    {
-      "id": 34,
-      "questionType": "kanji",
-      "question": "『おやしらず』qaysi yozuvga mos?",
-      "word": "親知らず",
-      "choices": [
-        "納得する",
-        "怠け者",
-        "親知らず",
-        "世代交代"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おやしらず → 親知らず"
-    },
-    {
-      "id": 35,
-      "questionType": "word",
-      "question": "『vaqtni ko'rsatmoq』ning yaponcha ifodasi qaysi?",
-      "word": "時間を指す",
-      "choices": [
-        "一気に",
-        "制限する",
-        "時間を指す",
-        "差別する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "vaqtni ko'rsatmoq → 時間を指す"
-    },
-    {
-      "id": 36,
-      "questionType": "word",
-      "question": "『falokat/ ofat』ning yaponcha ifodasi qaysi?",
-      "word": "災害",
-      "choices": [
-        "解ける",
-        "過去",
-        "災害",
-        "心細い"
-      ],
-      "correctAnswer": 2,
-      "explanation": "falokat/ ofat → 災害"
-    },
-    {
-      "id": 37,
-      "questionType": "word",
-      "question": "『chivin』ning yaponcha ifodasi qaysi?",
-      "word": "蚊",
-      "choices": [
-        "あきれる",
-        "同意する",
-        "物価",
-        "蚊"
-      ],
-      "correctAnswer": 3,
-      "explanation": "chivin → 蚊"
-    },
-    {
-      "id": 38,
-      "questionType": "meaning",
-      "question": "『納得する』ning ma'nosi qaysi?",
-      "word": "納得する",
-      "choices": [
-        "portret",
-        "akusherlik-ginekologiya (bo'limi)",
-        "tug'ilmoq",
-        "ko'nmoq, tushunib rozi bo'lmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "納得する → ko'nmoq, tushunib rozi bo'lmoq"
-    },
-    {
-      "id": 39,
-      "questionType": "word",
-      "question": "『aql tish』ning yaponcha ifodasi qaysi?",
-      "word": "親知らず",
-      "choices": [
-        "親知らず",
-        "察する",
-        "害",
-        "思いやり"
-      ],
-      "correctAnswer": 0,
-      "explanation": "aql tish → 親知らず"
-    },
-    {
-      "id": 40,
-      "questionType": "reading",
-      "question": "『学食』ning o'qilishi qaysi?",
-      "word": "学食",
-      "choices": [
-        "がくしょく",
-        "だます",
-        "はんせいかい",
-        "しゅうちゅうりょく"
-      ],
-      "correctAnswer": 0,
-      "explanation": "学食 → がくしょく"
-    },
-    {
-      "id": 41,
-      "questionType": "word",
-      "question": "『yetib kelmoq』ning yaponcha ifodasi qaysi?",
-      "word": "到着する",
-      "choices": [
-        "到着する",
-        "ありがとう",
-        "核兵器",
-        "万引きする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "yetib kelmoq → 到着する"
-    },
-    {
-      "id": 42,
+      "id": 4,
       "questionType": "meaning",
       "question": "『到着する』ning ma'nosi qaysi?",
       "word": "到着する",
       "choices": [
-        "tahlil (xulosa) yig'ilishi",
-        "yashirincha",
-        "haqiqiy kuch, salohiyat",
+        "muhokama qilmoq, bahs yuritmoq",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)",
+        "mushkul, qiyin",
         "yetib kelmoq"
       ],
       "correctAnswer": 3,
       "explanation": "到着する → yetib kelmoq"
     },
     {
-      "id": 43,
-      "questionType": "kanji",
-      "question": "『がくしょく』qaysi yozuvga mos?",
-      "word": "学食",
-      "choices": [
-        "仲",
-        "喉",
-        "学食",
-        "散らかる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "がくしょく → 学食"
-    },
-    {
-      "id": 44,
+      "id": 5,
       "questionType": "word",
       "question": "『falokat/ ofat』ning yaponcha ifodasi qaysi?",
       "word": "災害",
       "choices": [
+        "憧れる",
+        "表情",
         "災害",
-        "害",
-        "徹夜する",
-        "荒らす"
+        "しみじみ"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "falokat/ ofat → 災害"
     },
     {
-      "id": 45,
-      "questionType": "word",
-      "question": "『talabalar oshxonasi』ning yaponcha ifodasi qaysi?",
-      "word": "学食",
+      "id": 6,
+      "questionType": "reading",
+      "question": "『蚊』ning o'qilishi qaysi?",
+      "word": "蚊",
       "choices": [
-        "世代",
-        "温暖な",
-        "向き合う",
-        "学食"
+        "か",
+        "かいじょけん",
+        "おかげ",
+        "せんきょする"
       ],
-      "correctAnswer": 3,
-      "explanation": "talabalar oshxonasi → 学食"
+      "correctAnswer": 0,
+      "explanation": "蚊 → か"
     },
     {
-      "id": 46,
+      "id": 7,
+      "questionType": "sentence",
+      "question": "『到着する』ning ma'nosi qaysi?",
+      "word": "到着する",
+      "choices": [
+        "qirg'oq chizig'i",
+        "mazax qilmoq",
+        "bog'dorchilik",
+        "yetib kelmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "到着する → yetib kelmoq"
+    },
+    {
+      "id": 8,
+      "questionType": "kanji",
+      "question": "『か』qaysi yozuvga mos?",
+      "word": "蚊",
+      "choices": [
+        "領土",
+        "差別する",
+        "投票する",
+        "蚊"
+      ],
+      "correctAnswer": 3,
+      "explanation": "か → 蚊"
+    },
+    {
+      "id": 9,
+      "questionType": "word",
+      "question": "『rozilik bildirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "同意する",
+      "choices": [
+        "勤続する",
+        "同意する",
+        "しつけ",
+        "相談に乗る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rozilik bildirmoq → 同意する"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『くずれる』qaysi yozuvga mos?",
+      "word": "崩れる",
+      "choices": [
+        "大幅な",
+        "崩れる",
+        "伝統",
+        "きっぱり"
+      ],
+      "correctAnswer": 1,
+      "explanation": "くずれる → 崩れる"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『蚊』ning o'qilishi qaysi?",
+      "word": "蚊",
+      "choices": [
+        "うたがう",
+        "こうきあつ",
+        "きずつける",
+        "か"
+      ],
+      "correctAnswer": 3,
+      "explanation": "蚊 → か"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『chivin』ning yaponcha ifodasi qaysi?",
+      "word": "蚊",
+      "choices": [
+        "退屈な",
+        "度重なる",
+        "蚊",
+        "持参する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "chivin → 蚊"
+    },
+    {
+      "id": 13,
       "questionType": "sentence",
       "question": "『時間を指す』ning ma'nosi qaysi?",
       "word": "時間を指す",
       "choices": [
-        "cheklamoq",
         "vaqtni ko'rsatmoq",
-        "o'rnak olmoq",
-        "chora ko'rmoq"
+        "hurmoq (it)",
+        "dan ko'ra",
+        "funksionallik"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "時間を指す → vaqtni ko'rsatmoq"
     },
     {
-      "id": 47,
-      "questionType": "meaning",
-      "question": "『蚊』ning ma'nosi qaysi?",
-      "word": "蚊",
+      "id": 14,
+      "questionType": "reading",
+      "question": "『学食』ning o'qilishi qaysi?",
+      "word": "学食",
       "choices": [
-        "chivin",
-        "vazifa, burch",
-        "ko'chirib yozmoq; suratga olmoq",
-        "tayanmoq"
+        "あらす",
+        "がくしょく",
+        "しっかくする",
+        "うらむ"
       ],
-      "correctAnswer": 0,
-      "explanation": "蚊 → chivin"
+      "correctAnswer": 1,
+      "explanation": "学食 → がくしょく"
     },
     {
-      "id": 48,
-      "questionType": "meaning",
-      "question": "『正午』ning ma'nosi qaysi?",
-      "word": "正午",
-      "choices": [
-        "tush payti (soat 12)",
-        "yaratmoq",
-        "tug'ilmoq",
-        "maslahat bermoq, dardini eshitmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "正午 → tush payti (soat 12)"
-    },
-    {
-      "id": 49,
+      "id": 15,
       "questionType": "kanji",
       "question": "『なっとくする』qaysi yozuvga mos?",
       "word": "納得する",
       "choices": [
-        "逆らう",
-        "募集する",
-        "納得する",
-        "介護する"
+        "発着する",
+        "株価",
+        "高学年",
+        "納得する"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "なっとくする → 納得する"
     },
     {
-      "id": 50,
+      "id": 16,
+      "questionType": "word",
+      "question": "『ko'nmoq, tushunib rozi bo'lmoq』ning yaponcha ifodasi qaysi?",
+      "word": "納得する",
+      "choices": [
+        "正直な",
+        "散る",
+        "納得する",
+        "高気圧"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ko'nmoq, tushunib rozi bo'lmoq → 納得する"
+    },
+    {
+      "id": 17,
+      "questionType": "reading",
+      "question": "『時間を指す』ning o'qilishi qaysi?",
+      "word": "時間を指す",
+      "choices": [
+        "かいじょけん",
+        "じかんをさす",
+        "つりあう",
+        "こんなんな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "時間を指す → じかんをさす"
+    },
+    {
+      "id": 18,
+      "questionType": "reading",
+      "question": "『学食』ning o'qilishi qaysi?",
+      "word": "学食",
+      "choices": [
+        "あいつ",
+        "たどりつく",
+        "もしかしたら、もしかして、ひょっとすると",
+        "がくしょく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "学食 → がくしょく"
+    },
+    {
+      "id": 19,
       "questionType": "reading",
       "question": "『崩れる』ning o'qilishi qaysi?",
       "word": "崩れる",
       "choices": [
-        "だます",
-        "むきあう",
         "くずれる",
-        "こんなんな"
+        "きずつける",
+        "じこしょうかい",
+        "さいがい"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "崩れる → くずれる"
     },
     {
-      "id": 51,
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『じかんをさす』qaysi yozuvga mos?",
+      "word": "時間を指す",
+      "choices": [
+        "食べ盛り",
+        "継ぐ",
+        "低次元",
+        "時間を指す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じかんをさす → 時間を指す"
+    },
+    {
+      "id": 21,
+      "questionType": "kanji",
+      "question": "『あこがれる』qaysi yozuvga mos?",
+      "word": "憧れる",
+      "choices": [
+        "心当たりのない",
+        "憧れる",
+        "うつむく",
+        "自己紹介"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あこがれる → 憧れる"
+    },
+    {
+      "id": 22,
+      "questionType": "meaning",
+      "question": "『正午』ning ma'nosi qaysi?",
+      "word": "正午",
+      "choices": [
+        "og'zi bo'sh (sir saqlay olmaydigan)",
+        "tush payti (soat 12)",
+        "chegara (sabr, kuch chegarasi)",
+        "dan kam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "正午 → tush payti (soat 12)"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『がくしょく』qaysi yozuvga mos?",
+      "word": "学食",
+      "choices": [
+        "高収入",
+        "学食",
+        "お互い",
+        "伝統"
+      ],
+      "correctAnswer": 1,
+      "explanation": "がくしょく → 学食"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『さいがい』qaysi yozuvga mos?",
+      "word": "災害",
+      "choices": [
+        "わが町",
+        "災害",
+        "当たり前",
+        "行為"
+      ],
+      "correctAnswer": 1,
+      "explanation": "さいがい → 災害"
+    },
+    {
+      "id": 25,
+      "questionType": "reading",
+      "question": "『到着する』ning o'qilishi qaysi?",
+      "word": "到着する",
+      "choices": [
+        "とうちゃくする",
+        "あくしゅみ",
+        "みならう",
+        "なみだをながす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "到着する → とうちゃくする"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『なっとくする』qaysi yozuvga mos?",
+      "word": "納得する",
+      "choices": [
+        "折りたたみ傘",
+        "納得する",
+        "殴る",
+        "書面"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なっとくする → 納得する"
+    },
+    {
+      "id": 27,
+      "questionType": "meaning",
+      "question": "『学食』ning ma'nosi qaysi?",
+      "word": "学食",
+      "choices": [
+        "talabalar oshxonasi",
+        "mashhur rasm; mashhur film",
+        "xatosini anglab mulohaza qilmoq",
+        "ko'pi, aksariyati"
+      ],
+      "correctAnswer": 0,
+      "explanation": "学食 → talabalar oshxonasi"
+    },
+    {
+      "id": 28,
+      "questionType": "word",
+      "question": "『talabalar oshxonasi』ning yaponcha ifodasi qaysi?",
+      "word": "学食",
+      "choices": [
+        "わが国",
+        "学食",
+        "名産",
+        "同意する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "talabalar oshxonasi → 学食"
+    },
+    {
+      "id": 29,
+      "questionType": "meaning",
+      "question": "『正午』ning ma'nosi qaysi?",
+      "word": "正午",
+      "choices": [
+        "yaqinlashmoq, gaplashishga harakat qilmoq",
+        "mashhur joy",
+        "tuni bilan uxlamaslik",
+        "tush payti (soat 12)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "正午 → tush payti (soat 12)"
+    },
+    {
+      "id": 30,
+      "questionType": "reading",
+      "question": "『正午』ning o'qilishi qaysi?",
+      "word": "正午",
+      "choices": [
+        "にらむ",
+        "しょうご",
+        "そうだんにのる",
+        "ちんたいじゅうたく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "正午 → しょうご"
+    },
+    {
+      "id": 31,
+      "questionType": "reading",
+      "question": "『親知らず』ning o'qilishi qaysi?",
+      "word": "親知らず",
+      "choices": [
+        "おんだんな",
+        "なぐる",
+        "きんく",
+        "おやしらず"
+      ],
+      "correctAnswer": 3,
+      "explanation": "親知らず → おやしらず"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『あこがれる』qaysi yozuvga mos?",
+      "word": "憧れる",
+      "choices": [
+        "労働する",
+        "不運な",
+        "憧れる",
+        "悪知恵"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あこがれる → 憧れる"
+    },
+    {
+      "id": 33,
+      "questionType": "meaning",
+      "question": "『崩れる』ning ma'nosi qaysi?",
+      "word": "崩れる",
+      "choices": [
+        "ijara uyi",
+        "shahrimiz",
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
+        "buzilmoq (shakl/holat)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "崩れる → buzilmoq (shakl/holat)"
+    },
+    {
+      "id": 34,
+      "questionType": "sentence",
+      "question": "『納得する』ning ma'nosi qaysi?",
+      "word": "納得する",
+      "choices": [
+        "sochilib ketmoq",
+        "ko'nmoq, tushunib rozi bo'lmoq",
+        "mumkin bo'lmagan narsa, taqiqlangan narsa",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "納得する → ko'nmoq, tushunib rozi bo'lmoq"
+    },
+    {
+      "id": 35,
+      "questionType": "reading",
+      "question": "『災害』ning o'qilishi qaysi?",
+      "word": "災害",
+      "choices": [
+        "だんさ",
+        "さいがい",
+        "とうちゃくする",
+        "あまえる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "災害 → さいがい"
+    },
+    {
+      "id": 36,
       "questionType": "kanji",
       "question": "『おやしらず』qaysi yozuvga mos?",
       "word": "親知らず",
       "choices": [
-        "都市開発",
+        "直接",
         "親知らず",
-        "しみじみ",
-        "ジェネレーション"
+        "吠える",
+        "名産"
       ],
       "correctAnswer": 1,
       "explanation": "おやしらず → 親知らず"
     },
     {
-      "id": 52,
-      "questionType": "word",
-      "question": "『tush payti (soat 12)』ning yaponcha ifodasi qaysi?",
-      "word": "正午",
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『どういする』qaysi yozuvga mos?",
+      "word": "同意する",
       "choices": [
-        "叶う",
-        "信頼する",
-        "正午",
-        "害"
+        "ばかにする",
+        "愛称",
+        "低姿勢",
+        "同意する"
       ],
-      "correctAnswer": 2,
-      "explanation": "tush payti (soat 12) → 正午"
+      "correctAnswer": 3,
+      "explanation": "どういする → 同意する"
     },
     {
-      "id": 53,
+      "id": 38,
       "questionType": "meaning",
-      "question": "『時間を指す』ning ma'nosi qaysi?",
-      "word": "時間を指す",
+      "question": "『崩れる』ning ma'nosi qaysi?",
+      "word": "崩れる",
       "choices": [
-        "suyanmoq, tayanmoq",
-        "vaqtni ko'rsatmoq",
-        "aloqa, munosabat",
-        "yuqori qon bosimi"
+        "xayolga kelmaydigan, noma'lum",
+        "buzilmoq (shakl/holat)",
+        "tikilib qarash",
+        "begonalar"
       ],
       "correctAnswer": 1,
-      "explanation": "時間を指す → vaqtni ko'rsatmoq"
+      "explanation": "崩れる → buzilmoq (shakl/holat)"
     },
     {
-      "id": 54,
+      "id": 39,
+      "questionType": "reading",
+      "question": "『憧れる』ning o'qilishi qaysi?",
+      "word": "憧れる",
+      "choices": [
+        "あくてんこう",
+        "あこがれる",
+        "はくしゅする",
+        "てまえ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "憧れる → あこがれる"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『しょうご』qaysi yozuvga mos?",
+      "word": "正午",
+      "choices": [
+        "高気圧",
+        "議論する",
+        "正午",
+        "好景気"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しょうご → 正午"
+    },
+    {
+      "id": 41,
+      "questionType": "word",
+      "question": "『rozilik bildirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "同意する",
+      "choices": [
+        "低学年",
+        "写す",
+        "ホームヘルパー",
+        "同意する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "rozilik bildirmoq → 同意する"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『おやしらず』qaysi yozuvga mos?",
+      "word": "親知らず",
+      "choices": [
+        "親知らず",
+        "たどり着く",
+        "徹夜する",
+        "ありがとう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おやしらず → 親知らず"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『親知らず』ning ma'nosi qaysi?",
+      "word": "親知らず",
+      "choices": [
+        "aql tish",
+        "shon-shuhrat",
+        "bahslashmoq",
+        "parvarish qilmoq (keksa, bemorni)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "親知らず → aql tish"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『納得する』ning o'qilishi qaysi?",
+      "word": "納得する",
+      "choices": [
+        "せっとくする",
+        "なっとくする",
+        "ちゅういほう",
+        "そうめいな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "納得する → なっとくする"
+    },
+    {
+      "id": 45,
+      "questionType": "sentence",
+      "question": "『パワハラする』ning ma'nosi qaysi?",
+      "word": "パワハラする",
+      "choices": [
+        "yig'lamoq",
+        "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)",
+        "yaxshi natija",
+        "suyanmoq, tayanmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "パワハラする → lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)"
+    },
+    {
+      "id": 46,
+      "questionType": "sentence",
+      "question": "『親知らず』ning ma'nosi qaysi?",
+      "word": "親知らず",
+      "choices": [
+        "haqiqiy kuch, salohiyat",
+        "aql tish",
+        "bema'ni, mantiqsiz",
+        "biror nima ichidan (tortma, g'aladon kabi); xona ichkarisi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "親知らず → aql tish"
+    },
+    {
+      "id": 47,
       "questionType": "kanji",
       "question": "『パワハラする』qaysi yozuvga mos?",
       "word": "パワハラする",
       "choices": [
-        "決勝戦",
-        "借金する",
-        "説得する",
+        "瞳がきつい",
+        "度重なる",
+        "落ち込む",
         "パワハラする"
       ],
       "correctAnswer": 3,
       "explanation": "パワハラする → パワハラする"
     },
     {
-      "id": 55,
+      "id": 48,
       "questionType": "word",
-      "question": "『lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)』ning yaponcha ifodasi qaysi?",
-      "word": "パワハラする",
+      "question": "『vaqtni ko'rsatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "時間を指す",
       "choices": [
-        "向き合う",
-        "パワハラする",
-        "集中力",
-        "支援する"
+        "妊婦",
+        "副作用",
+        "ジェネレーション",
+        "時間を指す"
       ],
-      "correctAnswer": 1,
-      "explanation": "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara) → パワハラする"
+      "correctAnswer": 3,
+      "explanation": "vaqtni ko'rsatmoq → 時間を指す"
     },
     {
-      "id": 56,
-      "questionType": "reading",
-      "question": "『蚊』ning o'qilishi qaysi?",
-      "word": "蚊",
-      "choices": [
-        "か",
-        "くちをきく",
-        "おやしらず",
-        "せだいこうたい"
-      ],
-      "correctAnswer": 0,
-      "explanation": "蚊 → か"
-    },
-    {
-      "id": 57,
-      "questionType": "reading",
-      "question": "『崩れる』ning o'qilishi qaysi?",
-      "word": "崩れる",
-      "choices": [
-        "なぐさめる",
-        "ヘルパー",
-        "くずれる",
-        "こう〜"
-      ],
-      "correctAnswer": 2,
-      "explanation": "崩れる → くずれる"
-    },
-    {
-      "id": 58,
-      "questionType": "kanji",
-      "question": "『あこがれる』qaysi yozuvga mos?",
+      "id": 49,
+      "questionType": "word",
+      "question": "『havas qilmoq』ning yaponcha ifodasi qaysi?",
       "word": "憧れる",
       "choices": [
+        "正直な",
         "憧れる",
-        "何気ない",
-        "頼る",
-        "労働する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "あこがれる → 憧れる"
-    },
-    {
-      "id": 59,
-      "questionType": "sentence",
-      "question": "『パワハラする』ning ma'nosi qaysi?",
-      "word": "パワハラする",
-      "choices": [
-        "cheklangan vaqtli chegirma savdosi",
-        "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)",
-        "ko'chirmoq (imtihonda)",
-        "erkalik"
+        "仲間はずれ",
+        "運命"
       ],
       "correctAnswer": 1,
-      "explanation": "パワハラする → lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)"
+      "explanation": "havas qilmoq → 憧れる"
     },
     {
-      "id": 60,
-      "questionType": "word",
-      "question": "『lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)』ning yaponcha ifodasi qaysi?",
-      "word": "パワハラする",
-      "choices": [
-        "パワハラする",
-        "思いやる",
-        "高気圧",
-        "高学歴"
-      ],
-      "correctAnswer": 0,
-      "explanation": "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara) → パワハラする"
-    },
-    {
-      "id": 61,
-      "questionType": "reading",
-      "question": "『災害』ning o'qilishi qaysi?",
-      "word": "災害",
-      "choices": [
-        "こうきあつ",
-        "はげます",
-        "おやしらず",
-        "さいがい"
-      ],
-      "correctAnswer": 3,
-      "explanation": "災害 → さいがい"
-    },
-    {
-      "id": 62,
-      "questionType": "kanji",
-      "question": "『しょうご』qaysi yozuvga mos?",
-      "word": "正午",
-      "choices": [
-        "肌",
-        "乗り切る",
-        "喉",
-        "正午"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しょうご → 正午"
-    },
-    {
-      "id": 63,
-      "questionType": "reading",
-      "question": "『同意する』ning o'qilishi qaysi?",
-      "word": "同意する",
-      "choices": [
-        "せけんしらず",
-        "こころほそい",
-        "どういする",
-        "か"
-      ],
-      "correctAnswer": 2,
-      "explanation": "同意する → どういする"
-    },
-    {
-      "id": 64,
-      "questionType": "reading",
-      "question": "『パワハラする』ning o'qilishi qaysi?",
-      "word": "パワハラする",
-      "choices": [
-        "のど",
-        "たいくつな",
-        "パワハラする",
-        "だます"
-      ],
-      "correctAnswer": 2,
-      "explanation": "パワハラする → パワハラする"
-    },
-    {
-      "id": 65,
-      "questionType": "word",
-      "question": "『rozilik bildirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "同意する",
-      "choices": [
-        "高学年",
-        "質素な",
-        "同意する",
-        "似顔絵"
-      ],
-      "correctAnswer": 2,
-      "explanation": "rozilik bildirmoq → 同意する"
-    },
-    {
-      "id": 66,
-      "questionType": "reading",
-      "question": "『災害』ning o'qilishi qaysi?",
-      "word": "災害",
-      "choices": [
-        "なっとくする",
-        "さいがい",
-        "ほうこくする",
-        "げんかい"
-      ],
-      "correctAnswer": 1,
-      "explanation": "災害 → さいがい"
-    },
-    {
-      "id": 67,
-      "questionType": "reading",
-      "question": "『納得する』ning o'qilishi qaysi?",
-      "word": "納得する",
-      "choices": [
-        "なかよし",
-        "どうせ",
-        "なっとくする",
-        "しゅうちゅうりょく"
-      ],
-      "correctAnswer": 2,
-      "explanation": "納得する → なっとくする"
-    },
-    {
-      "id": 68,
-      "questionType": "meaning",
-      "question": "『崩れる』ning ma'nosi qaysi?",
-      "word": "崩れる",
-      "choices": [
-        "g'amxo'rlik",
-        "buzilmoq (shakl/holat)",
-        "olib kelmoq (o'zi bilan)",
-        "yupatmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "崩れる → buzilmoq (shakl/holat)"
-    },
-    {
-      "id": 69,
+      "id": 50,
       "questionType": "kanji",
       "question": "『さいがい』qaysi yozuvga mos?",
       "word": "災害",
       "choices": [
         "災害",
-        "頼りになる",
-        "荒らす",
-        "喉"
+        "食べ盛り",
+        "老犬",
+        "名案"
       ],
       "correctAnswer": 0,
       "explanation": "さいがい → 災害"
     },
     {
-      "id": 70,
-      "questionType": "kanji",
-      "question": "『か』qaysi yozuvga mos?",
-      "word": "蚊",
+      "id": 51,
+      "questionType": "meaning",
+      "question": "『親知らず』ning ma'nosi qaysi?",
+      "word": "親知らず",
       "choices": [
-        "産婦人科",
-        "心細い",
-        "蚊",
-        "語り合う"
+        "ilk uchrashuv",
+        "qarz, kredit",
+        "vaqtni ko'rsatmoq",
+        "aql tish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "親知らず → aql tish"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『災害』ning ma'nosi qaysi?",
+      "word": "災害",
+      "choices": [
+        "tan olmoq; ruxsat bermoq",
+        "yetib kelmoq",
+        "(gap, salom, qo'l) almashmoq",
+        "falokat/ ofat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "災害 → falokat/ ofat"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『とうちゃくする』qaysi yozuvga mos?",
+      "word": "到着する",
+      "choices": [
+        "豊富な",
+        "にらむ",
+        "介入する",
+        "到着する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "とうちゃくする → 到着する"
+    },
+    {
+      "id": 54,
+      "questionType": "reading",
+      "question": "『崩れる』ning o'qilishi qaysi?",
+      "word": "崩れる",
+      "choices": [
+        "にんぷ",
+        "くずれる",
+        "じさんする",
+        "はなよめ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "崩れる → くずれる"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『がくしょく』qaysi yozuvga mos?",
+      "word": "学食",
+      "choices": [
+        "募集する",
+        "視線",
+        "お互い",
+        "学食"
+      ],
+      "correctAnswer": 3,
+      "explanation": "がくしょく → 学食"
+    },
+    {
+      "id": 56,
+      "questionType": "meaning",
+      "question": "『納得する』ning ma'nosi qaysi?",
+      "word": "納得する",
+      "choices": [
+        "rivojlangan, gullab-yashnagan",
+        "iliqlik, taft",
+        "ko'nmoq, tushunib rozi bo'lmoq",
+        "vazifa, burch"
       ],
       "correctAnswer": 2,
-      "explanation": "か → 蚊"
+      "explanation": "納得する → ko'nmoq, tushunib rozi bo'lmoq"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『とうちゃくする』qaysi yozuvga mos?",
+      "word": "到着する",
+      "choices": [
+        "どうせ",
+        "到着する",
+        "手ぶら",
+        "注射する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "とうちゃくする → 到着する"
+    },
+    {
+      "id": 58,
+      "questionType": "reading",
+      "question": "『パワハラする』ning o'qilishi qaysi?",
+      "word": "パワハラする",
+      "choices": [
+        "パワハラする",
+        "ちらりと",
+        "ホームヘルパー",
+        "あくじょうけん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "パワハラする → パワハラする"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『しょうご』qaysi yozuvga mos?",
+      "word": "正午",
+      "choices": [
+        "時間を指す",
+        "正午",
+        "頼もしい",
+        "報告する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しょうご → 正午"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『どういする』qaysi yozuvga mos?",
+      "word": "同意する",
+      "choices": [
+        "正午",
+        "同意する",
+        "大企業",
+        "自己流"
+      ],
+      "correctAnswer": 1,
+      "explanation": "どういする → 同意する"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『到着する』ning ma'nosi qaysi?",
+      "word": "到着する",
+      "choices": [
+        "o'sha inson, anovi",
+        "yetib kelmoq",
+        "minnatdorlik uyg'otadigan, qadrli",
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "到着する → yetib kelmoq"
+    },
+    {
+      "id": 62,
+      "questionType": "word",
+      "question": "『lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)』ning yaponcha ifodasi qaysi?",
+      "word": "パワハラする",
+      "choices": [
+        "愛する",
+        "パワハラする",
+        "うらやましい",
+        "手ぶら"
+      ],
+      "correctAnswer": 1,
+      "explanation": "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara) → パワハラする"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara)』ning yaponcha ifodasi qaysi?",
+      "word": "パワハラする",
+      "choices": [
+        "都市開発",
+        "パワハラする",
+        "雑な",
+        "高学年"
+      ],
+      "correctAnswer": 1,
+      "explanation": "lavozimini suiiste'mol qilib bosim o'tkazmoq (pawahara) → パワハラする"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『災害』ning o'qilishi qaysi?",
+      "word": "災害",
+      "choices": [
+        "わがくに",
+        "にんぷ",
+        "さいがい",
+        "せい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "災害 → さいがい"
+    },
+    {
+      "id": 65,
+      "questionType": "reading",
+      "question": "『憧れる』ning o'qilishi qaysi?",
+      "word": "憧れる",
+      "choices": [
+        "こうせいせき",
+        "かぶか",
+        "でんとう",
+        "あこがれる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "憧れる → あこがれる"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『正午』ning o'qilishi qaysi?",
+      "word": "正午",
+      "choices": [
+        "めいちょ",
+        "しょうご",
+        "ふぁみりー",
+        "とける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "正午 → しょうご"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『くずれる』qaysi yozuvga mos?",
+      "word": "崩れる",
+      "choices": [
+        "口論する",
+        "招く",
+        "悪習慣",
+        "崩れる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "くずれる → 崩れる"
+    },
+    {
+      "id": 68,
+      "questionType": "meaning",
+      "question": "『憧れる』ning ma'nosi qaysi?",
+      "word": "憧れる",
+      "choices": [
+        "mahalliy mahsulot",
+        "sevib qolmoq, romantik munosabatda bo'lmoq",
+        "havas qilmoq",
+        "ta'zim qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "憧れる → havas qilmoq"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『同意する』ning o'qilishi qaysi?",
+      "word": "同意する",
+      "choices": [
+        "かいがんせん",
+        "かつどん",
+        "みつめあう",
+        "どういする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "同意する → どういする"
+    },
+    {
+      "id": 70,
+      "questionType": "sentence",
+      "question": "『同意する』ning ma'nosi qaysi?",
+      "word": "同意する",
+      "choices": [
+        "ochofat, yeyishga o'ch",
+        "aksiyalar narxi",
+        "laqab",
+        "rozilik bildirmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "同意する → rozilik bildirmoq"
     }
   ]
 }

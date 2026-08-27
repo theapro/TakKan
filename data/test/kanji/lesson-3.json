@@ -5,1207 +5,1249 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "meaning",
-      "question": "『前の車を追い越す』ning ma'nosi qaysi?",
-      "word": "前の車を追い越す",
+      "questionType": "reading",
+      "question": "『賃』ning o'qilishi qaysi?",
+      "word": "賃",
       "choices": [
-        "iflos qo'l",
-        "jurnal o'qimoq",
-        "oldindagi mashinani quvib o'tmoq",
-        "savollar varag'ini tarqatish"
+        "ざつだん",
+        "ちん",
+        "こす",
+        "でんしゃがこむ"
       ],
-      "correctAnswer": 2,
-      "explanation": "前の車を追い越す → oldindagi mashinani quvib o'tmoq"
+      "correctAnswer": 1,
+      "explanation": "賃 → ちん"
     },
     {
       "id": 2,
-      "questionType": "word",
-      "question": "『ijaraga olingan ko'p qavatli uy』ning yaponcha ifodasi qaysi?",
-      "word": "賃貸マンション",
+      "questionType": "reading",
+      "question": "『越』ning o'qilishi qaysi?",
+      "word": "越",
       "choices": [
-        "暴力団を一掃する",
-        "本を著す",
-        "免許証",
-        "賃貸マンション"
+        "こていする",
+        "かはんすう",
+        "こす",
+        "かもつれっしゃ"
       ],
-      "correctAnswer": 3,
-      "explanation": "ijaraga olingan ko'p qavatli uy → 賃貸マンション"
+      "correctAnswer": 2,
+      "explanation": "越 → こす"
     },
     {
       "id": 3,
-      "questionType": "kanji",
-      "question": "『ちんぎん』qaysi yozuvga mos?",
-      "word": "賃金",
+      "questionType": "word",
+      "question": "『o'z davlati hududi』ning yaponcha ifodasi qaysi?",
+      "word": "自国領域",
       "choices": [
-        "空港",
-        "乗車券",
-        "賃金",
-        "輪になる"
+        "快い返事",
+        "杉の花粉",
+        "自国領域",
+        "預"
       ],
       "correctAnswer": 2,
-      "explanation": "ちんぎん → 賃金"
+      "explanation": "o'z davlati hududi → 自国領域"
     },
     {
       "id": 4,
-      "questionType": "reading",
-      "question": "『証』ning o'qilishi qaysi?",
-      "word": "証",
+      "questionType": "sentence",
+      "question": "『契約をする』ning ma'nosi qaysi?",
+      "word": "契約をする",
       "choices": [
-        "ちん",
-        "わ",
-        "まえのくるまをおいこす",
-        "しょう"
+        "shartnoma tuzish",
+        "ni turtki (bahona) qilib",
+        "haq, ijara",
+        "film yaratish"
       ],
-      "correctAnswer": 3,
-      "explanation": "証 → しょう"
+      "correctAnswer": 0,
+      "explanation": "契約をする → shartnoma tuzish"
     },
     {
       "id": 5,
-      "questionType": "sentence",
-      "question": "『前の車を追い越す』ning ma'nosi qaysi?",
+      "questionType": "recognition",
+      "question": "『越』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
       "word": "前の車を追い越す",
       "choices": [
-        "taklifnoma",
-        "oldindagi mashinani quvib o'tmoq",
-        "hovli",
-        "haftalik gazeta"
+        "前の車を追い越す",
+        "証明する",
+        "包帯を巻く",
+        "犬の首輪"
       ],
-      "correctAnswer": 1,
-      "explanation": "前の車を追い越す → oldindagi mashinani quvib o'tmoq"
+      "correctAnswer": 0,
+      "explanation": "越 → 前の車を追い越す"
     },
     {
       "id": 6,
-      "questionType": "meaning",
-      "question": "『国境を越える』ning ma'nosi qaysi?",
-      "word": "国境を越える",
+      "questionType": "kanji",
+      "question": "『しょう』qaysi yozuvga mos?",
+      "word": "証",
       "choices": [
-        "davlat chegarasidan kesib o'tish",
-        "mashina qo'yish taqiqlangan joy",
-        "uzuk",
-        "guvohnoma"
+        "証",
+        "梅雨",
+        "停車する",
+        "芳香剤"
       ],
       "correctAnswer": 0,
-      "explanation": "国境を越える → davlat chegarasidan kesib o'tish"
+      "explanation": "しょう → 証"
     },
     {
       "id": 7,
       "questionType": "sentence",
-      "question": "『自国領域』ning ma'nosi qaysi?",
-      "word": "自国領域",
+      "question": "『峠を越す』ning ma'nosi qaysi?",
+      "word": "峠を越す",
       "choices": [
-        "shartnoma",
-        "davlat chegarasidan kesib o'tish",
-        "o'z davlati hududi",
-        "o'z ichiga olmoq"
+        "sakura gullash chizig'i (fronti)",
+        "sulh, o't ochishni to'xtatish",
+        "uy ijarasi haqi",
+        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq"
       ],
-      "correctAnswer": 2,
-      "explanation": "自国領域 → o'z davlati hududi"
+      "correctAnswer": 3,
+      "explanation": "峠を越す → dovondan oshmoq; eng og'ir nuqtadan o'tmoq"
     },
     {
       "id": 8,
-      "questionType": "sentence",
-      "question": "『地域住民』ning ma'nosi qaysi?",
-      "word": "地域住民",
+      "questionType": "reading",
+      "question": "『保証人』ning o'qilishi qaysi?",
+      "word": "保証人",
       "choices": [
-        "mahalliy aholi",
-        "ketma-ket (navbatda) turmoq",
-        "yo'lovchi chiptasi",
-        "sharsharada tana va qalbni poklamoq"
+        "ゆけつようのけつえき",
+        "ほしょうにん",
+        "にもつをつめこむ",
+        "とちゅう"
       ],
-      "correctAnswer": 0,
-      "explanation": "地域住民 → mahalliy aholi"
+      "correctAnswer": 1,
+      "explanation": "保証人 → ほしょうにん"
     },
     {
       "id": 9,
-      "questionType": "sentence",
-      "question": "『賃貸マンション』ning ma'nosi qaysi?",
-      "word": "賃貸マンション",
+      "questionType": "word",
+      "question": "『faraz qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "仮定する",
       "choices": [
-        "ijaraga olingan ko'p qavatli uy",
-        "norimaki (nori o'ralgan sushi)",
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
-        "oldindagi mashinani quvib o'tmoq"
+        "贈",
+        "仮定する",
+        "雑談",
+        "桜"
       ],
-      "correctAnswer": 0,
-      "explanation": "賃貸マンション → ijaraga olingan ko'p qavatli uy"
+      "correctAnswer": 1,
+      "explanation": "faraz qilmoq → 仮定する"
     },
     {
       "id": 10,
+      "questionType": "recognition",
+      "question": "『仮』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "仮の住まい",
+      "choices": [
+        "化粧が濃い",
+        "風に舞う",
+        "仮の住まい",
+        "勢いよく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "仮 → 仮の住まい"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『davlat chegarasidan kesib o'tish』ning yaponcha ifodasi qaysi?",
+      "word": "国境を越える",
+      "choices": [
+        "柔軟",
+        "雑貨",
+        "国境を越える",
+        "過ちを犯す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "davlat chegarasidan kesib o'tish → 国境を越える"
+    },
+    {
+      "id": 12,
+      "questionType": "sentence",
+      "question": "『仮の住まい』ning ma'nosi qaysi?",
+      "word": "仮の住まい",
+      "choices": [
+        "sovg'ani eltib berish",
+        "suv bilan ta'mni me'yorlashtirish",
+        "vaqtinchalik yashash manzili",
+        "sezilarli (keskin) rivojlanish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "仮の住まい → vaqtinchalik yashash manzili"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『dovondan oshmoq; eng og'ir nuqtadan o'tmoq』ning yaponcha ifodasi qaysi?",
+      "word": "峠を越す",
+      "choices": [
+        "溶",
+        "脱退",
+        "峠を越す",
+        "記帳する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "dovondan oshmoq; eng og'ir nuqtadan o'tmoq → 峠を越す"
+    },
+    {
+      "id": 14,
+      "questionType": "recognition",
+      "question": "『証』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "証明する",
+      "choices": [
+        "著者",
+        "証明する",
+        "心が清まる",
+        "普通預金"
+      ],
+      "correctAnswer": 1,
+      "explanation": "証 → 証明する"
+    },
+    {
+      "id": 15,
+      "questionType": "recognition",
+      "question": "『越』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "国境を越える",
+      "choices": [
+        "招",
+        "普段着",
+        "国境を越える",
+        "甘いミカン"
+      ],
+      "correctAnswer": 2,
+      "explanation": "越 → 国境を越える"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『ちん』qaysi yozuvga mos?",
+      "word": "賃",
+      "choices": [
+        "夕刊",
+        "香辛料",
+        "賃",
+        "脱退"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちん → 賃"
+    },
+    {
+      "id": 17,
+      "questionType": "meaning",
+      "question": "『証明する』ning ma'nosi qaysi?",
+      "word": "証明する",
+      "choices": [
+        "oddiy savol, muammo",
+        "erimoq, eritmoq",
+        "tasdiqlamoq, ko'rsatmoq",
+        "bolani uyga eltib qo'yish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "証明する → tasdiqlamoq, ko'rsatmoq"
+    },
+    {
+      "id": 18,
+      "questionType": "kanji",
+      "question": "『めんきょしょう』qaysi yozuvga mos?",
+      "word": "免許証",
+      "choices": [
+        "業務が停滞する",
+        "誌",
+        "混雑",
+        "免許証"
+      ],
+      "correctAnswer": 3,
+      "explanation": "めんきょしょう → 免許証"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『こす』qaysi yozuvga mos?",
+      "word": "越",
+      "choices": [
+        "越",
+        "汚水",
+        "著名人",
+        "換える"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こす → 越"
+    },
+    {
+      "id": 20,
+      "questionType": "recognition",
+      "question": "『仮』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "仮定する",
+      "choices": [
+        "仮定する",
+        "帳",
+        "満開",
+        "育ち盛り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "仮 → 仮定する"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『oldindagi mashinani quvib o'tmoq』ning yaponcha ifodasi qaysi?",
+      "word": "前の車を追い越す",
+      "choices": [
+        "契約をする",
+        "夜桜",
+        "松ぼっくり",
+        "前の車を追い越す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "oldindagi mashinani quvib o'tmoq → 前の車を追い越す"
+    },
+    {
+      "id": 22,
+      "questionType": "kanji",
+      "question": "『うんちん』qaysi yozuvga mos?",
+      "word": "運賃",
+      "choices": [
+        "運賃",
+        "脱税",
+        "照る",
+        "台風の勢力"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うんちん → 運賃"
+    },
+    {
+      "id": 23,
+      "questionType": "kanji",
+      "question": "『かわのりゅういき』qaysi yozuvga mos?",
+      "word": "川の流域",
+      "choices": [
+        "柔",
+        "港",
+        "川の流域",
+        "千円札"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かわのりゅういき → 川の流域"
+    },
+    {
+      "id": 24,
+      "questionType": "meaning",
+      "question": "『賃金』ning ma'nosi qaysi?",
+      "word": "賃金",
+      "choices": [
+        "farzand bilan siylanmoq",
+        "vaqtinchalik, faraz",
+        "ish haqi",
+        "chiroyli ayol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "賃金 → ish haqi"
+    },
+    {
+      "id": 25,
+      "questionType": "sentence",
+      "question": "『川の流域』ning ma'nosi qaysi?",
+      "word": "川の流域",
+      "choices": [
+        "to'ldirmoq, tiqmoq",
+        "katta portsiya ovqat",
+        "gipoteza (faraz) qo'ymoq",
+        "daryo havzasi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "川の流域 → daryo havzasi"
+    },
+    {
+      "id": 26,
+      "questionType": "sentence",
+      "question": "『前の車を追い越す』ning ma'nosi qaysi?",
+      "word": "前の車を追い越す",
+      "choices": [
+        "oldindagi mashinani quvib o'tmoq",
+        "ko'pchilik",
+        "yenlik banknota",
+        "chuqur kosa (donburi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "前の車を追い越す → oldindagi mashinani quvib o'tmoq"
+    },
+    {
+      "id": 27,
+      "questionType": "recognition",
+      "question": "『越』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "年越しそば",
+      "choices": [
+        "教室の清掃をする",
+        "換",
+        "照明",
+        "年越しそば"
+      ],
+      "correctAnswer": 3,
+      "explanation": "越 → 年越しそば"
+    },
+    {
+      "id": 28,
+      "questionType": "sentence",
+      "question": "『国境を越える』ning ma'nosi qaysi?",
+      "word": "国境を越える",
+      "choices": [
+        "daryo havzasi",
+        "davlat chegarasidan kesib o'tish",
+        "yukni qoldirish",
+        "tizilmoq, oddiy/o'rtacha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "国境を越える → davlat chegarasidan kesib o'tish"
+    },
+    {
+      "id": 29,
+      "questionType": "recognition",
+      "question": "『域』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "川の流域",
+      "choices": [
+        "道路を渡る",
+        "賃金",
+        "夜桜",
+        "川の流域"
+      ],
+      "correctAnswer": 3,
+      "explanation": "域 → 川の流域"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『sudda guvohlik bermoq』ning yaponcha ifodasi qaysi?",
+      "word": "裁判所で証言する",
+      "choices": [
+        "裁判所で証言する",
+        "漁港",
+        "冷蔵庫",
+        "汚れた服"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sudda guvohlik bermoq → 裁判所で証言する"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『仮説を立てる』ning ma'nosi qaysi?",
+      "word": "仮説を立てる",
+      "choices": [
+        "gipoteza (faraz) qo'ymoq",
+        "o'zgartirish",
+        "standart, norma",
+        "yangi sinfga moslashib ketmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "仮説を立てる → gipoteza (faraz) qo'ymoq"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『ちいきじゅうみん』qaysi yozuvga mos?",
+      "word": "地域住民",
+      "choices": [
+        "地域住民",
+        "招",
+        "非難の標的となる",
+        "日誌をつける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちいきじゅうみん → 地域住民"
+    },
+    {
+      "id": 33,
+      "questionType": "word",
+      "question": "『uy ijarasi haqi』ning yaponcha ifodasi qaysi?",
+      "word": "家賃",
+      "choices": [
+        "家賃",
+        "固体",
+        "のり巻き",
+        "残高照会"
+      ],
+      "correctAnswer": 0,
+      "explanation": "uy ijarasi haqi → 家賃"
+    },
+    {
+      "id": 34,
       "questionType": "reading",
       "question": "『家賃』ning o'qilishi qaysi?",
       "word": "家賃",
       "choices": [
-        "ものをわたす",
-        "まえのくるまをおいこす",
-        "てがみがとどく",
+        "にもつをつめこむ",
+        "てい",
+        "ひなんのひょうてきとなる",
         "やちん"
       ],
       "correctAnswer": 3,
       "explanation": "家賃 → やちん"
     },
     {
-      "id": 11,
-      "questionType": "sentence",
-      "question": "『立ち入り禁止区域』ning ma'nosi qaysi?",
-      "word": "立ち入り禁止区域",
-      "choices": [
-        "savollar varag'ini tarqatish",
-        "hovli, bog'",
-        "jurnal, yozuv",
-        "kirish mumkin bo'lmagan hudud"
-      ],
-      "correctAnswer": 3,
-      "explanation": "立ち入り禁止区域 → kirish mumkin bo'lmagan hudud"
-    },
-    {
-      "id": 12,
-      "questionType": "recognition",
-      "question": "『契』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "契約書",
-      "choices": [
-        "賃",
-        "混乱",
-        "契約書",
-        "著者"
-      ],
-      "correctAnswer": 2,
-      "explanation": "契 → 契約書"
-    },
-    {
-      "id": 13,
-      "questionType": "meaning",
-      "question": "『地域住民』ning ma'nosi qaysi?",
-      "word": "地域住民",
-      "choices": [
-        "mahalliy aholi",
-        "bolaning jismoniy rivojlanish davri",
-        "yakunlanmagan",
-        "tortmoq, solmoq (idishga)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "地域住民 → mahalliy aholi"
-    },
-    {
-      "id": 14,
-      "questionType": "recognition",
-      "question": "『仮』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "仮定する",
-      "choices": [
-        "庭",
-        "旅券",
-        "仮定する",
-        "住居"
-      ],
-      "correctAnswer": 2,
-      "explanation": "仮 → 仮定する"
-    },
-    {
-      "id": 15,
-      "questionType": "recognition",
-      "question": "『域』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "地域住民",
-      "choices": [
-        "暴力団を一掃する",
-        "地域住民",
-        "前途多難",
-        "汁"
-      ],
-      "correctAnswer": 1,
-      "explanation": "域 → 地域住民"
-    },
-    {
-      "id": 16,
-      "questionType": "recognition",
-      "question": "『賃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "賃貸マンション",
-      "choices": [
-        "雑談",
-        "溶岩",
-        "契約をする",
-        "賃貸マンション"
-      ],
-      "correctAnswer": 3,
-      "explanation": "賃 → 賃貸マンション"
-    },
-    {
-      "id": 17,
-      "questionType": "word",
-      "question": "『dovondan oshmoq; eng og'ir nuqtadan o'tmoq』ning yaponcha ifodasi qaysi?",
-      "word": "峠を越す",
-      "choices": [
-        "汚染された川",
-        "峠を越す",
-        "居",
-        "週刊誌"
-      ],
-      "correctAnswer": 1,
-      "explanation": "dovondan oshmoq; eng og'ir nuqtadan o'tmoq → 峠を越す"
-    },
-    {
-      "id": 18,
+      "id": 35,
       "questionType": "reading",
-      "question": "『運賃』ning o'qilishi qaysi?",
-      "word": "運賃",
-      "choices": [
-        "せいだいな",
-        "あやまつ",
-        "うんちん",
-        "ぎかいをしょうしゅうする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "運賃 → うんちん"
-    },
-    {
-      "id": 19,
-      "questionType": "word",
-      "question": "『yangi yilda yeyiladigan soba』ning yaponcha ifodasi qaysi?",
-      "word": "年越しそば",
-      "choices": [
-        "名前を汚す",
-        "育ち盛り",
-        "清い心",
-        "年越しそば"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yangi yilda yeyiladigan soba → 年越しそば"
-    },
-    {
-      "id": 20,
-      "questionType": "recognition",
-      "question": "『証』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "免許証",
-      "choices": [
-        "届",
-        "本を著す",
-        "日本庭園",
-        "免許証"
-      ],
-      "correctAnswer": 3,
-      "explanation": "証 → 免許証"
-    },
-    {
-      "id": 21,
-      "questionType": "meaning",
-      "question": "『仮』ning ma'nosi qaysi?",
-      "word": "仮",
-      "choices": [
-        "vaqtinchalik, faraz",
-        "lava",
-        "chipta, hujjat",
-        "yetib bormoq, yetkazmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "仮 → vaqtinchalik, faraz"
-    },
-    {
-      "id": 22,
-      "questionType": "reading",
-      "question": "『契』ning o'qilishi qaysi?",
-      "word": "契",
-      "choices": [
-        "ものをわたす",
-        "けいやく",
-        "ゆびわ",
-        "ちょめいじん"
-      ],
-      "correctAnswer": 1,
-      "explanation": "契 → けいやく"
-    },
-    {
-      "id": 23,
-      "questionType": "kanji",
-      "question": "『こす』qaysi yozuvga mos?",
-      "word": "越",
-      "choices": [
-        "越",
-        "汚染された川",
-        "のり巻き",
-        "並"
-      ],
-      "correctAnswer": 0,
-      "explanation": "こす → 越"
-    },
-    {
-      "id": 24,
-      "questionType": "recognition",
-      "question": "『賃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "賃金",
-      "choices": [
-        "日誌をつける",
-        "混乱",
-        "峠を越す",
-        "賃金"
-      ],
-      "correctAnswer": 3,
-      "explanation": "賃 → 賃金"
-    },
-    {
-      "id": 25,
-      "questionType": "kanji",
-      "question": "『かていする』qaysi yozuvga mos?",
-      "word": "仮定する",
-      "choices": [
-        "教室の清掃をする",
-        "仮定する",
-        "〜を契機に",
-        "バター溶かす"
-      ],
-      "correctAnswer": 1,
-      "explanation": "かていする → 仮定する"
-    },
-    {
-      "id": 26,
-      "questionType": "reading",
-      "question": "『保証人』ning o'qilishi qaysi?",
-      "word": "保証人",
-      "choices": [
-        "ほしょうにん",
-        "おおもり",
-        "し",
-        "あかるいかていをきずく"
-      ],
-      "correctAnswer": 0,
-      "explanation": "保証人 → ほしょうにん"
-    },
-    {
-      "id": 27,
-      "questionType": "meaning",
-      "question": "『証』ning ma'nosi qaysi?",
+      "question": "『証』ning o'qilishi qaysi?",
       "word": "証",
       "choices": [
-        "tasdiq, guvohlik",
-        "gazeta yetkazib berish (kuryerlik)",
-        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish",
-        "parlament yig'ilishini chaqirmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "証 → tasdiq, guvohlik"
-    },
-    {
-      "id": 28,
-      "questionType": "recognition",
-      "question": "『賃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "家賃",
-      "choices": [
-        "家賃",
-        "招",
-        "皿におかずを盛る",
-        "楽しい時を過ごす"
-      ],
-      "correctAnswer": 0,
-      "explanation": "賃 → 家賃"
-    },
-    {
-      "id": 29,
-      "questionType": "word",
-      "question": "『shartnoma』ning yaponcha ifodasi qaysi?",
-      "word": "契約書",
-      "choices": [
-        "雑音がする",
-        "契約書",
-        "絵の具を溶く",
-        "国境を越える"
+        "ほんをゆうそうする",
+        "しょう",
+        "みずであじをうすめる",
+        "りょうほう"
       ],
       "correctAnswer": 1,
-      "explanation": "shartnoma → 契約書"
-    },
-    {
-      "id": 30,
-      "questionType": "reading",
-      "question": "『契約書』ning o'qilishi qaysi?",
-      "word": "契約書",
-      "choices": [
-        "けいやくしょ",
-        "たちいりきんしくいき",
-        "しる",
-        "けん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "契約書 → けいやくしょ"
-    },
-    {
-      "id": 31,
-      "questionType": "sentence",
-      "question": "『仮説を立てる』ning ma'nosi qaysi?",
-      "word": "仮説を立てる",
-      "choices": [
-        "chipta, hujjat",
-        "o'rtacha/oz ham, ko'p ham bo'lmagan",
-        "yashash xonasi (zal)",
-        "gipoteza (faraz) qo'ymoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "仮説を立てる → gipoteza (faraz) qo'ymoq"
-    },
-    {
-      "id": 32,
-      "questionType": "word",
-      "question": "『haq, ijara』ning yaponcha ifodasi qaysi?",
-      "word": "賃",
-      "choices": [
-        "名前を汚す",
-        "賃",
-        "盛んな声援",
-        "巻"
-      ],
-      "correctAnswer": 1,
-      "explanation": "haq, ijara → 賃"
-    },
-    {
-      "id": 33,
-      "questionType": "kanji",
-      "question": "『やちん』qaysi yozuvga mos?",
-      "word": "家賃",
-      "choices": [
-        "届",
-        "仮の住まい",
-        "服にラーメンの汁がついた",
-        "家賃"
-      ],
-      "correctAnswer": 3,
-      "explanation": "やちん → 家賃"
-    },
-    {
-      "id": 34,
-      "questionType": "sentence",
-      "question": "『国境を越える』ning ma'nosi qaysi?",
-      "word": "国境を越える",
-      "choices": [
-        "davlat chegarasidan kesib o'tish",
-        "kiyimga lag'monning sho'rvasi tegishi",
-        "mahalliy aholi",
-        "qalb tozalanmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "国境を越える → davlat chegarasidan kesib o'tish"
-    },
-    {
-      "id": 35,
-      "questionType": "meaning",
-      "question": "『運賃』ning ma'nosi qaysi?",
-      "word": "運賃",
-      "choices": [
-        "o'tmish",
-        "tayyorgarlik pishmoq (tayyor bo'lmoq)",
-        "yo'l haqi",
-        "sharsharada tana va qalbni poklamoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "運賃 → yo'l haqi"
+      "explanation": "証 → しょう"
     },
     {
       "id": 36,
-      "questionType": "recognition",
-      "question": "『越』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "年越しそば",
-      "choices": [
-        "届",
-        "乗車券",
-        "年越しそば",
-        "混乱"
-      ],
-      "correctAnswer": 2,
-      "explanation": "越 → 年越しそば"
-    },
-    {
-      "id": 37,
-      "questionType": "sentence",
-      "question": "『裁判所で証言する』ning ma'nosi qaysi?",
-      "word": "裁判所で証言する",
-      "choices": [
-        "sudda guvohlik bermoq",
-        "gipoteza (faraz) qo'ymoq",
-        "bint o'ramoq",
-        "o'ramoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "裁判所で証言する → sudda guvohlik bermoq"
-    },
-    {
-      "id": 38,
-      "questionType": "sentence",
-      "question": "『〜を契機に』ning ma'nosi qaysi?",
-      "word": "〜を契機に",
-      "choices": [
-        "ni turtki (bahona) qilib",
-        "oylik chipta",
-        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq",
-        "oldinda qiyinchiliklar ko'p"
-      ],
-      "correctAnswer": 0,
-      "explanation": "〜を契機に → ni turtki (bahona) qilib"
-    },
-    {
-      "id": 39,
-      "questionType": "meaning",
-      "question": "『免許証』ning ma'nosi qaysi?",
-      "word": "免許証",
-      "choices": [
-        "guvohnoma",
-        "yetib kelmoq",
-        "chipta, hujjat",
-        "gurung,suhbat"
-      ],
-      "correctAnswer": 0,
-      "explanation": "免許証 → guvohnoma"
-    },
-    {
-      "id": 40,
-      "questionType": "word",
-      "question": "『shaxsni tasdiqlovchi hujjat』ning yaponcha ifodasi qaysi?",
-      "word": "身分証明書",
-      "choices": [
-        "過つ",
-        "身分証明書",
-        "著しい進歩",
-        "楽しい時を過ごす"
-      ],
-      "correctAnswer": 1,
-      "explanation": "shaxsni tasdiqlovchi hujjat → 身分証明書"
-    },
-    {
-      "id": 41,
-      "questionType": "sentence",
-      "question": "『峠を越す』ning ma'nosi qaysi?",
-      "word": "峠を越す",
-      "choices": [
-        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq",
-        "o'tib ketish (to'xtamasdan)",
-        "yetib kelmoq, erishmoq",
-        "men bilan 4 kishi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "峠を越す → dovondan oshmoq; eng og'ir nuqtadan o'tmoq"
-    },
-    {
-      "id": 42,
       "questionType": "reading",
       "question": "『仮』ning o'qilishi qaysi?",
       "word": "仮",
       "choices": [
-        "こめのなかにむぎがまじっている",
-        "もんだいようしをくばる",
-        "うんちん",
+        "ゆびわ",
+        "くつがぬげる",
+        "のう",
         "かり"
       ],
       "correctAnswer": 3,
       "explanation": "仮 → かり"
     },
     {
-      "id": 43,
-      "questionType": "kanji",
-      "question": "『しょうめいする』qaysi yozuvga mos?",
-      "word": "証明する",
-      "choices": [
-        "漁港",
-        "立ち入り禁止区域",
-        "証明する",
-        "並ぶ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しょうめいする → 証明する"
-    },
-    {
-      "id": 44,
-      "questionType": "kanji",
-      "question": "『かわのりゅういき』qaysi yozuvga mos?",
-      "word": "川の流域",
-      "choices": [
-        "契約書",
-        "域",
-        "川の流域",
-        "券"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かわのりゅういき → 川の流域"
-    },
-    {
-      "id": 45,
-      "questionType": "recognition",
-      "question": "『仮』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "仮の住まい",
-      "choices": [
-        "刊",
-        "仮の住まい",
-        "滝で心身を清める",
-        "汚染された川"
-      ],
-      "correctAnswer": 1,
-      "explanation": "仮 → 仮の住まい"
-    },
-    {
-      "id": 46,
-      "questionType": "sentence",
-      "question": "『川の流域』ning ma'nosi qaysi?",
-      "word": "川の流域",
-      "choices": [
-        "bazmga taklif etish",
-        "daryo havzasi",
-        "bo'yinbog' (hayvon uchun)",
-        "tasdiq, guvohlik"
-      ],
-      "correctAnswer": 1,
-      "explanation": "川の流域 → daryo havzasi"
-    },
-    {
-      "id": 47,
-      "questionType": "sentence",
-      "question": "『仮定する』ning ma'nosi qaysi?",
-      "word": "仮定する",
-      "choices": [
-        "gipoteza (faraz) qo'ymoq",
-        "yozuvchi",
-        "kirish mumkin bo'lmagan hudud",
-        "faraz qilmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "仮定する → faraz qilmoq"
-    },
-    {
-      "id": 48,
+      "id": 37,
       "questionType": "kanji",
       "question": "『かり』qaysi yozuvga mos?",
       "word": "仮",
       "choices": [
-        "バター溶かす",
-        "パーティーに招く",
+        "柔軟",
         "仮",
-        "落ち葉を掃く"
+        "夏が過ぎる",
+        "音符"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "かり → 仮"
     },
     {
-      "id": 49,
-      "questionType": "meaning",
-      "question": "『仮の住まい』ning ma'nosi qaysi?",
-      "word": "仮の住まい",
+      "id": 38,
+      "questionType": "sentence",
+      "question": "『仮定する』ning ma'nosi qaysi?",
+      "word": "仮定する",
       "choices": [
-        "guvohnoma",
-        "vaqtinchalik yashash manzili",
-        "jurnal, yozuv",
-        "yoz o'tib ketishi"
+        "vaqtinchalik, faraz",
+        "yengiltak, mulohazasiz odam",
+        "faraz qilmoq",
+        "aksiya qog'ozi"
       ],
-      "correctAnswer": 1,
-      "explanation": "仮の住まい → vaqtinchalik yashash manzili"
+      "correctAnswer": 2,
+      "explanation": "仮定する → faraz qilmoq"
     },
     {
-      "id": 50,
+      "id": 39,
       "questionType": "reading",
-      "question": "『賃』ning o'qilishi qaysi?",
-      "word": "賃",
+      "question": "『域』ning o'qilishi qaysi?",
+      "word": "域",
       "choices": [
-        "ちんたいマンション",
-        "とける",
-        "いぬのくびわ",
-        "ちん"
+        "こたい",
+        "しょう・まつ",
+        "いき",
+        "こうか"
       ],
-      "correctAnswer": 3,
-      "explanation": "賃 → ちん"
+      "correctAnswer": 2,
+      "explanation": "域 → いき"
     },
     {
-      "id": 51,
-      "questionType": "kanji",
-      "question": "『ほしょうにん』qaysi yozuvga mos?",
-      "word": "保証人",
+      "id": 40,
+      "questionType": "recognition",
+      "question": "『域』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "自国領域",
       "choices": [
-        "溶",
-        "保証人",
-        "地域住民",
-        "雑談"
+        "皿におかずを盛る",
+        "自国領域",
+        "桜",
+        "甘やかす"
       ],
       "correctAnswer": 1,
-      "explanation": "ほしょうにん → 保証人"
+      "explanation": "域 → 自国領域"
     },
     {
-      "id": 52,
-      "questionType": "kanji",
-      "question": "『ちいきじゅうみん』qaysi yozuvga mos?",
-      "word": "地域住民",
+      "id": 41,
+      "questionType": "word",
+      "question": "『ni turtki (bahona) qilib』ning yaponcha ifodasi qaysi?",
+      "word": "〜を契機に",
       "choices": [
-        "地域住民",
-        "賃",
-        "居間",
-        "雑"
+        "照",
+        "両手",
+        "〜を契機に",
+        "純情な人"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ni turtki (bahona) qilib → 〜を契機に"
+    },
+    {
+      "id": 42,
+      "questionType": "sentence",
+      "question": "『立ち入り禁止区域』ning ma'nosi qaysi?",
+      "word": "立ち入り禁止区域",
+      "choices": [
+        "navbat almashinmoq",
+        "kirish mumkin bo'lmagan hudud",
+        "belgi, chipta",
+        "qiyin kechmoq (ish, muzokara)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "立ち入り禁止区域 → kirish mumkin bo'lmagan hudud"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『契約書』ning o'qilishi qaysi?",
+      "word": "契約書",
+      "choices": [
+        "こいびとにふられる",
+        "けいやくしょ",
+        "けん",
+        "おちばをはく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "契約書 → けいやくしょ"
+    },
+    {
+      "id": 44,
+      "questionType": "word",
+      "question": "『daryo havzasi』ning yaponcha ifodasi qaysi?",
+      "word": "川の流域",
+      "choices": [
+        "税込み",
+        "子供を送り届ける",
+        "川の流域",
+        "芳香剤"
+      ],
+      "correctAnswer": 2,
+      "explanation": "daryo havzasi → 川の流域"
+    },
+    {
+      "id": 45,
+      "questionType": "word",
+      "question": "『shartnoma』ning yaponcha ifodasi qaysi?",
+      "word": "契約書",
+      "choices": [
+        "契約書",
+        "お金を恵む",
+        "盛んな声援",
+        "宝物"
       ],
       "correctAnswer": 0,
-      "explanation": "ちいきじゅうみん → 地域住民"
+      "explanation": "shartnoma → 契約書"
     },
     {
-      "id": 53,
+      "id": 46,
       "questionType": "kanji",
       "question": "『けいやくしょ』qaysi yozuvga mos?",
       "word": "契約書",
       "choices": [
-        "域",
+        "普通の家庭",
         "契約書",
-        "包帯を巻く",
-        "空港"
+        "空港",
+        "恵まれた生活"
       ],
       "correctAnswer": 1,
       "explanation": "けいやくしょ → 契約書"
     },
     {
-      "id": 54,
-      "questionType": "kanji",
-      "question": "『じこくりょういき』qaysi yozuvga mos?",
-      "word": "自国領域",
-      "choices": [
-        "丼",
-        "自国領域",
-        "贈り物",
-        "招"
-      ],
-      "correctAnswer": 1,
-      "explanation": "じこくりょういき → 自国領域"
-    },
-    {
-      "id": 55,
+      "id": 47,
       "questionType": "meaning",
-      "question": "『契約をする』ning ma'nosi qaysi?",
-      "word": "契約をする",
+      "question": "『仮の住まい』ning ma'nosi qaysi?",
+      "word": "仮の住まい",
       "choices": [
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
-        "shartnoma tuzish",
-        "bolani uyga eltib qo'yish",
-        "chalkashlik, sarosima"
+        "erkalanmoq",
+        "belgi, banknota",
+        "vaqtinchalik yashash manzili",
+        "sovg'a qilmoq"
       ],
-      "correctAnswer": 1,
-      "explanation": "契約をする → shartnoma tuzish"
+      "correctAnswer": 2,
+      "explanation": "仮の住まい → vaqtinchalik yashash manzili"
     },
     {
-      "id": 56,
+      "id": 48,
+      "questionType": "reading",
+      "question": "『免許証』ning o'qilishi qaysi?",
+      "word": "免許証",
+      "choices": [
+        "こていする",
+        "よざくら",
+        "めんきょしょう",
+        "よごす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "免許証 → めんきょしょう"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『運賃』ning o'qilishi qaysi?",
+      "word": "運賃",
+      "choices": [
+        "うんちん",
+        "じゅう・にゅう",
+        "きよい",
+        "〜をけいきに"
+      ],
+      "correctAnswer": 0,
+      "explanation": "運賃 → うんちん"
+    },
+    {
+      "id": 50,
+      "questionType": "kanji",
+      "question": "『とうげをこす』qaysi yozuvga mos?",
+      "word": "峠を越す",
+      "choices": [
+        "招",
+        "両側",
+        "峠を越す",
+        "掃"
+      ],
+      "correctAnswer": 2,
+      "explanation": "とうげをこす → 峠を越す"
+    },
+    {
+      "id": 51,
       "questionType": "kanji",
       "question": "『けいやく』qaysi yozuvga mos?",
       "word": "契",
       "choices": [
-        "契",
-        "並",
-        "引き出しの中を整理する",
-        "利益を配分する"
+        "盛",
+        "帳",
+        "両手",
+        "契"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "けいやく → 契"
     },
     {
-      "id": 57,
+      "id": 52,
+      "questionType": "kanji",
+      "question": "『ほしょうにん』qaysi yozuvga mos?",
+      "word": "保証人",
+      "choices": [
+        "意見を交換する",
+        "冷蔵庫",
+        "保証人",
+        "宗派"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ほしょうにん → 保証人"
+    },
+    {
+      "id": 53,
+      "questionType": "sentence",
+      "question": "『仮説を立てる』ning ma'nosi qaysi?",
+      "word": "仮説を立てる",
+      "choices": [
+        "pulni qaytarib bermoq",
+        "gipoteza (faraz) qo'ymoq",
+        "sahna asari, drama",
+        "import qilish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "仮説を立てる → gipoteza (faraz) qo'ymoq"
+    },
+    {
+      "id": 54,
       "questionType": "meaning",
+      "question": "『越』ning ma'nosi qaysi?",
+      "word": "越",
+      "choices": [
+        "tanqid nishoniga aylanish",
+        "daftarga yozib qo'yish",
+        "o'tmoq, kesib o'tmoq",
+        "tasdiqlamoq, ko'rsatmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "越 → o'tmoq, kesib o'tmoq"
+    },
+    {
+      "id": 55,
+      "questionType": "word",
+      "question": "『shartnoma tuzish』ning yaponcha ifodasi qaysi?",
+      "word": "契約をする",
+      "choices": [
+        "契約をする",
+        "みそ汁",
+        "発展する",
+        "劇"
+      ],
+      "correctAnswer": 0,
+      "explanation": "shartnoma tuzish → 契約をする"
+    },
+    {
+      "id": 56,
+      "questionType": "meaning",
+      "question": "『運賃』ning ma'nosi qaysi?",
+      "word": "運賃",
+      "choices": [
+        "yo'l haqi",
+        "rivojlanayotgan davlatlar",
+        "kitob yozmoq, nashr etmoq",
+        "oddiy bank hisobi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "運賃 → yo'l haqi"
+    },
+    {
+      "id": 57,
+      "questionType": "recognition",
+      "question": "『越』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "峠を越す",
+      "choices": [
+        "美容室",
+        "快",
+        "峠を越す",
+        "化粧が濃い"
+      ],
+      "correctAnswer": 2,
+      "explanation": "越 → 峠を越す"
+    },
+    {
+      "id": 58,
+      "questionType": "word",
+      "question": "『guvohnoma』ning yaponcha ifodasi qaysi?",
+      "word": "免許証",
+      "choices": [
+        "含",
+        "招待する",
+        "漁をする",
+        "免許証"
+      ],
+      "correctAnswer": 3,
+      "explanation": "guvohnoma → 免許証"
+    },
+    {
+      "id": 59,
+      "questionType": "recognition",
+      "question": "『証』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "免許証",
+      "choices": [
+        "ねぎを刻む",
+        "免許証",
+        "整える",
+        "輸"
+      ],
+      "correctAnswer": 1,
+      "explanation": "証 → 免許証"
+    },
+    {
+      "id": 60,
+      "questionType": "recognition",
+      "question": "『賃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "運賃",
+      "choices": [
+        "前払い",
+        "みそ汁",
+        "運賃",
+        "宝石"
+      ],
+      "correctAnswer": 2,
+      "explanation": "賃 → 運賃"
+    },
+    {
+      "id": 61,
+      "questionType": "kanji",
+      "question": "『しょうめいする』qaysi yozuvga mos?",
+      "word": "証明する",
+      "choices": [
+        "お見舞い",
+        "食堂",
+        "恋人に振られる",
+        "証明する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しょうめいする → 証明する"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『保証人』ning ma'nosi qaysi?",
+      "word": "保証人",
+      "choices": [
+        "kafil",
+        "jurnal o'qimoq",
+        "yetib bormoq, yetkazmoq",
+        "xavotir, ko'ngil g'ashligi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "保証人 → kafil"
+    },
+    {
+      "id": 63,
+      "questionType": "kanji",
+      "question": "『ちんぎん』qaysi yozuvga mos?",
+      "word": "賃金",
+      "choices": [
+        "美容室",
+        "木製の家具",
+        "銀行の通帳",
+        "賃金"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちんぎん → 賃金"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『証』ning ma'nosi qaysi?",
+      "word": "証",
+      "choices": [
+        "baliqchilik",
+        "lava",
+        "rivojlanish",
+        "tasdiq, guvohlik"
+      ],
+      "correctAnswer": 3,
+      "explanation": "証 → tasdiq, guvohlik"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『自国領域』ning ma'nosi qaysi?",
+      "word": "自国領域",
+      "choices": [
+        "navbat almashinmoq",
+        "o'z davlati hududi",
+        "hudud",
+        "halqa, g'ildirak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "自国領域 → o'z davlati hududi"
+    },
+    {
+      "id": 66,
+      "questionType": "recognition",
+      "question": "『証』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "身分証明書",
+      "choices": [
+        "快く引き受ける",
+        "身分証明書",
+        "居間",
+        "並"
+      ],
+      "correctAnswer": 1,
+      "explanation": "証 → 身分証明書"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『いき』qaysi yozuvga mos?",
+      "word": "域",
+      "choices": [
+        "域",
+        "校庭",
+        "手帳",
+        "招待する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いき → 域"
+    },
+    {
+      "id": 68,
+      "questionType": "sentence",
+      "question": "『地域住民』ning ma'nosi qaysi?",
+      "word": "地域住民",
+      "choices": [
+        "chalkashlik, sarosima",
+        "soliqdan qochish",
+        "kimono kiygan qiyofa",
+        "mahalliy aholi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "地域住民 → mahalliy aholi"
+    },
+    {
+      "id": 69,
+      "questionType": "word",
+      "question": "『ijaraga olingan ko'p qavatli uy』ning yaponcha ifodasi qaysi?",
+      "word": "賃貸マンション",
+      "choices": [
+        "柔",
+        "仮定する",
+        "賃貸マンション",
+        "イタリア製の靴"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ijaraga olingan ko'p qavatli uy → 賃貸マンション"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『域』ning ma'nosi qaysi?",
+      "word": "域",
+      "choices": [
+        "gavda turishi, holati",
+        "guvohnoma",
+        "hudud",
+        "vaqtinchalik, faraz"
+      ],
+      "correctAnswer": 2,
+      "explanation": "域 → hudud"
+    },
+    {
+      "id": 71,
+      "questionType": "sentence",
+      "question": "『年越しそば』ning ma'nosi qaysi?",
+      "word": "年越しそば",
+      "choices": [
+        "eshik taxtachasi (familiya yozilgan)",
+        "xat yetib kelishi",
+        "shirin mandarin",
+        "yangi yilda yeyiladigan soba"
+      ],
+      "correctAnswer": 3,
+      "explanation": "年越しそば → yangi yilda yeyiladigan soba"
+    },
+    {
+      "id": 72,
+      "questionType": "sentence",
+      "question": "『賃貸マンション』ning ma'nosi qaysi?",
+      "word": "賃貸マンション",
+      "choices": [
+        "ijaraga olingan ko'p qavatli uy",
+        "kedr",
+        "guruch ustiga tempura qo'yib tayyorlangan taom",
+        "sakura (gilos guli)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "賃貸マンション → ijaraga olingan ko'p qavatli uy"
+    },
+    {
+      "id": 73,
+      "questionType": "sentence",
+      "question": "『証明する』ning ma'nosi qaysi?",
+      "word": "証明する",
+      "choices": [
+        "oqava suv",
+        "shirin hayot",
+        "yaxshi hayot",
+        "tasdiqlamoq, ko'rsatmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "証明する → tasdiqlamoq, ko'rsatmoq"
+    },
+    {
+      "id": 74,
+      "questionType": "sentence",
+      "question": "『身分証明書』ning ma'nosi qaysi?",
+      "word": "身分証明書",
+      "choices": [
+        "to'xtamoq",
+        "faraz qilmoq",
+        "shaxsni tasdiqlovchi hujjat",
+        "bazmga taklif etish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "身分証明書 → shaxsni tasdiqlovchi hujjat"
+    },
+    {
+      "id": 75,
+      "questionType": "word",
+      "question": "『yangi yilda yeyiladigan soba』ning yaponcha ifodasi qaysi?",
+      "word": "年越しそば",
+      "choices": [
+        "年越しそば",
+        "美と健康を保つ",
+        "振動",
+        "居酒屋"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yangi yilda yeyiladigan soba → 年越しそば"
+    },
+    {
+      "id": 76,
+      "questionType": "kanji",
+      "question": "『かていする』qaysi yozuvga mos?",
+      "word": "仮定する",
+      "choices": [
+        "港",
+        "銀行の通帳",
+        "仮定する",
+        "包帯を巻く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かていする → 仮定する"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『やちん』qaysi yozuvga mos?",
+      "word": "家賃",
+      "choices": [
+        "掛",
+        "預金する",
+        "帳",
+        "家賃"
+      ],
+      "correctAnswer": 3,
+      "explanation": "やちん → 家賃"
+    },
+    {
+      "id": 78,
+      "questionType": "word",
+      "question": "『shaxsni tasdiqlovchi hujjat』ning yaponcha ifodasi qaysi?",
+      "word": "身分証明書",
+      "choices": [
+        "甘",
+        "頭が固い",
+        "身分証明書",
+        "国宝"
+      ],
+      "correctAnswer": 2,
+      "explanation": "shaxsni tasdiqlovchi hujjat → 身分証明書"
+    },
+    {
+      "id": 79,
+      "questionType": "sentence",
+      "question": "『裁判所で証言する』ning ma'nosi qaysi?",
+      "word": "裁判所で証言する",
+      "choices": [
+        "transport",
+        "yupqa qog'oz",
+        "uzuk",
+        "sudda guvohlik bermoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "裁判所で証言する → sudda guvohlik bermoq"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『じこくりょういき』qaysi yozuvga mos?",
+      "word": "自国領域",
+      "choices": [
+        "自国領域",
+        "恋人に振られる",
+        "針が振れる",
+        "輸血用の血液"
+      ],
+      "correctAnswer": 0,
+      "explanation": "じこくりょういき → 自国領域"
+    },
+    {
+      "id": 81,
+      "questionType": "word",
+      "question": "『haq, ijara』ning yaponcha ifodasi qaysi?",
+      "word": "賃",
+      "choices": [
+        "美と健康を保つ",
+        "雑誌を読む",
+        "賃",
+        "刊"
+      ],
+      "correctAnswer": 2,
+      "explanation": "haq, ijara → 賃"
+    },
+    {
+      "id": 82,
+      "questionType": "reading",
+      "question": "『契』ning o'qilishi qaysi?",
+      "word": "契",
+      "choices": [
+        "けいやく",
+        "いけんをこうかんする",
+        "こうすい",
+        "ざんだかしょうかい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "契 → けいやく"
+    },
+    {
+      "id": 83,
+      "questionType": "sentence",
       "question": "『〜を契機に』ning ma'nosi qaysi?",
       "word": "〜を契機に",
       "choices": [
-        "taxlamoq",
-        "vaqtinchalik yashash manzili",
-        "uzuk",
+        "yoritmoq, nur sochmoq",
+        "sho'rva, suyuqlik",
+        "o'ramoq",
         "ni turtki (bahona) qilib"
       ],
       "correctAnswer": 3,
       "explanation": "〜を契機に → ni turtki (bahona) qilib"
     },
     {
-      "id": 58,
-      "questionType": "meaning",
-      "question": "『立ち入り禁止区域』ning ma'nosi qaysi?",
+      "id": 84,
+      "questionType": "word",
+      "question": "『kirish mumkin bo'lmagan hudud』ning yaponcha ifodasi qaysi?",
       "word": "立ち入り禁止区域",
       "choices": [
-        "kechki gazeta",
-        "bazmga taklif etish",
-        "kirish mumkin bo'lmagan hudud",
-        "sovg'a jo'natmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "立ち入り禁止区域 → kirish mumkin bo'lmagan hudud"
-    },
-    {
-      "id": 59,
-      "questionType": "reading",
-      "question": "『域』ning o'qilishi qaysi?",
-      "word": "域",
-      "choices": [
-        "いき",
-        "のりまき",
-        "ファッションし",
-        "けいやくをする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "域 → いき"
-    },
-    {
-      "id": 60,
-      "questionType": "meaning",
-      "question": "『仮説を立てる』ning ma'nosi qaysi?",
-      "word": "仮説を立てる",
-      "choices": [
-        "dabdabali, tantanali",
-        "gipoteza (faraz) qo'ymoq",
-        "pasport (xorijiy)",
-        "xat yetib kelishi"
+        "味が薄まる",
+        "立ち入り禁止区域",
+        "過去の栄光",
+        "香水"
       ],
       "correctAnswer": 1,
-      "explanation": "仮説を立てる → gipoteza (faraz) qo'ymoq"
+      "explanation": "kirish mumkin bo'lmagan hudud → 立ち入り禁止区域"
     },
     {
-      "id": 61,
-      "questionType": "reading",
-      "question": "『免許証』ning o'qilishi qaysi?",
-      "word": "免許証",
-      "choices": [
-        "ぎゅうにゅうにカルシウムがふくまれている",
-        "ならべる",
-        "めんきょしょう",
-        "たちいりきんしくいき"
-      ],
-      "correctAnswer": 2,
-      "explanation": "免許証 → めんきょしょう"
-    },
-    {
-      "id": 62,
-      "questionType": "sentence",
-      "question": "『仮の住まい』ning ma'nosi qaysi?",
-      "word": "仮の住まい",
-      "choices": [
-        "vaqtinchalik yashash manzili",
-        "butunlay tugatish, tozalash",
-        "o'tib ketish (to'xtamasdan)",
-        "murakkab hisob-kitob"
-      ],
-      "correctAnswer": 0,
-      "explanation": "仮の住まい → vaqtinchalik yashash manzili"
-    },
-    {
-      "id": 63,
-      "questionType": "sentence",
-      "question": "『身分証明書』ning ma'nosi qaysi?",
-      "word": "身分証明書",
-      "choices": [
-        "jurnal o'qimoq",
-        "uy ijarasi haqi",
-        "shaxsni tasdiqlovchi hujjat",
-        "o'rtacha/oz ham, ko'p ham bo'lmagan"
-      ],
-      "correctAnswer": 2,
-      "explanation": "身分証明書 → shaxsni tasdiqlovchi hujjat"
-    },
-    {
-      "id": 64,
+      "id": 85,
       "questionType": "reading",
       "question": "『賃金』ning o'qilishi qaysi?",
       "word": "賃金",
       "choices": [
-        "くうこう",
+        "こう",
+        "よきんする",
         "ちんぎん",
-        "おくりもの",
-        "ちゅうとはんぱ"
+        "もる"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "賃金 → ちんぎん"
     },
     {
-      "id": 65,
-      "questionType": "meaning",
-      "question": "『川の流域』ning ma'nosi qaysi?",
-      "word": "川の流域",
-      "choices": [
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
-        "ifloslantirilgan daryo",
-        "daryo havzasi",
-        "o'rtacha/oz ham, ko'p ham bo'lmagan"
-      ],
-      "correctAnswer": 2,
-      "explanation": "川の流域 → daryo havzasi"
-    },
-    {
-      "id": 66,
+      "id": 86,
       "questionType": "word",
-      "question": "『ish haqi』ning yaponcha ifodasi qaysi?",
-      "word": "賃金",
+      "question": "『mahalliy aholi』ning yaponcha ifodasi qaysi?",
+      "word": "地域住民",
       "choices": [
-        "贈",
-        "誌",
+        "地域住民",
+        "貴重品を預かる",
         "賃金",
-        "暴力団を一掃する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ish haqi → 賃金"
-    },
-    {
-      "id": 67,
-      "questionType": "kanji",
-      "question": "『とうげをこす』qaysi yozuvga mos?",
-      "word": "峠を越す",
-      "choices": [
-        "気を配る",
-        "駐車禁止",
-        "峠を越す",
-        "賃金"
-      ],
-      "correctAnswer": 2,
-      "explanation": "とうげをこす → 峠を越す"
-    },
-    {
-      "id": 68,
-      "questionType": "kanji",
-      "question": "『ちん』qaysi yozuvga mos?",
-      "word": "賃",
-      "choices": [
-        "賃",
-        "複雑な計算",
-        "本を著す",
-        "峠を越す"
+        "域"
       ],
       "correctAnswer": 0,
-      "explanation": "ちん → 賃"
+      "explanation": "mahalliy aholi → 地域住民"
     },
     {
-      "id": 69,
-      "questionType": "recognition",
-      "question": "『契』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "〜を契機に",
-      "choices": [
-        "並",
-        "港",
-        "〜を契機に",
-        "溶"
-      ],
-      "correctAnswer": 2,
-      "explanation": "契 → 〜を契機に"
-    },
-    {
-      "id": 70,
-      "questionType": "reading",
-      "question": "『越』ning o'qilishi qaysi?",
-      "word": "越",
-      "choices": [
-        "パーティーにまねく",
-        "しょうたいじょう",
-        "こす",
-        "どんぶり"
-      ],
-      "correctAnswer": 2,
-      "explanation": "越 → こす"
-    },
-    {
-      "id": 71,
-      "questionType": "kanji",
-      "question": "『しょう』qaysi yozuvga mos?",
-      "word": "証",
-      "choices": [
-        "中途半端",
-        "人並みに生活する",
-        "証",
-        "明るい家庭を築く"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しょう → 証"
-    },
-    {
-      "id": 72,
-      "questionType": "word",
-      "question": "『tasdiqlamoq, ko'rsatmoq』ning yaponcha ifodasi qaysi?",
-      "word": "証明する",
-      "choices": [
-        "中途半端",
-        "新聞配達",
-        "年越しそば",
-        "証明する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "tasdiqlamoq, ko'rsatmoq → 証明する"
-    },
-    {
-      "id": 73,
-      "questionType": "meaning",
-      "question": "『域』ning ma'nosi qaysi?",
-      "word": "域",
-      "choices": [
-        "yetib bormoq, yetkazmoq",
-        "jurnal o'qimoq",
-        "hudud",
-        "lava"
-      ],
-      "correctAnswer": 2,
-      "explanation": "域 → hudud"
-    },
-    {
-      "id": 74,
-      "questionType": "word",
-      "question": "『o'z davlati hududi』ning yaponcha ifodasi qaysi?",
-      "word": "自国領域",
-      "choices": [
-        "自国領域",
-        "ファッション誌",
-        "親と同居する",
-        "混乱"
-      ],
-      "correctAnswer": 0,
-      "explanation": "o'z davlati hududi → 自国領域"
-    },
-    {
-      "id": 75,
-      "questionType": "kanji",
-      "question": "『いき』qaysi yozuvga mos?",
-      "word": "域",
-      "choices": [
-        "域",
-        "議会を招集する",
-        "服にラーメンの汁がついた",
-        "年越しそば"
-      ],
-      "correctAnswer": 0,
-      "explanation": "いき → 域"
-    },
-    {
-      "id": 76,
-      "questionType": "kanji",
-      "question": "『うんちん』qaysi yozuvga mos?",
-      "word": "運賃",
-      "choices": [
-        "運賃",
-        "雑談",
-        "港",
-        "過ちを犯す"
-      ],
-      "correctAnswer": 0,
-      "explanation": "うんちん → 運賃"
-    },
-    {
-      "id": 77,
-      "questionType": "sentence",
-      "question": "『証明する』ning ma'nosi qaysi?",
-      "word": "証明する",
-      "choices": [
-        "tasdiqlamoq, ko'rsatmoq",
-        "tiqilinch, gavjumlik",
-        "erimoq, eritmoq",
-        "parlament yig'ilishini chaqirmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "証明する → tasdiqlamoq, ko'rsatmoq"
-    },
-    {
-      "id": 78,
-      "questionType": "meaning",
-      "question": "『保証人』ning ma'nosi qaysi?",
-      "word": "保証人",
-      "choices": [
-        "men bilan 4 kishi",
-        "port, bandargoh",
-        "kafil",
-        "kirish chiptasi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "保証人 → kafil"
-    },
-    {
-      "id": 79,
-      "questionType": "word",
-      "question": "『uy ijarasi haqi』ning yaponcha ifodasi qaysi?",
-      "word": "家賃",
-      "choices": [
-        "並べる",
-        "過半数",
-        "暴力団を一掃する",
-        "家賃"
-      ],
-      "correctAnswer": 3,
-      "explanation": "uy ijarasi haqi → 家賃"
-    },
-    {
-      "id": 80,
-      "questionType": "word",
-      "question": "『sudda guvohlik bermoq』ning yaponcha ifodasi qaysi?",
-      "word": "裁判所で証言する",
-      "choices": [
-        "裁判所で証言する",
-        "発展途上国",
-        "身分証明書",
-        "港"
-      ],
-      "correctAnswer": 0,
-      "explanation": "sudda guvohlik bermoq → 裁判所で証言する"
-    },
-    {
-      "id": 81,
+      "id": 87,
       "questionType": "word",
       "question": "『shartnoma, ahd』ning yaponcha ifodasi qaysi?",
       "word": "契",
       "choices": [
-        "漁港",
-        "駐",
-        "清",
-        "契"
+        "入場券",
+        "普及する",
+        "契",
+        "券"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "shartnoma, ahd → 契"
     },
     {
-      "id": 82,
-      "questionType": "sentence",
-      "question": "『年越しそば』ning ma'nosi qaysi?",
-      "word": "年越しそば",
+      "id": 88,
+      "questionType": "recognition",
+      "question": "『契』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "契約書",
       "choices": [
-        "yangi yilda yeyiladigan soba",
-        "turar-joy",
-        "o'z ichiga olmoq",
-        "kitob yozmoq, nashr etmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "年越しそば → yangi yilda yeyiladigan soba"
-    },
-    {
-      "id": 83,
-      "questionType": "meaning",
-      "question": "『仮定する』ning ma'nosi qaysi?",
-      "word": "仮定する",
-      "choices": [
-        "taklif qilmoq, chaqirmoq",
-        "faraz qilmoq",
-        "shartnoma",
-        "tozalash"
-      ],
-      "correctAnswer": 1,
-      "explanation": "仮定する → faraz qilmoq"
-    },
-    {
-      "id": 84,
-      "questionType": "word",
-      "question": "『o'tmoq, kesib o'tmoq』ning yaponcha ifodasi qaysi?",
-      "word": "越",
-      "choices": [
-        "川の流域",
-        "越",
-        "証券会社",
-        "過半数"
-      ],
-      "correctAnswer": 1,
-      "explanation": "o'tmoq, kesib o'tmoq → 越"
-    },
-    {
-      "id": 85,
-      "questionType": "kanji",
-      "question": "『めんきょしょう』qaysi yozuvga mos?",
-      "word": "免許証",
-      "choices": [
-        "氷が溶ける",
-        "地域住民",
-        "免許証",
-        "自国領域"
-      ],
-      "correctAnswer": 2,
-      "explanation": "めんきょしょう → 免許証"
-    },
-    {
-      "id": 86,
-      "questionType": "sentence",
-      "question": "『契約をする』ning ma'nosi qaysi?",
-      "word": "契約をする",
-      "choices": [
-        "tartibga keltirmoq, tayyorlamoq",
-        "foydani taqsimlash",
-        "sutda kalsiy bor",
-        "shartnoma tuzish"
+        "含",
+        "融",
+        "届",
+        "契約書"
       ],
       "correctAnswer": 3,
-      "explanation": "契約をする → shartnoma tuzish"
+      "explanation": "契 → 契約書"
+    },
+    {
+      "id": 89,
+      "questionType": "meaning",
+      "question": "『仮』ning ma'nosi qaysi?",
+      "word": "仮",
+      "choices": [
+        "lotereya",
+        "faraz qilmoq",
+        "ko'p bo'yangan",
+        "vaqtinchalik, faraz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "仮 → vaqtinchalik, faraz"
     }
   ]
 }

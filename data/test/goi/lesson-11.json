@@ -1,0 +1,2023 @@
+{
+  "title": "Lesson 11 Test",
+  "type": "goi",
+  "lesson": "lesson-11",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "sentence",
+      "question": "『堅苦しい』ning ma'nosi qaysi?",
+      "word": "堅苦しい",
+      "choices": [
+        "o'ta rasmiy, siqiq (muhit)",
+        "keskin, qat'iy",
+        "yadro quroli",
+        "oila davrasi, oilaviy chog' o'tirish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "堅苦しい → o'ta rasmiy, siqiq (muhit)"
+    },
+    {
+      "id": 2,
+      "questionType": "reading",
+      "question": "『普段』ning o'qilishi qaysi?",
+      "word": "普段",
+      "choices": [
+        "くやむ",
+        "せんめんじょ",
+        "ふだん",
+        "さいのう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "普段 → ふだん"
+    },
+    {
+      "id": 3,
+      "questionType": "kanji",
+      "question": "『かいじょけん』qaysi yozuvga mos?",
+      "word": "介助犬",
+      "choices": [
+        "逆らう",
+        "介助犬",
+        "殴る",
+        "募集する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かいじょけん → 介助犬"
+    },
+    {
+      "id": 4,
+      "questionType": "word",
+      "question": "『taassurot』ning yaponcha ifodasi qaysi?",
+      "word": "印象",
+      "choices": [
+        "印象",
+        "廃止する",
+        "心細い",
+        "選挙する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "taassurot → 印象"
+    },
+    {
+      "id": 5,
+      "questionType": "meaning",
+      "question": "『右に出る者はいない』ning ma'nosi qaysi?",
+      "word": "右に出る者はいない",
+      "choices": [
+        "o'zini tanishtirmoq",
+        "tengi yo'q",
+        "xiyonat qilmoq, sotmoq",
+        "chivin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "右に出る者はいない → tengi yo'q"
+    },
+    {
+      "id": 6,
+      "questionType": "reading",
+      "question": "『〜未満』ning o'qilishi qaysi?",
+      "word": "〜未満",
+      "choices": [
+        "〜みまん",
+        "ひみつ",
+        "でんとう",
+        "プロポーズする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "〜未満 → 〜みまん"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『まさか』qaysi yozuvga mos?",
+      "word": "まさか",
+      "choices": [
+        "多岐にわたる",
+        "もてなす",
+        "一目",
+        "まさか"
+      ],
+      "correctAnswer": 3,
+      "explanation": "まさか → まさか"
+    },
+    {
+      "id": 8,
+      "questionType": "meaning",
+      "question": "『印象』ning ma'nosi qaysi?",
+      "word": "印象",
+      "choices": [
+        "taassurot",
+        "yuqori sinf (maktab)",
+        "gaplashmoq/muloqot qilmoq",
+        "taklif qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "印象 → taassurot"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『ほうふな』qaysi yozuvga mos?",
+      "word": "豊富な",
+      "choices": [
+        "だまる",
+        "覚え",
+        "自己紹介",
+        "豊富な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ほうふな → 豊富な"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『失格する』ning ma'nosi qaysi?",
+      "word": "失格する",
+      "choices": [
+        "(gap, salom, qo'l) almashmoq",
+        "iliqlik, taft",
+        "suyanmoq",
+        "diskvalifikatsiya qilinmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "失格する → diskvalifikatsiya qilinmoq"
+    },
+    {
+      "id": 11,
+      "questionType": "kanji",
+      "question": "『かたくるしい』qaysi yozuvga mos?",
+      "word": "堅苦しい",
+      "choices": [
+        "耐震",
+        "つぶやく",
+        "堅苦しい",
+        "高学年"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かたくるしい → 堅苦しい"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『odatda, kundalik』ning yaponcha ifodasi qaysi?",
+      "word": "普段",
+      "choices": [
+        "称賛する",
+        "まさか",
+        "過去",
+        "普段"
+      ],
+      "correctAnswer": 3,
+      "explanation": "odatda, kundalik → 普段"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『まさか』qaysi yozuvga mos?",
+      "word": "まさか",
+      "choices": [
+        "疑う",
+        "まさか",
+        "察する",
+        "ささやく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "まさか → まさか"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『ふる』qaysi yozuvga mos?",
+      "word": "振る",
+      "choices": [
+        "振る",
+        "産む",
+        "同士",
+        "操作する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ふる → 振る"
+    },
+    {
+      "id": 15,
+      "questionType": "sentence",
+      "question": "『魅力的な』ning ma'nosi qaysi?",
+      "word": "魅力的な",
+      "choices": [
+        "jozibali",
+        "aldamoq, chuv tushirmoq",
+        "bir joyda uzluksiz ishlash",
+        "bir oilaviy alohida uy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "魅力的な → jozibali"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『てもと』qaysi yozuvga mos?",
+      "word": "手元",
+      "choices": [
+        "間取り",
+        "直接",
+        "手元",
+        "恵まれる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てもと → 手元"
+    },
+    {
+      "id": 17,
+      "questionType": "reading",
+      "question": "『振る』ning o'qilishi qaysi?",
+      "word": "振る",
+      "choices": [
+        "しゅっさんいわい",
+        "かたくるしい",
+        "ふる",
+        "ばらす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "振る → ふる"
+    },
+    {
+      "id": 18,
+      "questionType": "word",
+      "question": "『diskvalifikatsiya qilinmoq』ning yaponcha ifodasi qaysi?",
+      "word": "失格する",
+      "choices": [
+        "終電",
+        "追い出す",
+        "失格する",
+        "間接"
+      ],
+      "correctAnswer": 2,
+      "explanation": "diskvalifikatsiya qilinmoq → 失格する"
+    },
+    {
+      "id": 19,
+      "questionType": "reading",
+      "question": "『心無い』ning o'qilishi qaysi?",
+      "word": "心無い",
+      "choices": [
+        "くちがかるい",
+        "こころない",
+        "いまさら",
+        "しえんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "心無い → こころない"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『印象』ning o'qilishi qaysi?",
+      "word": "印象",
+      "choices": [
+        "いんしょう",
+        "こうつごう",
+        "ろうけん",
+        "きのうせい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "印象 → いんしょう"
+    },
+    {
+      "id": 21,
+      "questionType": "meaning",
+      "question": "『折りたたみ傘』ning ma'nosi qaysi?",
+      "word": "折りたたみ傘",
+      "choices": [
+        "erkalatmoq, tantiq qilmoq",
+        "tug'moq, farzand ko'rmoq",
+        "yetib kelmoq",
+        "buklanadigan soyabon"
+      ],
+      "correctAnswer": 3,
+      "explanation": "折りたたみ傘 → buklanadigan soyabon"
+    },
+    {
+      "id": 22,
+      "questionType": "word",
+      "question": "『nomzod』ning yaponcha ifodasi qaysi?",
+      "word": "候補",
+      "choices": [
+        "操作する",
+        "住宅ローン",
+        "湿度",
+        "候補"
+      ],
+      "correctAnswer": 3,
+      "explanation": "nomzod → 候補"
+    },
+    {
+      "id": 23,
+      "questionType": "reading",
+      "question": "『右に出る者はいない』ning o'qilishi qaysi?",
+      "word": "右に出る者はいない",
+      "choices": [
+        "ごかいする",
+        "みぎにでるものはいない",
+        "ひとどおり",
+        "げんしりょくはつでんしょ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "右に出る者はいない → みぎにでるものはいない"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『こうほ』qaysi yozuvga mos?",
+      "word": "候補",
+      "choices": [
+        "もしかしたら、もしかして、ひょっとすると",
+        "無口な",
+        "候補",
+        "ご馳走する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "こうほ → 候補"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『スムーズな』qaysi yozuvga mos?",
+      "word": "スムーズな",
+      "choices": [
+        "スムーズな",
+        "気配りする",
+        "ありがとう",
+        "ちらっと"
+      ],
+      "correctAnswer": 0,
+      "explanation": "スムーズな → スムーズな"
+    },
+    {
+      "id": 26,
+      "questionType": "reading",
+      "question": "『散らばる』ning o'qilishi qaysi?",
+      "word": "散らばる",
+      "choices": [
+        "いし",
+        "のうそん",
+        "ちらばる",
+        "ちんたいじゅうたく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "散らばる → ちらばる"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『折りたたみ傘』ning o'qilishi qaysi?",
+      "word": "折りたたみ傘",
+      "choices": [
+        "いし",
+        "むくちな",
+        "パワハラする",
+        "おりたたみがさ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "折りたたみ傘 → おりたたみがさ"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『いんしょう』qaysi yozuvga mos?",
+      "word": "印象",
+      "choices": [
+        "許す",
+        "高血圧",
+        "印象",
+        "呼び止める"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いんしょう → 印象"
+    },
+    {
+      "id": 29,
+      "questionType": "reading",
+      "question": "『カーディガン』ning o'qilishi qaysi?",
+      "word": "カーディガン",
+      "choices": [
+        "ちゅういほう",
+        "みとめる",
+        "カーディガン",
+        "てつやする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "カーディガン → カーディガン"
+    },
+    {
+      "id": 30,
+      "questionType": "reading",
+      "question": "『海岸線』ning o'qilishi qaysi?",
+      "word": "海岸線",
+      "choices": [
+        "せっとくする",
+        "かいがんせん",
+        "たよりになる",
+        "ひょうじょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "海岸線 → かいがんせん"
+    },
+    {
+      "id": 31,
+      "questionType": "word",
+      "question": "『odatda, kundalik』ning yaponcha ifodasi qaysi?",
+      "word": "普段",
+      "choices": [
+        "名産",
+        "不運な",
+        "普段",
+        "交わす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "odatda, kundalik → 普段"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『折りたたみ傘』ning ma'nosi qaysi?",
+      "word": "折りたたみ傘",
+      "choices": [
+        "chuqur, chin dildan (感じる bilan ishlatiladi)",
+        "sir",
+        "mo'l, serob",
+        "buklanadigan soyabon"
+      ],
+      "correctAnswer": 3,
+      "explanation": "折りたたみ傘 → buklanadigan soyabon"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『どしゃぶり』qaysi yozuvga mos?",
+      "word": "土砂降り",
+      "choices": [
+        "土砂降り",
+        "手ぶら",
+        "妊娠する",
+        "仲良し"
+      ],
+      "correctAnswer": 0,
+      "explanation": "どしゃぶり → 土砂降り"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『ちらばる』qaysi yozuvga mos?",
+      "word": "散らばる",
+      "choices": [
+        "散らばる",
+        "秘密",
+        "とっさに",
+        "副作用"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちらばる → 散らばる"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『ふだん』qaysi yozuvga mos?",
+      "word": "普段",
+      "choices": [
+        "普段",
+        "響く",
+        "洗面所",
+        "履歴"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ふだん → 普段"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『いんしょう』qaysi yozuvga mos?",
+      "word": "印象",
+      "choices": [
+        "注意報",
+        "印象",
+        "原子力発電所",
+        "豊富な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "いんしょう → 印象"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『まさか』ning ma'nosi qaysi?",
+      "word": "まさか",
+      "choices": [
+        "nahotki, kutilmaganda",
+        "anovi",
+        "xudbin, o'zboshimcha",
+        "jim bo'lmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "まさか → nahotki, kutilmaganda"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『機能性』ning o'qilishi qaysi?",
+      "word": "機能性",
+      "choices": [
+        "やしなう",
+        "きのうせい",
+        "ひょうじょう",
+        "ともだちどうし"
+      ],
+      "correctAnswer": 1,
+      "explanation": "機能性 → きのうせい"
+    },
+    {
+      "id": 39,
+      "questionType": "sentence",
+      "question": "『涙を流す』ning ma'nosi qaysi?",
+      "word": "涙を流す",
+      "choices": [
+        "yuqori unumli, samarali (texnika)",
+        "shahrimiz",
+        "olomon qatnovi",
+        "yig'lamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "涙を流す → yig'lamoq"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『みりょくてきな』qaysi yozuvga mos?",
+      "word": "魅力的な",
+      "choices": [
+        "魅力的な",
+        "向き合う",
+        "賃貸住宅",
+        "才能"
+      ],
+      "correctAnswer": 0,
+      "explanation": "みりょくてきな → 魅力的な"
+    },
+    {
+      "id": 41,
+      "questionType": "word",
+      "question": "『kardigan』ning yaponcha ifodasi qaysi?",
+      "word": "カーディガン",
+      "choices": [
+        "カーディガン",
+        "大半",
+        "プロポーズする",
+        "機能性"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kardigan → カーディガン"
+    },
+    {
+      "id": 42,
+      "questionType": "meaning",
+      "question": "『堅苦しい』ning ma'nosi qaysi?",
+      "word": "堅苦しい",
+      "choices": [
+        "mehmon qilmoq",
+        "to'g'ridan to'g'ri, bilvosita",
+        "jo'nash va yetib kelish (qatnov)",
+        "o'ta rasmiy, siqiq (muhit)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "堅苦しい → o'ta rasmiy, siqiq (muhit)"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『〜未満』ning o'qilishi qaysi?",
+      "word": "〜未満",
+      "choices": [
+        "けねんする",
+        "かしかりする",
+        "ひとみがきつい",
+        "〜みまん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "〜未満 → 〜みまん"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『機能性』ning o'qilishi qaysi?",
+      "word": "機能性",
+      "choices": [
+        "きのうせい",
+        "あらす",
+        "たびかさなる",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 0,
+      "explanation": "機能性 → きのうせい"
+    },
+    {
+      "id": 45,
+      "questionType": "word",
+      "question": "『sochilib ketmoq』ning yaponcha ifodasi qaysi?",
+      "word": "散らばる",
+      "choices": [
+        "打ち明ける",
+        "憧れる",
+        "散らばる",
+        "悪循環"
+      ],
+      "correctAnswer": 2,
+      "explanation": "sochilib ketmoq → 散らばる"
+    },
+    {
+      "id": 46,
+      "questionType": "word",
+      "question": "『funksionallik』ning yaponcha ifodasi qaysi?",
+      "word": "機能性",
+      "choices": [
+        "南向き",
+        "機能性",
+        "高学歴",
+        "名画"
+      ],
+      "correctAnswer": 1,
+      "explanation": "funksionallik → 機能性"
+    },
+    {
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『〜みまん』qaysi yozuvga mos?",
+      "word": "〜未満",
+      "choices": [
+        "〜未満",
+        "コンパ",
+        "呼び止める",
+        "俺"
+      ],
+      "correctAnswer": 0,
+      "explanation": "〜みまん → 〜未満"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『こうほ』qaysi yozuvga mos?",
+      "word": "候補",
+      "choices": [
+        "操作する",
+        "荒らす",
+        "避ける",
+        "候補"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こうほ → 候補"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『でたらめな』ning ma'nosi qaysi?",
+      "word": "でたらめな",
+      "choices": [
+        "homilador ayol",
+        "jo qilmoq, (tuyg'u, kuch) qo'shmoq",
+        "mahalliy mahsulot",
+        "bema'ni, mantiqsiz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "でたらめな → bema'ni, mantiqsiz"
+    },
+    {
+      "id": 50,
+      "questionType": "meaning",
+      "question": "『散らばる』ning ma'nosi qaysi?",
+      "word": "散らばる",
+      "choices": [
+        "aks-sado bermoq, yangramoq",
+        "omadsiz",
+        "sochilib ketmoq",
+        "lip etib, bir zum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "散らばる → sochilib ketmoq"
+    },
+    {
+      "id": 51,
+      "questionType": "sentence",
+      "question": "『マニュアル』ning ma'nosi qaysi?",
+      "word": "マニュアル",
+      "choices": [
+        "yuqori ma'lumotli",
+        "qo'llanma",
+        "gaplashmoq/muloqot qilmoq",
+        "qulaylik (darajasi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "マニュアル → qo'llanma"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『介助犬』ning ma'nosi qaysi?",
+      "word": "介助犬",
+      "choices": [
+        "ko'rsatmoq, aks ettirmoq (ekranda)",
+        "bahslashmoq",
+        "yordamchi it (nogironlar uchun)",
+        "qo'l tutqichi, panjara"
+      ],
+      "correctAnswer": 2,
+      "explanation": "介助犬 → yordamchi it (nogironlar uchun)"
+    },
+    {
+      "id": 53,
+      "questionType": "word",
+      "question": "『kuchli jala』ning yaponcha ifodasi qaysi?",
+      "word": "土砂降り",
+      "choices": [
+        "候補",
+        "災害",
+        "土砂降り",
+        "不景気"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kuchli jala → 土砂降り"
+    },
+    {
+      "id": 54,
+      "questionType": "reading",
+      "question": "『海岸線』ning o'qilishi qaysi?",
+      "word": "海岸線",
+      "choices": [
+        "くちげんかする",
+        "ていしせい",
+        "かいがんせん",
+        "こころほそい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "海岸線 → かいがんせん"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『まさか』ning o'qilishi qaysi?",
+      "word": "まさか",
+      "choices": [
+        "カンニングする",
+        "まさか",
+        "こころほそい",
+        "ふくさよう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "まさか → まさか"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『なみだをながす』qaysi yozuvga mos?",
+      "word": "涙を流す",
+      "choices": [
+        "蜂",
+        "失格する",
+        "つぶやく",
+        "涙を流す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "なみだをながす → 涙を流す"
+    },
+    {
+      "id": 57,
+      "questionType": "reading",
+      "question": "『発着する』ning o'qilishi qaysi?",
+      "word": "発着する",
+      "choices": [
+        "どうせ",
+        "ひびく",
+        "はっちゃくする",
+        "こうがくねん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "発着する → はっちゃくする"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『魅力的な』ning ma'nosi qaysi?",
+      "word": "魅力的な",
+      "choices": [
+        "jim, kam gapiradigan",
+        "mazax qilmoq",
+        "atayin, ovora bo'lib",
+        "jozibali"
+      ],
+      "correctAnswer": 3,
+      "explanation": "魅力的な → jozibali"
+    },
+    {
+      "id": 59,
+      "questionType": "meaning",
+      "question": "『マニュアル』ning ma'nosi qaysi?",
+      "word": "マニュアル",
+      "choices": [
+        "yuqori unumli, samarali (texnika)",
+        "kuchli jala",
+        "qo'llanma",
+        "ko'ndirmoq, ishontirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "マニュアル → qo'llanma"
+    },
+    {
+      "id": 60,
+      "questionType": "meaning",
+      "question": "『機能性』ning ma'nosi qaysi?",
+      "word": "機能性",
+      "choices": [
+        "keskin, qat'iy",
+        "xatosini anglab mulohaza qilmoq",
+        "funksionallik",
+        "o'zaro bog'lanmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "機能性 → funksionallik"
+    },
+    {
+      "id": 61,
+      "questionType": "kanji",
+      "question": "『でたらめな』qaysi yozuvga mos?",
+      "word": "でたらめな",
+      "choices": [
+        "管理する",
+        "でたらめな",
+        "見習う",
+        "物価"
+      ],
+      "correctAnswer": 1,
+      "explanation": "でたらめな → でたらめな"
+    },
+    {
+      "id": 62,
+      "questionType": "word",
+      "question": "『mo'l, serob』ning yaponcha ifodasi qaysi?",
+      "word": "豊富な",
+      "choices": [
+        "ルール",
+        "豊富な",
+        "親知らず",
+        "にらむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "mo'l, serob → 豊富な"
+    },
+    {
+      "id": 63,
+      "questionType": "kanji",
+      "question": "『マニュアル』qaysi yozuvga mos?",
+      "word": "マニュアル",
+      "choices": [
+        "正直な",
+        "飼い主",
+        "傷つける",
+        "マニュアル"
+      ],
+      "correctAnswer": 3,
+      "explanation": "マニュアル → マニュアル"
+    },
+    {
+      "id": 64,
+      "questionType": "sentence",
+      "question": "『でたらめな』ning ma'nosi qaysi?",
+      "word": "でたらめな",
+      "choices": [
+        "tug'moq, farzand ko'rmoq",
+        "yashirincha",
+        "ko'nmoq, tushunib rozi bo'lmoq",
+        "bema'ni, mantiqsiz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "でたらめな → bema'ni, mantiqsiz"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『dan kam』ning yaponcha ifodasi qaysi?",
+      "word": "〜未満",
+      "choices": [
+        "支援する",
+        "愛情",
+        "〜未満",
+        "学食"
+      ],
+      "correctAnswer": 2,
+      "explanation": "dan kam → 〜未満"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『魅力的な』ning o'qilishi qaysi?",
+      "word": "魅力的な",
+      "choices": [
+        "ともだちどうし",
+        "まどり",
+        "むすびつく",
+        "みりょくてきな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "魅力的な → みりょくてきな"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『候補』ning o'qilishi qaysi?",
+      "word": "候補",
+      "choices": [
+        "おく",
+        "しょくば",
+        "こうほ",
+        "てもと"
+      ],
+      "correctAnswer": 2,
+      "explanation": "候補 → こうほ"
+    },
+    {
+      "id": 68,
+      "questionType": "meaning",
+      "question": "『魅力的な』ning ma'nosi qaysi?",
+      "word": "魅力的な",
+      "choices": [
+        "jozibali",
+        "g'amxo'rlik",
+        "tom",
+        "ustidan kulish, mazax qilish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "魅力的な → jozibali"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『きのうせい』qaysi yozuvga mos?",
+      "word": "機能性",
+      "choices": [
+        "好景気",
+        "名文",
+        "養う",
+        "機能性"
+      ],
+      "correctAnswer": 3,
+      "explanation": "きのうせい → 機能性"
+    },
+    {
+      "id": 70,
+      "questionType": "reading",
+      "question": "『手元』ning o'qilishi qaysi?",
+      "word": "手元",
+      "choices": [
+        "てもと",
+        "おかげ",
+        "あきれる",
+        "あくじょうけん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "手元 → てもと"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『〜みまん』qaysi yozuvga mos?",
+      "word": "〜未満",
+      "choices": [
+        "低レベル",
+        "〜未満",
+        "知識",
+        "瞳がきつい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "〜みまん → 〜未満"
+    },
+    {
+      "id": 72,
+      "questionType": "meaning",
+      "question": "『スムーズな』ning ma'nosi qaysi?",
+      "word": "スムーズな",
+      "choices": [
+        "silliq, muammosiz",
+        "kechirmoq",
+        "suyagi sinmoq",
+        "uyda parvarish qiluvchi xodim"
+      ],
+      "correctAnswer": 0,
+      "explanation": "スムーズな → silliq, muammosiz"
+    },
+    {
+      "id": 73,
+      "questionType": "meaning",
+      "question": "『涙を流す』ning ma'nosi qaysi?",
+      "word": "涙を流す",
+      "choices": [
+        "o'sha inson, anovi",
+        "kompaniyalar",
+        "yig'lamoq",
+        "pala-partish, dag'al (ish)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "涙を流す → yig'lamoq"
+    },
+    {
+      "id": 74,
+      "questionType": "word",
+      "question": "『yordamchi it (nogironlar uchun)』ning yaponcha ifodasi qaysi?",
+      "word": "介助犬",
+      "choices": [
+        "好都合",
+        "名案",
+        "介助犬",
+        "向き合う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yordamchi it (nogironlar uchun) → 介助犬"
+    },
+    {
+      "id": 75,
+      "questionType": "word",
+      "question": "『diskvalifikatsiya qilinmoq』ning yaponcha ifodasi qaysi?",
+      "word": "失格する",
+      "choices": [
+        "失格する",
+        "高気圧",
+        "一人暮らし",
+        "抵抗する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "diskvalifikatsiya qilinmoq → 失格する"
+    },
+    {
+      "id": 76,
+      "questionType": "word",
+      "question": "『mo'l, serob』ning yaponcha ifodasi qaysi?",
+      "word": "豊富な",
+      "choices": [
+        "ささやく",
+        "いまさら",
+        "豊富な",
+        "梨"
+      ],
+      "correctAnswer": 2,
+      "explanation": "mo'l, serob → 豊富な"
+    },
+    {
+      "id": 77,
+      "questionType": "sentence",
+      "question": "『折りたたみ傘』ning ma'nosi qaysi?",
+      "word": "折りたたみ傘",
+      "choices": [
+        "yaxshi xulqli odam",
+        "ehtimol",
+        "buklanadigan soyabon",
+        "buzmoq, tartibsiz holga keltirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "折りたたみ傘 → buklanadigan soyabon"
+    },
+    {
+      "id": 78,
+      "questionType": "meaning",
+      "question": "『右に出る者はいない』ning ma'nosi qaysi?",
+      "word": "右に出る者はいない",
+      "choices": [
+        "tengi yo'q",
+        "vazifa, burch",
+        "to'g'ridan to'g'ri, bilvosita",
+        "yengib o'tmoq/boshdan kechirmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "右に出る者はいない → tengi yo'q"
+    },
+    {
+      "id": 79,
+      "questionType": "reading",
+      "question": "『失格する』ning o'qilishi qaysi?",
+      "word": "失格する",
+      "choices": [
+        "しつける",
+        "こめる",
+        "しっかくする",
+        "カーディガン"
+      ],
+      "correctAnswer": 2,
+      "explanation": "失格する → しっかくする"
+    },
+    {
+      "id": 80,
+      "questionType": "word",
+      "question": "『o'ta rasmiy, siqiq (muhit)』ning yaponcha ifodasi qaysi?",
+      "word": "堅苦しい",
+      "choices": [
+        "堅苦しい",
+        "誤解する",
+        "振り返る",
+        "そらす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "o'ta rasmiy, siqiq (muhit) → 堅苦しい"
+    },
+    {
+      "id": 81,
+      "questionType": "reading",
+      "question": "『涙を流す』ning o'qilishi qaysi?",
+      "word": "涙を流す",
+      "choices": [
+        "みならう",
+        "はっちゃくする",
+        "なみだをながす",
+        "いいわけ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "涙を流す → なみだをながす"
+    },
+    {
+      "id": 82,
+      "questionType": "word",
+      "question": "『bema'ni, mantiqsiz』ning yaponcha ifodasi qaysi?",
+      "word": "でたらめな",
+      "choices": [
+        "そらす",
+        "でたらめな",
+        "高気圧",
+        "一人住まい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bema'ni, mantiqsiz → でたらめな"
+    },
+    {
+      "id": 83,
+      "questionType": "word",
+      "question": "『silkitmoq; rad etmoq (sevgilini)』ning yaponcha ifodasi qaysi?",
+      "word": "振る",
+      "choices": [
+        "振る",
+        "悔やむ",
+        "ガーデニング",
+        "怒鳴る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "silkitmoq; rad etmoq (sevgilini) → 振る"
+    },
+    {
+      "id": 84,
+      "questionType": "meaning",
+      "question": "『海岸線』ning ma'nosi qaysi?",
+      "word": "海岸線",
+      "choices": [
+        "qirg'oq chizig'i",
+        "yuqori sinf (maktab)",
+        "suhbatlashmoq, dil so'zlashmoq",
+        "avlod almashinuvi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "海岸線 → qirg'oq chizig'i"
+    },
+    {
+      "id": 85,
+      "questionType": "kanji",
+      "question": "『しっかくする』qaysi yozuvga mos?",
+      "word": "失格する",
+      "choices": [
+        "ルール",
+        "ちらっと",
+        "スムーズな",
+        "失格する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しっかくする → 失格する"
+    },
+    {
+      "id": 86,
+      "questionType": "word",
+      "question": "『yig'lamoq』ning yaponcha ifodasi qaysi?",
+      "word": "涙を流す",
+      "choices": [
+        "機能性",
+        "候補",
+        "向き合う",
+        "涙を流す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yig'lamoq → 涙を流す"
+    },
+    {
+      "id": 87,
+      "questionType": "reading",
+      "question": "『でたらめな』ning o'qilishi qaysi?",
+      "word": "でたらめな",
+      "choices": [
+        "ていけつあつ",
+        "でたらめな",
+        "ていしせい",
+        "ごうこん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "でたらめな → でたらめな"
+    },
+    {
+      "id": 88,
+      "questionType": "sentence",
+      "question": "『カーディガン』ning ma'nosi qaysi?",
+      "word": "カーディガン",
+      "choices": [
+        "shon-shuhrat",
+        "shoh asar",
+        "kardigan",
+        "hurmat qilmoq, qadrlamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "カーディガン → kardigan"
+    },
+    {
+      "id": 89,
+      "questionType": "reading",
+      "question": "『印象』ning o'qilishi qaysi?",
+      "word": "印象",
+      "choices": [
+        "あまやかす",
+        "じこしょうかい",
+        "ふうんな",
+        "いんしょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "印象 → いんしょう"
+    },
+    {
+      "id": 90,
+      "questionType": "sentence",
+      "question": "『スムーズな』ning ma'nosi qaysi?",
+      "word": "スムーズな",
+      "choices": [
+        "vaqtni ko'rsatmoq",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
+        "buzilmoq (shakl/holat)",
+        "silliq, muammosiz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "スムーズな → silliq, muammosiz"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『かいじょけん』qaysi yozuvga mos?",
+      "word": "介助犬",
+      "choices": [
+        "物置",
+        "介助犬",
+        "悪影響",
+        "散らばる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かいじょけん → 介助犬"
+    },
+    {
+      "id": 92,
+      "questionType": "reading",
+      "question": "『豊富な』ning o'qilishi qaysi?",
+      "word": "豊富な",
+      "choices": [
+        "こうほ",
+        "ほうふな",
+        "あくじゅんかん",
+        "あいしょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "豊富な → ほうふな"
+    },
+    {
+      "id": 93,
+      "questionType": "kanji",
+      "question": "『みぎにでるものはいない』qaysi yozuvga mos?",
+      "word": "右に出る者はいない",
+      "choices": [
+        "てっきり",
+        "思春期",
+        "右に出る者はいない",
+        "とっさに"
+      ],
+      "correctAnswer": 2,
+      "explanation": "みぎにでるものはいない → 右に出る者はいない"
+    },
+    {
+      "id": 94,
+      "questionType": "reading",
+      "question": "『普段』ning o'qilishi qaysi?",
+      "word": "普段",
+      "choices": [
+        "くいしんぼう",
+        "しょうじきな",
+        "ふだん",
+        "てまえ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "普段 → ふだん"
+    },
+    {
+      "id": 95,
+      "questionType": "sentence",
+      "question": "『右に出る者はいない』ning ma'nosi qaysi?",
+      "word": "右に出る者はいない",
+      "choices": [
+        "o'zaro, bir biriga",
+        "yuz ifodasi",
+        "qulaylik (darajasi)",
+        "tengi yo'q"
+      ],
+      "correctAnswer": 3,
+      "explanation": "右に出る者はいない → tengi yo'q"
+    },
+    {
+      "id": 96,
+      "questionType": "kanji",
+      "question": "『カーディガン』qaysi yozuvga mos?",
+      "word": "カーディガン",
+      "choices": [
+        "頼もしい",
+        "カーディガン",
+        "ジェネレーション",
+        "名著"
+      ],
+      "correctAnswer": 1,
+      "explanation": "カーディガン → カーディガン"
+    },
+    {
+      "id": 97,
+      "questionType": "kanji",
+      "question": "『しっかくする』qaysi yozuvga mos?",
+      "word": "失格する",
+      "choices": [
+        "利便性",
+        "失格する",
+        "夢中な",
+        "しみじみ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しっかくする → 失格する"
+    },
+    {
+      "id": 98,
+      "questionType": "reading",
+      "question": "『介助犬』ning o'qilishi qaysi?",
+      "word": "介助犬",
+      "choices": [
+        "かいじょけん",
+        "かなう",
+        "ろうどうする",
+        "しつど"
+      ],
+      "correctAnswer": 0,
+      "explanation": "介助犬 → かいじょけん"
+    },
+    {
+      "id": 99,
+      "questionType": "kanji",
+      "question": "『かたくるしい』qaysi yozuvga mos?",
+      "word": "堅苦しい",
+      "choices": [
+        "堅苦しい",
+        "認める",
+        "ばらす",
+        "納得する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かたくるしい → 堅苦しい"
+    },
+    {
+      "id": 100,
+      "questionType": "kanji",
+      "question": "『こころない』qaysi yozuvga mos?",
+      "word": "心無い",
+      "choices": [
+        "目が覚める",
+        "無口な",
+        "心無い",
+        "決まり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "こころない → 心無い"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『ふだん』qaysi yozuvga mos?",
+      "word": "普段",
+      "choices": [
+        "放っておく",
+        "普段",
+        "秘密",
+        "友人"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふだん → 普段"
+    },
+    {
+      "id": 102,
+      "questionType": "kanji",
+      "question": "『こころない』qaysi yozuvga mos?",
+      "word": "心無い",
+      "choices": [
+        "心無い",
+        "大半",
+        "振り返る",
+        "もしかしたら、もしかして、ひょっとすると"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こころない → 心無い"
+    },
+    {
+      "id": 103,
+      "questionType": "word",
+      "question": "『jo'nash va yetib kelish (qatnov)』ning yaponcha ifodasi qaysi?",
+      "word": "発着する",
+      "choices": [
+        "発着する",
+        "ヘルパー",
+        "甘やかす",
+        "むしろ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "jo'nash va yetib kelish (qatnov) → 発着する"
+    },
+    {
+      "id": 104,
+      "questionType": "meaning",
+      "question": "『〜未満』ning ma'nosi qaysi?",
+      "word": "〜未満",
+      "choices": [
+        "dan kam",
+        "ko'zni olib qochish",
+        "mashhur kuy",
+        "uy egasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "〜未満 → dan kam"
+    },
+    {
+      "id": 105,
+      "questionType": "word",
+      "question": "『qo'llanma』ning yaponcha ifodasi qaysi?",
+      "word": "マニュアル",
+      "choices": [
+        "同士",
+        "察する",
+        "名曲",
+        "マニュアル"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qo'llanma → マニュアル"
+    },
+    {
+      "id": 106,
+      "questionType": "meaning",
+      "question": "『まさか』ning ma'nosi qaysi?",
+      "word": "まさか",
+      "choices": [
+        "avlod (sinonim)",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)",
+        "nahotki, kutilmaganda",
+        "yaxshi sharoit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "まさか → nahotki, kutilmaganda"
+    },
+    {
+      "id": 107,
+      "questionType": "meaning",
+      "question": "『カーディガン』ning ma'nosi qaysi?",
+      "word": "カーディガン",
+      "choices": [
+        "begona, birov",
+        "kardigan",
+        "bog'dorchilik",
+        "ko'nmoq, tushunib rozi bo'lmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "カーディガン → kardigan"
+    },
+    {
+      "id": 108,
+      "questionType": "kanji",
+      "question": "『きのうせい』qaysi yozuvga mos?",
+      "word": "機能性",
+      "choices": [
+        "ニックネーム",
+        "対策する",
+        "機能性",
+        "報告する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "きのうせい → 機能性"
+    },
+    {
+      "id": 109,
+      "questionType": "reading",
+      "question": "『豊富な』ning o'qilishi qaysi?",
+      "word": "豊富な",
+      "choices": [
+        "ほうふな",
+        "きんじょづきあい",
+        "ざつな",
+        "ふる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "豊富な → ほうふな"
+    },
+    {
+      "id": 110,
+      "questionType": "word",
+      "question": "『kuchli jala』ning yaponcha ifodasi qaysi?",
+      "word": "土砂降り",
+      "choices": [
+        "いまさら",
+        "でたらめな",
+        "土砂降り",
+        "きっぱり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kuchli jala → 土砂降り"
+    },
+    {
+      "id": 111,
+      "questionType": "kanji",
+      "question": "『みりょくてきな』qaysi yozuvga mos?",
+      "word": "魅力的な",
+      "choices": [
+        "魅力的な",
+        "名曲",
+        "悪ふざけ",
+        "しつける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "みりょくてきな → 魅力的な"
+    },
+    {
+      "id": 112,
+      "questionType": "reading",
+      "question": "『土砂降り』ning o'qilishi qaysi?",
+      "word": "土砂降り",
+      "choices": [
+        "こうけいき",
+        "きおく",
+        "めいが",
+        "どしゃぶり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "土砂降り → どしゃぶり"
+    },
+    {
+      "id": 113,
+      "questionType": "word",
+      "question": "『qo'l ostida』ning yaponcha ifodasi qaysi?",
+      "word": "手元",
+      "choices": [
+        "手元",
+        "言いつける",
+        "タイムセール",
+        "誤解する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qo'l ostida → 手元"
+    },
+    {
+      "id": 114,
+      "questionType": "kanji",
+      "question": "『どしゃぶり』qaysi yozuvga mos?",
+      "word": "土砂降り",
+      "choices": [
+        "土砂降り",
+        "貸し借りする",
+        "名曲",
+        "募集する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "どしゃぶり → 土砂降り"
+    },
+    {
+      "id": 115,
+      "questionType": "word",
+      "question": "『silkitmoq; rad etmoq (sevgilini)』ning yaponcha ifodasi qaysi?",
+      "word": "振る",
+      "choices": [
+        "頼りにする",
+        "豊富な",
+        "振る",
+        "抗議する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "silkitmoq; rad etmoq (sevgilini) → 振る"
+    },
+    {
+      "id": 116,
+      "questionType": "meaning",
+      "question": "『手元』ning ma'nosi qaysi?",
+      "word": "手元",
+      "choices": [
+        "bir oilaviy alohida uy",
+        "qo'l ostida",
+        "quyi sinf",
+        "beixtiyor, oddiy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "手元 → qo'l ostida"
+    },
+    {
+      "id": 117,
+      "questionType": "kanji",
+      "question": "『はっちゃくする』qaysi yozuvga mos?",
+      "word": "発着する",
+      "choices": [
+        "口を利く",
+        "発着する",
+        "もしかすると",
+        "雲がかかる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はっちゃくする → 発着する"
+    },
+    {
+      "id": 118,
+      "questionType": "reading",
+      "question": "『マニュアル』ning o'qilishi qaysi?",
+      "word": "マニュアル",
+      "choices": [
+        "さっする",
+        "こうしゅうにゅう",
+        "けっしょうせん",
+        "マニュアル"
+      ],
+      "correctAnswer": 3,
+      "explanation": "マニュアル → マニュアル"
+    },
+    {
+      "id": 119,
+      "questionType": "sentence",
+      "question": "『発着する』ning ma'nosi qaysi?",
+      "word": "発着する",
+      "choices": [
+        "bir oilaviy alohida uy",
+        "jo'nash va yetib kelish (qatnov)",
+        "boshqarmoq (nazorat qilish)",
+        "ochiq havoda, tabiatda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "発着する → jo'nash va yetib kelish (qatnov)"
+    },
+    {
+      "id": 120,
+      "questionType": "reading",
+      "question": "『候補』ning o'qilishi qaysi?",
+      "word": "候補",
+      "choices": [
+        "こうほ",
+        "どうし",
+        "ヘルパー",
+        "そうめいな"
+      ],
+      "correctAnswer": 0,
+      "explanation": "候補 → こうほ"
+    },
+    {
+      "id": 121,
+      "questionType": "kanji",
+      "question": "『ちらばる』qaysi yozuvga mos?",
+      "word": "散らばる",
+      "choices": [
+        "悪酔い",
+        "低学年",
+        "散らばる",
+        "ただ今"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちらばる → 散らばる"
+    },
+    {
+      "id": 122,
+      "questionType": "reading",
+      "question": "『スムーズな』ning o'qilishi qaysi?",
+      "word": "スムーズな",
+      "choices": [
+        "くちをきく",
+        "あまえ",
+        "しょうさんする",
+        "スムーズな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "スムーズな → スムーズな"
+    },
+    {
+      "id": 123,
+      "questionType": "reading",
+      "question": "『手元』ning o'qilishi qaysi?",
+      "word": "手元",
+      "choices": [
+        "かおく",
+        "てもと",
+        "きずつける",
+        "むきあう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "手元 → てもと"
+    },
+    {
+      "id": 124,
+      "questionType": "reading",
+      "question": "『介助犬』ning o'qilishi qaysi?",
+      "word": "介助犬",
+      "choices": [
+        "かいじょけん",
+        "おおはばな",
+        "あくしゅうかん",
+        "ふる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "介助犬 → かいじょけん"
+    },
+    {
+      "id": 125,
+      "questionType": "kanji",
+      "question": "『おりたたみがさ』qaysi yozuvga mos?",
+      "word": "折りたたみ傘",
+      "choices": [
+        "支援する",
+        "悪習慣",
+        "合コン",
+        "折りたたみ傘"
+      ],
+      "correctAnswer": 3,
+      "explanation": "おりたたみがさ → 折りたたみ傘"
+    },
+    {
+      "id": 126,
+      "questionType": "kanji",
+      "question": "『かいがんせん』qaysi yozuvga mos?",
+      "word": "海岸線",
+      "choices": [
+        "ありがたい",
+        "海岸線",
+        "審判",
+        "思春期"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かいがんせん → 海岸線"
+    },
+    {
+      "id": 127,
+      "questionType": "meaning",
+      "question": "『海岸線』ning ma'nosi qaysi?",
+      "word": "海岸線",
+      "choices": [
+        "haqiqiy kuch, salohiyat",
+        "jo'nash va yetib kelish (qatnov)",
+        "dalda bermoq, ruhlantirmoq",
+        "qirg'oq chizig'i"
+      ],
+      "correctAnswer": 3,
+      "explanation": "海岸線 → qirg'oq chizig'i"
+    },
+    {
+      "id": 128,
+      "questionType": "word",
+      "question": "『o'ylamasdan qilingan, rahmsiz』ning yaponcha ifodasi qaysi?",
+      "word": "心無い",
+      "choices": [
+        "雑な",
+        "心無い",
+        "思春期",
+        "人通り"
+      ],
+      "correctAnswer": 1,
+      "explanation": "o'ylamasdan qilingan, rahmsiz → 心無い"
+    },
+    {
+      "id": 129,
+      "questionType": "word",
+      "question": "『silliq, muammosiz』ning yaponcha ifodasi qaysi?",
+      "word": "スムーズな",
+      "choices": [
+        "きっぱり",
+        "スムーズな",
+        "我が家",
+        "盛んな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "silliq, muammosiz → スムーズな"
+    },
+    {
+      "id": 130,
+      "questionType": "sentence",
+      "question": "『散らばる』ning ma'nosi qaysi?",
+      "word": "散らばる",
+      "choices": [
+        "muhokama qilmoq, bahs yuritmoq",
+        "alohida (xususiy) hovlili uy",
+        "sochilib ketmoq",
+        "bir joyda uzluksiz ishlash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "散らばる → sochilib ketmoq"
+    },
+    {
+      "id": 131,
+      "questionType": "kanji",
+      "question": "『ふる』qaysi yozuvga mos?",
+      "word": "振る",
+      "choices": [
+        "見つめ合う",
+        "振る",
+        "自己紹介",
+        "カップル"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふる → 振る"
+    },
+    {
+      "id": 132,
+      "questionType": "kanji",
+      "question": "『なみだをながす』qaysi yozuvga mos?",
+      "word": "涙を流す",
+      "choices": [
+        "てっきり",
+        "涙を流す",
+        "生まれる",
+        "温暖な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なみだをながす → 涙を流す"
+    },
+    {
+      "id": 133,
+      "questionType": "meaning",
+      "question": "『候補』ning ma'nosi qaysi?",
+      "word": "候補",
+      "choices": [
+        "yaqin do'st",
+        "nomzod",
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "uy loyihasi (necha xonali ekanligi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "候補 → nomzod"
+    },
+    {
+      "id": 134,
+      "questionType": "kanji",
+      "question": "『てもと』qaysi yozuvga mos?",
+      "word": "手元",
+      "choices": [
+        "見習い",
+        "近所付き合い",
+        "手元",
+        "蚊"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てもと → 手元"
+    },
+    {
+      "id": 135,
+      "questionType": "reading",
+      "question": "『まさか』ning o'qilishi qaysi?",
+      "word": "まさか",
+      "choices": [
+        "まさか",
+        "こういんしょう",
+        "わるよい",
+        "ささやく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "まさか → まさか"
+    },
+    {
+      "id": 136,
+      "questionType": "kanji",
+      "question": "『はっちゃくする』qaysi yozuvga mos?",
+      "word": "発着する",
+      "choices": [
+        "北向き",
+        "愛称",
+        "発着する",
+        "実力"
+      ],
+      "correctAnswer": 2,
+      "explanation": "はっちゃくする → 発着する"
+    },
+    {
+      "id": 137,
+      "questionType": "sentence",
+      "question": "『土砂降り』ning ma'nosi qaysi?",
+      "word": "土砂降り",
+      "choices": [
+        "zilzilaga chidamlilik",
+        "yomon ta'sir",
+        "ishonmoq",
+        "kuchli jala"
+      ],
+      "correctAnswer": 3,
+      "explanation": "土砂降り → kuchli jala"
+    },
+    {
+      "id": 138,
+      "questionType": "reading",
+      "question": "『堅苦しい』ning o'qilishi qaysi?",
+      "word": "堅苦しい",
+      "choices": [
+        "あくしゅうかん",
+        "かたくるしい",
+        "どくりつする",
+        "あまえる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "堅苦しい → かたくるしい"
+    },
+    {
+      "id": 139,
+      "questionType": "reading",
+      "question": "『心無い』ning o'qilishi qaysi?",
+      "word": "心無い",
+      "choices": [
+        "もしかすると",
+        "ほうこくする",
+        "こころない",
+        "だます"
+      ],
+      "correctAnswer": 2,
+      "explanation": "心無い → こころない"
+    },
+    {
+      "id": 140,
+      "questionType": "meaning",
+      "question": "『心無い』ning ma'nosi qaysi?",
+      "word": "心無い",
+      "choices": [
+        "bir joyda uzluksiz ishlash",
+        "o'ylamasdan qilingan, rahmsiz",
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "odatda, kundalik"
+      ],
+      "correctAnswer": 1,
+      "explanation": "心無い → o'ylamasdan qilingan, rahmsiz"
+    },
+    {
+      "id": 141,
+      "questionType": "word",
+      "question": "『jo'nash va yetib kelish (qatnov)』ning yaponcha ifodasi qaysi?",
+      "word": "発着する",
+      "choices": [
+        "発着する",
+        "殴る",
+        "介護する",
+        "自分勝手な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "jo'nash va yetib kelish (qatnov) → 発着する"
+    },
+    {
+      "id": 142,
+      "questionType": "kanji",
+      "question": "『かいがんせん』qaysi yozuvga mos?",
+      "word": "海岸線",
+      "choices": [
+        "交わす",
+        "ヘルパー",
+        "核兵器",
+        "海岸線"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かいがんせん → 海岸線"
+    },
+    {
+      "id": 143,
+      "questionType": "kanji",
+      "question": "『ほうふな』qaysi yozuvga mos?",
+      "word": "豊富な",
+      "choices": [
+        "限界",
+        "てっきり",
+        "かつ丼",
+        "豊富な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ほうふな → 豊富な"
+    },
+    {
+      "id": 144,
+      "questionType": "reading",
+      "question": "『振る』ning o'qilishi qaysi?",
+      "word": "振る",
+      "choices": [
+        "こうつごう",
+        "うんめい",
+        "ていじげん",
+        "ふる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "振る → ふる"
+    }
+  ]
+}

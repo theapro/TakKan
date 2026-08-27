@@ -1,0 +1,1645 @@
+{
+  "title": "Lesson 15 Test",
+  "type": "goi",
+  "lesson": "lesson-15",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "kanji",
+      "question": "『いまさら』qaysi yozuvga mos?",
+      "word": "いまさら",
+      "choices": [
+        "名作",
+        "放っておく",
+        "いまさら",
+        "つり合う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いまさら → いまさら"
+    },
+    {
+      "id": 2,
+      "questionType": "word",
+      "question": "『sog'inch uyg'otadigan, eslashga arzigulik』ning yaponcha ifodasi qaysi?",
+      "word": "懐かしい",
+      "choices": [
+        "わが国",
+        "もしかしたら、もしかして、ひょっとすると",
+        "懐かしい",
+        "輝く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "sog'inch uyg'otadigan, eslashga arzigulik → 懐かしい"
+    },
+    {
+      "id": 3,
+      "questionType": "word",
+      "question": "『aks-sado bermoq, yangramoq』ning yaponcha ifodasi qaysi?",
+      "word": "響く",
+      "choices": [
+        "つくづくと",
+        "響く",
+        "友達同士",
+        "称賛する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "aks-sado bermoq, yangramoq → 響く"
+    },
+    {
+      "id": 4,
+      "questionType": "sentence",
+      "question": "『中小企業』ning ma'nosi qaysi?",
+      "word": "中小企業",
+      "choices": [
+        "o'rta va kichik korxonalar",
+        "dastidan",
+        "ta'zim qilmoq",
+        "endi (kech), shuncha vaqtdan keyin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "中小企業 → o'rta va kichik korxonalar"
+    },
+    {
+      "id": 5,
+      "questionType": "kanji",
+      "question": "『さいのう』qaysi yozuvga mos?",
+      "word": "才能",
+      "choices": [
+        "ユニークな",
+        "ちらっと",
+        "才能",
+        "仲良し"
+      ],
+      "correctAnswer": 2,
+      "explanation": "さいのう → 才能"
+    },
+    {
+      "id": 6,
+      "questionType": "word",
+      "question": "『hurmoq (it)』ning yaponcha ifodasi qaysi?",
+      "word": "吠える",
+      "choices": [
+        "悪循環",
+        "学食",
+        "吠える",
+        "響く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "hurmoq (it) → 吠える"
+    },
+    {
+      "id": 7,
+      "questionType": "word",
+      "question": "『o'rta va kichik korxonalar』ning yaponcha ifodasi qaysi?",
+      "word": "中小企業",
+      "choices": [
+        "中小企業",
+        "てっきり",
+        "対策する",
+        "あだ名"
+      ],
+      "correctAnswer": 0,
+      "explanation": "o'rta va kichik korxonalar → 中小企業"
+    },
+    {
+      "id": 8,
+      "questionType": "word",
+      "question": "『iste'dod』ning yaponcha ifodasi qaysi?",
+      "word": "才能",
+      "choices": [
+        "口論する",
+        "不景気",
+        "才能",
+        "骨折する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "iste'dod → 才能"
+    },
+    {
+      "id": 9,
+      "questionType": "meaning",
+      "question": "『操作する』ning ma'nosi qaysi?",
+      "word": "操作する",
+      "choices": [
+        "boshqarmoq",
+        "xotira",
+        "tarbiyalamoq, odob o'rgatmoq",
+        "xo'jayin, egasi (hayvonning)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "操作する → boshqarmoq"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『もてなす』qaysi yozuvga mos?",
+      "word": "もてなす",
+      "choices": [
+        "ローン",
+        "名案",
+        "もてなす",
+        "振り返る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "もてなす → もてなす"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『大企業』ning o'qilishi qaysi?",
+      "word": "大企業",
+      "choices": [
+        "いまさら",
+        "〜みまん",
+        "かんせつ",
+        "だいきぎょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "大企業 → だいきぎょう"
+    },
+    {
+      "id": 12,
+      "questionType": "reading",
+      "question": "『ご馳走する』ning o'qilishi qaysi?",
+      "word": "ご馳走する",
+      "choices": [
+        "パワハラする",
+        "つぐ",
+        "ごちそうする",
+        "カップル"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ご馳走する → ごちそうする"
+    },
+    {
+      "id": 13,
+      "questionType": "reading",
+      "question": "『才能』ning o'qilishi qaysi?",
+      "word": "才能",
+      "choices": [
+        "あいしょう",
+        "げんかい",
+        "たった",
+        "さいのう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "才能 → さいのう"
+    },
+    {
+      "id": 14,
+      "questionType": "sentence",
+      "question": "『懐かしい』ning ma'nosi qaysi?",
+      "word": "懐かしい",
+      "choices": [
+        "bekitiqcha ish qilmoq, pusmoq",
+        "yuqori daromad",
+        "sog'inch uyg'otadigan, eslashga arzigulik",
+        "yomon ob-havo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "懐かしい → sog'inch uyg'otadigan, eslashga arzigulik"
+    },
+    {
+      "id": 15,
+      "questionType": "meaning",
+      "question": "『ご馳走する』ning ma'nosi qaysi?",
+      "word": "ご馳走する",
+      "choices": [
+        "hozir; keldim (uyga)",
+        "lip etib, bir zum",
+        "yetib kelmoq",
+        "mehmon qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ご馳走する → mehmon qilmoq"
+    },
+    {
+      "id": 16,
+      "questionType": "reading",
+      "question": "『感心する』ning o'qilishi qaysi?",
+      "word": "感心する",
+      "choices": [
+        "かこ",
+        "さいのう",
+        "てんけんする",
+        "かんしんする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "感心する → かんしんする"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『いまさら』qaysi yozuvga mos?",
+      "word": "いまさら",
+      "choices": [
+        "交わす",
+        "いまさら",
+        "管理する",
+        "称賛する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "いまさら → いまさら"
+    },
+    {
+      "id": 18,
+      "questionType": "kanji",
+      "question": "『もてなす』qaysi yozuvga mos?",
+      "word": "もてなす",
+      "choices": [
+        "反省する",
+        "おしゃべりする",
+        "もてなす",
+        "好景気"
+      ],
+      "correctAnswer": 2,
+      "explanation": "もてなす → もてなす"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『ちゅうしょうきぎょう』qaysi yozuvga mos?",
+      "word": "中小企業",
+      "choices": [
+        "どうせ",
+        "見習う",
+        "難民",
+        "中小企業"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちゅうしょうきぎょう → 中小企業"
+    },
+    {
+      "id": 20,
+      "questionType": "word",
+      "question": "『mustaqil bo'lmoq』ning yaponcha ifodasi qaysi?",
+      "word": "独立する",
+      "choices": [
+        "独立する",
+        "見習い",
+        "指導する",
+        "打ち明ける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "mustaqil bo'lmoq → 独立する"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『大企業』ning o'qilishi qaysi?",
+      "word": "大企業",
+      "choices": [
+        "かいじょけん",
+        "だいきぎょう",
+        "めぐまれる",
+        "しょくば"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大企業 → だいきぎょう"
+    },
+    {
+      "id": 22,
+      "questionType": "reading",
+      "question": "『響く』ning o'qilishi qaysi?",
+      "word": "響く",
+      "choices": [
+        "ただいま",
+        "ひびく",
+        "カーディガン",
+        "おかげ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "響く → ひびく"
+    },
+    {
+      "id": 23,
+      "questionType": "word",
+      "question": "『o'rta va kichik korxonalar』ning yaponcha ifodasi qaysi?",
+      "word": "中小企業",
+      "choices": [
+        "実力",
+        "見つめ合う",
+        "名案",
+        "中小企業"
+      ],
+      "correctAnswer": 3,
+      "explanation": "o'rta va kichik korxonalar → 中小企業"
+    },
+    {
+      "id": 24,
+      "questionType": "reading",
+      "question": "『蜂』ning o'qilishi qaysi?",
+      "word": "蜂",
+      "choices": [
+        "ひさしぶり",
+        "はち",
+        "あくじゅんかん",
+        "にしむき"
+      ],
+      "correctAnswer": 1,
+      "explanation": "蜂 → はち"
+    },
+    {
+      "id": 25,
+      "questionType": "sentence",
+      "question": "『独立する』ning ma'nosi qaysi?",
+      "word": "独立する",
+      "choices": [
+        "havas qiladigan, hasad qilinadigan",
+        "mustaqil bo'lmoq",
+        "bog'dorchilik",
+        "tarqalmoq, sochilib tushmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "独立する → mustaqil bo'lmoq"
+    },
+    {
+      "id": 26,
+      "questionType": "reading",
+      "question": "『中小企業』ning o'qilishi qaysi?",
+      "word": "中小企業",
+      "choices": [
+        "きたむき",
+        "しらないふり",
+        "ちゅうしょうきぎょう",
+        "きんもつ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "中小企業 → ちゅうしょうきぎょう"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『聡明な』ning o'qilishi qaysi?",
+      "word": "聡明な",
+      "choices": [
+        "ろうけん",
+        "こうせいのう",
+        "そうめいな",
+        "みならい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "聡明な → そうめいな"
+    },
+    {
+      "id": 28,
+      "questionType": "sentence",
+      "question": "『瞳がきつい』ning ma'nosi qaysi?",
+      "word": "瞳がきつい",
+      "choices": [
+        "nigohi qattiq (badjahl ko'rinish)",
+        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
+        "nojo'ya ta'sir (dorining)",
+        "ayyorlik, hiyla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "瞳がきつい → nigohi qattiq (badjahl ko'rinish)"
+    },
+    {
+      "id": 29,
+      "questionType": "reading",
+      "question": "『よこす』ning o'qilishi qaysi?",
+      "word": "よこす",
+      "choices": [
+        "よこす",
+        "アプローチする",
+        "ものおき",
+        "あくてんこう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "よこす → よこす"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『iste'dod』ning yaponcha ifodasi qaysi?",
+      "word": "才能",
+      "choices": [
+        "態度",
+        "打ち明ける",
+        "過去",
+        "才能"
+      ],
+      "correctAnswer": 3,
+      "explanation": "iste'dod → 才能"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『感心する』ning ma'nosi qaysi?",
+      "word": "感心する",
+      "choices": [
+        "hayratlanmoq, qoyil qolmoq",
+        "talabalar oshxonasi",
+        "bilim",
+        "iroda, qat'iy niyat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "感心する → hayratlanmoq, qoyil qolmoq"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『なつかしい』qaysi yozuvga mos?",
+      "word": "懐かしい",
+      "choices": [
+        "高性能",
+        "懐かしい",
+        "一目",
+        "大企業"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なつかしい → 懐かしい"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
+      "question": "『才能』ning o'qilishi qaysi?",
+      "word": "才能",
+      "choices": [
+        "コミュニケーション",
+        "めいさく",
+        "さいのう",
+        "さいかいする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "才能 → さいのう"
+    },
+    {
+      "id": 34,
+      "questionType": "word",
+      "question": "『qarsak chalmoq』ning yaponcha ifodasi qaysi?",
+      "word": "拍手する",
+      "choices": [
+        "拍手する",
+        "土砂降り",
+        "我が家",
+        "右に出る者はいない"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qarsak chalmoq → 拍手する"
+    },
+    {
+      "id": 35,
+      "questionType": "reading",
+      "question": "『独立する』ning o'qilishi qaysi?",
+      "word": "独立する",
+      "choices": [
+        "ものおき",
+        "ろうどうする",
+        "どくりつする",
+        "たきにわたる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "独立する → どくりつする"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『はち』qaysi yozuvga mos?",
+      "word": "蜂",
+      "choices": [
+        "あいつ",
+        "蜂",
+        "世代交代",
+        "秘密"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はち → 蜂"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『いまさら』ning ma'nosi qaysi?",
+      "word": "いまさら",
+      "choices": [
+        "endi (kech), shuncha vaqtdan keyin",
+        "ochofat, yeyishga o'ch",
+        "tekshirmoq, nazorat qilmoq",
+        "qo'l tutqichi, panjara"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いまさら → endi (kech), shuncha vaqtdan keyin"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『吠える』ning o'qilishi qaysi?",
+      "word": "吠える",
+      "choices": [
+        "せっとくする",
+        "こんなんな",
+        "さっする",
+        "ほえる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "吠える → ほえる"
+    },
+    {
+      "id": 39,
+      "questionType": "kanji",
+      "question": "『そうさする』qaysi yozuvga mos?",
+      "word": "操作する",
+      "choices": [
+        "初対面",
+        "候補",
+        "操作する",
+        "友人"
+      ],
+      "correctAnswer": 2,
+      "explanation": "そうさする → 操作する"
+    },
+    {
+      "id": 40,
+      "questionType": "meaning",
+      "question": "『もてなす』ning ma'nosi qaysi?",
+      "word": "もてなす",
+      "choices": [
+        "mehmon qilmoq",
+        "aloqa, munosabat",
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "kiyinish, tayyorlanish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "もてなす → mehmon qilmoq"
+    },
+    {
+      "id": 41,
+      "questionType": "kanji",
+      "question": "『どくりつする』qaysi yozuvga mos?",
+      "word": "独立する",
+      "choices": [
+        "徹夜する",
+        "独立する",
+        "怒鳴る",
+        "吠える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "どくりつする → 独立する"
+    },
+    {
+      "id": 42,
+      "questionType": "word",
+      "question": "『aqlli』ning yaponcha ifodasi qaysi?",
+      "word": "聡明な",
+      "choices": [
+        "聡明な",
+        "ガーデニング",
+        "高血圧",
+        "高〜"
+      ],
+      "correctAnswer": 0,
+      "explanation": "aqlli → 聡明な"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『もてなす』ning ma'nosi qaysi?",
+      "word": "もてなす",
+      "choices": [
+        "kardigan",
+        "mehmon qilmoq",
+        "kelib chiqishi (qayerlik)",
+        "hisobot bermoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "もてなす → mehmon qilmoq"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『ちゅうしゃする』qaysi yozuvga mos?",
+      "word": "注射する",
+      "choices": [
+        "注射する",
+        "台無し",
+        "低次元",
+        "我が家"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちゅうしゃする → 注射する"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『瞳がきつい』ning o'qilishi qaysi?",
+      "word": "瞳がきつい",
+      "choices": [
+        "ひとどおり",
+        "ひとみがきつい",
+        "ささやく",
+        "しょたいめん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "瞳がきつい → ひとみがきつい"
+    },
+    {
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『はくしゅする』qaysi yozuvga mos?",
+      "word": "拍手する",
+      "choices": [
+        "抗議する",
+        "拍手する",
+        "せい",
+        "名作"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はくしゅする → 拍手する"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『endi (kech), shuncha vaqtdan keyin』ning yaponcha ifodasi qaysi?",
+      "word": "いまさら",
+      "choices": [
+        "いまさら",
+        "議論する",
+        "伝統",
+        "到着する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "endi (kech), shuncha vaqtdan keyin → いまさら"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『たべざかり』qaysi yozuvga mos?",
+      "word": "食べ盛り",
+      "choices": [
+        "食べ盛り",
+        "一戸建て",
+        "手ぶら",
+        "利便性"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たべざかり → 食べ盛り"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『独立する』ning ma'nosi qaysi?",
+      "word": "独立する",
+      "choices": [
+        "suyagi sinmoq",
+        "mustaqil bo'lmoq",
+        "jo qilmoq, (tuyg'u, kuch) qo'shmoq",
+        "davra, ziyofat (talabalar)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "独立する → mustaqil bo'lmoq"
+    },
+    {
+      "id": 50,
+      "questionType": "sentence",
+      "question": "『操作する』ning ma'nosi qaysi?",
+      "word": "操作する",
+      "choices": [
+        "tushkunlikka tushmoq",
+        "boshqarmoq",
+        "vaqtni ko'rsatmoq",
+        "bir nafasda, bittada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "操作する → boshqarmoq"
+    },
+    {
+      "id": 51,
+      "questionType": "word",
+      "question": "『qarsak chalmoq』ning yaponcha ifodasi qaysi?",
+      "word": "拍手する",
+      "choices": [
+        "行為",
+        "名曲",
+        "久しい",
+        "拍手する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qarsak chalmoq → 拍手する"
+    },
+    {
+      "id": 52,
+      "questionType": "kanji",
+      "question": "『かんしんする』qaysi yozuvga mos?",
+      "word": "感心する",
+      "choices": [
+        "むしろ",
+        "感心する",
+        "称賛する",
+        "迷惑行為"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かんしんする → 感心する"
+    },
+    {
+      "id": 53,
+      "questionType": "sentence",
+      "question": "『あくびする』ning ma'nosi qaysi?",
+      "word": "あくびする",
+      "choices": [
+        "qulay, ayni muddao",
+        "shoh asar",
+        "esnamoq",
+        "odatiy, tabiiy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あくびする → esnamoq"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『nigohi qattiq (badjahl ko'rinish)』ning yaponcha ifodasi qaysi?",
+      "word": "瞳がきつい",
+      "choices": [
+        "あきれる",
+        "瞳がきつい",
+        "他人同士",
+        "住宅ローン"
+      ],
+      "correctAnswer": 1,
+      "explanation": "nigohi qattiq (badjahl ko'rinish) → 瞳がきつい"
+    },
+    {
+      "id": 55,
+      "questionType": "meaning",
+      "question": "『懐かしい』ning ma'nosi qaysi?",
+      "word": "懐かしい",
+      "choices": [
+        "qarz, kredit",
+        "iroda, qat'iy niyat",
+        "sog'inch uyg'otadigan, eslashga arzigulik",
+        "yordamchi it (nogironlar uchun)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "懐かしい → sog'inch uyg'otadigan, eslashga arzigulik"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『そうめいな』qaysi yozuvga mos?",
+      "word": "聡明な",
+      "choices": [
+        "自分勝手な",
+        "聡明な",
+        "一人住まい",
+        "産婦人科"
+      ],
+      "correctAnswer": 1,
+      "explanation": "そうめいな → 聡明な"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『ほえる』qaysi yozuvga mos?",
+      "word": "吠える",
+      "choices": [
+        "尽くす",
+        "恵まれる",
+        "叶う",
+        "吠える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ほえる → 吠える"
+    },
+    {
+      "id": 58,
+      "questionType": "word",
+      "question": "『yirik kompaniyalar』ning yaponcha ifodasi qaysi?",
+      "word": "大企業",
+      "choices": [
+        "うらむ",
+        "大企業",
+        "もしかすると",
+        "対策する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yirik kompaniyalar → 大企業"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『よこす』qaysi yozuvga mos?",
+      "word": "よこす",
+      "choices": [
+        "よこす",
+        "到着する",
+        "ありがたい",
+        "利便性"
+      ],
+      "correctAnswer": 0,
+      "explanation": "よこす → よこす"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『だいきぎょう』qaysi yozuvga mos?",
+      "word": "大企業",
+      "choices": [
+        "大企業",
+        "散らばる",
+        "ちらりと",
+        "罪を犯す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "だいきぎょう → 大企業"
+    },
+    {
+      "id": 61,
+      "questionType": "kanji",
+      "question": "『たべざかり』qaysi yozuvga mos?",
+      "word": "食べ盛り",
+      "choices": [
+        "食べ盛り",
+        "高〜",
+        "効く",
+        "追い出す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たべざかり → 食べ盛り"
+    },
+    {
+      "id": 62,
+      "questionType": "kanji",
+      "question": "『ちゅうしょうきぎょう』qaysi yozuvga mos?",
+      "word": "中小企業",
+      "choices": [
+        "低学年",
+        "中小企業",
+        "世代",
+        "名作"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちゅうしょうきぎょう → 中小企業"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『響く』ning o'qilishi qaysi?",
+      "word": "響く",
+      "choices": [
+        "ひびく",
+        "かんりする",
+        "マニュアル",
+        "こう〜"
+      ],
+      "correctAnswer": 0,
+      "explanation": "響く → ひびく"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『響く』ning ma'nosi qaysi?",
+      "word": "響く",
+      "choices": [
+        "gaplashmoq/muloqot qilmoq",
+        "tarqalmoq, sochilib tushmoq",
+        "aks-sado bermoq, yangramoq",
+        "uy loyihasi (necha xonali ekanligi)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "響く → aks-sado bermoq, yangramoq"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『だいきぎょう』qaysi yozuvga mos?",
+      "word": "大企業",
+      "choices": [
+        "対策する",
+        "大企業",
+        "悪習慣",
+        "口が軽い"
+      ],
+      "correctAnswer": 1,
+      "explanation": "だいきぎょう → 大企業"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『あくびする』qaysi yozuvga mos?",
+      "word": "あくびする",
+      "choices": [
+        "あくびする",
+        "招く",
+        "正直な",
+        "到着する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あくびする → あくびする"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『注射する』ning o'qilishi qaysi?",
+      "word": "注射する",
+      "choices": [
+        "ちゅうしゃする",
+        "いし",
+        "ほうこくする",
+        "せだいこうたい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "注射する → ちゅうしゃする"
+    },
+    {
+      "id": 68,
+      "questionType": "reading",
+      "question": "『よこす』ning o'qilishi qaysi?",
+      "word": "よこす",
+      "choices": [
+        "のりきる",
+        "よこす",
+        "どなる",
+        "むきあう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "よこす → よこす"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『ひびく』qaysi yozuvga mos?",
+      "word": "響く",
+      "choices": [
+        "豊富な",
+        "知識",
+        "響く",
+        "質素な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ひびく → 響く"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『なつかしい』qaysi yozuvga mos?",
+      "word": "懐かしい",
+      "choices": [
+        "とっさに",
+        "懐かしい",
+        "点検する",
+        "責める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なつかしい → 懐かしい"
+    },
+    {
+      "id": 71,
+      "questionType": "sentence",
+      "question": "『もてなす』ning ma'nosi qaysi?",
+      "word": "もてなす",
+      "choices": [
+        "yashirincha",
+        "taqiqlangan so'z",
+        "mehmon qilmoq",
+        "norozilik bildirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "もてなす → mehmon qilmoq"
+    },
+    {
+      "id": 72,
+      "questionType": "sentence",
+      "question": "『拍手する』ning ma'nosi qaysi?",
+      "word": "拍手する",
+      "choices": [
+        "maslahat bermoq, dardini eshitmoq",
+        "uyushtiruvchi, tashkilotchi",
+        "qarsak chalmoq",
+        "bilim"
+      ],
+      "correctAnswer": 2,
+      "explanation": "拍手する → qarsak chalmoq"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『拍手する』ning o'qilishi qaysi?",
+      "word": "拍手する",
+      "choices": [
+        "どくりつする",
+        "てんけんする",
+        "めいしょ",
+        "はくしゅする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "拍手する → はくしゅする"
+    },
+    {
+      "id": 74,
+      "questionType": "kanji",
+      "question": "『そうめいな』qaysi yozuvga mos?",
+      "word": "聡明な",
+      "choices": [
+        "聡明な",
+        "徹夜する",
+        "会費",
+        "悪習慣"
+      ],
+      "correctAnswer": 0,
+      "explanation": "そうめいな → 聡明な"
+    },
+    {
+      "id": 75,
+      "questionType": "sentence",
+      "question": "『食べ盛り』ning ma'nosi qaysi?",
+      "word": "食べ盛り",
+      "choices": [
+        "shahrimiz",
+        "atom elektr",
+        "esnamoq",
+        "o'sib kelayotgan bolaning katta ishtahasi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "食べ盛り → o'sib kelayotgan bolaning katta ishtahasi"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『いまさら』ning o'qilishi qaysi?",
+      "word": "いまさら",
+      "choices": [
+        "いまさら",
+        "ちんたいじゅうたく",
+        "ちらかる",
+        "ひがしむき"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いまさら → いまさら"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『どくりつする』qaysi yozuvga mos?",
+      "word": "独立する",
+      "choices": [
+        "しつける",
+        "世代交代",
+        "独立する",
+        "友達同士"
+      ],
+      "correctAnswer": 2,
+      "explanation": "どくりつする → 独立する"
+    },
+    {
+      "id": 78,
+      "questionType": "reading",
+      "question": "『懐かしい』ning o'qilishi qaysi?",
+      "word": "懐かしい",
+      "choices": [
+        "きずつける",
+        "だます",
+        "さべつする",
+        "なつかしい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "懐かしい → なつかしい"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『ごちそうする』qaysi yozuvga mos?",
+      "word": "ご馳走する",
+      "choices": [
+        "ご馳走する",
+        "梨",
+        "決心",
+        "住宅ローン"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ごちそうする → ご馳走する"
+    },
+    {
+      "id": 80,
+      "questionType": "word",
+      "question": "『o'sib kelayotgan bolaning katta ishtahasi』ning yaponcha ifodasi qaysi?",
+      "word": "食べ盛り",
+      "choices": [
+        "食べ盛り",
+        "仲間はずれ",
+        "自分勝手な",
+        "飼い主"
+      ],
+      "correctAnswer": 0,
+      "explanation": "o'sib kelayotgan bolaning katta ishtahasi → 食べ盛り"
+    },
+    {
+      "id": 81,
+      "questionType": "meaning",
+      "question": "『蜂』ning ma'nosi qaysi?",
+      "word": "蜂",
+      "choices": [
+        "og'zi bo'sh (sir saqlay olmaydigan)",
+        "ari",
+        "iqtisodiy farovonlik",
+        "tushunib rozi bo'lmoq, qanoatlanmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "蜂 → ari"
+    },
+    {
+      "id": 82,
+      "questionType": "sentence",
+      "question": "『感心する』ning ma'nosi qaysi?",
+      "word": "感心する",
+      "choices": [
+        "dastidan",
+        "hayratlanmoq, qoyil qolmoq",
+        "berilib ketgan",
+        "lip etib, bir zum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "感心する → hayratlanmoq, qoyil qolmoq"
+    },
+    {
+      "id": 83,
+      "questionType": "reading",
+      "question": "『食べ盛り』ning o'qilishi qaysi?",
+      "word": "食べ盛り",
+      "choices": [
+        "たべざかり",
+        "ごかいする",
+        "ちかう",
+        "ちんたいじゅうたく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "食べ盛り → たべざかり"
+    },
+    {
+      "id": 84,
+      "questionType": "kanji",
+      "question": "『かんしんする』qaysi yozuvga mos?",
+      "word": "感心する",
+      "choices": [
+        "操作する",
+        "他人同士",
+        "飼い主",
+        "感心する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かんしんする → 感心する"
+    },
+    {
+      "id": 85,
+      "questionType": "meaning",
+      "question": "『聡明な』ning ma'nosi qaysi?",
+      "word": "聡明な",
+      "choices": [
+        "aqlli",
+        "yerga urmoq",
+        "yetib kelmoq",
+        "gina qilmoq, kek saqlamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "聡明な → aqlli"
+    },
+    {
+      "id": 86,
+      "questionType": "kanji",
+      "question": "『さいのう』qaysi yozuvga mos?",
+      "word": "才能",
+      "choices": [
+        "つぶやく",
+        "懸念する",
+        "才能",
+        "甘やかす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "さいのう → 才能"
+    },
+    {
+      "id": 87,
+      "questionType": "kanji",
+      "question": "『はち』qaysi yozuvga mos?",
+      "word": "蜂",
+      "choices": [
+        "一家",
+        "蜂",
+        "心当たり",
+        "あきれる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はち → 蜂"
+    },
+    {
+      "id": 88,
+      "questionType": "meaning",
+      "question": "『感心する』ning ma'nosi qaysi?",
+      "word": "感心する",
+      "choices": [
+        "bir yilda ishga kirgan tengdosh, kursdosh",
+        "uy",
+        "sevgi, muhabbat",
+        "hayratlanmoq, qoyil qolmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "感心する → hayratlanmoq, qoyil qolmoq"
+    },
+    {
+      "id": 89,
+      "questionType": "meaning",
+      "question": "『吠える』ning ma'nosi qaysi?",
+      "word": "吠える",
+      "choices": [
+        "pala-partish, dag'al (ish)",
+        "mashhur asar, kitob",
+        "hurmoq (it)",
+        "portret"
+      ],
+      "correctAnswer": 2,
+      "explanation": "吠える → hurmoq (it)"
+    },
+    {
+      "id": 90,
+      "questionType": "word",
+      "question": "『mehmon qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "ご馳走する",
+      "choices": [
+        "ご馳走する",
+        "行為",
+        "老犬",
+        "難民"
+      ],
+      "correctAnswer": 0,
+      "explanation": "mehmon qilmoq → ご馳走する"
+    },
+    {
+      "id": 91,
+      "questionType": "reading",
+      "question": "『もてなす』ning o'qilishi qaysi?",
+      "word": "もてなす",
+      "choices": [
+        "つくづくと",
+        "こうじょうけん",
+        "もてなす",
+        "せけんしらず"
+      ],
+      "correctAnswer": 2,
+      "explanation": "もてなす → もてなす"
+    },
+    {
+      "id": 92,
+      "questionType": "meaning",
+      "question": "『注射する』ning ma'nosi qaysi?",
+      "word": "注射する",
+      "choices": [
+        "ukol qilmoq",
+        "buklanadigan soyabon",
+        "tengi yo'q",
+        "mo'l, serob"
+      ],
+      "correctAnswer": 0,
+      "explanation": "注射する → ukol qilmoq"
+    },
+    {
+      "id": 93,
+      "questionType": "meaning",
+      "question": "『注射する』ning ma'nosi qaysi?",
+      "word": "注射する",
+      "choices": [
+        "bahslashmoq",
+        "yolg'iz yashash",
+        "qulay, ayni muddao",
+        "ukol qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "注射する → ukol qilmoq"
+    },
+    {
+      "id": 94,
+      "questionType": "kanji",
+      "question": "『ひとみがきつい』qaysi yozuvga mos?",
+      "word": "瞳がきつい",
+      "choices": [
+        "きっぱり",
+        "納得する",
+        "どうせ",
+        "瞳がきつい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ひとみがきつい → 瞳がきつい"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『そうさする』qaysi yozuvga mos?",
+      "word": "操作する",
+      "choices": [
+        "散る",
+        "管理する",
+        "操作する",
+        "空間"
+      ],
+      "correctAnswer": 2,
+      "explanation": "そうさする → 操作する"
+    },
+    {
+      "id": 96,
+      "questionType": "sentence",
+      "question": "『ご馳走する』ning ma'nosi qaysi?",
+      "word": "ご馳走する",
+      "choices": [
+        "to'g'ridan to'g'ri",
+        "hurmat qilmoq, qadrlamoq",
+        "mehmon qilmoq",
+        "juda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ご馳走する → mehmon qilmoq"
+    },
+    {
+      "id": 97,
+      "questionType": "kanji",
+      "question": "『ほえる』qaysi yozuvga mos?",
+      "word": "吠える",
+      "choices": [
+        "魅力的な",
+        "北向き",
+        "裏切る",
+        "吠える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ほえる → 吠える"
+    },
+    {
+      "id": 98,
+      "questionType": "kanji",
+      "question": "『ひびく』qaysi yozuvga mos?",
+      "word": "響く",
+      "choices": [
+        "ペア",
+        "正午",
+        "響く",
+        "難民"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ひびく → 響く"
+    },
+    {
+      "id": 99,
+      "questionType": "meaning",
+      "question": "『あくびする』ning ma'nosi qaysi?",
+      "word": "あくびする",
+      "choices": [
+        "to'g'ridan to'g'ri",
+        "anovi",
+        "esnamoq",
+        "ortga qaramoq; 2. o'tmishni eslamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あくびする → esnamoq"
+    },
+    {
+      "id": 100,
+      "questionType": "meaning",
+      "question": "『あくびする』ning ma'nosi qaysi?",
+      "word": "あくびする",
+      "choices": [
+        "esnamoq",
+        "ijara uyi",
+        "mazax qilmoq",
+        "keskin, qat'iy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あくびする → esnamoq"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『ちゅうしゃする』qaysi yozuvga mos?",
+      "word": "注射する",
+      "choices": [
+        "愛する",
+        "注射する",
+        "仲間はずれ",
+        "時間を指す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちゅうしゃする → 注射する"
+    },
+    {
+      "id": 102,
+      "questionType": "kanji",
+      "question": "『はくしゅする』qaysi yozuvga mos?",
+      "word": "拍手する",
+      "choices": [
+        "おしゃべりする",
+        "でたらめな",
+        "同期",
+        "拍手する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "はくしゅする → 拍手する"
+    },
+    {
+      "id": 103,
+      "questionType": "reading",
+      "question": "『吠える』ning o'qilishi qaysi?",
+      "word": "吠える",
+      "choices": [
+        "ローン",
+        "ほえる",
+        "きくばりする",
+        "かぶか"
+      ],
+      "correctAnswer": 1,
+      "explanation": "吠える → ほえる"
+    },
+    {
+      "id": 104,
+      "questionType": "word",
+      "question": "『nigohi qattiq (badjahl ko'rinish)』ning yaponcha ifodasi qaysi?",
+      "word": "瞳がきつい",
+      "choices": [
+        "カーディガン",
+        "瞳がきつい",
+        "名声",
+        "害"
+      ],
+      "correctAnswer": 1,
+      "explanation": "nigohi qattiq (badjahl ko'rinish) → 瞳がきつい"
+    },
+    {
+      "id": 105,
+      "questionType": "reading",
+      "question": "『蜂』ning o'qilishi qaysi?",
+      "word": "蜂",
+      "choices": [
+        "しんらいする",
+        "おぼえ",
+        "めいわくこうい",
+        "はち"
+      ],
+      "correctAnswer": 3,
+      "explanation": "蜂 → はち"
+    },
+    {
+      "id": 106,
+      "questionType": "sentence",
+      "question": "『注射する』ning ma'nosi qaysi?",
+      "word": "注射する",
+      "choices": [
+        "bir nafasda, bittada",
+        "shahar qurilishi, shaharsozlik",
+        "ukol qilmoq",
+        "xo'jayin, egasi (hayvonning)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "注射する → ukol qilmoq"
+    },
+    {
+      "id": 107,
+      "questionType": "kanji",
+      "question": "『よこす』qaysi yozuvga mos?",
+      "word": "よこす",
+      "choices": [
+        "口げんかする",
+        "折りたたみ傘",
+        "心無い",
+        "よこす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "よこす → よこす"
+    },
+    {
+      "id": 108,
+      "questionType": "word",
+      "question": "『yubormoq, berib yubormoq』ning yaponcha ifodasi qaysi?",
+      "word": "よこす",
+      "choices": [
+        "誤解する",
+        "尊重する",
+        "抗議する",
+        "よこす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yubormoq, berib yubormoq → よこす"
+    },
+    {
+      "id": 109,
+      "questionType": "reading",
+      "question": "『聡明な』ning o'qilishi qaysi?",
+      "word": "聡明な",
+      "choices": [
+        "むちゅう",
+        "さける",
+        "そうめいな",
+        "さんふじんか"
+      ],
+      "correctAnswer": 2,
+      "explanation": "聡明な → そうめいな"
+    },
+    {
+      "id": 110,
+      "questionType": "word",
+      "question": "『boshqarmoq』ning yaponcha ifodasi qaysi?",
+      "word": "操作する",
+      "choices": [
+        "知らないふり",
+        "そらす",
+        "もしかしたら、もしかして、ひょっとすると",
+        "操作する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "boshqarmoq → 操作する"
+    },
+    {
+      "id": 111,
+      "questionType": "sentence",
+      "question": "『いまさら』ning ma'nosi qaysi?",
+      "word": "いまさら",
+      "choices": [
+        "endi (kech), shuncha vaqtdan keyin",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
+        "uy loyihasi (necha xonali ekanligi)",
+        "oxirgi avtobus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いまさら → endi (kech), shuncha vaqtdan keyin"
+    },
+    {
+      "id": 112,
+      "questionType": "word",
+      "question": "『o'sib kelayotgan bolaning katta ishtahasi』ning yaponcha ifodasi qaysi?",
+      "word": "食べ盛り",
+      "choices": [
+        "高学歴",
+        "堅苦しい",
+        "あきれる",
+        "食べ盛り"
+      ],
+      "correctAnswer": 3,
+      "explanation": "o'sib kelayotgan bolaning katta ishtahasi → 食べ盛り"
+    },
+    {
+      "id": 113,
+      "questionType": "reading",
+      "question": "『あくびする』ning o'qilishi qaysi?",
+      "word": "あくびする",
+      "choices": [
+        "てぶら",
+        "あくしゅみ",
+        "あくびする",
+        "パワハラする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あくびする → あくびする"
+    },
+    {
+      "id": 114,
+      "questionType": "meaning",
+      "question": "『大企業』ning ma'nosi qaysi?",
+      "word": "大企業",
+      "choices": [
+        "bilvosita",
+        "yirik kompaniyalar",
+        "laqab",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大企業 → yirik kompaniyalar"
+    },
+    {
+      "id": 115,
+      "questionType": "reading",
+      "question": "『操作する』ning o'qilishi qaysi?",
+      "word": "操作する",
+      "choices": [
+        "ちんたい",
+        "くやむ",
+        "はっちゃくする",
+        "そうさする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "操作する → そうさする"
+    },
+    {
+      "id": 116,
+      "questionType": "word",
+      "question": "『yubormoq, berib yubormoq』ning yaponcha ifodasi qaysi?",
+      "word": "よこす",
+      "choices": [
+        "よこす",
+        "一家団らん",
+        "態度",
+        "我が家"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yubormoq, berib yubormoq → よこす"
+    },
+    {
+      "id": 117,
+      "questionType": "word",
+      "question": "『ari』ning yaponcha ifodasi qaysi?",
+      "word": "蜂",
+      "choices": [
+        "台無し",
+        "審判",
+        "蜂",
+        "度重なる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ari → 蜂"
+    }
+  ]
+}

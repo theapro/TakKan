@@ -1,0 +1,1393 @@
+{
+  "title": "Lesson 9 Test",
+  "type": "kanji",
+  "lesson": "lesson-9",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "kanji",
+      "question": "『しゃりょう』qaysi yozuvga mos?",
+      "word": "車両",
+      "choices": [
+        "車両",
+        "家賃",
+        "軟らかいごはん",
+        "危機を脱する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しゃりょう → 車両"
+    },
+    {
+      "id": 2,
+      "questionType": "sentence",
+      "question": "『為替レート』ning ma'nosi qaysi?",
+      "word": "為替レート",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "valyuta kursi",
+        "qiyg'os gullash",
+        "chiroyli ayol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "為替レート → valyuta kursi"
+    },
+    {
+      "id": 3,
+      "questionType": "reading",
+      "question": "『払』ning o'qilishi qaysi?",
+      "word": "払",
+      "choices": [
+        "もんだいようしをくばる",
+        "やちん",
+        "ふつ",
+        "だったい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "払 → ふつ"
+    },
+    {
+      "id": 4,
+      "questionType": "sentence",
+      "question": "『電車が込む』ning ma'nosi qaysi?",
+      "word": "電車が込む",
+      "choices": [
+        "poyezd gavjum (tirband) bo'lishi",
+        "tanasi egiluvchan",
+        "kelmaslik haqidagi xabarnoma (ariza)",
+        "kundalik yozib borish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "電車が込む → poyezd gavjum (tirband) bo'lishi"
+    },
+    {
+      "id": 5,
+      "questionType": "reading",
+      "question": "『戻』ning o'qilishi qaysi?",
+      "word": "戻",
+      "choices": [
+        "れい",
+        "りえきをはいぶんする",
+        "けん",
+        "ふくをぬぐ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "戻 → れい"
+    },
+    {
+      "id": 6,
+      "questionType": "recognition",
+      "question": "『換』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "換える",
+      "choices": [
+        "預",
+        "換える",
+        "郵便局",
+        "暴力団を一掃する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "換 → 換える"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『後戻り』ning ma'nosi qaysi?",
+      "word": "後戻り",
+      "choices": [
+        "yo'lovchi chiptasi",
+        "haq, ijara",
+        "bankka pul qo'yish",
+        "orqaga qaytish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "後戻り → orqaga qaytish"
+    },
+    {
+      "id": 8,
+      "questionType": "word",
+      "question": "『ikkalasi ham』ning yaponcha ifodasi qaysi?",
+      "word": "両方",
+      "choices": [
+        "両方",
+        "引き出しの中を整理する",
+        "着物姿",
+        "濃"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ikkalasi ham → 両方"
+    },
+    {
+      "id": 9,
+      "questionType": "reading",
+      "question": "『両方』ning o'qilishi qaysi?",
+      "word": "両方",
+      "choices": [
+        "まちがえる",
+        "りょうほう",
+        "たいどがなんかする",
+        "ほう・たから"
+      ],
+      "correctAnswer": 1,
+      "explanation": "両方 → りょうほう"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『ふつ』qaysi yozuvga mos?",
+      "word": "払",
+      "choices": [
+        "賃金",
+        "払",
+        "香る",
+        "仮定する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふつ → 払"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『換える』ning o'qilishi qaysi?",
+      "word": "換える",
+      "choices": [
+        "きよい",
+        "かえる",
+        "こむ・こめる",
+        "ふくざつなけいさん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "換える → かえる"
+    },
+    {
+      "id": 12,
+      "questionType": "kanji",
+      "question": "『へんかん』qaysi yozuvga mos?",
+      "word": "変換",
+      "choices": [
+        "輸",
+        "バター溶かす",
+        "変換",
+        "汚水"
+      ],
+      "correctAnswer": 2,
+      "explanation": "へんかん → 変換"
+    },
+    {
+      "id": 13,
+      "questionType": "meaning",
+      "question": "『両替』ning ma'nosi qaysi?",
+      "word": "両替",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "tanga",
+        "qasr bunyod etish",
+        "pul almashtirish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "両替 → pul almashtirish"
+    },
+    {
+      "id": 14,
+      "questionType": "sentence",
+      "question": "『席に戻る』ning ma'nosi qaysi?",
+      "word": "席に戻る",
+      "choices": [
+        "vaqtinchalik yashash manzili",
+        "moliya instituti (tashkilot)",
+        "stulga qaytish",
+        "poyezdni to'xtashi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "席に戻る → stulga qaytish"
+    },
+    {
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『もとにもどす』qaysi yozuvga mos?",
+      "word": "元に戻す",
+      "choices": [
+        "自国領域",
+        "文明が栄える",
+        "刻",
+        "元に戻す"
+      ],
+      "correctAnswer": 3,
+      "explanation": "もとにもどす → 元に戻す"
+    },
+    {
+      "id": 16,
+      "questionType": "sentence",
+      "question": "『席を換わる』ning ma'nosi qaysi?",
+      "word": "席を換わる",
+      "choices": [
+        "joy almashmoq",
+        "tiqilinch, gavjumlik",
+        "mazhab, tariqat",
+        "turli xil mahsulotlar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "席を換わる → joy almashmoq"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『りょうて』qaysi yozuvga mos?",
+      "word": "両手",
+      "choices": [
+        "両手",
+        "私を含めて四人",
+        "停電",
+        "梅雨前線"
+      ],
+      "correctAnswer": 0,
+      "explanation": "りょうて → 両手"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『両側』ning ma'nosi qaysi?",
+      "word": "両側",
+      "choices": [
+        "ikki tomon",
+        "farq qilmoq, noto'g'ri",
+        "kedr daraxti",
+        "kasal ko'rgani borish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "両側 → ikki tomon"
+    },
+    {
+      "id": 19,
+      "questionType": "meaning",
+      "question": "『支払い』ning ma'nosi qaysi?",
+      "word": "支払い",
+      "choices": [
+        "belgi, standart",
+        "to'lov",
+        "yengiltak, mulohazasiz odam",
+        "tasdiq, guvohlik"
+      ],
+      "correctAnswer": 1,
+      "explanation": "支払い → to'lov"
+    },
+    {
+      "id": 20,
+      "questionType": "recognition",
+      "question": "『戻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "払い戻す",
+      "choices": [
+        "払い戻す",
+        "両手",
+        "問題用紙を配る",
+        "心配する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "戻 → 払い戻す"
+    },
+    {
+      "id": 21,
+      "questionType": "recognition",
+      "question": "『両』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "両手",
+      "choices": [
+        "丼",
+        "到着する",
+        "両手",
+        "針が振れる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "両 → 両手"
+    },
+    {
+      "id": 22,
+      "questionType": "sentence",
+      "question": "『両立する』ning ma'nosi qaysi?",
+      "word": "両立する",
+      "choices": [
+        "nashr qilish",
+        "ikkalasini birga olib bormoq",
+        "valyuta kursi",
+        "o'rtasida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "両立する → ikkalasini birga olib bormoq"
+    },
+    {
+      "id": 23,
+      "questionType": "reading",
+      "question": "『両側』ning o'qilishi qaysi?",
+      "word": "両側",
+      "choices": [
+        "かこ",
+        "どうろひょうしき",
+        "てをふる",
+        "りょうがわ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "両側 → りょうがわ"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『yurakdan bajarish』ning yaponcha ifodasi qaysi?",
+      "word": "心を込める",
+      "choices": [
+        "薄",
+        "賃貸マンション",
+        "心を込める",
+        "後戻り"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yurakdan bajarish → 心を込める"
+    },
+    {
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『交替する』ning ma'nosi qaysi?",
+      "word": "交替する",
+      "choices": [
+        "tartibga keltirmoq",
+        "taklif qilmoq",
+        "navbat almashinmoq",
+        "go'zallik saloni"
+      ],
+      "correctAnswer": 2,
+      "explanation": "交替する → navbat almashinmoq"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『かんきする』qaysi yozuvga mos?",
+      "word": "換気する",
+      "choices": [
+        "人生は甘くない",
+        "議会を招集する",
+        "色が薄い",
+        "換気する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かんきする → 換気する"
+    },
+    {
+      "id": 27,
+      "questionType": "sentence",
+      "question": "『荷物を詰め込む』ning ma'nosi qaysi?",
+      "word": "荷物を詰め込む",
+      "choices": [
+        "kimono kiygan qiyofa",
+        "o'jar",
+        "murakkab hisob-kitob",
+        "yuklarni zichlab tiqmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "荷物を詰め込む → yuklarni zichlab tiqmoq"
+    },
+    {
+      "id": 28,
+      "questionType": "word",
+      "question": "『poyezd gavjum (tirband) bo'lishi』ning yaponcha ifodasi qaysi?",
+      "word": "電車が込む",
+      "choices": [
+        "濃",
+        "替",
+        "議会を招集する",
+        "電車が込む"
+      ],
+      "correctAnswer": 3,
+      "explanation": "poyezd gavjum (tirband) bo'lishi → 電車が込む"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『かえる』qaysi yozuvga mos?",
+      "word": "換える",
+      "choices": [
+        "校庭",
+        "居",
+        "化粧が濃い",
+        "換える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かえる → 換える"
+    },
+    {
+      "id": 30,
+      "questionType": "kanji",
+      "question": "『れい』qaysi yozuvga mos?",
+      "word": "戻",
+      "choices": [
+        "郵便局",
+        "戻",
+        "香水",
+        "家賃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "れい → 戻"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『りょうがわ』qaysi yozuvga mos?",
+      "word": "両側",
+      "choices": [
+        "混雑",
+        "両側",
+        "宗派",
+        "貴重品を預かる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "りょうがわ → 両側"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『荷物を詰め込む』ning ma'nosi qaysi?",
+      "word": "荷物を詰め込む",
+      "choices": [
+        "yuklarni zichlab tiqmoq",
+        "ko'pchilik",
+        "o'tib ketish (to'xtamasdan)",
+        "bolani uyga eltib qo'yish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "荷物を詰め込む → yuklarni zichlab tiqmoq"
+    },
+    {
+      "id": 33,
+      "questionType": "word",
+      "question": "『to'lamoq』ning yaponcha ifodasi qaysi?",
+      "word": "払う",
+      "choices": [
+        "両替",
+        "払う",
+        "居",
+        "小麦粉と卵を混ぜる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "to'lamoq → 払う"
+    },
+    {
+      "id": 34,
+      "questionType": "reading",
+      "question": "『替』ning o'qilishi qaysi?",
+      "word": "替",
+      "choices": [
+        "かもつれっしゃ",
+        "たい",
+        "ちゅうとはんぱ",
+        "わになる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "替 → たい"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『りょうりつする』qaysi yozuvga mos?",
+      "word": "両立する",
+      "choices": [
+        "絵画展",
+        "届",
+        "複雑な計算",
+        "両立する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "りょうりつする → 両立する"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『あともどり』qaysi yozuvga mos?",
+      "word": "後戻り",
+      "choices": [
+        "人生は甘くない",
+        "契約書",
+        "後戻り",
+        "整"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あともどり → 後戻り"
+    },
+    {
+      "id": 37,
+      "questionType": "word",
+      "question": "『kayfiyatni o'zgartirish, havo almashtirish』ning yaponcha ifodasi qaysi?",
+      "word": "気分転換",
+      "choices": [
+        "居酒屋",
+        "難航する",
+        "郵便局",
+        "気分転換"
+      ],
+      "correctAnswer": 3,
+      "explanation": "kayfiyatni o'zgartirish, havo almashtirish → 気分転換"
+    },
+    {
+      "id": 38,
+      "questionType": "kanji",
+      "question": "『たい』qaysi yozuvga mos?",
+      "word": "替",
+      "choices": [
+        "券",
+        "替",
+        "溶",
+        "著者"
+      ],
+      "correctAnswer": 1,
+      "explanation": "たい → 替"
+    },
+    {
+      "id": 39,
+      "questionType": "sentence",
+      "question": "『気分転換』ning ma'nosi qaysi?",
+      "word": "気分転換",
+      "choices": [
+        "pul, tovar",
+        "rivojlanish; yoyilish",
+        "qasr",
+        "kayfiyatni o'zgartirish, havo almashtirish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "気分転換 → kayfiyatni o'zgartirish, havo almashtirish"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『両手』ning o'qilishi qaysi?",
+      "word": "両手",
+      "choices": [
+        "まく",
+        "りょうて",
+        "ファッションし",
+        "きをくばる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "両手 → りょうて"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『込』ning o'qilishi qaysi?",
+      "word": "込",
+      "choices": [
+        "だつぜい",
+        "じゅうどう",
+        "こむ・こめる",
+        "まえのくるまをおいこす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "込 → こむ・こめる"
+    },
+    {
+      "id": 42,
+      "questionType": "kanji",
+      "question": "『りょうほう』qaysi yozuvga mos?",
+      "word": "両方",
+      "choices": [
+        "両方",
+        "後戻り",
+        "快く引き受ける",
+        "準備が整う"
+      ],
+      "correctAnswer": 0,
+      "explanation": "りょうほう → 両方"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『はらいもどす』qaysi yozuvga mos?",
+      "word": "払い戻す",
+      "choices": [
+        "薄い紙",
+        "払い戻す",
+        "芝居",
+        "汚染された川"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はらいもどす → 払い戻す"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『こうたいする』qaysi yozuvga mos?",
+      "word": "交替する",
+      "choices": [
+        "杉の木",
+        "交替する",
+        "人生は甘くない",
+        "混乱"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こうたいする → 交替する"
+    },
+    {
+      "id": 45,
+      "questionType": "sentence",
+      "question": "『意見を交換する』ning ma'nosi qaysi?",
+      "word": "意見を交換する",
+      "choices": [
+        "fikr almashish",
+        "aralashmoq",
+        "sharsharada tana va qalbni poklamoq",
+        "aeroport"
+      ],
+      "correctAnswer": 0,
+      "explanation": "意見を交換する → fikr almashish"
+    },
+    {
+      "id": 46,
+      "questionType": "sentence",
+      "question": "『心を込める』ning ma'nosi qaysi?",
+      "word": "心を込める",
+      "choices": [
+        "aeroport",
+        "hid, xushbo'y",
+        "yurakdan bajarish",
+        "gavda turishi, holati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "心を込める → yurakdan bajarish"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『ikki qo'l』ning yaponcha ifodasi qaysi?",
+      "word": "両手",
+      "choices": [
+        "製",
+        "両手",
+        "保証人",
+        "渡"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ikki qo'l → 両手"
+    },
+    {
+      "id": 48,
+      "questionType": "sentence",
+      "question": "『交替する』ning ma'nosi qaysi?",
+      "word": "交替する",
+      "choices": [
+        "raqs",
+        "uy ijarasi haqi",
+        "piyoz to'g'rash",
+        "navbat almashinmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "交替する → navbat almashinmoq"
+    },
+    {
+      "id": 49,
+      "questionType": "word",
+      "question": "『o'zgartirish』ning yaponcha ifodasi qaysi?",
+      "word": "変換",
+      "choices": [
+        "勢",
+        "丼",
+        "並",
+        "変換"
+      ],
+      "correctAnswer": 3,
+      "explanation": "o'zgartirish → 変換"
+    },
+    {
+      "id": 50,
+      "questionType": "recognition",
+      "question": "『両』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "両立する",
+      "choices": [
+        "並",
+        "両立する",
+        "明るい家庭を築く",
+        "文明が栄える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "両 → 両立する"
+    },
+    {
+      "id": 51,
+      "questionType": "recognition",
+      "question": "『両』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "両側",
+      "choices": [
+        "美容室",
+        "引き出しの中を整理する",
+        "文明が栄える",
+        "両側"
+      ],
+      "correctAnswer": 3,
+      "explanation": "両 → 両側"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『車両』ning ma'nosi qaysi?",
+      "word": "車両",
+      "choices": [
+        "mustahkamlash",
+        "transport",
+        "guruch ustiga tempura qo'yib tayyorlangan taom",
+        "oddiy savol, muammo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "車両 → transport"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『かん』qaysi yozuvga mos?",
+      "word": "換",
+      "choices": [
+        "郵便局",
+        "換",
+        "お香を焚く",
+        "交通違反"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かん → 換"
+    },
+    {
+      "id": 54,
+      "questionType": "sentence",
+      "question": "『払い戻す』ning ma'nosi qaysi?",
+      "word": "払い戻す",
+      "choices": [
+        "vaqtinchalik yashash manzili",
+        "qoyilmaqom mukofot",
+        "kunlik kiyim",
+        "pulni qaytarib bermoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "払い戻す → pulni qaytarib bermoq"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『前払い』ning o'qilishi qaysi?",
+      "word": "前払い",
+      "choices": [
+        "まえばらい",
+        "しんせいひん",
+        "おくる",
+        "もる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "前払い → まえばらい"
+    },
+    {
+      "id": 56,
+      "questionType": "meaning",
+      "question": "『元に戻す』ning ma'nosi qaysi?",
+      "word": "元に戻す",
+      "choices": [
+        "kitob yozmoq, nashr etmoq",
+        "sahna asari",
+        "shaxsni tasdiqlovchi hujjat",
+        "olingan joyga qaytarib qo'yish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "元に戻す → olingan joyga qaytarib qo'yish"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『yenni dollarga almashtirish』ning yaponcha ifodasi qaysi?",
+      "word": "円をドルに替える",
+      "choices": [
+        "立ち入り禁止区域",
+        "円をドルに替える",
+        "発展途上国",
+        "柔軟"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yenni dollarga almashtirish → 円をドルに替える"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『両立する』ning ma'nosi qaysi?",
+      "word": "両立する",
+      "choices": [
+        "yupqa qog'oz",
+        "ikkalasini birga olib bormoq",
+        "har bir bekatda to'xtaydigan poyezd",
+        "muzlatkich"
+      ],
+      "correctAnswer": 1,
+      "explanation": "両立する → ikkalasini birga olib bormoq"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『両替』ning o'qilishi qaysi?",
+      "word": "両替",
+      "choices": [
+        "りょうがえ",
+        "ぜんりんとこうりん",
+        "ほんをあらわす",
+        "ゆうびんきょく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "両替 → りょうがえ"
+    },
+    {
+      "id": 60,
+      "questionType": "recognition",
+      "question": "『払』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "払う",
+      "choices": [
+        "払う",
+        "難航する",
+        "漁をする",
+        "本を郵送する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "払 → 払う"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『almashtirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "替",
+      "choices": [
+        "到着する",
+        "深刻な問題",
+        "替",
+        "杉"
+      ],
+      "correctAnswer": 2,
+      "explanation": "almashtirmoq → 替"
+    },
+    {
+      "id": 62,
+      "questionType": "sentence",
+      "question": "『元に戻す』ning ma'nosi qaysi?",
+      "word": "元に戻す",
+      "choices": [
+        "tanqid nishoniga aylanish",
+        "olingan joyga qaytarib qo'yish",
+        "yoz o'tib ketishi",
+        "yetib kelmoq, erishmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "元に戻す → olingan joyga qaytarib qo'yish"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『車両』ning o'qilishi qaysi?",
+      "word": "車両",
+      "choices": [
+        "しはらい",
+        "しゃりょう",
+        "ゆうびんきょく",
+        "くつがぬげる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "車両 → しゃりょう"
+    },
+    {
+      "id": 64,
+      "questionType": "word",
+      "question": "『havo almashtirish』ning yaponcha ifodasi qaysi?",
+      "word": "換気する",
+      "choices": [
+        "普段着",
+        "香水",
+        "換気する",
+        "針が振れる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "havo almashtirish → 換気する"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『換気する』ning ma'nosi qaysi?",
+      "word": "換気する",
+      "choices": [
+        "yoritmoq",
+        "havo almashtirish",
+        "o'rtacha/oz ham, ko'p ham bo'lmagan",
+        "rasm ko'rgazmasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "換気する → havo almashtirish"
+    },
+    {
+      "id": 66,
+      "questionType": "meaning",
+      "question": "『払』ning ma'nosi qaysi?",
+      "word": "払",
+      "choices": [
+        "ozuqa",
+        "farzand bilan siylanmoq",
+        "Yangi mahsulot",
+        "to'lamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "払 → to'lamoq"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『支払い』ning o'qilishi qaysi?",
+      "word": "支払い",
+      "choices": [
+        "いけんをこうかんする",
+        "ぎょそん",
+        "はらう",
+        "しはらい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "支払い → しはらい"
+    },
+    {
+      "id": 68,
+      "questionType": "meaning",
+      "question": "『為替レート』ning ma'nosi qaysi?",
+      "word": "為替レート",
+      "choices": [
+        "ta'mi suyulishi",
+        "qizg'in olqishlar",
+        "oldingi va orqa g'ildiraklar",
+        "valyuta kursi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "為替レート → valyuta kursi"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『払う』ning o'qilishi qaysi?",
+      "word": "払う",
+      "choices": [
+        "はらう",
+        "としこしそば",
+        "すぎのかふん",
+        "こおりがとける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "払う → はらう"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『席を換わる』ning ma'nosi qaysi?",
+      "word": "席を換わる",
+      "choices": [
+        "men bilan 4 kishi",
+        "joy almashmoq",
+        "nashr qilish",
+        "dzyudo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "席を換わる → joy almashmoq"
+    },
+    {
+      "id": 71,
+      "questionType": "word",
+      "question": "『fikr almashish』ning yaponcha ifodasi qaysi?",
+      "word": "意見を交換する",
+      "choices": [
+        "違う",
+        "心に刻む",
+        "意見を交換する",
+        "気を配る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "fikr almashish → 意見を交換する"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『qaytmoq, qaytarmoq』ning yaponcha ifodasi qaysi?",
+      "word": "戻",
+      "choices": [
+        "介護士",
+        "戻",
+        "為替レート",
+        "明るい家庭を築く"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qaytmoq, qaytarmoq → 戻"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『りょう』qaysi yozuvga mos?",
+      "word": "両",
+      "choices": [
+        "貨物列車",
+        "両",
+        "国宝",
+        "発展途上国"
+      ],
+      "correctAnswer": 1,
+      "explanation": "りょう → 両"
+    },
+    {
+      "id": 74,
+      "questionType": "kanji",
+      "question": "『まえばらい』qaysi yozuvga mos?",
+      "word": "前払い",
+      "choices": [
+        "為替レート",
+        "換気する",
+        "蔵",
+        "前払い"
+      ],
+      "correctAnswer": 3,
+      "explanation": "まえばらい → 前払い"
+    },
+    {
+      "id": 75,
+      "questionType": "reading",
+      "question": "『後戻り』ning o'qilishi qaysi?",
+      "word": "後戻り",
+      "choices": [
+        "うめ",
+        "きちょうひんをあずかる",
+        "あともどり",
+        "かえる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "後戻り → あともどり"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『換』ning o'qilishi qaysi?",
+      "word": "換",
+      "choices": [
+        "ふきゅうする",
+        "かん",
+        "ひきだしのなかをせいりする",
+        "にっしをつける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "換 → かん"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『ぜいこみ』qaysi yozuvga mos?",
+      "word": "税込み",
+      "choices": [
+        "勢いよく",
+        "口座振替",
+        "味が濃い",
+        "税込み"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ぜいこみ → 税込み"
+    },
+    {
+      "id": 78,
+      "questionType": "word",
+      "question": "『almashtirish』ning yaponcha ifodasi qaysi?",
+      "word": "換える",
+      "choices": [
+        "包帯を巻く",
+        "難航する",
+        "柔道",
+        "換える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "almashtirish → 換える"
+    },
+    {
+      "id": 79,
+      "questionType": "meaning",
+      "question": "『席に戻る』ning ma'nosi qaysi?",
+      "word": "席に戻る",
+      "choices": [
+        "bardam, tetik, g'ayrat bilan",
+        "noqonuniy",
+        "jurnal o'qimoq",
+        "stulga qaytish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "席に戻る → stulga qaytish"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『きぶんてんかん』qaysi yozuvga mos?",
+      "word": "気分転換",
+      "choices": [
+        "気分転換",
+        "冷蔵庫",
+        "バラの香り",
+        "著"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きぶんてんかん → 気分転換"
+    },
+    {
+      "id": 81,
+      "questionType": "word",
+      "question": "『pulni qaytarib bermoq』ning yaponcha ifodasi qaysi?",
+      "word": "払い戻す",
+      "choices": [
+        "問題用紙を配る",
+        "払い戻す",
+        "変換",
+        "脱退"
+      ],
+      "correctAnswer": 1,
+      "explanation": "pulni qaytarib bermoq → 払い戻す"
+    },
+    {
+      "id": 82,
+      "questionType": "kanji",
+      "question": "『しはらい』qaysi yozuvga mos?",
+      "word": "支払い",
+      "choices": [
+        "支払い",
+        "柔らかな布団",
+        "渡",
+        "航空機"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しはらい → 支払い"
+    },
+    {
+      "id": 83,
+      "questionType": "kanji",
+      "question": "『せきにもどる』qaysi yozuvga mos?",
+      "word": "席に戻る",
+      "choices": [
+        "著",
+        "席に戻る",
+        "バラの香り",
+        "賃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "せきにもどる → 席に戻る"
+    },
+    {
+      "id": 84,
+      "questionType": "word",
+      "question": "『avvaldan to'lash』ning yaponcha ifodasi qaysi?",
+      "word": "前払い",
+      "choices": [
+        "校庭",
+        "松ぼっくり",
+        "名前を汚す",
+        "前払い"
+      ],
+      "correctAnswer": 3,
+      "explanation": "avvaldan to'lash → 前払い"
+    },
+    {
+      "id": 85,
+      "questionType": "sentence",
+      "question": "『円をドルに替える』ning ma'nosi qaysi?",
+      "word": "円をドルに替える",
+      "choices": [
+        "yetib bormoq, yetkazmoq",
+        "eksport qilish",
+        "yo'l belgisi",
+        "yenni dollarga almashtirish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "円をドルに替える → yenni dollarga almashtirish"
+    },
+    {
+      "id": 86,
+      "questionType": "reading",
+      "question": "『変換』ning o'qilishi qaysi?",
+      "word": "変換",
+      "choices": [
+        "たんじゅんなもんだい",
+        "くら",
+        "しゅうかんし",
+        "へんかん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "変換 → へんかん"
+    },
+    {
+      "id": 87,
+      "questionType": "sentence",
+      "question": "『運転を替わる』ning ma'nosi qaysi?",
+      "word": "運転を替わる",
+      "choices": [
+        "rulni almashmoq",
+        "yangi yilda yeyiladigan soba",
+        "adashmoq, xato qilmoq",
+        "to'xtamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "運転を替わる → rulni almashmoq"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『りょうがえ』qaysi yozuvga mos?",
+      "word": "両替",
+      "choices": [
+        "難航する",
+        "立ち入り禁止区域",
+        "両替",
+        "杉の花粉"
+      ],
+      "correctAnswer": 2,
+      "explanation": "りょうがえ → 両替"
+    },
+    {
+      "id": 89,
+      "questionType": "reading",
+      "question": "『税込み』ning o'qilishi qaysi?",
+      "word": "税込み",
+      "choices": [
+        "にほんていえん",
+        "ぜいこみ",
+        "きたないて",
+        "ちゅうとはんぱ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "税込み → ぜいこみ"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『はらう』qaysi yozuvga mos?",
+      "word": "払う",
+      "choices": [
+        "薄",
+        "払う",
+        "過半数",
+        "進展する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はらう → 払う"
+    },
+    {
+      "id": 91,
+      "questionType": "recognition",
+      "question": "『戻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "後戻り",
+      "choices": [
+        "本を郵送する",
+        "贈",
+        "後戻り",
+        "部屋を汚す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "戻 → 後戻り"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『こむ・こめる』qaysi yozuvga mos?",
+      "word": "込",
+      "choices": [
+        "込",
+        "人生は甘くない",
+        "支払い",
+        "大勢の人"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こむ・こめる → 込"
+    },
+    {
+      "id": 93,
+      "questionType": "word",
+      "question": "『ikkala』ning yaponcha ifodasi qaysi?",
+      "word": "両",
+      "choices": [
+        "盛大な",
+        "照明",
+        "間違える",
+        "両"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ikkala → 両"
+    },
+    {
+      "id": 94,
+      "questionType": "recognition",
+      "question": "『換』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "変換",
+      "choices": [
+        "甘いミカン",
+        "方針を固める",
+        "城下町",
+        "変換"
+      ],
+      "correctAnswer": 3,
+      "explanation": "換 → 変換"
+    },
+    {
+      "id": 95,
+      "questionType": "meaning",
+      "question": "『込』ning ma'nosi qaysi?",
+      "word": "込",
+      "choices": [
+        "yo'l haqi",
+        "o'tmoq, xato qilmoq",
+        "guruch ustiga tempura qo'yib tayyorlangan taom",
+        "to'ldirmoq, tiqmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "込 → to'ldirmoq, tiqmoq"
+    },
+    {
+      "id": 96,
+      "questionType": "reading",
+      "question": "『両』ning o'qilishi qaysi?",
+      "word": "両",
+      "choices": [
+        "ちがう",
+        "りょう",
+        "こころにきざむ",
+        "けっせきとどけ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "両 → りょう"
+    },
+    {
+      "id": 97,
+      "questionType": "word",
+      "question": "『almashtirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "換",
+      "choices": [
+        "自国領域",
+        "ファッション誌",
+        "普",
+        "換"
+      ],
+      "correctAnswer": 3,
+      "explanation": "almashtirmoq → 換"
+    },
+    {
+      "id": 98,
+      "questionType": "meaning",
+      "question": "『税込み』ning ma'nosi qaysi?",
+      "word": "税込み",
+      "choices": [
+        "elektr ta'minotidan uzilish",
+        "turli xil mahsulotlar",
+        "soliq ichida",
+        "yashash xonasi (zal)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "税込み → soliq ichida"
+    },
+    {
+      "id": 99,
+      "questionType": "word",
+      "question": "『rulni almashmoq』ning yaponcha ifodasi qaysi?",
+      "word": "運転を替わる",
+      "choices": [
+        "恋人に振られる",
+        "運転を替わる",
+        "普",
+        "清い心"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rulni almashmoq → 運転を替わる"
+    }
+  ]
+}

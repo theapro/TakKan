@@ -1,0 +1,1155 @@
+{
+  "title": "Lesson 8 Test",
+  "type": "kanji",
+  "lesson": "lesson-8",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "reading",
+      "question": "『漁村』ning o'qilishi qaysi?",
+      "word": "漁村",
+      "choices": [
+        "すぎのき",
+        "ぎょそん",
+        "めぐまれたせいかつ",
+        "にわ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁村 → ぎょそん"
+    },
+    {
+      "id": 2,
+      "questionType": "recognition",
+      "question": "『製』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "イタリア製の靴",
+      "choices": [
+        "小麦粉と卵を混ぜる",
+        "駐",
+        "記帳する",
+        "イタリア製の靴"
+      ],
+      "correctAnswer": 3,
+      "explanation": "製 → イタリア製の靴"
+    },
+    {
+      "id": 3,
+      "questionType": "sentence",
+      "question": "『本を郵送する』ning ma'nosi qaysi?",
+      "word": "本を郵送する",
+      "choices": [
+        "ziravorlar",
+        "qattiq jism",
+        "kedr",
+        "kitobni pochta orqali yuborish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "本を郵送する → kitobni pochta orqali yuborish"
+    },
+    {
+      "id": 4,
+      "questionType": "meaning",
+      "question": "『新製品』ning ma'nosi qaysi?",
+      "word": "新製品",
+      "choices": [
+        "men bilan 4 kishi",
+        "yoqimli javob",
+        "Yangi mahsulot",
+        "teatr tomoshasi, spektakl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "新製品 → Yangi mahsulot"
+    },
+    {
+      "id": 5,
+      "questionType": "reading",
+      "question": "『輸』ning o'qilishi qaysi?",
+      "word": "輸",
+      "choices": [
+        "じゅうどう",
+        "おんけいをうける",
+        "りだつ",
+        "ゆ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輸 → ゆ"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『しんせいひん』qaysi yozuvga mos?",
+      "word": "新製品",
+      "choices": [
+        "新製品",
+        "賃貸マンション",
+        "過ちを犯す",
+        "絵画展"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しんせいひん → 新製品"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『映画を製作する』ning ma'nosi qaysi?",
+      "word": "映画を製作する",
+      "choices": [
+        "yoritmoq",
+        "film yaratish",
+        "soliq ichida",
+        "o'tmoq, bermoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "映画を製作する → film yaratish"
+    },
+    {
+      "id": 8,
+      "questionType": "recognition",
+      "question": "『郵』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "郵便が届く",
+      "choices": [
+        "色が薄い",
+        "清い心",
+        "郵便が届く",
+        "どうぞお掛けください"
+      ],
+      "correctAnswer": 2,
+      "explanation": "郵 → 郵便が届く"
+    },
+    {
+      "id": 9,
+      "questionType": "recognition",
+      "question": "『航』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "難航する",
+      "choices": [
+        "恵",
+        "米の中に麦が混じっている",
+        "単純な問題",
+        "難航する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "航 → 難航する"
+    },
+    {
+      "id": 10,
+      "questionType": "meaning",
+      "question": "『本を郵送する』ning ma'nosi qaysi?",
+      "word": "本を郵送する",
+      "choices": [
+        "tasdiq, guvohlik",
+        "kitobni pochta orqali yuborish",
+        "yashash xonasi (zal)",
+        "yupqa, suyuq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "本を郵送する → kitobni pochta orqali yuborish"
+    },
+    {
+      "id": 11,
+      "questionType": "sentence",
+      "question": "『イタリア製の靴』ning ma'nosi qaysi?",
+      "word": "イタリア製の靴",
+      "choices": [
+        "bo'yoqni eritish",
+        "o'ramoq",
+        "qimmatbaho narsani omonatga olish",
+        "italiyada tayyorlangan tufli"
+      ],
+      "correctAnswer": 3,
+      "explanation": "イタリア製の靴 → italiyada tayyorlangan tufli"
+    },
+    {
+      "id": 12,
+      "questionType": "recognition",
+      "question": "『輸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "輸入する",
+      "choices": [
+        "両方",
+        "純",
+        "冷蔵庫",
+        "輸入する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輸 → 輸入する"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『ゆそうする』qaysi yozuvga mos?",
+      "word": "輸送する",
+      "choices": [
+        "駅の改札口",
+        "漁をする",
+        "融",
+        "輸送する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ゆそうする → 輸送する"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『航』ning o'qilishi qaysi?",
+      "word": "航",
+      "choices": [
+        "こう",
+        "りょうをする",
+        "つゆ",
+        "ざんだかしょうかい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "航 → こう"
+    },
+    {
+      "id": 15,
+      "questionType": "word",
+      "question": "『eksport qilish』ning yaponcha ifodasi qaysi?",
+      "word": "輸出する",
+      "choices": [
+        "著名人",
+        "駐",
+        "音符",
+        "輸出する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "eksport qilish → 輸出する"
+    },
+    {
+      "id": 16,
+      "questionType": "sentence",
+      "question": "『製造年月日』ning ma'nosi qaysi?",
+      "word": "製造年月日",
+      "choices": [
+        "suzish, uchish (transport)",
+        "bo'yinbog' (hayvon uchun)",
+        "butunlay tugatish, tozalash",
+        "tayyorlangan kun, oy, yil"
+      ],
+      "correctAnswer": 3,
+      "explanation": "製造年月日 → tayyorlangan kun, oy, yil"
+    },
+    {
+      "id": 17,
+      "questionType": "reading",
+      "question": "『融』ning o'qilishi qaysi?",
+      "word": "融",
+      "choices": [
+        "おう・さくら",
+        "やわらかいごはん",
+        "ゆう",
+        "てい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "融 → ゆう"
+    },
+    {
+      "id": 18,
+      "questionType": "recognition",
+      "question": "『輸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "輸出する",
+      "choices": [
+        "日本庭園",
+        "杉",
+        "到",
+        "輸出する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輸 → 輸出する"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『ぎょこう』qaysi yozuvga mos?",
+      "word": "漁港",
+      "choices": [
+        "漁港",
+        "靴が脱げる",
+        "軟らかく煮る",
+        "雑談"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぎょこう → 漁港"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『ぎょそん』qaysi yozuvga mos?",
+      "word": "漁村",
+      "choices": [
+        "漁村",
+        "芳香剤",
+        "薄",
+        "混"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぎょそん → 漁村"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『郵便局』ning o'qilishi qaysi?",
+      "word": "郵便局",
+      "choices": [
+        "しょうたいする",
+        "ちょめいじん",
+        "まざる",
+        "ゆうびんきょく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "郵便局 → ゆうびんきょく"
+    },
+    {
+      "id": 22,
+      "questionType": "word",
+      "question": "『pochta yetib kelishi』ning yaponcha ifodasi qaysi?",
+      "word": "郵便が届く",
+      "choices": [
+        "深刻な問題",
+        "予約が殺到する",
+        "宗教を信仰する",
+        "郵便が届く"
+      ],
+      "correctAnswer": 3,
+      "explanation": "pochta yetib kelishi → 郵便が届く"
+    },
+    {
+      "id": 23,
+      "questionType": "meaning",
+      "question": "『漁村』ning ma'nosi qaysi?",
+      "word": "漁村",
+      "choices": [
+        "havo almashtirish",
+        "avvaldan to'lash",
+        "vaqtinchalik yashash manzili",
+        "baliqchilik qishlog'i"
+      ],
+      "correctAnswer": 3,
+      "explanation": "漁村 → baliqchilik qishlog'i"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『baliqchilik』ning yaponcha ifodasi qaysi?",
+      "word": "漁",
+      "choices": [
+        "漁",
+        "前払い",
+        "栄",
+        "宝石"
+      ],
+      "correctAnswer": 0,
+      "explanation": "baliqchilik → 漁"
+    },
+    {
+      "id": 25,
+      "questionType": "sentence",
+      "question": "『金融機関』ning ma'nosi qaysi?",
+      "word": "金融機関",
+      "choices": [
+        "qizg'in olqishlar",
+        "italiyada tayyorlangan tufli",
+        "moliya instituti (tashkilot)",
+        "jamoani ruhiyati bor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "金融機関 → moliya instituti (tashkilot)"
+    },
+    {
+      "id": 26,
+      "questionType": "sentence",
+      "question": "『郵便が届く』ning ma'nosi qaysi?",
+      "word": "郵便が届く",
+      "choices": [
+        "kiyimni yechmoq",
+        "pochta yetib kelishi",
+        "nashr qilish",
+        "tebranish, chayqalish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "郵便が届く → pochta yetib kelishi"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『ゆう』qaysi yozuvga mos?",
+      "word": "郵",
+      "choices": [
+        "郵",
+        "柔和な性格",
+        "風に舞う",
+        "みそ汁"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ゆう → 郵"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『こう』qaysi yozuvga mos?",
+      "word": "航",
+      "choices": [
+        "快い返事",
+        "航",
+        "融",
+        "円をドルに替える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こう → 航"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『baliqchilik porti』ning yaponcha ifodasi qaysi?",
+      "word": "漁港",
+      "choices": [
+        "どうぞお掛けください",
+        "冷蔵庫",
+        "宝",
+        "漁港"
+      ],
+      "correctAnswer": 3,
+      "explanation": "baliqchilik porti → 漁港"
+    },
+    {
+      "id": 30,
+      "questionType": "meaning",
+      "question": "『漁業を営む』ning ma'nosi qaysi?",
+      "word": "漁業を営む",
+      "choices": [
+        "narsani berish",
+        "baliqchilik biznesini boshlash",
+        "yumshoq qilib qaynatib pishirish",
+        "oddiy savol, muammo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁業を営む → baliqchilik biznesini boshlash"
+    },
+    {
+      "id": 31,
+      "questionType": "reading",
+      "question": "『航空機』ning o'qilishi qaysi?",
+      "word": "航空機",
+      "choices": [
+        "いたみがうすらぐ",
+        "さくらぜんせん",
+        "ぎんこうのつうちょう",
+        "こうくうき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "航空機 → こうくうき"
+    },
+    {
+      "id": 32,
+      "questionType": "sentence",
+      "question": "『難航する』ning ma'nosi qaysi?",
+      "word": "難航する",
+      "choices": [
+        "to'xtab turmoq, joylashmoq",
+        "qiyin kechmoq (ish, muzokara)",
+        "aeroport",
+        "maqsadni aniq qilib olish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "難航する → qiyin kechmoq (ish, muzokara)"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『ゆにゅうする』qaysi yozuvga mos?",
+      "word": "輸入する",
+      "choices": [
+        "掃除する",
+        "輸入する",
+        "溶岩",
+        "栄養"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ゆにゅうする → 輸入する"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『ゆ』qaysi yozuvga mos?",
+      "word": "輸",
+      "choices": [
+        "楽しい時を過ごす",
+        "丼",
+        "支払い",
+        "輸"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ゆ → 輸"
+    },
+    {
+      "id": 35,
+      "questionType": "reading",
+      "question": "『製』ning o'qilishi qaysi?",
+      "word": "製",
+      "choices": [
+        "かえる",
+        "ゆけつようのけつえき",
+        "じゅうきょ",
+        "せい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "製 → せい"
+    },
+    {
+      "id": 36,
+      "questionType": "word",
+      "question": "『samolyot』ning yaponcha ifodasi qaysi?",
+      "word": "航空機",
+      "choices": [
+        "離脱",
+        "郵",
+        "裁判所で証言する",
+        "航空機"
+      ],
+      "correctAnswer": 3,
+      "explanation": "samolyot → 航空機"
+    },
+    {
+      "id": 37,
+      "questionType": "reading",
+      "question": "『漁港』ning o'qilishi qaysi?",
+      "word": "漁港",
+      "choices": [
+        "おみやげをとどける",
+        "ぎょこう",
+        "ちゅうざい",
+        "よ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁港 → ぎょこう"
+    },
+    {
+      "id": 38,
+      "questionType": "kanji",
+      "question": "『りょうをする』qaysi yozuvga mos?",
+      "word": "漁をする",
+      "choices": [
+        "航空機",
+        "漁をする",
+        "普通預金",
+        "貴重品を預かる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "りょうをする → 漁をする"
+    },
+    {
+      "id": 39,
+      "questionType": "kanji",
+      "question": "『きんゆうきかん』qaysi yozuvga mos?",
+      "word": "金融機関",
+      "choices": [
+        "金融機関",
+        "心臓が停止する",
+        "招待状",
+        "脱"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きんゆうきかん → 金融機関"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『漁』ning o'qilishi qaysi?",
+      "word": "漁",
+      "choices": [
+        "ぎょ・りょう",
+        "ふ",
+        "けいやくしょ",
+        "ちょうかん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "漁 → ぎょ・りょう"
+    },
+    {
+      "id": 41,
+      "questionType": "meaning",
+      "question": "『製』ning ma'nosi qaysi?",
+      "word": "製",
+      "choices": [
+        "oldinda qiyinchiliklar ko'p",
+        "baliq ovlamoq",
+        "oqqa ko'chirish",
+        "tayyorlash, ishlab chiqarish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "製 → tayyorlash, ishlab chiqarish"
+    },
+    {
+      "id": 42,
+      "questionType": "reading",
+      "question": "『新製品』ning o'qilishi qaysi?",
+      "word": "新製品",
+      "choices": [
+        "あらわす",
+        "しんせいひん",
+        "しん",
+        "ゆ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "新製品 → しんせいひん"
+    },
+    {
+      "id": 43,
+      "questionType": "word",
+      "question": "『erish, moliya』ning yaponcha ifodasi qaysi?",
+      "word": "融",
+      "choices": [
+        "融",
+        "香",
+        "国境を越える",
+        "固"
+      ],
+      "correctAnswer": 0,
+      "explanation": "erish, moliya → 融"
+    },
+    {
+      "id": 44,
+      "questionType": "sentence",
+      "question": "『漁をする』ning ma'nosi qaysi?",
+      "word": "漁をする",
+      "choices": [
+        "yoritmoq, nur sochmoq",
+        "tortmoq, solmoq (idishga)",
+        "baliq ovlamoq",
+        "tayyorlash, ishlab chiqarish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "漁をする → baliq ovlamoq"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『郵』ning o'qilishi qaysi?",
+      "word": "郵",
+      "choices": [
+        "すがた",
+        "げき",
+        "たからくじ",
+        "ゆう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "郵 → ゆう"
+    },
+    {
+      "id": 46,
+      "questionType": "sentence",
+      "question": "『輸入する』ning ma'nosi qaysi?",
+      "word": "輸入する",
+      "choices": [
+        "o'tmishdagi shon-sharaf",
+        "poyezd gavjum (tirband) bo'lishi",
+        "tebranish, chayqalish",
+        "import qilish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輸入する → import qilish"
+    },
+    {
+      "id": 47,
+      "questionType": "meaning",
+      "question": "『輸送する』ning ma'nosi qaysi?",
+      "word": "輸送する",
+      "choices": [
+        "qimmatbaho narsani omonatga olish",
+        "yuborish, jo'natish",
+        "tizilmoq, oddiy/o'rtacha",
+        "aeroport"
+      ],
+      "correctAnswer": 1,
+      "explanation": "輸送する → yuborish, jo'natish"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『なんこうする』qaysi yozuvga mos?",
+      "word": "難航する",
+      "choices": [
+        "難航する",
+        "城を築く",
+        "前払い",
+        "駅の改札口"
+      ],
+      "correctAnswer": 0,
+      "explanation": "なんこうする → 難航する"
+    },
+    {
+      "id": 49,
+      "questionType": "kanji",
+      "question": "『ぎょ・りょう』qaysi yozuvga mos?",
+      "word": "漁",
+      "choices": [
+        "味が濃い",
+        "漁",
+        "両",
+        "刊"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ぎょ・りょう → 漁"
+    },
+    {
+      "id": 50,
+      "questionType": "recognition",
+      "question": "『製』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "新製品",
+      "choices": [
+        "美と健康を保つ",
+        "心臓が停止する",
+        "〜を契機に",
+        "新製品"
+      ],
+      "correctAnswer": 3,
+      "explanation": "製 → 新製品"
+    },
+    {
+      "id": 51,
+      "questionType": "word",
+      "question": "『tashish, jo'natish』ning yaponcha ifodasi qaysi?",
+      "word": "輸",
+      "choices": [
+        "輸",
+        "舞",
+        "整理整頓",
+        "契約をする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tashish, jo'natish → 輸"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『italiyada tayyorlangan tufli』ning yaponcha ifodasi qaysi?",
+      "word": "イタリア製の靴",
+      "choices": [
+        "過ちを犯す",
+        "混",
+        "整える",
+        "イタリア製の靴"
+      ],
+      "correctAnswer": 3,
+      "explanation": "italiyada tayyorlangan tufli → イタリア製の靴"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『こうくうびん』qaysi yozuvga mos?",
+      "word": "航空便",
+      "choices": [
+        "芳香剤",
+        "勢",
+        "両側",
+        "航空便"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こうくうびん → 航空便"
+    },
+    {
+      "id": 54,
+      "questionType": "meaning",
+      "question": "『郵便局』ning ma'nosi qaysi?",
+      "word": "郵便局",
+      "choices": [
+        "mustahkamlash",
+        "jurnal o'qimoq",
+        "milliy boylik",
+        "pochtaxona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "郵便局 → pochtaxona"
+    },
+    {
+      "id": 55,
+      "questionType": "recognition",
+      "question": "『航』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "航空便",
+      "choices": [
+        "居酒屋",
+        "手帳",
+        "航空便",
+        "席を換わる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "航 → 航空便"
+    },
+    {
+      "id": 56,
+      "questionType": "sentence",
+      "question": "『輸送する』ning ma'nosi qaysi?",
+      "word": "輸送する",
+      "choices": [
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "qasr shahar",
+        "mashhur inson",
+        "yuborish, jo'natish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "輸送する → yuborish, jo'natish"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『ゆう』qaysi yozuvga mos?",
+      "word": "融",
+      "choices": [
+        "雑談",
+        "姿勢",
+        "融",
+        "貨物列車"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ゆう → 融"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『航空便』ning ma'nosi qaysi?",
+      "word": "航空便",
+      "choices": [
+        "navbat almashinmoq",
+        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq",
+        "ikki qo'l",
+        "havo pochtasi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "航空便 → havo pochtasi"
+    },
+    {
+      "id": 59,
+      "questionType": "sentence",
+      "question": "『輸血用の血液』ning ma'nosi qaysi?",
+      "word": "輸血用の血液",
+      "choices": [
+        "uzuk",
+        "ish turg'unlashishi, sekinlashishi",
+        "qon quyishda foydalaniladigan qon",
+        "salobatli, viqorli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "輸血用の血液 → qon quyishda foydalaniladigan qon"
+    },
+    {
+      "id": 60,
+      "questionType": "sentence",
+      "question": "『漁業を営む』ning ma'nosi qaysi?",
+      "word": "漁業を営む",
+      "choices": [
+        "marhamat o'tiring",
+        "baliqchilik biznesini boshlash",
+        "bardam, tetik, g'ayrat bilan",
+        "sahna asari"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁業を営む → baliqchilik biznesini boshlash"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『航』ning ma'nosi qaysi?",
+      "word": "航",
+      "choices": [
+        "poyezd chiptasi",
+        "suzish, uchish (transport)",
+        "taltaytirmoq",
+        "hovli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "航 → suzish, uchish (transport)"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『漁をする』ning ma'nosi qaysi?",
+      "word": "漁をする",
+      "choices": [
+        "mashina qo'yish taqiqlangan joy",
+        "baliq ovlamoq",
+        "sevgan inson tomonidan tashlab ketilish",
+        "taklifnoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁をする → baliq ovlamoq"
+    },
+    {
+      "id": 63,
+      "questionType": "recognition",
+      "question": "『漁』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "漁業を営む",
+      "choices": [
+        "混乱",
+        "漁業を営む",
+        "牛乳にカルシウムが含まれている",
+        "替"
+      ],
+      "correctAnswer": 1,
+      "explanation": "漁 → 漁業を営む"
+    },
+    {
+      "id": 64,
+      "questionType": "word",
+      "question": "『tayyorlangan kun, oy, yil』ning yaponcha ifodasi qaysi?",
+      "word": "製造年月日",
+      "choices": [
+        "製造年月日",
+        "玄関の表札",
+        "夏が過ぎる",
+        "輸"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tayyorlangan kun, oy, yil → 製造年月日"
+    },
+    {
+      "id": 65,
+      "questionType": "recognition",
+      "question": "『輸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "輸血用の血液",
+      "choices": [
+        "輸血用の血液",
+        "勢",
+        "庭",
+        "新聞配達"
+      ],
+      "correctAnswer": 0,
+      "explanation": "輸 → 輸血用の血液"
+    },
+    {
+      "id": 66,
+      "questionType": "meaning",
+      "question": "『輸入する』ning ma'nosi qaysi?",
+      "word": "輸入する",
+      "choices": [
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "import qilish",
+        "oddiy savol, muammo",
+        "havo pochtasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "輸入する → import qilish"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『航空便』ning o'qilishi qaysi?",
+      "word": "航空便",
+      "choices": [
+        "こうくうびん",
+        "たからくじ",
+        "りょうて",
+        "こくほう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "航空便 → こうくうびん"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『ゆしゅつする』qaysi yozuvga mos?",
+      "word": "輸出する",
+      "choices": [
+        "純粋な心",
+        "途方にくれる",
+        "荷物を詰め込む",
+        "輸出する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ゆしゅつする → 輸出する"
+    },
+    {
+      "id": 69,
+      "questionType": "sentence",
+      "question": "『融通がきかない人』ning ma'nosi qaysi?",
+      "word": "融通がきかない人",
+      "choices": [
+        "to'xtab turmoq, joylashmoq",
+        "dzyudo",
+        "moslashuvchan emas, gap uqmaydigan odam",
+        "belgi, banknota"
+      ],
+      "correctAnswer": 2,
+      "explanation": "融通がきかない人 → moslashuvchan emas, gap uqmaydigan odam"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『金融機関』ning ma'nosi qaysi?",
+      "word": "金融機関",
+      "choices": [
+        "moliya instituti (tashkilot)",
+        "raqs",
+        "lotereya",
+        "yumshoq, og'izda erib ketadigan ovqat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "金融機関 → moliya instituti (tashkilot)"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『せい』qaysi yozuvga mos?",
+      "word": "製",
+      "choices": [
+        "銀行の通帳",
+        "整",
+        "製",
+        "のり巻き"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せい → 製"
+    },
+    {
+      "id": 72,
+      "questionType": "sentence",
+      "question": "『映画を製作する』ning ma'nosi qaysi?",
+      "word": "映画を製作する",
+      "choices": [
+        "uy ijarasi haqi",
+        "marhamat, in'om",
+        "film yaratish",
+        "yangi yilda yeyiladigan soba"
+      ],
+      "correctAnswer": 2,
+      "explanation": "映画を製作する → film yaratish"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『ゆうびんきょく』qaysi yozuvga mos?",
+      "word": "郵便局",
+      "choices": [
+        "濃",
+        "届",
+        "郵便局",
+        "玄関の表札"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ゆうびんきょく → 郵便局"
+    },
+    {
+      "id": 74,
+      "questionType": "meaning",
+      "question": "『輸血用の血液』ning ma'nosi qaysi?",
+      "word": "輸血用の血液",
+      "choices": [
+        "qon quyishda foydalaniladigan qon",
+        "foyda olish",
+        "bint o'ramoq",
+        "suv bilan ta'mni me'yorlashtirish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "輸血用の血液 → qon quyishda foydalaniladigan qon"
+    },
+    {
+      "id": 75,
+      "questionType": "meaning",
+      "question": "『難航する』ning ma'nosi qaysi?",
+      "word": "難航する",
+      "choices": [
+        "egiluvchan, moslashuvchan",
+        "o'tib ketish (to'xtamasdan)",
+        "qiyin kechmoq (ish, muzokara)",
+        "saqlamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "難航する → qiyin kechmoq (ish, muzokara)"
+    },
+    {
+      "id": 76,
+      "questionType": "meaning",
+      "question": "『木製の家具』ning ma'nosi qaysi?",
+      "word": "木製の家具",
+      "choices": [
+        "bazmga taklif etish",
+        "kitob yozmoq, nashr etmoq",
+        "kunlik kiyim",
+        "yog'ochdan tayyorlangan uy jihozi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "木製の家具 → yog'ochdan tayyorlangan uy jihozi"
+    },
+    {
+      "id": 77,
+      "questionType": "sentence",
+      "question": "『木製の家具』ning ma'nosi qaysi?",
+      "word": "木製の家具",
+      "choices": [
+        "maroqli vaqt o'tkazish",
+        "qimmatbaho buyum",
+        "baliqchilik",
+        "yog'ochdan tayyorlangan uy jihozi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "木製の家具 → yog'ochdan tayyorlangan uy jihozi"
+    },
+    {
+      "id": 78,
+      "questionType": "sentence",
+      "question": "『輸出する』ning ma'nosi qaysi?",
+      "word": "輸出する",
+      "choices": [
+        "go'zal, chiroyli",
+        "eksport qilish",
+        "sakura (gilos guli)",
+        "osilib turmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "輸出する → eksport qilish"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『こうくうき』qaysi yozuvga mos?",
+      "word": "航空機",
+      "choices": [
+        "仮定する",
+        "航空機",
+        "停学",
+        "通貨"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こうくうき → 航空機"
+    },
+    {
+      "id": 80,
+      "questionType": "recognition",
+      "question": "『郵』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "郵便局",
+      "choices": [
+        "郵便局",
+        "停学",
+        "契約書",
+        "物を渡す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "郵 → 郵便局"
+    },
+    {
+      "id": 81,
+      "questionType": "meaning",
+      "question": "『融通がきかない人』ning ma'nosi qaysi?",
+      "word": "融通がきかない人",
+      "choices": [
+        "moslashuvchan emas, gap uqmaydigan odam",
+        "yumshoq, egiluvchan",
+        "turli maqsadda ishlatsa bo'ladigan",
+        "mustahkamlash"
+      ],
+      "correctAnswer": 0,
+      "explanation": "融通がきかない人 → moslashuvchan emas, gap uqmaydigan odam"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『郵』ning ma'nosi qaysi?",
+      "word": "郵",
+      "choices": [
+        "kechki gazeta",
+        "almashtirish",
+        "pochta",
+        "kirish chiptasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "郵 → pochta"
+    }
+  ]
+}

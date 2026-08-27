@@ -1,0 +1,1421 @@
+{
+  "title": "Lesson 13 Test",
+  "type": "kanji",
+  "lesson": "lesson-13",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "recognition",
+      "question": "『甘』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "甘い生活",
+      "choices": [
+        "甘い生活",
+        "身分証明書",
+        "通過",
+        "著"
+      ],
+      "correctAnswer": 0,
+      "explanation": "甘 → 甘い生活"
+    },
+    {
+      "id": 2,
+      "questionType": "kanji",
+      "question": "『かん』qaysi yozuvga mos?",
+      "word": "甘",
+      "choices": [
+        "雑",
+        "甘",
+        "美容室",
+        "濃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かん → 甘"
+    },
+    {
+      "id": 3,
+      "questionType": "recognition",
+      "question": "『濃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "味が濃い",
+      "choices": [
+        "気分転換",
+        "味が濃い",
+        "掃除する",
+        "輪になる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "濃 → 味が濃い"
+    },
+    {
+      "id": 4,
+      "questionType": "word",
+      "question": "『yoqimli javob』ning yaponcha ifodasi qaysi?",
+      "word": "快い返事",
+      "choices": [
+        "宝",
+        "雑",
+        "快い返事",
+        "指輪"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yoqimli javob → 快い返事"
+    },
+    {
+      "id": 5,
+      "questionType": "kanji",
+      "question": "『かいきいわい』qaysi yozuvga mos?",
+      "word": "快気祝い",
+      "choices": [
+        "快気祝い",
+        "招待する",
+        "漁港",
+        "立ち入り禁止区域"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かいきいわい → 快気祝い"
+    },
+    {
+      "id": 6,
+      "questionType": "sentence",
+      "question": "『快気祝い』ning ma'nosi qaysi?",
+      "word": "快気祝い",
+      "choices": [
+        "un bilan tuxumni aralashtirmoq",
+        "avvaldan to'lash",
+        "kasallikdan tuzalganlikni nishonlash",
+        "xavfdan qutulish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "快気祝い → kasallikdan tuzalganlikni nishonlash"
+    },
+    {
+      "id": 7,
+      "questionType": "sentence",
+      "question": "『純情な人』ning ma'nosi qaysi?",
+      "word": "純情な人",
+      "choices": [
+        "kayfiyatni o'zgartirish, havo almashtirish",
+        "sodda, beg'ubor odam",
+        "muzlatkich",
+        "joy almashmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "純情な人 → sodda, beg'ubor odam"
+    },
+    {
+      "id": 8,
+      "questionType": "kanji",
+      "question": "『うすいかみ』qaysi yozuvga mos?",
+      "word": "薄い紙",
+      "choices": [
+        "杉",
+        "天丼",
+        "薄い紙",
+        "欠席届"
+      ],
+      "correctAnswer": 2,
+      "explanation": "うすいかみ → 薄い紙"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
+      "question": "『甘い生活』ning ma'nosi qaysi?",
+      "word": "甘い生活",
+      "choices": [
+        "tashish, jo'natish",
+        "shirin hayot",
+        "go'zallik va salomatlikni saqlash",
+        "yetib kelmoq, erishmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "甘い生活 → shirin hayot"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『水で味を薄める』ning ma'nosi qaysi?",
+      "word": "水で味を薄める",
+      "choices": [
+        "suv bilan ta'mni me'yorlashtirish",
+        "yuklarni zichlab tiqmoq",
+        "izakaya (yapon mayxonasi)",
+        "tortmoq, solmoq (idishga)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "水で味を薄める → suv bilan ta'mni me'yorlashtirish"
+    },
+    {
+      "id": 11,
+      "questionType": "recognition",
+      "question": "『純』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "単純な問題",
+      "choices": [
+        "汚水",
+        "単純な問題",
+        "問題用紙を配る",
+        "並"
+      ],
+      "correctAnswer": 1,
+      "explanation": "純 → 単純な問題"
+    },
+    {
+      "id": 12,
+      "questionType": "reading",
+      "question": "『甘える』ning o'qilishi qaysi?",
+      "word": "甘える",
+      "choices": [
+        "あまえる",
+        "まく",
+        "か",
+        "たちいりきんしくいき"
+      ],
+      "correctAnswer": 0,
+      "explanation": "甘える → あまえる"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『rangi och』ning yaponcha ifodasi qaysi?",
+      "word": "色が薄い",
+      "choices": [
+        "皿におかずを盛る",
+        "色が薄い",
+        "化粧が濃い",
+        "服にラーメンの汁がついた"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rangi och → 色が薄い"
+    },
+    {
+      "id": 14,
+      "questionType": "word",
+      "question": "『xotirasi yomonlashmoq』ning yaponcha ifodasi qaysi?",
+      "word": "記憶が薄れる",
+      "choices": [
+        "税込み",
+        "記憶が薄れる",
+        "家賃",
+        "目標を定める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "xotirasi yomonlashmoq → 記憶が薄れる"
+    },
+    {
+      "id": 15,
+      "questionType": "word",
+      "question": "『ko'p bo'yangan』ning yaponcha ifodasi qaysi?",
+      "word": "化粧が濃い",
+      "choices": [
+        "柔",
+        "化粧が濃い",
+        "心を込める",
+        "過半数"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ko'p bo'yangan → 化粧が濃い"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『あたまがかたい』qaysi yozuvga mos?",
+      "word": "頭が固い",
+      "choices": [
+        "ファッション誌",
+        "松の木",
+        "頭が固い",
+        "百貨店"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あたまがかたい → 頭が固い"
+    },
+    {
+      "id": 17,
+      "questionType": "recognition",
+      "question": "『快』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "快い返事",
+      "choices": [
+        "汚職",
+        "柔らかな布団",
+        "快い返事",
+        "口座振替"
+      ],
+      "correctAnswer": 2,
+      "explanation": "快 → 快い返事"
+    },
+    {
+      "id": 18,
+      "questionType": "kanji",
+      "question": "『いろがうすい』qaysi yozuvga mos?",
+      "word": "色が薄い",
+      "choices": [
+        "換",
+        "美と健康を保つ",
+        "色が薄い",
+        "心臓が停止する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いろがうすい → 色が薄い"
+    },
+    {
+      "id": 19,
+      "questionType": "sentence",
+      "question": "『方針を固める』ning ma'nosi qaysi?",
+      "word": "方針を固める",
+      "choices": [
+        "almashtirmoq",
+        "holidan xabar olmoq",
+        "soliqdan qochish",
+        "yo'nalish, siyosat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "方針を固める → yo'nalish, siyosat"
+    },
+    {
+      "id": 20,
+      "questionType": "word",
+      "question": "『quyuq』ning yaponcha ifodasi qaysi?",
+      "word": "濃",
+      "choices": [
+        "贈",
+        "照明",
+        "濃",
+        "城"
+      ],
+      "correctAnswer": 2,
+      "explanation": "quyuq → 濃"
+    },
+    {
+      "id": 21,
+      "questionType": "sentence",
+      "question": "『純粋な心』ning ma'nosi qaysi?",
+      "word": "純粋な心",
+      "choices": [
+        "import qilish",
+        "og'izga suv olish",
+        "sof qalb",
+        "yoqimli javob"
+      ],
+      "correctAnswer": 2,
+      "explanation": "純粋な心 → sof qalb"
+    },
+    {
+      "id": 22,
+      "questionType": "recognition",
+      "question": "『固』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "頭が固い",
+      "choices": [
+        "照明",
+        "頭が固い",
+        "勢いよく",
+        "心に刻む"
+      ],
+      "correctAnswer": 1,
+      "explanation": "固 → 頭が固い"
+    },
+    {
+      "id": 23,
+      "questionType": "recognition",
+      "question": "『固』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "固まる",
+      "choices": [
+        "固まる",
+        "勢",
+        "溶岩",
+        "柔和な性格"
+      ],
+      "correctAnswer": 0,
+      "explanation": "固 → 固まる"
+    },
+    {
+      "id": 24,
+      "questionType": "recognition",
+      "question": "『甘』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "甘いミカン",
+      "choices": [
+        "牛乳にカルシウムが含まれている",
+        "濃",
+        "甘いミカン",
+        "運転を替わる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "甘 → 甘いミカン"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『かい』qaysi yozuvga mos?",
+      "word": "快",
+      "choices": [
+        "両側",
+        "夕刊",
+        "誌",
+        "快"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かい → 快"
+    },
+    {
+      "id": 26,
+      "questionType": "recognition",
+      "question": "『甘』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "人生は甘くない",
+      "choices": [
+        "証明する",
+        "純情な人",
+        "人生は甘くない",
+        "照明"
+      ],
+      "correctAnswer": 2,
+      "explanation": "甘 → 人生は甘くない"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『あじがこい』qaysi yozuvga mos?",
+      "word": "味が濃い",
+      "choices": [
+        "快",
+        "盛大な",
+        "味が濃い",
+        "符"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あじがこい → 味が濃い"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『けいはくなひと』qaysi yozuvga mos?",
+      "word": "軽薄な人",
+      "choices": [
+        "舞",
+        "証明する",
+        "軽薄な人",
+        "為替レート"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けいはくなひと → 軽薄な人"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『shirin mandarin』ning yaponcha ifodasi qaysi?",
+      "word": "甘いミカン",
+      "choices": [
+        "恋人に振られる",
+        "夕刊",
+        "甘いミカン",
+        "支払い"
+      ],
+      "correctAnswer": 2,
+      "explanation": "shirin mandarin → 甘いミカン"
+    },
+    {
+      "id": 30,
+      "questionType": "recognition",
+      "question": "『純』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "純粋な心",
+      "choices": [
+        "軽薄な人",
+        "ねぎを刻む",
+        "味が濃い",
+        "純粋な心"
+      ],
+      "correctAnswer": 3,
+      "explanation": "純 → 純粋な心"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『人生は甘くない』ning ma'nosi qaysi?",
+      "word": "人生は甘くない",
+      "choices": [
+        "hayot oson emas",
+        "to'lov",
+        "qattiq jism",
+        "kirish chiptasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "人生は甘くない → hayot oson emas"
+    },
+    {
+      "id": 32,
+      "questionType": "sentence",
+      "question": "『化粧が濃い』ning ma'nosi qaysi?",
+      "word": "化粧が濃い",
+      "choices": [
+        "taklifnoma",
+        "ko'p bo'yangan",
+        "yashash xonasi (zal)",
+        "sutda kalsiy bor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "化粧が濃い → ko'p bo'yangan"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『あまやかす』qaysi yozuvga mos?",
+      "word": "甘やかす",
+      "choices": [
+        "契約をする",
+        "溶岩",
+        "展示する",
+        "甘やかす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あまやかす → 甘やかす"
+    },
+    {
+      "id": 34,
+      "questionType": "meaning",
+      "question": "『味が濃い』ning ma'nosi qaysi?",
+      "word": "味が濃い",
+      "choices": [
+        "ta'mi to'q (quyuq)",
+        "to'lov",
+        "kundalik yozib borish",
+        "ish turg'unlashishi, sekinlashishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "味が濃い → ta'mi to'q (quyuq)"
+    },
+    {
+      "id": 35,
+      "questionType": "sentence",
+      "question": "『記憶が薄れる』ning ma'nosi qaysi?",
+      "word": "記憶が薄れる",
+      "choices": [
+        "tanqid nishoniga aylanish",
+        "tarqalmoq, mashhur bo'lmoq",
+        "xotirasi yomonlashmoq",
+        "rivojlanayotgan davlatlar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "記憶が薄れる → xotirasi yomonlashmoq"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『こころよいへんじ』qaysi yozuvga mos?",
+      "word": "快い返事",
+      "choices": [
+        "快い返事",
+        "お金を恵む",
+        "間違える",
+        "利益を配分する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こころよいへんじ → 快い返事"
+    },
+    {
+      "id": 37,
+      "questionType": "reading",
+      "question": "『快』ning o'qilishi qaysi?",
+      "word": "快",
+      "choices": [
+        "ちゅうざいする",
+        "おしょく",
+        "かい",
+        "にもつをあずける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "快 → かい"
+    },
+    {
+      "id": 38,
+      "questionType": "meaning",
+      "question": "『薄』ning ma'nosi qaysi?",
+      "word": "薄",
+      "choices": [
+        "sulh, o't ochishni to'xtatish",
+        "tartibga keltirmoq, tayyorlamoq",
+        "yupqa, suyuq",
+        "jurnal, yozuv"
+      ],
+      "correctAnswer": 2,
+      "explanation": "薄 → yupqa, suyuq"
+    },
+    {
+      "id": 39,
+      "questionType": "meaning",
+      "question": "『快気祝い』ning ma'nosi qaysi?",
+      "word": "快気祝い",
+      "choices": [
+        "baliq ovlamoq",
+        "kasallikdan tuzalganlikni nishonlash",
+        "nomiga dog' tushirmoq",
+        "o'ramoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "快気祝い → kasallikdan tuzalganlikni nishonlash"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『固』ning o'qilishi qaysi?",
+      "word": "固",
+      "choices": [
+        "きがかりなこと",
+        "こ",
+        "あまいせいかつ",
+        "しんてんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "固 → こ"
+    },
+    {
+      "id": 41,
+      "questionType": "recognition",
+      "question": "『薄』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "記憶が薄れる",
+      "choices": [
+        "配",
+        "輸血用の血液",
+        "記憶が薄れる",
+        "栄"
+      ],
+      "correctAnswer": 2,
+      "explanation": "薄 → 記憶が薄れる"
+    },
+    {
+      "id": 42,
+      "questionType": "word",
+      "question": "『qotmoq』ning yaponcha ifodasi qaysi?",
+      "word": "固まる",
+      "choices": [
+        "固まる",
+        "滝で心身を清める",
+        "利益を配分する",
+        "硬貨"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qotmoq → 固まる"
+    },
+    {
+      "id": 43,
+      "questionType": "sentence",
+      "question": "『快適な部屋』ning ma'nosi qaysi?",
+      "word": "快適な部屋",
+      "choices": [
+        "qalbga joylab olish, bir narsani unutmaslik",
+        "taklifnoma",
+        "yopirilib kelmoq (buyurtmalar)",
+        "qulay xona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "快適な部屋 → qulay xona"
+    },
+    {
+      "id": 44,
+      "questionType": "word",
+      "question": "『mamnuniyat bilan qabul qilish』ning yaponcha ifodasi qaysi?",
+      "word": "快く引き受ける",
+      "choices": [
+        "快く引き受ける",
+        "裁判所で証言する",
+        "頭が固い",
+        "映画を製作する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "mamnuniyat bilan qabul qilish → 快く引き受ける"
+    },
+    {
+      "id": 45,
+      "questionType": "recognition",
+      "question": "『甘』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "甘える",
+      "choices": [
+        "免許証",
+        "途方にくれる",
+        "記帳する",
+        "甘える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "甘 → 甘える"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『薄い紙』ning o'qilishi qaysi?",
+      "word": "薄い紙",
+      "choices": [
+        "うすいかみ",
+        "びじん",
+        "みぶんしょうめいしょ",
+        "どうぞおかけください"
+      ],
+      "correctAnswer": 0,
+      "explanation": "薄い紙 → うすいかみ"
+    },
+    {
+      "id": 47,
+      "questionType": "meaning",
+      "question": "『快』ning ma'nosi qaysi?",
+      "word": "快",
+      "choices": [
+        "erish, moliya",
+        "guvohnoma",
+        "yoqimli, xushnud",
+        "kitobni pochta orqali yuborish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "快 → yoqimli, xushnud"
+    },
+    {
+      "id": 48,
+      "questionType": "word",
+      "question": "『shirin』ning yaponcha ifodasi qaysi?",
+      "word": "甘",
+      "choices": [
+        "手紙が届く",
+        "甘",
+        "落ち葉を掃く",
+        "絵の具を溶く"
+      ],
+      "correctAnswer": 1,
+      "explanation": "shirin → 甘"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『軽薄な人』ning ma'nosi qaysi?",
+      "word": "軽薄な人",
+      "choices": [
+        "yengiltak, mulohazasiz odam",
+        "oylik chipta",
+        "erish, moliya",
+        "yo'l qoidasini buzish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "軽薄な人 → yengiltak, mulohazasiz odam"
+    },
+    {
+      "id": 50,
+      "questionType": "recognition",
+      "question": "『快』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "快く引き受ける",
+      "choices": [
+        "漁港",
+        "快く引き受ける",
+        "溶",
+        "固"
+      ],
+      "correctAnswer": 1,
+      "explanation": "快 → 快く引き受ける"
+    },
+    {
+      "id": 51,
+      "questionType": "meaning",
+      "question": "『方針を固める』ning ma'nosi qaysi?",
+      "word": "方針を固める",
+      "choices": [
+        "yo'nalish, siyosat",
+        "oldingi va orqa g'ildiraklar",
+        "musiqiy nota",
+        "sudda guvohlik bermoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "方針を固める → yo'nalish, siyosat"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『qulay xona』ning yaponcha ifodasi qaysi?",
+      "word": "快適な部屋",
+      "choices": [
+        "快適な部屋",
+        "輸",
+        "空港",
+        "軟らかいごはん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qulay xona → 快適な部屋"
+    },
+    {
+      "id": 53,
+      "questionType": "sentence",
+      "question": "『甘やかす』ning ma'nosi qaysi?",
+      "word": "甘やかす",
+      "choices": [
+        "chuqur kosa (donburi)da guruch yeyish",
+        "taltaytirmoq",
+        "iflos qo'l",
+        "qalb tozalanmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "甘やかす → taltaytirmoq"
+    },
+    {
+      "id": 54,
+      "questionType": "meaning",
+      "question": "『味が薄まる』ning ma'nosi qaysi?",
+      "word": "味が薄まる",
+      "choices": [
+        "faraz qilmoq",
+        "ta'mi suyulishi",
+        "holidan xabar olmoq",
+        "o'rik (yapon o'rigi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "味が薄まる → ta'mi suyulishi"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『のう』qaysi yozuvga mos?",
+      "word": "濃",
+      "choices": [
+        "週刊誌",
+        "濃",
+        "固まる",
+        "航空便"
+      ],
+      "correctAnswer": 1,
+      "explanation": "のう → 濃"
+    },
+    {
+      "id": 56,
+      "questionType": "sentence",
+      "question": "『頭が固い』ning ma'nosi qaysi?",
+      "word": "頭が固い",
+      "choices": [
+        "yangi sinfga moslashib ketmoq",
+        "bolani uyga eltib qo'yish",
+        "o'jar",
+        "mutaxassis, kasb egasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "頭が固い → o'jar"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『かたまる』qaysi yozuvga mos?",
+      "word": "固まる",
+      "choices": [
+        "証",
+        "固まる",
+        "利益を配分する",
+        "蔵"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かたまる → 固まる"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『固』ning ma'nosi qaysi?",
+      "word": "固",
+      "choices": [
+        "qattiq, mustahkam",
+        "qiyofa, shakl",
+        "muqim turmoq (xizmatda, chet elda)",
+        "yomg'irlar mavsumi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "固 → qattiq, mustahkam"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『じゅんじょうなひと』qaysi yozuvga mos?",
+      "word": "純情な人",
+      "choices": [
+        "味が薄まる",
+        "居",
+        "券",
+        "純情な人"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じゅんじょうなひと → 純情な人"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『こ』qaysi yozuvga mos?",
+      "word": "固",
+      "choices": [
+        "航空機",
+        "新しいクラスに溶け込む",
+        "固",
+        "著"
+      ],
+      "correctAnswer": 2,
+      "explanation": "こ → 固"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『qattiq jism』ning yaponcha ifodasi qaysi?",
+      "word": "固体",
+      "choices": [
+        "仮の住まい",
+        "住居",
+        "気を配る",
+        "固体"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qattiq jism → 固体"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『単純な問題』ning ma'nosi qaysi?",
+      "word": "単純な問題",
+      "choices": [
+        "o'rtasida",
+        "haftalik gazeta",
+        "oddiy savol, muammo",
+        "qiyin kechmoq (ish, muzokara)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "単純な問題 → oddiy savol, muammo"
+    },
+    {
+      "id": 63,
+      "questionType": "sentence",
+      "question": "『甘いミカン』ning ma'nosi qaysi?",
+      "word": "甘いミカン",
+      "choices": [
+        "murakkab hisob-kitob",
+        "shirin mandarin",
+        "yechmoq, chiqib ketmoq",
+        "avtobus bekati"
+      ],
+      "correctAnswer": 1,
+      "explanation": "甘いミカン → shirin mandarin"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『水で味を薄める』ning ma'nosi qaysi?",
+      "word": "水で味を薄める",
+      "choices": [
+        "yashash xonasi (zal)",
+        "piyoz to'g'rash",
+        "almashtirmoq",
+        "suv bilan ta'mni me'yorlashtirish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "水で味を薄める → suv bilan ta'mni me'yorlashtirish"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『色が薄い』ning ma'nosi qaysi?",
+      "word": "色が薄い",
+      "choices": [
+        "rangi och",
+        "farzand bilan siylanmoq",
+        "farq qilmoq, noto'g'ri",
+        "kirish chiptasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "色が薄い → rangi och"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『甘』ning o'qilishi qaysi?",
+      "word": "甘",
+      "choices": [
+        "ふきゅうする",
+        "こどもをおくりとどける",
+        "かん",
+        "ふくむ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "甘 → かん"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『こたい』qaysi yozuvga mos?",
+      "word": "固体",
+      "choices": [
+        "固体",
+        "明るい家庭を築く",
+        "建築士",
+        "記憶が薄れる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こたい → 固体"
+    },
+    {
+      "id": 68,
+      "questionType": "reading",
+      "question": "『固体』ning o'qilishi qaysi?",
+      "word": "固体",
+      "choices": [
+        "こうくうびん",
+        "ふくをぬぐ",
+        "あまいせいかつ",
+        "こたい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "固体 → こたい"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『純』ning o'qilishi qaysi?",
+      "word": "純",
+      "choices": [
+        "おみまい",
+        "せいだいな",
+        "そだちざかり",
+        "じゅん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "純 → じゅん"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『はく』qaysi yozuvga mos?",
+      "word": "薄",
+      "choices": [
+        "前輪と後輪",
+        "輪になる",
+        "宝くじ",
+        "薄"
+      ],
+      "correctAnswer": 3,
+      "explanation": "はく → 薄"
+    },
+    {
+      "id": 71,
+      "questionType": "meaning",
+      "question": "『甘える』ning ma'nosi qaysi?",
+      "word": "甘える",
+      "choices": [
+        "rivojlanayotgan davlatlar",
+        "butunlay tugatish, tozalash",
+        "kasal ko'rgani borish",
+        "erkalanmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "甘える → erkalanmoq"
+    },
+    {
+      "id": 72,
+      "questionType": "sentence",
+      "question": "『味が濃い』ning ma'nosi qaysi?",
+      "word": "味が濃い",
+      "choices": [
+        "qiyg'os gullash",
+        "ta'mi to'q (quyuq)",
+        "lava",
+        "chiroyli ayol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "味が濃い → ta'mi to'q (quyuq)"
+    },
+    {
+      "id": 73,
+      "questionType": "recognition",
+      "question": "『甘』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "甘やかす",
+      "choices": [
+        "本を郵送する",
+        "軟らかいごはん",
+        "甘やかす",
+        "免許証"
+      ],
+      "correctAnswer": 2,
+      "explanation": "甘 → 甘やかす"
+    },
+    {
+      "id": 74,
+      "questionType": "word",
+      "question": "『sof qalb』ning yaponcha ifodasi qaysi?",
+      "word": "純粋な心",
+      "choices": [
+        "定期券",
+        "航空機",
+        "純粋な心",
+        "みそ汁"
+      ],
+      "correctAnswer": 2,
+      "explanation": "sof qalb → 純粋な心"
+    },
+    {
+      "id": 75,
+      "questionType": "word",
+      "question": "『yupqa qog'oz』ning yaponcha ifodasi qaysi?",
+      "word": "薄い紙",
+      "choices": [
+        "薄い紙",
+        "お香を焚く",
+        "芝居",
+        "甘いミカン"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yupqa qog'oz → 薄い紙"
+    },
+    {
+      "id": 76,
+      "questionType": "recognition",
+      "question": "『快』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "快適な部屋",
+      "choices": [
+        "定期券",
+        "日誌をつける",
+        "快適な部屋",
+        "札束"
+      ],
+      "correctAnswer": 2,
+      "explanation": "快 → 快適な部屋"
+    },
+    {
+      "id": 77,
+      "questionType": "sentence",
+      "question": "『痛みが薄らぐ』ning ma'nosi qaysi?",
+      "word": "痛みが薄らぐ",
+      "choices": [
+        "sho'rva, suyuqlik",
+        "o'tmoq, xato qilmoq",
+        "og'riq susayishi",
+        "nashr qilish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "痛みが薄らぐ → og'riq susayishi"
+    },
+    {
+      "id": 78,
+      "questionType": "meaning",
+      "question": "『純』ning ma'nosi qaysi?",
+      "word": "純",
+      "choices": [
+        "aralashmoq",
+        "o'tmoq, bermoq",
+        "sevgan inson tomonidan tashlab ketilish",
+        "sof, pok"
+      ],
+      "correctAnswer": 3,
+      "explanation": "純 → sof, pok"
+    },
+    {
+      "id": 79,
+      "questionType": "reading",
+      "question": "『濃』ning o'qilishi qaysi?",
+      "word": "濃",
+      "choices": [
+        "のう",
+        "しせい",
+        "はえあるじゅしょう",
+        "ちんたいマンション"
+      ],
+      "correctAnswer": 0,
+      "explanation": "濃 → のう"
+    },
+    {
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『じゅん』qaysi yozuvga mos?",
+      "word": "純",
+      "choices": [
+        "危機を脱する",
+        "純",
+        "配",
+        "標"
+      ],
+      "correctAnswer": 1,
+      "explanation": "じゅん → 純"
+    },
+    {
+      "id": 81,
+      "questionType": "recognition",
+      "question": "『固』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "固体",
+      "choices": [
+        "映画を製作する",
+        "固体",
+        "快い返事",
+        "宗教を信仰する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "固 → 固体"
+    },
+    {
+      "id": 82,
+      "questionType": "sentence",
+      "question": "『快く引き受ける』ning ma'nosi qaysi?",
+      "word": "快く引き受ける",
+      "choices": [
+        "yumshoq, egiluvchan",
+        "yapon usulidagi bog'",
+        "ni turtki (bahona) qilib",
+        "mamnuniyat bilan qabul qilish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "快く引き受ける → mamnuniyat bilan qabul qilish"
+    },
+    {
+      "id": 83,
+      "questionType": "sentence",
+      "question": "『単純な問題』ning ma'nosi qaysi?",
+      "word": "単純な問題",
+      "choices": [
+        "foydani taqsimlash",
+        "oddiy savol, muammo",
+        "kundalik yozib borish",
+        "maqsadni aniq qilib olish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "単純な問題 → oddiy savol, muammo"
+    },
+    {
+      "id": 84,
+      "questionType": "sentence",
+      "question": "『固定する』ning ma'nosi qaysi?",
+      "word": "固定する",
+      "choices": [
+        "xavotirlanmoq",
+        "chiroyli",
+        "mustahkamlash",
+        "noqonuniy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "固定する → mustahkamlash"
+    },
+    {
+      "id": 85,
+      "questionType": "meaning",
+      "question": "『固定する』ning ma'nosi qaysi?",
+      "word": "固定する",
+      "choices": [
+        "yapon usulidagi bog'",
+        "taklif qilmoq, chaqirmoq",
+        "belgi, chipta",
+        "mustahkamlash"
+      ],
+      "correctAnswer": 3,
+      "explanation": "固定する → mustahkamlash"
+    },
+    {
+      "id": 86,
+      "questionType": "kanji",
+      "question": "『じゅんすいなこころ』qaysi yozuvga mos?",
+      "word": "純粋な心",
+      "choices": [
+        "桜",
+        "純粋な心",
+        "宗教を信仰する",
+        "甘い生活"
+      ],
+      "correctAnswer": 1,
+      "explanation": "じゅんすいなこころ → 純粋な心"
+    },
+    {
+      "id": 87,
+      "questionType": "kanji",
+      "question": "『こていする』qaysi yozuvga mos?",
+      "word": "固定する",
+      "choices": [
+        "到着する",
+        "心に刻む",
+        "固定する",
+        "金融機関"
+      ],
+      "correctAnswer": 2,
+      "explanation": "こていする → 固定する"
+    },
+    {
+      "id": 88,
+      "questionType": "sentence",
+      "question": "『人生は甘くない』ning ma'nosi qaysi?",
+      "word": "人生は甘くない",
+      "choices": [
+        "yurakdan bajarish",
+        "hayot oson emas",
+        "o'zgartirish",
+        "belgi, standart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "人生は甘くない → hayot oson emas"
+    },
+    {
+      "id": 89,
+      "questionType": "sentence",
+      "question": "『味が薄まる』ning ma'nosi qaysi?",
+      "word": "味が薄まる",
+      "choices": [
+        "xotirasi yomonlashmoq",
+        "ta'mi suyulishi",
+        "kir bo'lgan kiyim",
+        "ota-ona bilan birga yashamoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "味が薄まる → ta'mi suyulishi"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『あまいせいかつ』qaysi yozuvga mos?",
+      "word": "甘い生活",
+      "choices": [
+        "整",
+        "甘い生活",
+        "教室の清掃をする",
+        "風に舞う"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あまいせいかつ → 甘い生活"
+    },
+    {
+      "id": 91,
+      "questionType": "meaning",
+      "question": "『甘い生活』ning ma'nosi qaysi?",
+      "word": "甘い生活",
+      "choices": [
+        "kasal ko'rgani borish",
+        "tanasi egiluvchan",
+        "egiluvchan, moslashuvchan",
+        "shirin hayot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "甘い生活 → shirin hayot"
+    },
+    {
+      "id": 92,
+      "questionType": "sentence",
+      "question": "『快い返事』ning ma'nosi qaysi?",
+      "word": "快い返事",
+      "choices": [
+        "bazmga taklif etish",
+        "yoqimli javob",
+        "tarqalmoq, mashhur bo'lmoq",
+        "haq, ijara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "快い返事 → yoqimli javob"
+    },
+    {
+      "id": 93,
+      "questionType": "kanji",
+      "question": "『あまえる』qaysi yozuvga mos?",
+      "word": "甘える",
+      "choices": [
+        "甘える",
+        "著者",
+        "米の中に麦が混じっている",
+        "栄養"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あまえる → 甘える"
+    },
+    {
+      "id": 94,
+      "questionType": "word",
+      "question": "『og'riq susayishi』ning yaponcha ifodasi qaysi?",
+      "word": "痛みが薄らぐ",
+      "choices": [
+        "痛みが薄らぐ",
+        "美人",
+        "招待する",
+        "新しいクラスに溶け込む"
+      ],
+      "correctAnswer": 0,
+      "explanation": "og'riq susayishi → 痛みが薄らぐ"
+    },
+    {
+      "id": 95,
+      "questionType": "meaning",
+      "question": "『頭が固い』ning ma'nosi qaysi?",
+      "word": "頭が固い",
+      "choices": [
+        "baliqchilik biznesini boshlash",
+        "sudda guvohlik bermoq",
+        "sinf xonasini tozalash",
+        "o'jar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "頭が固い → o'jar"
+    },
+    {
+      "id": 96,
+      "questionType": "reading",
+      "question": "『薄』ning o'qilishi qaysi?",
+      "word": "薄",
+      "choices": [
+        "ゆうびんきょく",
+        "たい",
+        "はく",
+        "いぬのくびわ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "薄 → はく"
+    },
+    {
+      "id": 97,
+      "questionType": "sentence",
+      "question": "『軽薄な人』ning ma'nosi qaysi?",
+      "word": "軽薄な人",
+      "choices": [
+        "yengiltak, mulohazasiz odam",
+        "yaxshi hayot",
+        "yumshoq",
+        "katta portsiya ovqat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "軽薄な人 → yengiltak, mulohazasiz odam"
+    },
+    {
+      "id": 98,
+      "questionType": "word",
+      "question": "『taltaytirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "甘やかす",
+      "choices": [
+        "通貨",
+        "甘やかす",
+        "盛",
+        "服にラーメンの汁がついた"
+      ],
+      "correctAnswer": 1,
+      "explanation": "taltaytirmoq → 甘やかす"
+    },
+    {
+      "id": 99,
+      "questionType": "reading",
+      "question": "『固まる』ning o'qilishi qaysi?",
+      "word": "固まる",
+      "choices": [
+        "りょうほう",
+        "かたまる",
+        "あじがこい",
+        "おこうをたく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "固まる → かたまる"
+    },
+    {
+      "id": 100,
+      "questionType": "recognition",
+      "question": "『薄』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "軽薄な人",
+      "choices": [
+        "台風の勢力",
+        "前払い",
+        "軽薄な人",
+        "脱"
+      ],
+      "correctAnswer": 2,
+      "explanation": "薄 → 軽薄な人"
+    },
+    {
+      "id": 101,
+      "questionType": "meaning",
+      "question": "『純情な人』ning ma'nosi qaysi?",
+      "word": "純情な人",
+      "choices": [
+        "ko'rpa yopish",
+        "sodda, beg'ubor odam",
+        "yaxshi hayot",
+        "yozmoq, ko'zga ko'rinarli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "純情な人 → sodda, beg'ubor odam"
+    }
+  ]
+}
