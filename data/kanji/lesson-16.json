@@ -1,0 +1,100 @@
+{
+    "title": "Lesson 16",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "健",
+          "reading": "けん・すこやか",
+          "meaning": "sog'lom, baquvvat",
+          "onyomi": "ケン",
+          "kunyomi": "すこ(やか)"
+        },
+        "examples": [
+          { "id": 1, "word": "健やかな", "reading": "すこやかな", "meaning": "baquvvat, sog'lom" },
+          { "id": 2, "word": "保健室", "reading": "ほけんしつ", "meaning": "maktab kasalxonasi" },
+          { "id": 3, "word": "建材", "reading": "けんざい", "meaning": "qurilish xomashyosi" },
+          { "id": 4, "word": "健全な", "reading": "けんぜんな", "meaning": "sog'lom" },
+          { "id": 5, "word": "健闘をたたえる", "reading": "けんとうをたたえる", "meaning": "yaxshi harakati uchun maqtash" },
+          { "id": 6, "word": "健康的な生活", "reading": "けんこうてきなせいかつ", "meaning": "sog'lom hayot" },
+          { "id": 7, "word": "健康保険", "reading": "けんこうほけん", "meaning": "sog'liq uchun sug'urta" },
+          { "id": 8, "word": "健康美", "reading": "けんこうび", "meaning": "sog'lom go'zallik" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "診",
+          "reading": "しん・みる",
+          "meaning": "tekshirmoq (tibbiy)",
+          "onyomi": "シン",
+          "kunyomi": "み(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "診る", "reading": "みる", "meaning": "shifokorga ko'rinmoq" },
+          { "id": 2, "word": "健康診断", "reading": "けんこうしんだん", "meaning": "tibbiy ko'rik" },
+          { "id": 3, "word": "定期健診", "reading": "ていきけんしん", "meaning": "muntazam tekshiruv" },
+          { "id": 4, "word": "診察室", "reading": "しんさつしつ", "meaning": "tekshiruv xonasi" },
+          { "id": 5, "word": "初診", "reading": "しょしん", "meaning": "birinchi tibbiy tekshiruv" },
+          { "id": 6, "word": "休診", "reading": "きゅうしん", "meaning": "tekshiruv bo'lmaydigan kun, dam kuni" },
+          { "id": 7, "word": "意向を打診する", "reading": "いこうをだしんする", "meaning": "niyat bildirish" },
+          { "id": 8, "word": "診療時間", "reading": "しんりょうじかん", "meaning": "ko'rik vaqti" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "療",
+          "reading": "りょう",
+          "meaning": "muolaja qilmoq, davolamoq",
+          "onyomi": "リョウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "治療", "reading": "ちりょう", "meaning": "muolaja" },
+          { "id": 2, "word": "療養中", "reading": "りょうようちゅう", "meaning": "tiklanish jarayoni" },
+          { "id": 3, "word": "医療保険制度", "reading": "いりょうほけんせいど", "meaning": "tibbiy sug'urta tizimi" },
+          { "id": 4, "word": "医療機器", "reading": "いりょうきき", "meaning": "tibbiy asbob-uskuna" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "命",
+          "reading": "めい・いのち",
+          "meaning": "hayot, buyruq",
+          "onyomi": "メイ",
+          "kunyomi": "いのち"
+        },
+        "examples": [
+          { "id": 1, "word": "命を授かる", "reading": "いのちをさずかる", "meaning": "farzandli bo'lmoq" },
+          { "id": 2, "word": "命を落とす", "reading": "いのちをおとす", "meaning": "hayotini yo'qotish" },
+          { "id": 3, "word": "生命", "reading": "せいめい", "meaning": "hayot" },
+          { "id": 4, "word": "命名", "reading": "めいめい", "meaning": "cho'qintirish" },
+          { "id": 5, "word": "的に命中する", "reading": "まとにめいちゅうする", "meaning": "nishonga urush" },
+          { "id": 6, "word": "命令", "reading": "めいれい", "meaning": "buyruq" },
+          { "id": 7, "word": "命日", "reading": "めいにち", "meaning": "vafot etgan yil" },
+          { "id": 8, "word": "平均寿命", "reading": "へいきんじゅみょう", "meaning": "o'rtacha umr" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "異",
+          "reading": "い・ことなる",
+          "meaning": "farqli, boshqa",
+          "onyomi": "イ",
+          "kunyomi": "こと(なる)"
+        },
+        "examples": [
+          { "id": 1, "word": "異なる", "reading": "ことなる", "meaning": "farq qilmoq" },
+          { "id": 2, "word": "異変", "reading": "いへん", "meaning": "noodatiy hodisa" },
+          { "id": 3, "word": "異常気象", "reading": "いじょうきしょう", "meaning": "abnormal obhavo" },
+          { "id": 4, "word": "異国", "reading": "いこく", "meaning": "chet davlati" },
+          { "id": 5, "word": "異性", "reading": "いせい", "meaning": "qarama-qarshi jins" },
+          { "id": 6, "word": "体の異状", "reading": "からだのいじょう", "meaning": "tanadagi holatni buzilishi" },
+          { "id": 7, "word": "異にする", "reading": "ことにする", "meaning": "balki, ehtimol" }
+        ]
+      }
+    ]
+  }
