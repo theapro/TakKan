@@ -1,0 +1,103 @@
+{
+    "title": "Lesson 17",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "背",
+          "reading": "はい・せ",
+          "meaning": "orqa, bo'y",
+          "onyomi": "ハイ",
+          "kunyomi": "せ・そむ(く)・そむ(ける)"
+        },
+        "examples": [
+          { "id": 1, "word": "背中", "reading": "せなか", "meaning": "yelka, kurak" },
+          { "id": 2, "word": "背が伸びる", "reading": "せがのびる", "meaning": "bo'yi cho'zilmoq" },
+          { "id": 3, "word": "背を向ける", "reading": "せをむける", "meaning": "o'zini ko'rmagandek tutish" },
+          { "id": 4, "word": "背比べ", "reading": "せいくらべ", "meaning": "bo'yini solishtirish" },
+          { "id": 5, "word": "親の期待に背く", "reading": "おやのきたいにそむく", "meaning": "ota-ona umidiga qarshi borish" },
+          { "id": 6, "word": "顔を背ける", "reading": "かおをそむける", "meaning": "yuzini ortga burish" },
+          { "id": 7, "word": "背景", "reading": "はいけい", "meaning": "manzarasi, holati" },
+          { "id": 8, "word": "背後", "reading": "はいご", "meaning": "orqa, quymich" },
+          { "id": 9, "word": "本の背表紙", "reading": "ほんのせびょうし", "meaning": "kitob muqovasi" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "腹",
+          "reading": "ふく・はら",
+          "meaning": "qorin",
+          "onyomi": "フク",
+          "kunyomi": "はら"
+        },
+        "examples": [
+          { "id": 1, "word": "腹が立つ", "reading": "はらがたつ", "meaning": "jahl chiqmoq" },
+          { "id": 2, "word": "腹を決める", "reading": "はらをきめる", "meaning": "qaror qilmoq" },
+          { "id": 3, "word": "腹を割って話す", "reading": "はらをわってはなす", "meaning": "yashirmay, ochiq gapirish" },
+          { "id": 4, "word": "太っ腹", "reading": "ふとっぱら", "meaning": "saxovatli" },
+          { "id": 5, "word": "空腹を覚える", "reading": "くうふくをおぼえる", "meaning": "qorni och his qilmoq" },
+          { "id": 6, "word": "満腹", "reading": "まんぷく", "meaning": "to'q qorin" },
+          { "id": 7, "word": "山腹", "reading": "さんぷく", "meaning": "qiyalik, yonbag'irlik" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "肩",
+          "reading": "けん・かた",
+          "meaning": "yelka",
+          "onyomi": "ケン",
+          "kunyomi": "かた"
+        },
+        "examples": [
+          { "id": 1, "word": "肩がこる", "reading": "かたがこる", "meaning": "yelka qotib qolishi" },
+          { "id": 2, "word": "肩幅が広い", "reading": "かたはばがひろい", "meaning": "yelka kengligi keng" },
+          { "id": 3, "word": "肩の荷が下りる", "reading": "かたのにがおりる", "meaning": "o'zini yengil his qilmoq" },
+          { "id": 4, "word": "肩書き", "reading": "かたがき", "meaning": "sarlavha" },
+          { "id": 5, "word": "肩を並べる", "reading": "かたをならべる", "meaning": "yelka boyicha turmoq" },
+          { "id": 6, "word": "肩入れする", "reading": "かたいれする", "meaning": "homiylik qilish" },
+          { "id": 7, "word": "肩甲骨", "reading": "けんこうこつ", "meaning": "kurak suyagi" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "腕",
+          "reading": "わん・うで",
+          "meaning": "bilak, qo'l",
+          "onyomi": "ワン",
+          "kunyomi": "うで"
+        },
+        "examples": [
+          { "id": 1, "word": "腕時計", "reading": "うでどけい", "meaning": "qo'l soat" },
+          { "id": 2, "word": "腕組みをする", "reading": "うでぐみをする", "meaning": "qo'lni bukmoq" },
+          { "id": 3, "word": "腕相撲", "reading": "うでずもう", "meaning": "qo'l kurashi. Kuch sinashish" },
+          { "id": 4, "word": "腕がいい", "reading": "うでがいい", "meaning": "qobiliyatli" },
+          { "id": 5, "word": "腕前を見せる", "reading": "うでまえをみせる", "meaning": "qobiliyatini ko'rsatmoq" },
+          { "id": 6, "word": "腕試し", "reading": "うでだめし", "meaning": "kuchini sinab ko'rmoq" },
+          { "id": 7, "word": "腕力", "reading": "わんりょく", "meaning": "bilak kuchi, jismoniy kuch" },
+          { "id": 8, "word": "腕白な子供", "reading": "わんぱくなこども", "meaning": "tantiq bola" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "胸",
+          "reading": "きょう・むね",
+          "meaning": "ko'krak",
+          "onyomi": "キョウ",
+          "kunyomi": "むね・むな"
+        },
+        "examples": [
+          { "id": 1, "word": "胸がどきどきする", "reading": "むねがどきどきする", "meaning": "yurak hapqirishi" },
+          { "id": 2, "word": "胸焼けがする", "reading": "むねやけがする", "meaning": "jig'ildon qaynashi" },
+          { "id": 3, "word": "胸が痛む", "reading": "むねがいたむ", "meaning": "ko'krak qafasi og'rishi" },
+          { "id": 4, "word": "胸を打つ", "reading": "むねをうつ", "meaning": "1) g'amdan ko'ksini urish, 2) hayratlanish" },
+          { "id": 5, "word": "胸騒ぎ", "reading": "むなさわぎ", "meaning": "tashvish" },
+          { "id": 6, "word": "胸囲を測る", "reading": "きょういをはかる", "meaning": "gavdani o'lchamoq" },
+          { "id": 7, "word": "度胸がある", "reading": "どきょうがある", "meaning": "jasur" }
+        ]
+      }
+    ]
+  }
