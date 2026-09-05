@@ -1,0 +1,106 @@
+{
+    "title": "Lesson 18",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "脳",
+          "reading": "のう",
+          "meaning": "miya",
+          "onyomi": "ノウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "脳の働き", "reading": "のうのはたらき", "meaning": "miya faoliyati" },
+          { "id": 2, "word": "頭脳明晰", "reading": "ずのうめいせき", "meaning": "fikri tiniqlashish" },
+          { "id": 3, "word": "脳科学", "reading": "のうかがく", "meaning": "nevralogiya" },
+          { "id": 4, "word": "首脳会談", "reading": "しゅのうかいだん", "meaning": "rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv" },
+          { "id": 5, "word": "脳裏に刻む", "reading": "のうりにきざむ", "meaning": "ongiga muhrlab qo'yish" },
+          { "id": 6, "word": "洗脳", "reading": "せんのう", "meaning": "ruhan ta'sir ko'rsatish" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "臓",
+          "reading": "ぞう",
+          "meaning": "ichki organ",
+          "onyomi": "ゾウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "内臓", "reading": "ないぞう", "meaning": "ichki organlar" },
+          { "id": 2, "word": "心臓", "reading": "しんぞう", "meaning": "yurak" },
+          { "id": 3, "word": "臓器移植", "reading": "ぞうきいしょく", "meaning": "ichki organlarni ko'chirib o'tkazish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "胃",
+          "reading": "い",
+          "meaning": "oshqozon",
+          "onyomi": "イ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "胃の検査", "reading": "いのけんさ", "meaning": "oshqozon tahlili" },
+          { "id": 2, "word": "胃痛がひどい", "reading": "いつうがひどい", "meaning": "kuchli oshqozon og'rig'i" },
+          { "id": 3, "word": "胃腸薬", "reading": "いちょうやく", "meaning": "hazm qildiruvchi dori" },
+          { "id": 4, "word": "胃袋", "reading": "いぶくろ", "meaning": "oshqozon qopi" },
+          { "id": 5, "word": "胃炎", "reading": "いえん", "meaning": "gastrit" },
+          { "id": 6, "word": "胃がん", "reading": "いがん", "meaning": "oshqozon raki" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "筋",
+          "reading": "きん・すじ",
+          "meaning": "muskul, tola",
+          "onyomi": "キン",
+          "kunyomi": "すじ"
+        },
+        "examples": [
+          { "id": 1, "word": "足の筋", "reading": "あしのすじ", "meaning": "oyoq muskuli" },
+          { "id": 2, "word": "背筋", "reading": "せすじ", "meaning": "umurtqa pog'onasi" },
+          { "id": 3, "word": "筋道を立てる", "reading": "すじみちをたてる", "meaning": "ma'no bermoq" },
+          { "id": 4, "word": "血筋", "reading": "ちすじ", "meaning": "to'qima shikastlanishi" },
+          { "id": 5, "word": "腹筋", "reading": "ふっきん", "meaning": "qon rishtasi" },
+          { "id": 6, "word": "筋肉を鍛える", "reading": "きんにくをきたえる", "meaning": "muskul yig'ish" },
+          { "id": 7, "word": "鉄筋", "reading": "てっきん", "meaning": "armature" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "節",
+          "reading": "せつ",
+          "meaning": "bo'g'im, fasl",
+          "onyomi": "セツ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "季節", "reading": "きせつ", "meaning": "fasl" },
+          { "id": 2, "word": "節分", "reading": "せつぶん", "meaning": "qishning oxirgi kuni yapon kalendari bo'yicha" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "骨",
+          "reading": "こつ・ほね",
+          "meaning": "suyak",
+          "onyomi": "コツ",
+          "kunyomi": "ほね"
+        },
+        "examples": [
+          { "id": 1, "word": "骨", "reading": "ほね", "meaning": "suyak" },
+          { "id": 2, "word": "背骨", "reading": "せぼね", "meaning": "umurtqa suyagi" },
+          { "id": 3, "word": "骨折する", "reading": "こっせつする", "meaning": "sinmoq (suyak)" },
+          { "id": 4, "word": "骨の折れる仕事", "reading": "ほねのおれるしごと", "meaning": "qiyin ish, jismoniy kuch talab qiladigan mehnat" },
+          { "id": 5, "word": "接骨院", "reading": "せっこついん", "meaning": "ortopediya klinikasi" }
+        ]
+      }
+    ]
+  }

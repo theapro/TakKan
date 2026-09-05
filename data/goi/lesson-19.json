@@ -1,0 +1,159 @@
+{
+    "title": "Lesson 19",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "大まかな", "reading": "おおまかな", "meaning": "taxminiy, umumiy", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "大まかな", "reading": "おおまかな", "meaning": "taxminiy, umumiy" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "差し引く", "reading": "さしひく", "meaning": "ayrib tashlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "差し引く", "reading": "さしひく", "meaning": "ayrib tashlamoq" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "努める", "reading": "つとめる", "meaning": "harakat qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "努める", "reading": "つとめる", "meaning": "harakat qilmoq" },
+          { "id": 2, "word": "励む", "reading": "はげむ", "meaning": "harakat, intilish" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "立て替える", "reading": "たてかえる", "meaning": "o'rniga to'lab turmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "立て替える", "reading": "たてかえる", "meaning": "o'rniga to'lab turmoq" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "補助する", "reading": "ほじょする", "meaning": "ko'mak qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "補助する", "reading": "ほじょする", "meaning": "ko'mak qilmoq" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "返済する", "reading": "へんさいする", "meaning": "qarzni qaytarmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "返済する", "reading": "へんさいする", "meaning": "qarzni qaytarmoq" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "安定する", "reading": "あんていする", "meaning": "barqarorlashmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "安定する", "reading": "あんていする", "meaning": "barqarorlashmoq" },
+          { "id": 2, "word": "安定的な", "reading": "あんていてきな", "meaning": "barqaror" },
+          { "id": 3, "word": "不安定な", "reading": "ふあんていな", "meaning": "beqaror" },
+          { "id": 4, "word": "教育費", "reading": "きょういくひ", "meaning": "ta'lim xarajati" },
+          { "id": 5, "word": "学費", "reading": "がくひ", "meaning": "o'quv haqi" },
+          { "id": 6, "word": "食費", "reading": "しょくひ", "meaning": "oziq-ovqat xarajati" },
+          { "id": 7, "word": "費用", "reading": "ひよう", "meaning": "xarajat" },
+          { "id": 8, "word": "交通費", "reading": "こうつうひ", "meaning": "transport xarajati" },
+          { "id": 9, "word": "住居費", "reading": "じゅうきょひ", "meaning": "turar-joy xarajati" },
+          { "id": 10, "word": "医療費", "reading": "いりょうひ", "meaning": "tibbiyot xarajati" },
+          { "id": 11, "word": "生活費", "reading": "せいかつひ", "meaning": "turmush xarajati" },
+          { "id": 12, "word": "人件費", "reading": "じんけんひ", "meaning": "ishchi kuchi xarajati" },
+          { "id": 13, "word": "養育費", "reading": "よういくひ", "meaning": "bola tarbiyasi xarajati" }
+        ]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "好き嫌い", "reading": "すききらい", "meaning": "yoqtirish yoqtirmaslik, did", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "好き嫌い", "reading": "すききらい", "meaning": "yoqtirish yoqtirmaslik, did" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "好物", "reading": "こうぶつ", "meaning": "yoqtirgan narsa", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "好物", "reading": "こうぶつ", "meaning": "yoqtirgan narsa" },
+          { "id": 2, "word": "大好物", "reading": "だいこうぶつ", "meaning": "eng sevimli narsa" }
+        ]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "飽きる", "reading": "あきる", "meaning": "zerikib qolmoq, bezmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "飽きる", "reading": "あきる", "meaning": "zerikib qolmoq, bezmoq" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "物足りない", "reading": "ものたりない", "meaning": "kamarli topmoq, yetarli emasdek tuyulmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "物足りない", "reading": "ものたりない", "meaning": "kamarli topmoq, yetarli emasdek tuyulmoq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "ボリューム", "reading": "ボリューム", "meaning": "hajm, miqdor; 2. ovoz balandligi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ボリューム", "reading": "ボリューム", "meaning": "hajm, miqdor; 2. ovoz balandligi" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "一口", "reading": "ひとくち", "meaning": "bir luqma", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "一口", "reading": "ひとくち", "meaning": "bir luqma" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "かじる", "reading": "かじる", "meaning": "tishlamoq, g'ajimoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "かじる", "reading": "かじる", "meaning": "tishlamoq, g'ajimoq" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "ひとたび", "reading": "ひとたび", "meaning": "bir marta", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ひとたび", "reading": "ひとたび", "meaning": "bir marta" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "うまい", "reading": "うまい", "meaning": "mazali (taom); yaxshi, qobiliyatli", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "うまい", "reading": "うまい", "meaning": "mazali (taom); yaxshi, qobiliyatli" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "いける", "reading": "いける", "meaning": "qila olmoq, (issiq non va tarvuz) yaxshi ketadi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "いける", "reading": "いける", "meaning": "qila olmoq, (issiq non va tarvuz) yaxshi ketadi" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "渋い", "reading": "しぶい", "meaning": "taxir; 2. vazmin, didli", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "渋い", "reading": "しぶい", "meaning": "taxir; 2. vazmin, didli" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "くどい", "reading": "くどい", "meaning": "haddan ortiq bo'y, yoqimsiz o'tkir (ta'm); 2. ezma", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "くどい", "reading": "くどい", "meaning": "haddan ortiq bo'y, yoqimsiz o'tkir (ta'm); 2. ezma" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "ファミレス", "reading": "ファミレス", "meaning": "oilaviy restoran", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "ファミレス", "reading": "ファミレス", "meaning": "oilaviy restoran" },
+          { "id": 2, "word": "ファミリーレストラン", "reading": "ファミリーレストラン", "meaning": "oilaviy restoran" }
+        ]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "フルコース", "reading": "フルコース", "meaning": "taomning to'liq seti", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "フルコース", "reading": "フルコース", "meaning": "taomning to'liq seti" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "オーダーする", "reading": "オーダーする", "meaning": "buyurtma bermoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "オーダーする", "reading": "オーダーする", "meaning": "buyurtma bermoq" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "精算する", "reading": "せいさんする", "meaning": "hisoblab chiqmoq, hisob-kitobni aniqlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "精算する", "reading": "せいさんする", "meaning": "hisoblab chiqmoq, hisob-kitobni aniqlamoq" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "会計する", "reading": "かいけいする", "meaning": "to'lov qilmoq, hisob-kitob qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "会計する", "reading": "かいけいする", "meaning": "to'lov qilmoq, hisob-kitob qilmoq" },
+          { "id": 2, "word": "勘定", "reading": "かんじょう", "meaning": "hisob, hisob-kitob" }
+        ]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "バイキング", "reading": "バイキング", "meaning": "shved stoli", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "バイキング", "reading": "バイキング", "meaning": "shved stoli" },
+          { "id": 2, "word": "ビュッフェ", "reading": "ビュッフェ", "meaning": "shved stoli" }
+        ]
+      }
+    ]
+  }
