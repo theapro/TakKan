@@ -1,0 +1,1463 @@
+{
+  "title": "Lesson 19 Test",
+  "type": "kanji",
+  "lesson": "lesson-19",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "reading",
+      "question": "『近況』ning o'qilishi qaysi?",
+      "word": "近況",
+      "choices": [
+        "みなと",
+        "すじみちをたてる",
+        "きんきょう",
+        "まつぼっくり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "近況 → きんきょう"
+    },
+    {
+      "id": 2,
+      "questionType": "word",
+      "question": "『zilzila sabab bo'lgan falokat』ning yaponcha ifodasi qaysi?",
+      "word": "地震に因る被害",
+      "choices": [
+        "恩恵を受ける",
+        "地震に因る被害",
+        "胸が痛む",
+        "両立する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "zilzila sabab bo'lgan falokat → 地震に因る被害"
+    },
+    {
+      "id": 3,
+      "questionType": "recognition",
+      "question": "『況』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "近況",
+      "choices": [
+        "変換",
+        "照る",
+        "純",
+        "近況"
+      ],
+      "correctAnswer": 3,
+      "explanation": "況 → 近況"
+    },
+    {
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『あっしょう』qaysi yozuvga mos?",
+      "word": "圧勝",
+      "choices": [
+        "香辛料",
+        "電車が込む",
+        "肩の荷が下りる",
+        "圧勝"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あっしょう → 圧勝"
+    },
+    {
+      "id": 5,
+      "questionType": "meaning",
+      "question": "『因縁』ning ma'nosi qaysi?",
+      "word": "因縁",
+      "choices": [
+        "erkalanmoq",
+        "yo'l qoidasini buzish",
+        "taqdir",
+        "hayot oson emas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "因縁 → taqdir"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『たい』qaysi yozuvga mos?",
+      "word": "態",
+      "choices": [
+        "態",
+        "振動",
+        "ねぎを刻む",
+        "映画を製作する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たい → 態"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『きんきゅうじたい』qaysi yozuvga mos?",
+      "word": "緊急事態",
+      "choices": [
+        "道路を渡る",
+        "混雑",
+        "緊急事態",
+        "軟"
+      ],
+      "correctAnswer": 2,
+      "explanation": "きんきゅうじたい → 緊急事態"
+    },
+    {
+      "id": 8,
+      "questionType": "meaning",
+      "question": "『症』ning ma'nosi qaysi?",
+      "word": "症",
+      "choices": [
+        "turg'unlik",
+        "tizilmoq, oddiy/o'rtacha",
+        "hozirgi holat",
+        "kasallik, alomat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "症 → kasallik, alomat"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『きょう』qaysi yozuvga mos?",
+      "word": "況",
+      "choices": [
+        "千円札",
+        "乗車券",
+        "支払い",
+        "況"
+      ],
+      "correctAnswer": 3,
+      "explanation": "きょう → 況"
+    },
+    {
+      "id": 10,
+      "questionType": "word",
+      "question": "『shamollash alomati』ning yaponcha ifodasi qaysi?",
+      "word": "風邪の症状",
+      "choices": [
+        "命令",
+        "お見舞い",
+        "風邪の症状",
+        "利益を配分する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "shamollash alomati → 風邪の症状"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『o'simlikni ekologik tekshiruv』ning yaponcha ifodasi qaysi?",
+      "word": "植物の生態調査",
+      "choices": [
+        "円をドルに替える",
+        "植物の生態調査",
+        "港",
+        "教室の清掃をする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "o'simlikni ekologik tekshiruv → 植物の生態調査"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『hayot alomati yo'q (vafot etdi)』ning yaponcha ifodasi qaysi?",
+      "word": "命に別状はない",
+      "choices": [
+        "仮",
+        "命に別状はない",
+        "けがの後遺症",
+        "輸血用の血液"
+      ],
+      "correctAnswer": 1,
+      "explanation": "hayot alomati yo'q (vafot etdi) → 命に別状はない"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『jonli efir』ning yaponcha ifodasi qaysi?",
+      "word": "実況中継",
+      "choices": [
+        "脳科学",
+        "札",
+        "実況中継",
+        "芝居"
+      ],
+      "correctAnswer": 2,
+      "explanation": "jonli efir → 実況中継"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『況』ning o'qilishi qaysi?",
+      "word": "況",
+      "choices": [
+        "けいしょう",
+        "しょくぶつのせいたいちょうさ",
+        "きょう",
+        "なふだをつける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "況 → きょう"
+    },
+    {
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『いんがかんけい』qaysi yozuvga mos?",
+      "word": "因果関係",
+      "choices": [
+        "港",
+        "バスの停留所",
+        "因果関係",
+        "盛大な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いんがかんけい → 因果関係"
+    },
+    {
+      "id": 16,
+      "questionType": "meaning",
+      "question": "『病気の原因』ning ma'nosi qaysi?",
+      "word": "病気の原因",
+      "choices": [
+        "past qon bosimi",
+        "bo'yoqni eritish",
+        "kasallik sababi",
+        "chiroyli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "病気の原因 → kasallik sababi"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『れいじょう』qaysi yozuvga mos?",
+      "word": "礼状",
+      "choices": [
+        "口座振替",
+        "礼状",
+        "大盛り",
+        "診療時間"
+      ],
+      "correctAnswer": 1,
+      "explanation": "れいじょう → 礼状"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『緊急事態』ning ma'nosi qaysi?",
+      "word": "緊急事態",
+      "choices": [
+        "favqulotda vaziyat",
+        "noodatiy hodisa",
+        "jiddiy muammo",
+        "sabab"
+      ],
+      "correctAnswer": 0,
+      "explanation": "緊急事態 → favqulotda vaziyat"
+    },
+    {
+      "id": 19,
+      "questionType": "reading",
+      "question": "『高気圧』ning o'qilishi qaysi?",
+      "word": "高気圧",
+      "choices": [
+        "ざつおんがする",
+        "すこやかな",
+        "こうきあつ",
+        "ふつうのかてい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "高気圧 → こうきあつ"
+    },
+    {
+      "id": 20,
+      "questionType": "sentence",
+      "question": "『炎症を起こす』ning ma'nosi qaysi?",
+      "word": "炎症を起こす",
+      "choices": [
+        "rulni almashmoq",
+        "yallig'lantirmoq",
+        "valyuta",
+        "o'ramoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "炎症を起こす → yallig'lantirmoq"
+    },
+    {
+      "id": 21,
+      "questionType": "kanji",
+      "question": "『きんきょう』qaysi yozuvga mos?",
+      "word": "近況",
+      "choices": [
+        "輪",
+        "著者",
+        "近況",
+        "甘やかす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "きんきょう → 近況"
+    },
+    {
+      "id": 22,
+      "questionType": "kanji",
+      "question": "『しょうじょう』qaysi yozuvga mos?",
+      "word": "賞状",
+      "choices": [
+        "腹を決める",
+        "美しい",
+        "賞状",
+        "業務が停滞する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しょうじょう → 賞状"
+    },
+    {
+      "id": 23,
+      "questionType": "sentence",
+      "question": "『植物の生態調査』ning ma'nosi qaysi?",
+      "word": "植物の生態調査",
+      "choices": [
+        "o'simlikni ekologik tekshiruv",
+        "teatr tomoshasi, spektakl",
+        "qiyin ish, jismoniy kuch talab qiladigan mehnat",
+        "sariqyog'ni eritish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "植物の生態調査 → o'simlikni ekologik tekshiruv"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『あっとうてきな』qaysi yozuvga mos?",
+      "word": "圧倒的な",
+      "choices": [
+        "胃袋",
+        "到",
+        "本を郵送する",
+        "圧倒的な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あっとうてきな → 圧倒的な"
+    },
+    {
+      "id": 25,
+      "questionType": "sentence",
+      "question": "『状況が一変する』ning ma'nosi qaysi?",
+      "word": "状況が一変する",
+      "choices": [
+        "teatr tomoshasi, spektakl",
+        "miso sho'rvasi",
+        "yenlik banknota",
+        "vaziyat o'zgarishi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "状況が一変する → vaziyat o'zgarishi"
+    },
+    {
+      "id": 26,
+      "questionType": "meaning",
+      "question": "『高気圧』ning ma'nosi qaysi?",
+      "word": "高気圧",
+      "choices": [
+        "yuqori bosim",
+        "umurtqa pog'onasi",
+        "halqa, g'ildirak",
+        "pochta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "高気圧 → yuqori bosim"
+    },
+    {
+      "id": 27,
+      "questionType": "recognition",
+      "question": "『況』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "実況中継",
+      "choices": [
+        "利益を配分する",
+        "並べる",
+        "異なる",
+        "実況中継"
+      ],
+      "correctAnswer": 3,
+      "explanation": "況 → 実況中継"
+    },
+    {
+      "id": 28,
+      "questionType": "word",
+      "question": "『katta g'alaba』ning yaponcha ifodasi qaysi?",
+      "word": "圧勝",
+      "choices": [
+        "圧力",
+        "圧勝",
+        "異性",
+        "部屋を汚す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "katta g'alaba → 圧勝"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『ていけつあつ』qaysi yozuvga mos?",
+      "word": "低血圧",
+      "choices": [
+        "低血圧",
+        "栄",
+        "柔道",
+        "違法"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ていけつあつ → 低血圧"
+    },
+    {
+      "id": 30,
+      "questionType": "sentence",
+      "question": "『白状する』ning ma'nosi qaysi?",
+      "word": "白状する",
+      "choices": [
+        "baliqchilik qishlog'i",
+        "iqror bo'lmoq",
+        "yozmoq, ko'zga ko'rinarli",
+        "yenlik banknota"
+      ],
+      "correctAnswer": 1,
+      "explanation": "白状する → iqror bo'lmoq"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『軽症』ning ma'nosi qaysi?",
+      "word": "軽症",
+      "choices": [
+        "ziravorlar",
+        "yengil kasallik",
+        "uzuk",
+        "farqli, boshqa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "軽症 → yengil kasallik"
+    },
+    {
+      "id": 32,
+      "questionType": "sentence",
+      "question": "『緊急事態』ning ma'nosi qaysi?",
+      "word": "緊急事態",
+      "choices": [
+        "farzandli bo'lmoq",
+        "mashhur inson",
+        "yuborish, jo'natish",
+        "favqulotda vaziyat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "緊急事態 → favqulotda vaziyat"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
+      "question": "『賞状』ning o'qilishi qaysi?",
+      "word": "賞状",
+      "choices": [
+        "せがのびる",
+        "しょうじょう",
+        "ていしゃする",
+        "きぶんてんかん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "賞状 → しょうじょう"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『じっきょうちゅうけい』qaysi yozuvga mos?",
+      "word": "実況中継",
+      "choices": [
+        "到",
+        "劇場",
+        "違法",
+        "実況中継"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じっきょうちゅうけい → 実況中継"
+    },
+    {
+      "id": 35,
+      "questionType": "word",
+      "question": "『shakl』ning yaponcha ifodasi qaysi?",
+      "word": "形状",
+      "choices": [
+        "形状",
+        "家賃",
+        "台風の勢力",
+        "手を振る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "shakl → 形状"
+    },
+    {
+      "id": 36,
+      "questionType": "sentence",
+      "question": "『実況中継』ning ma'nosi qaysi?",
+      "word": "実況中継",
+      "choices": [
+        "qiyin kechmoq (ish, muzokara)",
+        "baliqchilik porti",
+        "silkitmoq, tebranmoq",
+        "jonli efir"
+      ],
+      "correctAnswer": 3,
+      "explanation": "実況中継 → jonli efir"
+    },
+    {
+      "id": 37,
+      "questionType": "word",
+      "question": "『sabab』ning yaponcha ifodasi qaysi?",
+      "word": "因",
+      "choices": [
+        "宝くじ",
+        "血筋",
+        "仮定する",
+        "因"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sabab → 因"
+    },
+    {
+      "id": 38,
+      "questionType": "word",
+      "question": "『qabul qilish pozitsiyasi』ning yaponcha ifodasi qaysi?",
+      "word": "受け入れ態勢",
+      "choices": [
+        "受け入れ態勢",
+        "健康保険",
+        "心に刻む",
+        "清"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qabul qilish pozitsiyasi → 受け入れ態勢"
+    },
+    {
+      "id": 39,
+      "questionType": "kanji",
+      "question": "『はくじょうする』qaysi yozuvga mos?",
+      "word": "白状する",
+      "choices": [
+        "命",
+        "口に水を含む",
+        "玄関の表札",
+        "白状する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "はくじょうする → 白状する"
+    },
+    {
+      "id": 40,
+      "questionType": "sentence",
+      "question": "『容態が急変する』ning ma'nosi qaysi?",
+      "word": "容態が急変する",
+      "choices": [
+        "pochta yetib kelishi",
+        "Yangi mahsulot",
+        "mutaxassis, kasb egasi",
+        "holat (sog'likni) keskin o'zgarishi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "容態が急変する → holat (sog'likni) keskin o'zgarishi"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『軽症』ning o'qilishi qaysi?",
+      "word": "軽症",
+      "choices": [
+        "けいしょう",
+        "けいやくしょ",
+        "きたないて",
+        "としこしそば"
+      ],
+      "correctAnswer": 0,
+      "explanation": "軽症 → けいしょう"
+    },
+    {
+      "id": 42,
+      "questionType": "recognition",
+      "question": "『況』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "不況",
+      "choices": [
+        "複雑な計算",
+        "姿勢",
+        "不況",
+        "肩を並べる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "況 → 不況"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『しょうこうぐん』qaysi yozuvga mos?",
+      "word": "症候群",
+      "choices": [
+        "整理整頓",
+        "部屋を汚す",
+        "症候群",
+        "過半数"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しょうこうぐん → 症候群"
+    },
+    {
+      "id": 44,
+      "questionType": "word",
+      "question": "『holat (sog'likni) keskin o'zgarishi』ning yaponcha ifodasi qaysi?",
+      "word": "容態が急変する",
+      "choices": [
+        "融",
+        "背骨",
+        "心を込める",
+        "容態が急変する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "holat (sog'likni) keskin o'zgarishi → 容態が急変する"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『因縁』ning o'qilishi qaysi?",
+      "word": "因縁",
+      "choices": [
+        "じゅんすいなこころ",
+        "いんねん",
+        "おう・さくら",
+        "いちじるしいしんぽ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "因縁 → いんねん"
+    },
+    {
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『じゅうしょう』qaysi yozuvga mos?",
+      "word": "重症",
+      "choices": [
+        "針が振れる",
+        "輸出する",
+        "重症",
+        "軽症"
+      ],
+      "correctAnswer": 2,
+      "explanation": "じゅうしょう → 重症"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『vaziyat o'zgarishi』ning yaponcha ifodasi qaysi?",
+      "word": "状況が一変する",
+      "choices": [
+        "健やかな",
+        "状況が一変する",
+        "命に別状はない",
+        "診療時間"
+      ],
+      "correctAnswer": 1,
+      "explanation": "vaziyat o'zgarishi → 状況が一変する"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『ふきょう』qaysi yozuvga mos?",
+      "word": "不況",
+      "choices": [
+        "背後",
+        "不況",
+        "香",
+        "宝物"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふきょう → 不況"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『不況』ning o'qilishi qaysi?",
+      "word": "不況",
+      "choices": [
+        "ふきょう",
+        "はってんとじょうこく",
+        "しはらい",
+        "ほうたいをまく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "不況 → ふきょう"
+    },
+    {
+      "id": 50,
+      "questionType": "word",
+      "question": "『faxriy yorliq』ning yaponcha ifodasi qaysi?",
+      "word": "賞状",
+      "choices": [
+        "賞状",
+        "新しいクラスに溶け込む",
+        "保証人",
+        "展"
+      ],
+      "correctAnswer": 0,
+      "explanation": "faxriy yorliq → 賞状"
+    },
+    {
+      "id": 51,
+      "questionType": "word",
+      "question": "『past qon bosimi』ning yaponcha ifodasi qaysi?",
+      "word": "低血圧",
+      "choices": [
+        "礼状",
+        "イタリア製の靴",
+        "低血圧",
+        "純情な人"
+      ],
+      "correctAnswer": 2,
+      "explanation": "past qon bosimi → 低血圧"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『haddan tashqari』ning yaponcha ifodasi qaysi?",
+      "word": "圧倒的な",
+      "choices": [
+        "態度が軟化する",
+        "道路標識",
+        "圧倒的な",
+        "美人"
+      ],
+      "correctAnswer": 2,
+      "explanation": "haddan tashqari → 圧倒的な"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『しょう』qaysi yozuvga mos?",
+      "word": "症",
+      "choices": [
+        "駐車禁止",
+        "背後",
+        "度胸がある",
+        "症"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しょう → 症"
+    },
+    {
+      "id": 54,
+      "questionType": "sentence",
+      "question": "『因果関係』ning ma'nosi qaysi?",
+      "word": "因果関係",
+      "choices": [
+        "gavda turishi, holati",
+        "orqa, bo'y",
+        "sabab va oqibat munosabati",
+        "tozalash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "因果関係 → sabab va oqibat munosabati"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『圧力』ning o'qilishi qaysi?",
+      "word": "圧力",
+      "choices": [
+        "か",
+        "あつりょく",
+        "しょしん",
+        "えんしょうをおこす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "圧力 → あつりょく"
+    },
+    {
+      "id": 56,
+      "questionType": "meaning",
+      "question": "『白状する』ning ma'nosi qaysi?",
+      "word": "白状する",
+      "choices": [
+        "iqror bo'lmoq",
+        "o'qishdan vaqtincha chetlatish",
+        "osmoq, ilmoq",
+        "miso sho'rvasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "白状する → iqror bo'lmoq"
+    },
+    {
+      "id": 57,
+      "questionType": "reading",
+      "question": "『因』ning o'qilishi qaysi?",
+      "word": "因",
+      "choices": [
+        "つゆ",
+        "いん",
+        "ひなんのひょうてきとなる",
+        "ばいうぜんせん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "因 → いん"
+    },
+    {
+      "id": 58,
+      "questionType": "recognition",
+      "question": "『圧』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "圧勝",
+      "choices": [
+        "死因",
+        "香水",
+        "目標に到達する",
+        "圧勝"
+      ],
+      "correctAnswer": 3,
+      "explanation": "圧 → 圧勝"
+    },
+    {
+      "id": 59,
+      "questionType": "meaning",
+      "question": "『不況』ning ma'nosi qaysi?",
+      "word": "不況",
+      "choices": [
+        "umurtqa suyagi",
+        "qishning oxirgi kuni yapon kalendari bo'yicha",
+        "hayot alomati yo'q (vafot etdi)",
+        "turg'unlik"
+      ],
+      "correctAnswer": 3,
+      "explanation": "不況 → turg'unlik"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『いん』qaysi yozuvga mos?",
+      "word": "因",
+      "choices": [
+        "水で味を薄める",
+        "因",
+        "帳",
+        "航"
+      ],
+      "correctAnswer": 1,
+      "explanation": "いん → 因"
+    },
+    {
+      "id": 61,
+      "questionType": "word",
+      "question": "『yallig'lantirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "炎症を起こす",
+      "choices": [
+        "円をドルに替える",
+        "照",
+        "届",
+        "炎症を起こす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yallig'lantirmoq → 炎症を起こす"
+    },
+    {
+      "id": 62,
+      "questionType": "word",
+      "question": "『holat, vaziyat』ning yaponcha ifodasi qaysi?",
+      "word": "況",
+      "choices": [
+        "越",
+        "快",
+        "況",
+        "悲劇"
+      ],
+      "correctAnswer": 2,
+      "explanation": "holat, vaziyat → 況"
+    },
+    {
+      "id": 63,
+      "questionType": "sentence",
+      "question": "『態度が悪い』ning ma'nosi qaysi?",
+      "word": "態度が悪い",
+      "choices": [
+        "mutaxassis, kasb egasi",
+        "yashirmay, ochiq gapirish",
+        "yupqa qog'oz",
+        "yomon munosabat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "態度が悪い → yomon munosabat"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『礼状』ning ma'nosi qaysi?",
+      "word": "礼状",
+      "choices": [
+        "foydani taqsimlash",
+        "haq, ijara",
+        "minnatdorchilik, minnatdorchilik xati",
+        "shamollash alomati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "礼状 → minnatdorchilik, minnatdorchilik xati"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『けがの後遺症』ning ma'nosi qaysi?",
+      "word": "けがの後遺症",
+      "choices": [
+        "umurtqa suyagi",
+        "suzish, uchish (transport)",
+        "shikastlanish oqibati",
+        "sog'lom hayot"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けがの後遺症 → shikastlanish oqibati"
+    },
+    {
+      "id": 66,
+      "questionType": "meaning",
+      "question": "『死因』ning ma'nosi qaysi?",
+      "word": "死因",
+      "choices": [
+        "sariqyog'ni eritish",
+        "sog'liq uchun sug'urta",
+        "guruch ustiga tempura qo'yib tayyorlangan taom",
+        "o'lim sababi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "死因 → o'lim sababi"
+    },
+    {
+      "id": 67,
+      "questionType": "sentence",
+      "question": "『地震に因る被害』ning ma'nosi qaysi?",
+      "word": "地震に因る被害",
+      "choices": [
+        "transport",
+        "qarama-qarshi jins",
+        "saqlamoq",
+        "zilzila sabab bo'lgan falokat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "地震に因る被害 → zilzila sabab bo'lgan falokat"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『けいじょう』qaysi yozuvga mos?",
+      "word": "形状",
+      "choices": [
+        "宝物",
+        "刻",
+        "形状",
+        "電車の切符"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けいじょう → 形状"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『症』ning o'qilishi qaysi?",
+      "word": "症",
+      "choices": [
+        "しょう",
+        "にもつをあずける",
+        "ろんぶんのせいしょをする",
+        "ゆびわ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "症 → しょう"
+    },
+    {
+      "id": 70,
+      "questionType": "sentence",
+      "question": "『病気の原因』ning ma'nosi qaysi?",
+      "word": "病気の原因",
+      "choices": [
+        "kasallik sababi",
+        "kir bo'lgan kiyim",
+        "qiyofa, shakl",
+        "shirin mandarin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "病気の原因 → kasallik sababi"
+    },
+    {
+      "id": 71,
+      "questionType": "recognition",
+      "question": "『圧』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "圧倒的な",
+      "choices": [
+        "固定する",
+        "整",
+        "腕白な子供",
+        "圧倒的な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "圧 → 圧倒的な"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『bosim』ning yaponcha ifodasi qaysi?",
+      "word": "圧力",
+      "choices": [
+        "到着する",
+        "圧力",
+        "荷物を詰め込む",
+        "暴力団を一掃する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bosim → 圧力"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『しいん』qaysi yozuvga mos?",
+      "word": "死因",
+      "choices": [
+        "校庭",
+        "死因",
+        "松の木",
+        "命名"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しいん → 死因"
+    },
+    {
+      "id": 74,
+      "questionType": "sentence",
+      "question": "『命に別状はない』ning ma'nosi qaysi?",
+      "word": "命に別状はない",
+      "choices": [
+        "hayot alomati yo'q (vafot etdi)",
+        "tozalash",
+        "poyezd chiptasi",
+        "qorin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "命に別状はない → hayot alomati yo'q (vafot etdi)"
+    },
+    {
+      "id": 75,
+      "questionType": "sentence",
+      "question": "『風邪の症状』ning ma'nosi qaysi?",
+      "word": "風邪の症状",
+      "choices": [
+        "pochta",
+        "shamollash alomati",
+        "erish, moliya",
+        "aralash, pala-partish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "風邪の症状 → shamollash alomati"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『圧勝』ning o'qilishi qaysi?",
+      "word": "圧勝",
+      "choices": [
+        "ひょう",
+        "でんしゃのきっぷ",
+        "けつあつをはかる",
+        "あっしょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "圧勝 → あっしょう"
+    },
+    {
+      "id": 77,
+      "questionType": "reading",
+      "question": "『重症』ning o'qilishi qaysi?",
+      "word": "重症",
+      "choices": [
+        "ならぶ",
+        "せいめい",
+        "じゅうしょう",
+        "ねぎをきざむ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "重症 → じゅうしょう"
+    },
+    {
+      "id": 78,
+      "questionType": "recognition",
+      "question": "『態』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "植物の生態調査",
+      "choices": [
+        "契",
+        "チームに勢いがある",
+        "植物の生態調査",
+        "賃"
+      ],
+      "correctAnswer": 2,
+      "explanation": "態 → 植物の生態調査"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『いんねん』qaysi yozuvga mos?",
+      "word": "因縁",
+      "choices": [
+        "固体",
+        "堂",
+        "因縁",
+        "汁"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いんねん → 因縁"
+    },
+    {
+      "id": 80,
+      "questionType": "reading",
+      "question": "『低血圧』ning o'qilishi qaysi?",
+      "word": "低血圧",
+      "choices": [
+        "りょうようちゅう",
+        "ていけつあつ",
+        "せっこついん",
+        "てん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "低血圧 → ていけつあつ"
+    },
+    {
+      "id": 81,
+      "questionType": "word",
+      "question": "『holat, ko'rinish』ning yaponcha ifodasi qaysi?",
+      "word": "態",
+      "choices": [
+        "輸血用の血液",
+        "態",
+        "心臓が停止する",
+        "換える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "holat, ko'rinish → 態"
+    },
+    {
+      "id": 82,
+      "questionType": "reading",
+      "question": "『症候群』ning o'qilishi qaysi?",
+      "word": "症候群",
+      "choices": [
+        "せきをかわる",
+        "しょうこうぐん",
+        "ちゅうとはんぱ",
+        "りょうがえ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "症候群 → しょうこうぐん"
+    },
+    {
+      "id": 83,
+      "questionType": "reading",
+      "question": "『態』ning o'qilishi qaysi?",
+      "word": "態",
+      "choices": [
+        "でんしゃのきっぷ",
+        "やちん",
+        "たい",
+        "ちがう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "態 → たい"
+    },
+    {
+      "id": 84,
+      "questionType": "reading",
+      "question": "『形状』ning o'qilishi qaysi?",
+      "word": "形状",
+      "choices": [
+        "こめのなかにむぎがまじっている",
+        "おやとどうきょする",
+        "おみまい",
+        "けいじょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "形状 → けいじょう"
+    },
+    {
+      "id": 85,
+      "questionType": "meaning",
+      "question": "『症候群』ning ma'nosi qaysi?",
+      "word": "症候群",
+      "choices": [
+        "hovli",
+        "qo'lni silkitish",
+        "sindrom",
+        "korrupsiya"
+      ],
+      "correctAnswer": 2,
+      "explanation": "症候群 → sindrom"
+    },
+    {
+      "id": 86,
+      "questionType": "kanji",
+      "question": "『こうきあつ』qaysi yozuvga mos?",
+      "word": "高気圧",
+      "choices": [
+        "通過",
+        "快い返事",
+        "駐車禁止",
+        "高気圧"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こうきあつ → 高気圧"
+    },
+    {
+      "id": 87,
+      "questionType": "meaning",
+      "question": "『重症』ning ma'nosi qaysi?",
+      "word": "重症",
+      "choices": [
+        "qishning oxirgi kuni yapon kalendari bo'yicha",
+        "yuqori bosim",
+        "og'ir kasallik",
+        "nomiga dog' tushirmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "重症 → og'ir kasallik"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『けいしょう』qaysi yozuvga mos?",
+      "word": "軽症",
+      "choices": [
+        "軽症",
+        "手帳",
+        "健闘をたたえる",
+        "難航する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "けいしょう → 軽症"
+    },
+    {
+      "id": 89,
+      "questionType": "word",
+      "question": "『qon bosimin o'lchash』ning yaponcha ifodasi qaysi?",
+      "word": "血圧を測る",
+      "choices": [
+        "預金する",
+        "血圧を測る",
+        "夏が過ぎる",
+        "裁判所で証言する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qon bosimin o'lchash → 血圧を測る"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『あつ』qaysi yozuvga mos?",
+      "word": "圧",
+      "choices": [
+        "異常気象",
+        "実況中継",
+        "雑音がする",
+        "圧"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あつ → 圧"
+    },
+    {
+      "id": 91,
+      "questionType": "sentence",
+      "question": "『受け入れ態勢』ning ma'nosi qaysi?",
+      "word": "受け入れ態勢",
+      "choices": [
+        "oqava suv",
+        "yelka kengligi keng",
+        "qoyilmaqom mukofot",
+        "qabul qilish pozitsiyasi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "受け入れ態勢 → qabul qilish pozitsiyasi"
+    },
+    {
+      "id": 92,
+      "questionType": "recognition",
+      "question": "『圧』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "圧力",
+      "choices": [
+        "漁をする",
+        "因果関係",
+        "圧力",
+        "洗脳"
+      ],
+      "correctAnswer": 2,
+      "explanation": "圧 → 圧力"
+    },
+    {
+      "id": 93,
+      "questionType": "meaning",
+      "question": "『けがの後遺症』ning ma'nosi qaysi?",
+      "word": "けがの後遺症",
+      "choices": [
+        "maqsadni aniq qilib olish",
+        "o'zini yengil his qilmoq",
+        "shikastlanish oqibati",
+        "manzarasi, holati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けがの後遺症 → shikastlanish oqibati"
+    },
+    {
+      "id": 94,
+      "questionType": "word",
+      "question": "『yomon munosabat』ning yaponcha ifodasi qaysi?",
+      "word": "態度が悪い",
+      "choices": [
+        "宝くじ",
+        "容態が急変する",
+        "普及する",
+        "態度が悪い"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yomon munosabat → 態度が悪い"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『あつりょく』qaysi yozuvga mos?",
+      "word": "圧力",
+      "choices": [
+        "圧力",
+        "圧勝",
+        "交通違反",
+        "心に刻む"
+      ],
+      "correctAnswer": 0,
+      "explanation": "あつりょく → 圧力"
+    },
+    {
+      "id": 96,
+      "questionType": "word",
+      "question": "『hozirgi holat』ning yaponcha ifodasi qaysi?",
+      "word": "近況",
+      "choices": [
+        "子宝に恵まれる",
+        "心臓",
+        "両手",
+        "近況"
+      ],
+      "correctAnswer": 3,
+      "explanation": "hozirgi holat → 近況"
+    },
+    {
+      "id": 97,
+      "questionType": "meaning",
+      "question": "『圧』ning ma'nosi qaysi?",
+      "word": "圧",
+      "choices": [
+        "yenlik banknota",
+        "sahna asari, drama",
+        "o'z ichiga olmoq",
+        "bosim"
+      ],
+      "correctAnswer": 3,
+      "explanation": "圧 → bosim"
+    },
+    {
+      "id": 98,
+      "questionType": "sentence",
+      "question": "『圧倒的な』ning ma'nosi qaysi?",
+      "word": "圧倒的な",
+      "choices": [
+        "bankka pul qo'yish",
+        "miya faoliyati",
+        "turli maqsadda ishlatsa bo'ladigan",
+        "haddan tashqari"
+      ],
+      "correctAnswer": 3,
+      "explanation": "圧倒的な → haddan tashqari"
+    },
+    {
+      "id": 99,
+      "questionType": "word",
+      "question": "『sabab va oqibat munosabati』ning yaponcha ifodasi qaysi?",
+      "word": "因果関係",
+      "choices": [
+        "汚職",
+        "因果関係",
+        "城を築く",
+        "普通預金"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sabab va oqibat munosabati → 因果関係"
+    },
+    {
+      "id": 100,
+      "questionType": "reading",
+      "question": "『圧』ning o'qilishi qaysi?",
+      "word": "圧",
+      "choices": [
+        "あつ",
+        "せいくらべ",
+        "いん",
+        "れい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "圧 → あつ"
+    },
+    {
+      "id": 101,
+      "questionType": "reading",
+      "question": "『礼状』ning o'qilishi qaysi?",
+      "word": "礼状",
+      "choices": [
+        "れいじょう",
+        "やわらくにる",
+        "てんどん",
+        "あしのすじ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "礼状 → れいじょう"
+    },
+    {
+      "id": 102,
+      "questionType": "recognition",
+      "question": "『因』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "死因",
+      "choices": [
+        "米の中に麦が混じっている",
+        "命",
+        "死因",
+        "運転を替わる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "因 → 死因"
+    },
+    {
+      "id": 103,
+      "questionType": "sentence",
+      "question": "『血圧を測る』ning ma'nosi qaysi?",
+      "word": "血圧を測る",
+      "choices": [
+        "bo'lmoq, yashamoq",
+        "tiqilinch, gavjumlik",
+        "tiklanish jarayoni",
+        "qon bosimin o'lchash"
+      ],
+      "correctAnswer": 3,
+      "explanation": "血圧を測る → qon bosimin o'lchash"
+    },
+    {
+      "id": 104,
+      "questionType": "reading",
+      "question": "『死因』ning o'qilishi qaysi?",
+      "word": "死因",
+      "choices": [
+        "しいん",
+        "ととのえる",
+        "なみ",
+        "こうか"
+      ],
+      "correctAnswer": 0,
+      "explanation": "死因 → しいん"
+    }
+  ]
+}

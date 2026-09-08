@@ -5,1557 +5,1557 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "reading",
-      "question": "『悔やむ』ning o'qilishi qaysi?",
-      "word": "悔やむ",
-      "choices": [
-        "あいじょう",
-        "くやむ",
-        "まんびきする",
-        "あたりまえ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "悔やむ → くやむ"
-    },
-    {
-      "id": 2,
-      "questionType": "meaning",
-      "question": "『介入する』ning ma'nosi qaysi?",
-      "word": "介入する",
-      "choices": [
-        "to'g'ridan to'g'ri",
-        "aralashmoq, vositachilik qilmoq",
-        "paypaslab qidirmoq; 2. yashirincha bilishga urinmoq",
-        "ilk uchrashuv"
-      ],
-      "correctAnswer": 1,
-      "explanation": "介入する → aralashmoq, vositachilik qilmoq"
-    },
-    {
-      "id": 3,
-      "questionType": "kanji",
-      "question": "『てすり』qaysi yozuvga mos?",
-      "word": "手すり",
-      "choices": [
-        "避ける",
-        "手すり",
-        "洗面所",
-        "接する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てすり → 手すり"
-    },
-    {
-      "id": 4,
-      "questionType": "kanji",
-      "question": "『だんさ』qaysi yozuvga mos?",
-      "word": "段差",
-      "choices": [
-        "からかう",
-        "ささいな",
-        "一戸建て",
-        "段差"
-      ],
-      "correctAnswer": 3,
-      "explanation": "だんさ → 段差"
-    },
-    {
-      "id": 5,
-      "questionType": "word",
-      "question": "『bir qarash; el nigohi』ning yaponcha ifodasi qaysi?",
-      "word": "一目",
-      "choices": [
-        "一人暮らし",
-        "一軒家",
-        "写す",
-        "一目"
-      ],
-      "correctAnswer": 3,
-      "explanation": "bir qarash; el nigohi → 一目"
-    },
-    {
-      "id": 6,
-      "questionType": "sentence",
-      "question": "『雲がかかる』ning ma'nosi qaysi?",
-      "word": "雲がかかる",
-      "choices": [
-        "qaror",
-        "esnamoq",
-        "osmonni bulut qoplamoq",
-        "suyagi sinmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "雲がかかる → osmonni bulut qoplamoq"
-    },
-    {
-      "id": 7,
-      "questionType": "reading",
-      "question": "『視線』ning o'qilishi qaysi?",
-      "word": "視線",
-      "choices": [
-        "しせん",
-        "せだい",
-        "いまさら",
-        "みとめる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "視線 → しせん"
-    },
-    {
-      "id": 8,
-      "questionType": "kanji",
-      "question": "『しょうてんがい』qaysi yozuvga mos?",
-      "word": "商店街",
-      "choices": [
-        "わが国",
-        "制限する",
-        "商店街",
-        "ばかにする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しょうてんがい → 商店街"
-    },
-    {
-      "id": 9,
-      "questionType": "reading",
-      "question": "『段差』ning o'qilishi qaysi?",
-      "word": "段差",
-      "choices": [
-        "こうしんする",
-        "こっそり",
-        "おもいこむ",
-        "だんさ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "段差 → だんさ"
-    },
-    {
-      "id": 10,
-      "questionType": "word",
-      "question": "『qarash, ko'z qarashi』ning yaponcha ifodasi qaysi?",
-      "word": "視線",
-      "choices": [
-        "尊重する",
-        "視線",
-        "愛する",
-        "操作する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "qarash, ko'z qarashi → 視線"
-    },
-    {
-      "id": 11,
-      "questionType": "meaning",
-      "question": "『選挙する』ning ma'nosi qaysi?",
-      "word": "選挙する",
-      "choices": [
-        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
-        "saylamoq, saylov o'tkazmoq",
-        "balandlik farqi (pog'ona, ostona)",
-        "o'zini tanishtirmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "選挙する → saylamoq, saylov o'tkazmoq"
-    },
-    {
-      "id": 12,
-      "questionType": "kanji",
-      "question": "『しどうする』qaysi yozuvga mos?",
-      "word": "指導する",
-      "choices": [
-        "頼りになる",
-        "指導する",
-        "初対面",
-        "終バス"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しどうする → 指導する"
-    },
-    {
-      "id": 13,
-      "questionType": "word",
-      "question": "『tarqalmoq, sochilib tushmoq』ning yaponcha ifodasi qaysi?",
-      "word": "散る",
-      "choices": [
-        "操作する",
-        "名曲",
-        "わが国",
-        "散る"
-      ],
-      "correctAnswer": 3,
-      "explanation": "tarqalmoq, sochilib tushmoq → 散る"
-    },
-    {
-      "id": 14,
-      "questionType": "kanji",
-      "question": "『とうひょうする』qaysi yozuvga mos?",
-      "word": "投票する",
-      "choices": [
-        "瞳がきつい",
-        "学食",
-        "海岸線",
-        "投票する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "とうひょうする → 投票する"
-    },
-    {
-      "id": 15,
-      "questionType": "kanji",
-      "question": "『おさえる』qaysi yozuvga mos?",
-      "word": "抑える",
-      "choices": [
-        "人通り",
-        "あだ名",
-        "抑える",
-        "頼る"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おさえる → 抑える"
-    },
-    {
-      "id": 16,
-      "questionType": "reading",
-      "question": "『思春期』ning o'qilishi qaysi?",
-      "word": "思春期",
-      "choices": [
-        "たった",
-        "てんけんする",
-        "なつかしい",
-        "ししゅんき"
-      ],
-      "correctAnswer": 3,
-      "explanation": "思春期 → ししゅんき"
-    },
-    {
-      "id": 17,
-      "questionType": "kanji",
-      "question": "『しどうする』qaysi yozuvga mos?",
-      "word": "指導する",
-      "choices": [
-        "密かに",
-        "でたらめな",
-        "指導する",
-        "介護する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しどうする → 指導する"
-    },
-    {
-      "id": 18,
-      "questionType": "meaning",
-      "question": "『指導する』ning ma'nosi qaysi?",
-      "word": "指導する",
-      "choices": [
-        "a'zo to'lovi",
-        "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq",
-        "jon kuydirib xizmat qilmoq, bag'ishlamoq",
-        "minnatdorlik uyg'otadigan, qadrli"
-      ],
-      "correctAnswer": 1,
-      "explanation": "指導する → yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
-    },
-    {
-      "id": 19,
-      "questionType": "kanji",
-      "question": "『ちる』qaysi yozuvga mos?",
-      "word": "散る",
-      "choices": [
-        "愛称",
-        "避ける",
-        "散る",
-        "低次元"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ちる → 散る"
-    },
-    {
-      "id": 20,
-      "questionType": "reading",
-      "question": "『商店街』ning o'qilishi qaysi?",
-      "word": "商店街",
-      "choices": [
-        "あいつ",
-        "しょうてんがい",
-        "しょたいめん",
-        "はくしゅする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "商店街 → しょうてんがい"
-    },
-    {
-      "id": 21,
-      "questionType": "kanji",
-      "question": "『ちる』qaysi yozuvga mos?",
-      "word": "散る",
-      "choices": [
-        "ニックネーム",
-        "副作用",
-        "散る",
-        "交わす"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ちる → 散る"
-    },
-    {
-      "id": 22,
-      "questionType": "kanji",
-      "question": "『みじたくする』qaysi yozuvga mos?",
-      "word": "身支度する",
-      "choices": [
-        "身支度する",
-        "養う",
-        "盛んな",
-        "選挙する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "みじたくする → 身支度する"
-    },
-    {
-      "id": 23,
-      "questionType": "meaning",
-      "question": "『思春期』ning ma'nosi qaysi?",
-      "word": "思春期",
-      "choices": [
-        "balog'at, o'smirlik davri",
-        "ahd qilmoq",
-        "kechirmoq",
-        "havas qiladigan, hasad qilinadigan"
-      ],
-      "correctAnswer": 0,
-      "explanation": "思春期 → balog'at, o'smirlik davri"
-    },
-    {
-      "id": 24,
-      "questionType": "word",
-      "question": "『ovoz berish, saylovda qatnashish』ning yaponcha ifodasi qaysi?",
-      "word": "投票する",
-      "choices": [
-        "雲がかかる",
-        "投票する",
-        "出身",
-        "折りたたみ傘"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ovoz berish, saylovda qatnashish → 投票する"
-    },
-    {
-      "id": 25,
-      "questionType": "reading",
-      "question": "『おしゃべりする』ning o'qilishi qaysi?",
-      "word": "おしゃべりする",
-      "choices": [
-        "あきれる",
-        "みとめる",
-        "おしゃべりする",
-        "ヘルパー"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おしゃべりする → おしゃべりする"
-    },
-    {
-      "id": 26,
-      "questionType": "reading",
-      "question": "『散る』ning o'qilishi qaysi?",
-      "word": "散る",
-      "choices": [
-        "いいつける",
-        "ちる",
-        "せんめんじょ",
-        "たべざかり"
-      ],
-      "correctAnswer": 1,
-      "explanation": "散る → ちる"
-    },
-    {
-      "id": 27,
       "questionType": "meaning",
       "question": "『商店街』ning ma'nosi qaysi?",
       "word": "商店街",
       "choices": [
+        "yadro quroli",
+        "mazali (taom); yaxshi, qobiliyatli",
         "do'konlar ko'chasi, savdo maydoni",
-        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
-        "ombor",
-        "dangasa odam"
+        "yuqori bosqichga o'tmoq"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "商店街 → do'konlar ko'chasi, savdo maydoni"
     },
     {
-      "id": 28,
+      "id": 2,
       "questionType": "kanji",
-      "question": "『かいにゅうする』qaysi yozuvga mos?",
-      "word": "介入する",
-      "choices": [
-        "無口な",
-        "ありがたい",
-        "介入する",
-        "万引きする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かいにゅうする → 介入する"
-    },
-    {
-      "id": 29,
-      "questionType": "reading",
-      "question": "『指導する』ning o'qilishi qaysi?",
-      "word": "指導する",
-      "choices": [
-        "めいちょ",
-        "ていしせい",
-        "まさか",
-        "しどうする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "指導する → しどうする"
-    },
-    {
-      "id": 30,
-      "questionType": "meaning",
-      "question": "『手すり』ning ma'nosi qaysi?",
-      "word": "手すり",
-      "choices": [
-        "oxirgi poyezd",
-        "silliq, muammosiz",
-        "qo'l tutqichi, panjara",
-        "an'ana"
-      ],
-      "correctAnswer": 2,
-      "explanation": "手すり → qo'l tutqichi, panjara"
-    },
-    {
-      "id": 31,
-      "questionType": "kanji",
-      "question": "『とうひょうする』qaysi yozuvga mos?",
-      "word": "投票する",
-      "choices": [
-        "食いしん坊",
-        "投票する",
-        "ありがたい",
-        "俺"
-      ],
-      "correctAnswer": 1,
-      "explanation": "とうひょうする → 投票する"
-    },
-    {
-      "id": 32,
-      "questionType": "reading",
-      "question": "『視線』ning o'qilishi qaysi?",
-      "word": "視線",
-      "choices": [
-        "でたらめな",
-        "うまれる",
-        "りべんせい",
-        "しせん"
-      ],
-      "correctAnswer": 3,
-      "explanation": "視線 → しせん"
-    },
-    {
-      "id": 33,
-      "questionType": "kanji",
-      "question": "『かいにゅうする』qaysi yozuvga mos?",
-      "word": "介入する",
-      "choices": [
-        "介入する",
-        "役目",
-        "込める",
-        "愛する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "かいにゅうする → 介入する"
-    },
-    {
-      "id": 34,
-      "questionType": "reading",
-      "question": "『散る』ning o'qilishi qaysi?",
-      "word": "散る",
-      "choices": [
-        "こうがくれき",
-        "なにげない",
-        "ちる",
-        "けなす"
-      ],
-      "correctAnswer": 2,
-      "explanation": "散る → ちる"
-    },
-    {
-      "id": 35,
-      "questionType": "word",
-      "question": "『aralashmoq, vositachilik qilmoq』ning yaponcha ifodasi qaysi?",
-      "word": "介入する",
-      "choices": [
-        "廃止する",
-        "涙を流す",
-        "介入する",
-        "態度"
-      ],
-      "correctAnswer": 2,
-      "explanation": "aralashmoq, vositachilik qilmoq → 介入する"
-    },
-    {
-      "id": 36,
-      "questionType": "reading",
-      "question": "『手すり』ning o'qilishi qaysi?",
-      "word": "手すり",
-      "choices": [
-        "いっか",
-        "ちょくせつ",
-        "げんしりょくはつでんしょ",
-        "てすり"
-      ],
-      "correctAnswer": 3,
-      "explanation": "手すり → てすり"
-    },
-    {
-      "id": 37,
-      "questionType": "reading",
-      "question": "『選挙する』ning o'qilishi qaysi?",
-      "word": "選挙する",
-      "choices": [
-        "あくしゅみ",
-        "ホームヘルパー",
-        "せんきょする",
-        "うむ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "選挙する → せんきょする"
-    },
-    {
-      "id": 38,
-      "questionType": "reading",
-      "question": "『身支度する』ning o'qilishi qaysi?",
-      "word": "身支度する",
-      "choices": [
-        "たいど",
-        "ふざける",
-        "ほうっておく",
-        "みじたくする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "身支度する → みじたくする"
-    },
-    {
-      "id": 39,
-      "questionType": "meaning",
-      "question": "『一目』ning ma'nosi qaysi?",
-      "word": "一目",
-      "choices": [
-        "ayblamoq",
-        "narx-navo (umumiy narxlar darajasi)",
-        "portret",
-        "bir qarash; el nigohi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "一目 → bir qarash; el nigohi"
-    },
-    {
-      "id": 40,
-      "questionType": "reading",
-      "question": "『抑える』ning o'qilishi qaysi?",
-      "word": "抑える",
-      "choices": [
-        "おさえる",
-        "じさんする",
-        "ガーデニング",
-        "かがやく"
-      ],
-      "correctAnswer": 0,
-      "explanation": "抑える → おさえる"
-    },
-    {
-      "id": 41,
-      "questionType": "kanji",
-      "question": "『せんきょする』qaysi yozuvga mos?",
-      "word": "選挙する",
-      "choices": [
-        "思いやり",
-        "よこす",
-        "土砂降り",
-        "選挙する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "せんきょする → 選挙する"
-    },
-    {
-      "id": 42,
-      "questionType": "reading",
-      "question": "『悔やむ』ning o'qilishi qaysi?",
-      "word": "悔やむ",
-      "choices": [
-        "こうろん",
-        "みとめる",
-        "ひとみがきつい",
-        "くやむ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "悔やむ → くやむ"
-    },
-    {
-      "id": 43,
-      "questionType": "word",
-      "question": "『bosmoq, jilovlamoq, cheklamoq』ning yaponcha ifodasi qaysi?",
-      "word": "抑える",
-      "choices": [
-        "懐かしい",
-        "ユニークな",
-        "抑える",
-        "ちらりと"
-      ],
-      "correctAnswer": 2,
-      "explanation": "bosmoq, jilovlamoq, cheklamoq → 抑える"
-    },
-    {
-      "id": 44,
-      "questionType": "reading",
-      "question": "『正直な』ning o'qilishi qaysi?",
+      "question": "『しょうじきな』qaysi yozuvga mos?",
       "word": "正直な",
       "choices": [
-        "むきあう",
-        "しょうじきな",
-        "ひとりぐらし",
-        "さからう"
+        "正直な",
+        "作成する",
+        "ファミリー",
+        "盛り上がる"
       ],
-      "correctAnswer": 1,
-      "explanation": "正直な → しょうじきな"
+      "correctAnswer": 0,
+      "explanation": "しょうじきな → 正直な"
     },
     {
-      "id": 45,
-      "questionType": "meaning",
-      "question": "『段差』ning ma'nosi qaysi?",
+      "id": 3,
+      "questionType": "word",
+      "question": "『balandlik farqi (pog'ona, ostona)』ning yaponcha ifodasi qaysi?",
       "word": "段差",
       "choices": [
-        "qayta uchrashmoq",
-        "balandlik farqi (pog'ona, ostona)",
-        "do'stlar",
-        "bilvosita"
-      ],
-      "correctAnswer": 1,
-      "explanation": "段差 → balandlik farqi (pog'ona, ostona)"
-    },
-    {
-      "id": 46,
-      "questionType": "kanji",
-      "question": "『しつど』qaysi yozuvga mos?",
-      "word": "湿度",
-      "choices": [
-        "湿度",
-        "頼もしい",
-        "核兵器",
-        "ガーデニング"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しつど → 湿度"
-    },
-    {
-      "id": 47,
-      "questionType": "meaning",
-      "question": "『選挙する』ning ma'nosi qaysi?",
-      "word": "選挙する",
-      "choices": [
-        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
-        "shaxsiy metod",
-        "saylamoq, saylov o'tkazmoq",
-        "nahotki, kutilmaganda"
-      ],
-      "correctAnswer": 2,
-      "explanation": "選挙する → saylamoq, saylov o'tkazmoq"
-    },
-    {
-      "id": 48,
-      "questionType": "kanji",
-      "question": "『おさえる』qaysi yozuvga mos?",
-      "word": "抑える",
-      "choices": [
-        "抑える",
-        "とっさに",
-        "投票する",
-        "身支度する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おさえる → 抑える"
-    },
-    {
-      "id": 49,
-      "questionType": "kanji",
-      "question": "『おしゃべりする』qaysi yozuvga mos?",
-      "word": "おしゃべりする",
-      "choices": [
-        "しつける",
-        "おしゃべりする",
-        "介助犬",
-        "やつ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おしゃべりする → おしゃべりする"
-    },
-    {
-      "id": 50,
-      "questionType": "meaning",
-      "question": "『投票する』ning ma'nosi qaysi?",
-      "word": "投票する",
-      "choices": [
-        "iliqlik, taft",
-        "ijara (ijaraga berish)",
-        "yaxshi (badiiy go'zal) matn",
-        "ovoz berish, saylovda qatnashish"
+        "仲間はずれ",
+        "普段",
+        "志望する",
+        "段差"
       ],
       "correctAnswer": 3,
-      "explanation": "投票する → ovoz berish, saylovda qatnashish"
+      "explanation": "balandlik farqi (pog'ona, ostona) → 段差"
     },
     {
-      "id": 51,
-      "questionType": "meaning",
-      "question": "『思いやる』ning ma'nosi qaysi?",
-      "word": "思いやる",
+      "id": 4,
+      "questionType": "kanji",
+      "question": "『ひとめ』qaysi yozuvga mos?",
+      "word": "一目",
       "choices": [
-        "arzimagan, kichik",
-        "sevib qolmoq, romantik munosabatda bo'lmoq",
-        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
-        "muhokama qilmoq, bahs yuritmoq"
+        "手数料",
+        "一目",
+        "落ち込む",
+        "だます"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ひとめ → 一目"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "指導する",
+      "choices": [
+        "収入",
+        "いまさら",
+        "指導する",
+        "多岐にわたる"
       ],
       "correctAnswer": 2,
-      "explanation": "思いやる → e'tiborli bo'lmoq, boshqalarni o'ylamoq"
+      "explanation": "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq → 指導する"
     },
     {
-      "id": 52,
+      "id": 6,
       "questionType": "reading",
       "question": "『湿度』ning o'qilishi qaysi?",
       "word": "湿度",
       "choices": [
-        "ささいな",
-        "ひとめ",
+        "しらないふり",
+        "かんりする",
         "しつど",
-        "みぎにでるものはいない"
+        "えん"
       ],
       "correctAnswer": 2,
       "explanation": "湿度 → しつど"
     },
     {
-      "id": 53,
-      "questionType": "kanji",
-      "question": "『くもがかかる』qaysi yozuvga mos?",
-      "word": "雲がかかる",
-      "choices": [
-        "密かに",
-        "他人同士",
-        "過去",
-        "雲がかかる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "くもがかかる → 雲がかかる"
-    },
-    {
-      "id": 54,
-      "questionType": "kanji",
-      "question": "『しせん』qaysi yozuvga mos?",
-      "word": "視線",
-      "choices": [
-        "視線",
-        "一家団らん",
-        "正直な",
-        "思い込む"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しせん → 視線"
-    },
-    {
-      "id": 55,
-      "questionType": "kanji",
-      "question": "『しせん』qaysi yozuvga mos?",
-      "word": "視線",
-      "choices": [
-        "低レベル",
-        "履歴",
-        "しつけ",
-        "視線"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しせん → 視線"
-    },
-    {
-      "id": 56,
-      "questionType": "reading",
-      "question": "『一目』ning o'qilishi qaysi?",
-      "word": "一目",
-      "choices": [
-        "ていがくねん",
-        "ひとめ",
-        "けっしょうせん",
-        "さぐる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "一目 → ひとめ"
-    },
-    {
-      "id": 57,
-      "questionType": "word",
-      "question": "『balog'at, o'smirlik davri』ning yaponcha ifodasi qaysi?",
-      "word": "思春期",
-      "choices": [
-        "名文",
-        "密かに",
-        "思春期",
-        "幹事"
-      ],
-      "correctAnswer": 2,
-      "explanation": "balog'at, o'smirlik davri → 思春期"
-    },
-    {
-      "id": 58,
-      "questionType": "reading",
-      "question": "『思春期』ning o'qilishi qaysi?",
-      "word": "思春期",
-      "choices": [
-        "きくばりする",
-        "ろうどうする",
-        "とうひょうする",
-        "ししゅんき"
-      ],
-      "correctAnswer": 3,
-      "explanation": "思春期 → ししゅんき"
-    },
-    {
-      "id": 59,
-      "questionType": "sentence",
-      "question": "『投票する』ning ma'nosi qaysi?",
-      "word": "投票する",
-      "choices": [
-        "ovoz berish, saylovda qatnashish",
-        "barbod, rasvo bo'lish",
-        "yomon ta'sir",
-        "xudbin, o'zboshimcha"
-      ],
-      "correctAnswer": 0,
-      "explanation": "投票する → ovoz berish, saylovda qatnashish"
-    },
-    {
-      "id": 60,
-      "questionType": "word",
-      "question": "『do'konlar ko'chasi, savdo maydoni』ning yaponcha ifodasi qaysi?",
-      "word": "商店街",
-      "choices": [
-        "密かに",
-        "産婦人科",
-        "商店街",
-        "高〜"
-      ],
-      "correctAnswer": 2,
-      "explanation": "do'konlar ko'chasi, savdo maydoni → 商店街"
-    },
-    {
-      "id": 61,
-      "questionType": "sentence",
-      "question": "『身支度する』ning ma'nosi qaysi?",
-      "word": "身支度する",
-      "choices": [
-        "yomon odat, qiliq",
-        "kiyinish, tayyorlanish",
-        "yadro quroli",
-        "men (erkaklar tilida, dag'alroq)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "身支度する → kiyinish, tayyorlanish"
-    },
-    {
-      "id": 62,
-      "questionType": "sentence",
-      "question": "『おしゃべりする』ning ma'nosi qaysi?",
-      "word": "おしゃべりする",
-      "choices": [
-        "ko'zni olib qochish",
-        "taqdir",
-        "suhbatlashmoq, gaplashmoq",
-        "yaqin do'st"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おしゃべりする → suhbatlashmoq, gaplashmoq"
-    },
-    {
-      "id": 63,
-      "questionType": "word",
-      "question": "『qo'l tutqichi, panjara』ning yaponcha ifodasi qaysi?",
-      "word": "手すり",
-      "choices": [
-        "点検する",
-        "傷つける",
-        "手すり",
-        "ありがとう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "qo'l tutqichi, panjara → 手すり"
-    },
-    {
-      "id": 64,
-      "questionType": "word",
-      "question": "『e'tiborli bo'lmoq, boshqalarni o'ylamoq』ning yaponcha ifodasi qaysi?",
-      "word": "思いやる",
-      "choices": [
-        "質素な",
-        "心細い",
-        "領土",
-        "思いやる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "e'tiborli bo'lmoq, boshqalarni o'ylamoq → 思いやる"
-    },
-    {
-      "id": 65,
-      "questionType": "word",
-      "question": "『qarash, ko'z qarashi』ning yaponcha ifodasi qaysi?",
-      "word": "視線",
-      "choices": [
-        "呼び止める",
-        "ちらりと",
-        "視線",
-        "肌"
-      ],
-      "correctAnswer": 2,
-      "explanation": "qarash, ko'z qarashi → 視線"
-    },
-    {
-      "id": 66,
-      "questionType": "kanji",
-      "question": "『しょうじきな』qaysi yozuvga mos?",
-      "word": "正直な",
-      "choices": [
-        "正直な",
-        "あくびする",
-        "まさか",
-        "好成績"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しょうじきな → 正直な"
-    },
-    {
-      "id": 67,
-      "questionType": "word",
-      "question": "『balandlik farqi (pog'ona, ostona)』ning yaponcha ifodasi qaysi?",
-      "word": "段差",
-      "choices": [
-        "励ます",
-        "振る",
-        "段差",
-        "恵まれる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "balandlik farqi (pog'ona, ostona) → 段差"
-    },
-    {
-      "id": 68,
-      "questionType": "sentence",
-      "question": "『指導する』ning ma'nosi qaysi?",
-      "word": "指導する",
-      "choices": [
-        "hozir; keldim (uyga)",
-        "qasam ichmoq",
-        "avlod (sinonim)",
-        "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "指導する → yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
-    },
-    {
-      "id": 69,
-      "questionType": "sentence",
-      "question": "『介入する』ning ma'nosi qaysi?",
-      "word": "介入する",
-      "choices": [
-        "yuvinish xonasi",
-        "aralashmoq, vositachilik qilmoq",
-        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)",
-        "sochilib ketmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "介入する → aralashmoq, vositachilik qilmoq"
-    },
-    {
-      "id": 70,
-      "questionType": "word",
-      "question": "『osmonni bulut qoplamoq』ning yaponcha ifodasi qaysi?",
-      "word": "雲がかかる",
-      "choices": [
-        "商店街",
-        "住宅ローン",
-        "雲がかかる",
-        "名産"
-      ],
-      "correctAnswer": 2,
-      "explanation": "osmonni bulut qoplamoq → 雲がかかる"
-    },
-    {
-      "id": 71,
+      "id": 7,
       "questionType": "meaning",
-      "question": "『指導する』ning ma'nosi qaysi?",
-      "word": "指導する",
-      "choices": [
-        "portret",
-        "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq",
-        "yaratmoq",
-        "keng ko'lamli, sezilarli"
-      ],
-      "correctAnswer": 1,
-      "explanation": "指導する → yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
-    },
-    {
-      "id": 72,
-      "questionType": "word",
-      "question": "『namlik』ning yaponcha ifodasi qaysi?",
-      "word": "湿度",
-      "choices": [
-        "差別する",
-        "一軒家",
-        "湿度",
-        "好条件"
-      ],
-      "correctAnswer": 2,
-      "explanation": "namlik → 湿度"
-    },
-    {
-      "id": 73,
-      "questionType": "kanji",
-      "question": "『しょうじきな』qaysi yozuvga mos?",
-      "word": "正直な",
-      "choices": [
-        "正直な",
-        "許す",
-        "万引きする",
-        "質問"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しょうじきな → 正直な"
-    },
-    {
-      "id": 74,
-      "questionType": "sentence",
       "question": "『選挙する』ning ma'nosi qaysi?",
       "word": "選挙する",
       "choices": [
-        "yomon hazil",
-        "uy ijaraga olganda to'lanadigan depozit",
-        "yupatmoq",
+        "xarajat",
+        "rozilik bildirmoq, tushunib qabul qilmoq",
+        "kuchli jala",
         "saylamoq, saylov o'tkazmoq"
       ],
       "correctAnswer": 3,
       "explanation": "選挙する → saylamoq, saylov o'tkazmoq"
     },
     {
-      "id": 75,
-      "questionType": "word",
-      "question": "『kiyinish, tayyorlanish』ning yaponcha ifodasi qaysi?",
-      "word": "身支度する",
-      "choices": [
-        "身支度する",
-        "まさか",
-        "あくびする",
-        "台無し"
-      ],
-      "correctAnswer": 0,
-      "explanation": "kiyinish, tayyorlanish → 身支度する"
-    },
-    {
-      "id": 76,
-      "questionType": "sentence",
-      "question": "『思いやる』ning ma'nosi qaysi?",
-      "word": "思いやる",
-      "choices": [
-        "qarz olmoq",
-        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
-        "qayta uchrashmoq",
-        "bekitiqcha ish qilmoq, pusmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "思いやる → e'tiborli bo'lmoq, boshqalarni o'ylamoq"
-    },
-    {
-      "id": 77,
-      "questionType": "reading",
-      "question": "『介入する』ning o'qilishi qaysi?",
-      "word": "介入する",
-      "choices": [
-        "ばかにする",
-        "たいはん",
-        "だいきぎょう",
-        "かいにゅうする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "介入する → かいにゅうする"
-    },
-    {
-      "id": 78,
-      "questionType": "kanji",
-      "question": "『おもいやる』qaysi yozuvga mos?",
-      "word": "思いやる",
-      "choices": [
-        "吠える",
-        "思いやる",
-        "出身",
-        "肌"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おもいやる → 思いやる"
-    },
-    {
-      "id": 79,
-      "questionType": "kanji",
-      "question": "『ひとめ』qaysi yozuvga mos?",
-      "word": "一目",
-      "choices": [
-        "耐震",
-        "伝統",
-        "久しぶり",
-        "一目"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ひとめ → 一目"
-    },
-    {
-      "id": 80,
-      "questionType": "kanji",
-      "question": "『てすり』qaysi yozuvga mos?",
-      "word": "手すり",
-      "choices": [
-        "手すり",
-        "心当たりのない",
-        "飼い主",
-        "大家"
-      ],
-      "correctAnswer": 0,
-      "explanation": "てすり → 手すり"
-    },
-    {
-      "id": 81,
-      "questionType": "meaning",
-      "question": "『湿度』ning ma'nosi qaysi?",
-      "word": "湿度",
-      "choices": [
-        "uy egasi",
-        "namlik",
-        "aldamoq",
-        "sevib qolmoq, romantik munosabatda bo'lmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "湿度 → namlik"
-    },
-    {
-      "id": 82,
-      "questionType": "kanji",
-      "question": "『くやむ』qaysi yozuvga mos?",
-      "word": "悔やむ",
-      "choices": [
-        "北向き",
-        "我が家",
-        "自立する",
-        "悔やむ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "くやむ → 悔やむ"
-    },
-    {
-      "id": 83,
-      "questionType": "reading",
-      "question": "『商店街』ning o'qilishi qaysi?",
-      "word": "商店街",
-      "choices": [
-        "ありがたい",
-        "こうがくねん",
-        "しょうてんがい",
-        "ていレベル"
-      ],
-      "correctAnswer": 2,
-      "explanation": "商店街 → しょうてんがい"
-    },
-    {
-      "id": 84,
-      "questionType": "word",
-      "question": "『afsuslanmoq, pushaymon bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "悔やむ",
-      "choices": [
-        "学食",
-        "励ます",
-        "仲良し",
-        "悔やむ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "afsuslanmoq, pushaymon bo'lmoq → 悔やむ"
-    },
-    {
-      "id": 85,
-      "questionType": "reading",
-      "question": "『雲がかかる』ning o'qilishi qaysi?",
-      "word": "雲がかかる",
-      "choices": [
-        "かんせつ",
-        "だいきぎょう",
-        "りょうど",
-        "くもがかかる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "雲がかかる → くもがかかる"
-    },
-    {
-      "id": 86,
-      "questionType": "reading",
-      "question": "『手すり』ning o'qilishi qaysi?",
-      "word": "手すり",
-      "choices": [
-        "てすり",
-        "おやしらず",
-        "れんあいする",
-        "ふざける"
-      ],
-      "correctAnswer": 0,
-      "explanation": "手すり → てすり"
-    },
-    {
-      "id": 87,
-      "questionType": "reading",
-      "question": "『思いやる』ning o'qilishi qaysi?",
-      "word": "思いやる",
-      "choices": [
-        "かいじょけん",
-        "みならう",
-        "かいひ",
-        "おもいやる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "思いやる → おもいやる"
-    },
-    {
-      "id": 88,
-      "questionType": "meaning",
-      "question": "『抑える』ning ma'nosi qaysi?",
-      "word": "抑える",
-      "choices": [
-        "muloqot qilmoq, aloqada bo'lmoq",
-        "ko'rsatmoq, aks ettirmoq (ekranda)",
-        "bosmoq, jilovlamoq, cheklamoq",
-        "yomon odat"
-      ],
-      "correctAnswer": 2,
-      "explanation": "抑える → bosmoq, jilovlamoq, cheklamoq"
-    },
-    {
-      "id": 89,
-      "questionType": "reading",
-      "question": "『抑える』ning o'qilishi qaysi?",
-      "word": "抑える",
-      "choices": [
-        "なまけもの",
-        "おさえる",
-        "マイホーム",
-        "かくへいき"
-      ],
-      "correctAnswer": 1,
-      "explanation": "抑える → おさえる"
-    },
-    {
-      "id": 90,
-      "questionType": "word",
-      "question": "『afsuslanmoq, pushaymon bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "悔やむ",
-      "choices": [
-        "悔やむ",
-        "いやみな",
-        "野外",
-        "職場"
-      ],
-      "correctAnswer": 0,
-      "explanation": "afsuslanmoq, pushaymon bo'lmoq → 悔やむ"
-    },
-    {
-      "id": 91,
-      "questionType": "reading",
-      "question": "『一目』ning o'qilishi qaysi?",
-      "word": "一目",
-      "choices": [
-        "たどりつく",
-        "ひとめ",
-        "そらす",
-        "でんとう"
-      ],
-      "correctAnswer": 1,
-      "explanation": "一目 → ひとめ"
-    },
-    {
-      "id": 92,
-      "questionType": "meaning",
-      "question": "『雲がかかる』ning ma'nosi qaysi?",
-      "word": "雲がかかる",
-      "choices": [
-        "osmonni bulut qoplamoq",
-        "keng qamrovli",
-        "yordamchi",
-        "mashhur joy"
-      ],
-      "correctAnswer": 0,
-      "explanation": "雲がかかる → osmonni bulut qoplamoq"
-    },
-    {
-      "id": 93,
-      "questionType": "reading",
-      "question": "『投票する』ning o'qilishi qaysi?",
-      "word": "投票する",
-      "choices": [
-        "みぎにでるものはいない",
-        "とうひょうする",
-        "こうじつ",
-        "ていこうする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "投票する → とうひょうする"
-    },
-    {
-      "id": 94,
-      "questionType": "kanji",
-      "question": "『ひとめ』qaysi yozuvga mos?",
-      "word": "一目",
-      "choices": [
-        "一目",
-        "うらやましい",
-        "好人物",
-        "選挙する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ひとめ → 一目"
-    },
-    {
-      "id": 95,
-      "questionType": "meaning",
-      "question": "『正直な』ning ma'nosi qaysi?",
-      "word": "正直な",
-      "choices": [
-        "rostgo'y, halol",
-        "betashvish",
-        "begona, birov",
-        "yubormoq, berib yubormoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "正直な → rostgo'y, halol"
-    },
-    {
-      "id": 96,
-      "questionType": "kanji",
-      "question": "『くやむ』qaysi yozuvga mos?",
-      "word": "悔やむ",
-      "choices": [
-        "悔やむ",
-        "質素な",
-        "骨折する",
-        "盛んな"
-      ],
-      "correctAnswer": 0,
-      "explanation": "くやむ → 悔やむ"
-    },
-    {
-      "id": 97,
-      "questionType": "kanji",
-      "question": "『ししゅんき』qaysi yozuvga mos?",
-      "word": "思春期",
-      "choices": [
-        "思春期",
-        "振り返る",
-        "礼金",
-        "カップル"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ししゅんき → 思春期"
-    },
-    {
-      "id": 98,
-      "questionType": "kanji",
-      "question": "『しつど』qaysi yozuvga mos?",
-      "word": "湿度",
-      "choices": [
-        "湿度",
-        "口を利く",
-        "似顔絵",
-        "一家団らん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しつど → 湿度"
-    },
-    {
-      "id": 99,
-      "questionType": "word",
-      "question": "『tarqalmoq, sochilib tushmoq』ning yaponcha ifodasi qaysi?",
-      "word": "散る",
-      "choices": [
-        "散る",
-        "悪知恵",
-        "まさか",
-        "マイホーム"
-      ],
-      "correctAnswer": 0,
-      "explanation": "tarqalmoq, sochilib tushmoq → 散る"
-    },
-    {
-      "id": 100,
-      "questionType": "meaning",
-      "question": "『おしゃべりする』ning ma'nosi qaysi?",
-      "word": "おしゃべりする",
-      "choices": [
-        "aytib qo'ymoq, fosh qilish",
-        "suhbatlashmoq, gaplashmoq",
-        "xayolga kelmaydigan, noma'lum",
-        "uy"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おしゃべりする → suhbatlashmoq, gaplashmoq"
-    },
-    {
-      "id": 101,
-      "questionType": "word",
-      "question": "『rostgo'y, halol』ning yaponcha ifodasi qaysi?",
-      "word": "正直な",
-      "choices": [
-        "正直な",
-        "わが町",
-        "散らかる",
-        "かつ丼"
-      ],
-      "correctAnswer": 0,
-      "explanation": "rostgo'y, halol → 正直な"
-    },
-    {
-      "id": 102,
-      "questionType": "word",
-      "question": "『kiyinish, tayyorlanish』ning yaponcha ifodasi qaysi?",
-      "word": "身支度する",
-      "choices": [
-        "愛情",
-        "身支度する",
-        "終電",
-        "手前"
-      ],
-      "correctAnswer": 1,
-      "explanation": "kiyinish, tayyorlanish → 身支度する"
-    },
-    {
-      "id": 103,
-      "questionType": "reading",
-      "question": "『湿度』ning o'qilishi qaysi?",
-      "word": "湿度",
-      "choices": [
-        "しつど",
-        "よびとめる",
-        "おんだんな",
-        "たにん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "湿度 → しつど"
-    },
-    {
-      "id": 104,
-      "questionType": "meaning",
-      "question": "『おしゃべりする』ning ma'nosi qaysi?",
-      "word": "おしゃべりする",
-      "choices": [
-        "mazax qilmoq",
-        "o'sha inson, anovi",
-        "suhbatlashmoq, gaplashmoq",
-        "atigi, bor-yo'g'i"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おしゃべりする → suhbatlashmoq, gaplashmoq"
-    },
-    {
-      "id": 105,
-      "questionType": "kanji",
-      "question": "『おもいやる』qaysi yozuvga mos?",
-      "word": "思いやる",
-      "choices": [
-        "思いやる",
-        "おしゃべりする",
-        "名案",
-        "けなす"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おもいやる → 思いやる"
-    },
-    {
-      "id": 106,
-      "questionType": "kanji",
-      "question": "『だんさ』qaysi yozuvga mos?",
-      "word": "段差",
-      "choices": [
-        "口を利く",
-        "意志",
-        "段差",
-        "直接"
-      ],
-      "correctAnswer": 2,
-      "explanation": "だんさ → 段差"
-    },
-    {
-      "id": 107,
-      "questionType": "kanji",
-      "question": "『しょうてんがい』qaysi yozuvga mos?",
-      "word": "商店街",
-      "choices": [
-        "見つめる",
-        "豊富な",
-        "商店街",
-        "拍手する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しょうてんがい → 商店街"
-    },
-    {
-      "id": 108,
-      "questionType": "kanji",
-      "question": "『ししゅんき』qaysi yozuvga mos?",
-      "word": "思春期",
-      "choices": [
-        "住宅ローン",
-        "思春期",
-        "災害",
-        "投票する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ししゅんき → 思春期"
-    },
-    {
-      "id": 109,
+      "id": 8,
       "questionType": "reading",
       "question": "『段差』ning o'qilishi qaysi?",
       "word": "段差",
       "choices": [
-        "かいじょけん",
-        "なか",
-        "こうじょうけん",
+        "きまり",
+        "とうひょうする",
+        "とっさに",
         "だんさ"
       ],
       "correctAnswer": 3,
       "explanation": "段差 → だんさ"
     },
     {
-      "id": 110,
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『おさえる』qaysi yozuvga mos?",
+      "word": "抑える",
+      "choices": [
+        "含む",
+        "抑える",
+        "たどり着く",
+        "好き嫌い"
+      ],
+      "correctAnswer": 1,
+      "explanation": "おさえる → 抑える"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『身支度する』ning ma'nosi qaysi?",
+      "word": "身支度する",
+      "choices": [
+        "kiyinish, tayyorlanish",
+        "oziq-ovqat xarajati",
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "harakat qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "身支度する → kiyinish, tayyorlanish"
+    },
+    {
+      "id": 11,
+      "questionType": "meaning",
+      "question": "『段差』ning ma'nosi qaysi?",
+      "word": "段差",
+      "choices": [
+        "kamarli topmoq, yetarli emasdek tuyulmoq",
+        "farzand ko'rganlik tabrigi, sovg'asi",
+        "balandlik farqi (pog'ona, ostona)",
+        "qarash, ko'z qarashi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "段差 → balandlik farqi (pog'ona, ostona)"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『ovoz berish, saylovda qatnashish』ning yaponcha ifodasi qaysi?",
+      "word": "投票する",
+      "choices": [
+        "思いやる",
+        "投票する",
+        "相談に乗る",
+        "ジェネレーション"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ovoz berish, saylovda qatnashish → 投票する"
+    },
+    {
+      "id": 13,
+      "questionType": "meaning",
+      "question": "『思春期』ning ma'nosi qaysi?",
+      "word": "思春期",
+      "choices": [
+        "yoqtirish yoqtirmaslik, did",
+        "yirik kompaniyalar",
+        "balog'at, o'smirlik davri",
+        "tishlamoq, g'ajimoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "思春期 → balog'at, o'smirlik davri"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『手すり』ning o'qilishi qaysi?",
+      "word": "手すり",
+      "choices": [
+        "こうりつてきな",
+        "しえんする",
+        "てすり",
+        "はなよめ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "手すり → てすり"
+    },
+    {
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『しどうする』qaysi yozuvga mos?",
+      "word": "指導する",
+      "choices": [
+        "指導する",
+        "盛り上がる",
+        "わが国",
+        "好物"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しどうする → 指導する"
+    },
+    {
+      "id": 16,
+      "questionType": "meaning",
+      "question": "『湿度』ning ma'nosi qaysi?",
+      "word": "湿度",
+      "choices": [
+        "yaxshi shifokor",
+        "iroda, qat'iy niyat",
+        "namlik",
+        "signal, ogohlantirish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "湿度 → namlik"
+    },
+    {
+      "id": 17,
+      "questionType": "meaning",
+      "question": "『身支度する』ning ma'nosi qaysi?",
+      "word": "身支度する",
+      "choices": [
+        "kiyinish, tayyorlanish",
+        "jinoyatni oldini olish, himoya qilish",
+        "diskvalifikatsiya qilinmoq",
+        "undamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "身支度する → kiyinish, tayyorlanish"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『散る』ning ma'nosi qaysi?",
+      "word": "散る",
+      "choices": [
+        "maqtamoq, olqishlamoq",
+        "ayrib tashlamoq",
+        "tarqalmoq, sochilib tushmoq",
+        "kommunal to'lov"
+      ],
+      "correctAnswer": 2,
+      "explanation": "散る → tarqalmoq, sochilib tushmoq"
+    },
+    {
+      "id": 19,
+      "questionType": "reading",
+      "question": "『湿度』ning o'qilishi qaysi?",
+      "word": "湿度",
+      "choices": [
+        "どなる",
+        "しつど",
+        "ローン",
+        "ファミレス"
+      ],
+      "correctAnswer": 1,
+      "explanation": "湿度 → しつど"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『とうひょうする』qaysi yozuvga mos?",
+      "word": "投票する",
+      "choices": [
+        "抱える",
+        "投票する",
+        "決心",
+        "住宅ローン"
+      ],
+      "correctAnswer": 1,
+      "explanation": "とうひょうする → 投票する"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『rostgo'y, halol』ning yaponcha ifodasi qaysi?",
+      "word": "正直な",
+      "choices": [
+        "ルール",
+        "秘密",
+        "正直な",
+        "もてなす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "rostgo'y, halol → 正直な"
+    },
+    {
+      "id": 22,
+      "questionType": "reading",
+      "question": "『散る』ning o'qilishi qaysi?",
+      "word": "散る",
+      "choices": [
+        "こうきあつ",
+        "ちる",
+        "ていしせい",
+        "カーディガン"
+      ],
+      "correctAnswer": 1,
+      "explanation": "散る → ちる"
+    },
+    {
+      "id": 23,
+      "questionType": "reading",
+      "question": "『思いやる』ning o'qilishi qaysi?",
+      "word": "思いやる",
+      "choices": [
+        "はいしする",
+        "おもいやる",
+        "たいしん",
+        "あかじ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "思いやる → おもいやる"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『しょうてんがい』qaysi yozuvga mos?",
+      "word": "商店街",
+      "choices": [
+        "散らかる",
+        "東向き",
+        "ジェネレーション",
+        "商店街"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しょうてんがい → 商店街"
+    },
+    {
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『雲がかかる』ning ma'nosi qaysi?",
+      "word": "雲がかかる",
+      "choices": [
+        "osmonni bulut qoplamoq",
+        "iliq, mo'tadil (iqlim)",
+        "havas qiladigan, hasad qilinadigan",
+        "tayanmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "雲がかかる → osmonni bulut qoplamoq"
+    },
+    {
+      "id": 26,
+      "questionType": "meaning",
+      "question": "『介入する』ning ma'nosi qaysi?",
+      "word": "介入する",
+      "choices": [
+        "teri",
+        "aralashmoq, vositachilik qilmoq",
+        "istak bildirmoq, (o'qish, ishga) intilmoq",
+        "siyosat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "介入する → aralashmoq, vositachilik qilmoq"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『おもいやる』qaysi yozuvga mos?",
+      "word": "思いやる",
+      "choices": [
+        "甘え",
+        "思いやる",
+        "むしろ",
+        "通信する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "おもいやる → 思いやる"
+    },
+    {
+      "id": 28,
+      "questionType": "reading",
+      "question": "『手すり』ning o'qilishi qaysi?",
+      "word": "手すり",
+      "choices": [
+        "あかじ",
+        "てすり",
+        "かいけいする",
+        "きたえる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "手すり → てすり"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『bosmoq, jilovlamoq, cheklamoq』ning yaponcha ifodasi qaysi?",
+      "word": "抑える",
+      "choices": [
+        "高性能",
+        "悪循環",
+        "しつけ",
+        "抑える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "bosmoq, jilovlamoq, cheklamoq → 抑える"
+    },
+    {
+      "id": 30,
+      "questionType": "sentence",
+      "question": "『雲がかかる』ning ma'nosi qaysi?",
+      "word": "雲がかかる",
+      "choices": [
+        "bir yilda ishga kirgan tengdosh, kursdosh",
+        "osmonni bulut qoplamoq",
+        "pul oldi berdi qilmoq",
+        "og'zi bo'sh (sir saqlay olmaydigan)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "雲がかかる → osmonni bulut qoplamoq"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『みじたくする』qaysi yozuvga mos?",
+      "word": "身支度する",
+      "choices": [
+        "誓う",
+        "悪循環",
+        "自分勝手な",
+        "身支度する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "みじたくする → 身支度する"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『湿度』ning ma'nosi qaysi?",
+      "word": "湿度",
+      "choices": [
+        "qo'rqinchli his qilish",
+        "jon kuydirib xizmat qilmoq, bag'ishlamoq",
+        "namlik",
+        "yirik kompaniyalar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "湿度 → namlik"
+    },
+    {
+      "id": 33,
+      "questionType": "meaning",
+      "question": "『思いやる』ning ma'nosi qaysi?",
+      "word": "思いやる",
+      "choices": [
+        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
+        "keksa it",
+        "mehr",
+        "ichib o'zini yomon his qilish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "思いやる → e'tiborli bo'lmoq, boshqalarni o'ylamoq"
+    },
+    {
+      "id": 34,
+      "questionType": "meaning",
+      "question": "『散る』ning ma'nosi qaysi?",
+      "word": "散る",
+      "choices": [
+        "beqaror",
+        "hisob-kitob, taxminiy narx",
+        "tarqalmoq, sochilib tushmoq",
+        "yashirincha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "散る → tarqalmoq, sochilib tushmoq"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『くもがかかる』qaysi yozuvga mos?",
+      "word": "雲がかかる",
+      "choices": [
+        "好物",
+        "雲がかかる",
+        "制限する",
+        "貸し借りする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "くもがかかる → 雲がかかる"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『抑える』ning o'qilishi qaysi?",
+      "word": "抑える",
+      "choices": [
+        "ちゅうしょうきぎょう",
+        "ひとりぐらし",
+        "おさえる",
+        "がくひ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "抑える → おさえる"
+    },
+    {
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『だんさ』qaysi yozuvga mos?",
+      "word": "段差",
+      "choices": [
+        "せいぜい",
+        "うらむ",
+        "段差",
+        "仲間はずれ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "だんさ → 段差"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『思春期』ning o'qilishi qaysi?",
+      "word": "思春期",
+      "choices": [
+        "あんていてきな",
+        "みとめる",
+        "ししゅんき",
+        "りょうど"
+      ],
+      "correctAnswer": 2,
+      "explanation": "思春期 → ししゅんき"
+    },
+    {
+      "id": 39,
+      "questionType": "sentence",
+      "question": "『おしゃべりする』ning ma'nosi qaysi?",
+      "word": "おしゃべりする",
+      "choices": [
+        "ehtimol",
+        "keskin, qat'iy",
+        "o'ta rasmiy, siqiq (muhit)",
+        "suhbatlashmoq, gaplashmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "おしゃべりする → suhbatlashmoq, gaplashmoq"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『選挙する』ning o'qilishi qaysi?",
+      "word": "選挙する",
+      "choices": [
+        "ガーデニング",
+        "せんきょする",
+        "なまけもの",
+        "ユニークな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "選挙する → せんきょする"
+    },
+    {
+      "id": 41,
       "questionType": "reading",
       "question": "『正直な』ning o'qilishi qaysi?",
       "word": "正直な",
       "choices": [
-        "いまさら",
-        "せい",
-        "よびだす",
-        "しょうじきな"
+        "しんらいする",
+        "しょうじきな",
+        "そうだんにのる",
+        "だいこうぶつ"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "正直な → しょうじきな"
     },
     {
-      "id": 111,
+      "id": 42,
+      "questionType": "sentence",
+      "question": "『介入する』ning ma'nosi qaysi?",
+      "word": "介入する",
+      "choices": [
+        "xatosini anglab mulohaza qilmoq",
+        "o'ylamasdan qilingan, rahmsiz",
+        "noto'g'ri tushunib olish",
+        "aralashmoq, vositachilik qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "介入する → aralashmoq, vositachilik qilmoq"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『思春期』ning o'qilishi qaysi?",
+      "word": "思春期",
+      "choices": [
+        "ししゅんき",
+        "へんさいする",
+        "めいぶん",
+        "かいひ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "思春期 → ししゅんき"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『だんさ』qaysi yozuvga mos?",
+      "word": "段差",
+      "choices": [
+        "赤字",
+        "段差",
+        "選挙する",
+        "しみじみ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "だんさ → 段差"
+    },
+    {
+      "id": 45,
       "questionType": "kanji",
       "question": "『せんきょする』qaysi yozuvga mos?",
       "word": "選挙する",
       "choices": [
-        "名医",
-        "コミュニケーション",
+        "感心する",
         "選挙する",
-        "継ぐ"
+        "北向き",
+        "恋愛する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "せんきょする → 選挙する"
+    },
+    {
+      "id": 46,
+      "questionType": "word",
+      "question": "『rostgo'y, halol』ning yaponcha ifodasi qaysi?",
+      "word": "正直な",
+      "choices": [
+        "気配りする",
+        "正直な",
+        "領土",
+        "向き合う"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rostgo'y, halol → 正直な"
+    },
+    {
+      "id": 47,
+      "questionType": "meaning",
+      "question": "『思春期』ning ma'nosi qaysi?",
+      "word": "思春期",
+      "choices": [
+        "olib kelmoq (o'zi bilan)",
+        "maqtamoq, olqishlamoq",
+        "balog'at, o'smirlik davri",
+        "noto'g'ri tushunib olish"
       ],
       "correctAnswer": 2,
+      "explanation": "思春期 → balog'at, o'smirlik davri"
+    },
+    {
+      "id": 48,
+      "questionType": "reading",
+      "question": "『雲がかかる』ning o'qilishi qaysi?",
+      "word": "雲がかかる",
+      "choices": [
+        "だます",
+        "くもがかかる",
+        "ししゅんき",
+        "たきにわたる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "雲がかかる → くもがかかる"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『悔やむ』ning ma'nosi qaysi?",
+      "word": "悔やむ",
+      "choices": [
+        "funksionallik",
+        "alohida (xususiy) hovlili uy",
+        "yechilmoq; erimoq",
+        "afsuslanmoq, pushaymon bo'lmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "悔やむ → afsuslanmoq, pushaymon bo'lmoq"
+    },
+    {
+      "id": 50,
+      "questionType": "word",
+      "question": "『qarash, ko'z qarashi』ning yaponcha ifodasi qaysi?",
+      "word": "視線",
+      "choices": [
+        "再会する",
+        "一目",
+        "視線",
+        "友達同士"
+      ],
+      "correctAnswer": 2,
+      "explanation": "qarash, ko'z qarashi → 視線"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『てすり』qaysi yozuvga mos?",
+      "word": "手すり",
+      "choices": [
+        "公共料金",
+        "手すり",
+        "マニュアル",
+        "独立する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てすり → 手すり"
+    },
+    {
+      "id": 52,
+      "questionType": "sentence",
+      "question": "『投票する』ning ma'nosi qaysi?",
+      "word": "投票する",
+      "choices": [
+        "iliqlik, taft",
+        "ovoz berish, saylovda qatnashish",
+        "a'zo to'lovi",
+        "portret"
+      ],
+      "correctAnswer": 1,
+      "explanation": "投票する → ovoz berish, saylovda qatnashish"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『介入する』ning ma'nosi qaysi?",
+      "word": "介入する",
+      "choices": [
+        "iste'dod",
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "shogird, o'rganuvchi",
+        "aralashmoq, vositachilik qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "介入する → aralashmoq, vositachilik qilmoq"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『kiyinish, tayyorlanish』ning yaponcha ifodasi qaysi?",
+      "word": "身支度する",
+      "choices": [
+        "株価",
+        "低姿勢",
+        "身支度する",
+        "集中力"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kiyinish, tayyorlanish → 身支度する"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『ちる』qaysi yozuvga mos?",
+      "word": "散る",
+      "choices": [
+        "お互い",
+        "選挙する",
+        "散る",
+        "志望する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちる → 散る"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『しょうじきな』qaysi yozuvga mos?",
+      "word": "正直な",
+      "choices": [
+        "正直な",
+        "正午",
+        "名人",
+        "甘やかす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しょうじきな → 正直な"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『ししゅんき』qaysi yozuvga mos?",
+      "word": "思春期",
+      "choices": [
+        "思春期",
+        "南向き",
+        "悪循環",
+        "支出"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ししゅんき → 思春期"
+    },
+    {
+      "id": 58,
+      "questionType": "sentence",
+      "question": "『選挙する』ning ma'nosi qaysi?",
+      "word": "選挙する",
+      "choices": [
+        "yig'lamoq",
+        "saylamoq, saylov o'tkazmoq",
+        "qo'shmoq, kiritmoq",
+        "bekitiqcha ish qilmoq, pusmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "選挙する → saylamoq, saylov o'tkazmoq"
+    },
+    {
+      "id": 59,
+      "questionType": "word",
+      "question": "『afsuslanmoq, pushaymon bo'lmoq』ning yaponcha ifodasi qaysi?",
+      "word": "悔やむ",
+      "choices": [
+        "学食",
+        "悔やむ",
+        "同意する",
+        "もてなす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "afsuslanmoq, pushaymon bo'lmoq → 悔やむ"
+    },
+    {
+      "id": 60,
+      "questionType": "reading",
+      "question": "『段差』ning o'qilishi qaysi?",
+      "word": "段差",
+      "choices": [
+        "こうがくねん",
+        "せいさんする",
+        "だんさ",
+        "れいきん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "段差 → だんさ"
+    },
+    {
+      "id": 61,
+      "questionType": "kanji",
+      "question": "『おもいやる』qaysi yozuvga mos?",
+      "word": "思いやる",
+      "choices": [
+        "思いやる",
+        "心当たり",
+        "南向き",
+        "気楽な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おもいやる → 思いやる"
+    },
+    {
+      "id": 62,
+      "questionType": "kanji",
+      "question": "『かいにゅうする』qaysi yozuvga mos?",
+      "word": "介入する",
+      "choices": [
+        "新郎新婦",
+        "介入する",
+        "悪知恵",
+        "むしろ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かいにゅうする → 介入する"
+    },
+    {
+      "id": 63,
+      "questionType": "word",
+      "question": "『e'tiborli bo'lmoq, boshqalarni o'ylamoq』ning yaponcha ifodasi qaysi?",
+      "word": "思いやる",
+      "choices": [
+        "思いやる",
+        "そらす",
+        "終電",
+        "蚊"
+      ],
+      "correctAnswer": 0,
+      "explanation": "e'tiborli bo'lmoq, boshqalarni o'ylamoq → 思いやる"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『一目』ning o'qilishi qaysi?",
+      "word": "一目",
+      "choices": [
+        "あくじょうけん",
+        "いんしょう",
+        "めいじん",
+        "ひとめ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "一目 → ひとめ"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『てすり』qaysi yozuvga mos?",
+      "word": "手すり",
+      "choices": [
+        "まさか",
+        "スムーズな",
+        "手すり",
+        "崩れる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てすり → 手すり"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『身支度する』ning o'qilishi qaysi?",
+      "word": "身支度する",
+      "choices": [
+        "かたりあう",
+        "うつむく",
+        "みじたくする",
+        "さっする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "身支度する → みじたくする"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『ちる』qaysi yozuvga mos?",
+      "word": "散る",
+      "choices": [
+        "招く",
+        "北向き",
+        "見つめる",
+        "散る"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちる → 散る"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『しせん』qaysi yozuvga mos?",
+      "word": "視線",
+      "choices": [
+        "息を切らす",
+        "手元",
+        "てっきり",
+        "視線"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しせん → 視線"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『正直な』ning o'qilishi qaysi?",
+      "word": "正直な",
+      "choices": [
+        "しょうじきな",
+        "しっそな",
+        "みとめる",
+        "かいけつする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "正直な → しょうじきな"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『おしゃべりする』ning ma'nosi qaysi?",
+      "word": "おしゃべりする",
+      "choices": [
+        "ijara (ijaraga berish)",
+        "shahrimiz",
+        "suhbatlashmoq, gaplashmoq",
+        "ishchi kuchi xarajati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おしゃべりする → suhbatlashmoq, gaplashmoq"
+    },
+    {
+      "id": 71,
+      "questionType": "sentence",
+      "question": "『思いやる』ning ma'nosi qaysi?",
+      "word": "思いやる",
+      "choices": [
+        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
+        "ko'chirib yozmoq; suratga olmoq",
+        "sevmoq",
+        "juftlik"
+      ],
+      "correctAnswer": 0,
+      "explanation": "思いやる → e'tiborli bo'lmoq, boshqalarni o'ylamoq"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『qarash, ko'z qarashi』ning yaponcha ifodasi qaysi?",
+      "word": "視線",
+      "choices": [
+        "視線",
+        "つくづくと",
+        "ペア",
+        "わが国"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qarash, ko'z qarashi → 視線"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『商店街』ning o'qilishi qaysi?",
+      "word": "商店街",
+      "choices": [
+        "やしなう",
+        "[〜を]むすびつける",
+        "しょうてんがい",
+        "ぶっか"
+      ],
+      "correctAnswer": 2,
+      "explanation": "商店街 → しょうてんがい"
+    },
+    {
+      "id": 74,
+      "questionType": "kanji",
+      "question": "『せんきょする』qaysi yozuvga mos?",
+      "word": "選挙する",
+      "choices": [
+        "選挙する",
+        "甘え",
+        "むしろ",
+        "こっそり"
+      ],
+      "correctAnswer": 0,
       "explanation": "せんきょする → 選挙する"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『とうひょうする』qaysi yozuvga mos?",
+      "word": "投票する",
+      "choices": [
+        "投票する",
+        "家屋",
+        "自分勝手な",
+        "空間"
+      ],
+      "correctAnswer": 0,
+      "explanation": "とうひょうする → 投票する"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『悔やむ』ning o'qilishi qaysi?",
+      "word": "悔やむ",
+      "choices": [
+        "くやむ",
+        "こうぶつ",
+        "たよる",
+        "きんく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "悔やむ → くやむ"
+    },
+    {
+      "id": 77,
+      "questionType": "word",
+      "question": "『saylamoq, saylov o'tkazmoq』ning yaponcha ifodasi qaysi?",
+      "word": "選挙する",
+      "choices": [
+        "操作する",
+        "強化する",
+        "選挙する",
+        "悪習慣"
+      ],
+      "correctAnswer": 2,
+      "explanation": "saylamoq, saylov o'tkazmoq → 選挙する"
+    },
+    {
+      "id": 78,
+      "questionType": "kanji",
+      "question": "『おしゃべりする』qaysi yozuvga mos?",
+      "word": "おしゃべりする",
+      "choices": [
+        "頑丈な",
+        "終電",
+        "おしゃべりする",
+        "出身"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おしゃべりする → おしゃべりする"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『しつど』qaysi yozuvga mos?",
+      "word": "湿度",
+      "choices": [
+        "発着する",
+        "ファミリー",
+        "湿度",
+        "大金"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しつど → 湿度"
+    },
+    {
+      "id": 80,
+      "questionType": "meaning",
+      "question": "『雲がかかる』ning ma'nosi qaysi?",
+      "word": "雲がかかる",
+      "choices": [
+        "osmonni bulut qoplamoq",
+        "uzoq vaqt",
+        "yerga urmoq",
+        "tashxis qo'yish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "雲がかかる → osmonni bulut qoplamoq"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『くやむ』qaysi yozuvga mos?",
+      "word": "悔やむ",
+      "choices": [
+        "相談に乗る",
+        "悔やむ",
+        "養う",
+        "志望する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "くやむ → 悔やむ"
+    },
+    {
+      "id": 82,
+      "questionType": "reading",
+      "question": "『一目』ning o'qilishi qaysi?",
+      "word": "一目",
+      "choices": [
+        "しんろうしんぷ",
+        "あわせる",
+        "ひとめ",
+        "みとめる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "一目 → ひとめ"
+    },
+    {
+      "id": 83,
+      "questionType": "word",
+      "question": "『ovoz berish, saylovda qatnashish』ning yaponcha ifodasi qaysi?",
+      "word": "投票する",
+      "choices": [
+        "頼もしい",
+        "職場",
+        "投票する",
+        "ペア"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ovoz berish, saylovda qatnashish → 投票する"
+    },
+    {
+      "id": 84,
+      "questionType": "kanji",
+      "question": "『ひとめ』qaysi yozuvga mos?",
+      "word": "一目",
+      "choices": [
+        "学食",
+        "迷惑行為",
+        "鍛える",
+        "一目"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ひとめ → 一目"
+    },
+    {
+      "id": 85,
+      "questionType": "word",
+      "question": "『bir qarash; el nigohi』ning yaponcha ifodasi qaysi?",
+      "word": "一目",
+      "choices": [
+        "収入",
+        "舌",
+        "一目",
+        "あいつ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "bir qarash; el nigohi → 一目"
+    },
+    {
+      "id": 86,
+      "questionType": "kanji",
+      "question": "『くやむ』qaysi yozuvga mos?",
+      "word": "悔やむ",
+      "choices": [
+        "言い訳",
+        "悔やむ",
+        "えさ",
+        "促す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "くやむ → 悔やむ"
+    },
+    {
+      "id": 87,
+      "questionType": "reading",
+      "question": "『指導する』ning o'qilishi qaysi?",
+      "word": "指導する",
+      "choices": [
+        "しどうする",
+        "つぐ",
+        "そうさする",
+        "めいちょ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "指導する → しどうする"
+    },
+    {
+      "id": 88,
+      "questionType": "reading",
+      "question": "『抑える』ning o'qilishi qaysi?",
+      "word": "抑える",
+      "choices": [
+        "うらやましい",
+        "だんさ",
+        "おさえる",
+        "しゅうちゅうりょく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "抑える → おさえる"
+    },
+    {
+      "id": 89,
+      "questionType": "kanji",
+      "question": "『しどうする』qaysi yozuvga mos?",
+      "word": "指導する",
+      "choices": [
+        "指導する",
+        "物音",
+        "フルコース",
+        "納得する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しどうする → 指導する"
+    },
+    {
+      "id": 90,
+      "questionType": "meaning",
+      "question": "『一目』ning ma'nosi qaysi?",
+      "word": "一目",
+      "choices": [
+        "norozilik bildirmoq",
+        "bir qarash; el nigohi",
+        "balandlik farqi (pog'ona, ostona)",
+        "ayrib tashlamoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "一目 → bir qarash; el nigohi"
+    },
+    {
+      "id": 91,
+      "questionType": "reading",
+      "question": "『商店街』ning o'qilishi qaysi?",
+      "word": "商店街",
+      "choices": [
+        "ささいな",
+        "きっぱり",
+        "しょうてんがい",
+        "がっしりと"
+      ],
+      "correctAnswer": 2,
+      "explanation": "商店街 → しょうてんがい"
+    },
+    {
+      "id": 92,
+      "questionType": "reading",
+      "question": "『視線』ning o'qilishi qaysi?",
+      "word": "視線",
+      "choices": [
+        "しせん",
+        "ふりかえる",
+        "たのもしい",
+        "むすびつく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "視線 → しせん"
+    },
+    {
+      "id": 93,
+      "questionType": "reading",
+      "question": "『散る』ning o'qilishi qaysi?",
+      "word": "散る",
+      "choices": [
+        "ちる",
+        "やせる",
+        "こころない",
+        "ふりかえる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "散る → ちる"
+    },
+    {
+      "id": 94,
+      "questionType": "reading",
+      "question": "『投票する』ning o'qilishi qaysi?",
+      "word": "投票する",
+      "choices": [
+        "おおはばな",
+        "がんじょうな",
+        "きんもつ",
+        "とうひょうする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "投票する → とうひょうする"
+    },
+    {
+      "id": 95,
+      "questionType": "meaning",
+      "question": "『手すり』ning ma'nosi qaysi?",
+      "word": "手すり",
+      "choices": [
+        "buzmoq, tartibsiz holga keltirmoq",
+        "omadsiz",
+        "mashhur rasm; mashhur film",
+        "qo'l tutqichi, panjara"
+      ],
+      "correctAnswer": 3,
+      "explanation": "手すり → qo'l tutqichi, panjara"
+    },
+    {
+      "id": 96,
+      "questionType": "word",
+      "question": "『do'konlar ko'chasi, savdo maydoni』ning yaponcha ifodasi qaysi?",
+      "word": "商店街",
+      "choices": [
+        "介助犬",
+        "友達同士",
+        "商店街",
+        "うらやましい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "do'konlar ko'chasi, savdo maydoni → 商店街"
+    },
+    {
+      "id": 97,
+      "questionType": "reading",
+      "question": "『悔やむ』ning o'qilishi qaysi?",
+      "word": "悔やむ",
+      "choices": [
+        "しらないふり",
+        "ただいま",
+        "おじぎする",
+        "くやむ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "悔やむ → くやむ"
+    },
+    {
+      "id": 98,
+      "questionType": "word",
+      "question": "『qo'l tutqichi, panjara』ning yaponcha ifodasi qaysi?",
+      "word": "手すり",
+      "choices": [
+        "手すり",
+        "交通費",
+        "効く",
+        "低学年"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qo'l tutqichi, panjara → 手すり"
+    },
+    {
+      "id": 99,
+      "questionType": "reading",
+      "question": "『おしゃべりする』ning o'qilishi qaysi?",
+      "word": "おしゃべりする",
+      "choices": [
+        "とっさに",
+        "おしゃべりする",
+        "たにんどうし",
+        "つりあう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "おしゃべりする → おしゃべりする"
+    },
+    {
+      "id": 100,
+      "questionType": "kanji",
+      "question": "『かいにゅうする』qaysi yozuvga mos?",
+      "word": "介入する",
+      "choices": [
+        "介入する",
+        "振り返る",
+        "相談に乗る",
+        "だます"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かいにゅうする → 介入する"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『おさえる』qaysi yozuvga mos?",
+      "word": "抑える",
+      "choices": [
+        "抑える",
+        "ぐち",
+        "夢中な",
+        "気楽な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おさえる → 抑える"
+    },
+    {
+      "id": 102,
+      "questionType": "meaning",
+      "question": "『おしゃべりする』ning ma'nosi qaysi?",
+      "word": "おしゃべりする",
+      "choices": [
+        "yaqin do'st",
+        "iroda, qat'iy niyat",
+        "nuqtai nazar",
+        "suhbatlashmoq, gaplashmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "おしゃべりする → suhbatlashmoq, gaplashmoq"
+    },
+    {
+      "id": 103,
+      "questionType": "kanji",
+      "question": "『しせん』qaysi yozuvga mos?",
+      "word": "視線",
+      "choices": [
+        "向き合う",
+        "感心する",
+        "手すり",
+        "視線"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しせん → 視線"
+    },
+    {
+      "id": 104,
+      "questionType": "kanji",
+      "question": "『しつど』qaysi yozuvga mos?",
+      "word": "湿度",
+      "choices": [
+        "好都合",
+        "湿度",
+        "〜未満",
+        "ボリューム"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しつど → 湿度"
+    },
+    {
+      "id": 105,
+      "questionType": "meaning",
+      "question": "『指導する』ning ma'nosi qaysi?",
+      "word": "指導する",
+      "choices": [
+        "farzand ko'rmoq, dunyoga keltirmoq",
+        "yolg'iz yashash",
+        "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq",
+        "jim bo'lmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "指導する → yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
+    },
+    {
+      "id": 106,
+      "questionType": "kanji",
+      "question": "『ししゅんき』qaysi yozuvga mos?",
+      "word": "思春期",
+      "choices": [
+        "思春期",
+        "段差",
+        "尽くす",
+        "てっきり"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ししゅんき → 思春期"
+    },
+    {
+      "id": 107,
+      "questionType": "reading",
+      "question": "『視線』ning o'qilishi qaysi?",
+      "word": "視線",
+      "choices": [
+        "きらくな",
+        "じりつする",
+        "あくじゅんかん",
+        "しせん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "視線 → しせん"
+    },
+    {
+      "id": 108,
+      "questionType": "sentence",
+      "question": "『指導する』ning ma'nosi qaysi?",
+      "word": "指導する",
+      "choices": [
+        "pala-partish, dag'al (ish)",
+        "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq",
+        "to'lamoq",
+        "yomon odat, qiliq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "指導する → yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
+    },
+    {
+      "id": 109,
+      "questionType": "kanji",
+      "question": "『しょうてんがい』qaysi yozuvga mos?",
+      "word": "商店街",
+      "choices": [
+        "ごくわずか",
+        "そわそわする",
+        "商店街",
+        "桃"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しょうてんがい → 商店街"
+    },
+    {
+      "id": 110,
+      "questionType": "reading",
+      "question": "『介入する』ning o'qilishi qaysi?",
+      "word": "介入する",
+      "choices": [
+        "かいにゅうする",
+        "かんれんする",
+        "いいつける",
+        "せいさく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "介入する → かいにゅうする"
+    },
+    {
+      "id": 111,
+      "questionType": "meaning",
+      "question": "『抑える』ning ma'nosi qaysi?",
+      "word": "抑える",
+      "choices": [
+        "qo'rqinchli film yoki hikoya",
+        "ishchi kuchi xarajati",
+        "bosmoq, jilovlamoq, cheklamoq",
+        "jo'nash va yetib kelish (qatnov)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "抑える → bosmoq, jilovlamoq, cheklamoq"
     }
   ]
 }

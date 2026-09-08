@@ -1,0 +1,1799 @@
+{
+  "title": "Lesson 16 Test",
+  "type": "kanji",
+  "lesson": "lesson-16",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "word",
+      "question": "『qarama-qarshi jins』ning yaponcha ifodasi qaysi?",
+      "word": "異性",
+      "choices": [
+        "交通違反",
+        "太っ腹",
+        "契約をする",
+        "異性"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qarama-qarshi jins → 異性"
+    },
+    {
+      "id": 2,
+      "questionType": "meaning",
+      "question": "『的に命中する』ning ma'nosi qaysi?",
+      "word": "的に命中する",
+      "choices": [
+        "poyezdni to'xtashi",
+        "nishonga urush",
+        "vaziyat o'zgarishi",
+        "yoritmoq, nur sochmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "的に命中する → nishonga urush"
+    },
+    {
+      "id": 3,
+      "questionType": "recognition",
+      "question": "『健』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "健康美",
+      "choices": [
+        "漁港",
+        "音符",
+        "健康美",
+        "新聞配達"
+      ],
+      "correctAnswer": 2,
+      "explanation": "健 → 健康美"
+    },
+    {
+      "id": 4,
+      "questionType": "meaning",
+      "question": "『初診』ning ma'nosi qaysi?",
+      "word": "初診",
+      "choices": [
+        "tizilmoq, oddiy/o'rtacha",
+        "minnatdorchilik, minnatdorchilik xati",
+        "sakura gullash chizig'i (fronti)",
+        "birinchi tibbiy tekshiruv"
+      ],
+      "correctAnswer": 3,
+      "explanation": "初診 → birinchi tibbiy tekshiruv"
+    },
+    {
+      "id": 5,
+      "questionType": "reading",
+      "question": "『保健室』ning o'qilishi qaysi?",
+      "word": "保健室",
+      "choices": [
+        "はってんとじょうこく",
+        "ほけんしつ",
+        "かはんすう",
+        "じしんによるひがい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "保健室 → ほけんしつ"
+    },
+    {
+      "id": 6,
+      "questionType": "recognition",
+      "question": "『診』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "定期健診",
+      "choices": [
+        "定期健診",
+        "お金を恵む",
+        "国宝",
+        "前輪と後輪"
+      ],
+      "correctAnswer": 0,
+      "explanation": "診 → 定期健診"
+    },
+    {
+      "id": 7,
+      "questionType": "reading",
+      "question": "『異性』ning o'qilishi qaysi?",
+      "word": "異性",
+      "choices": [
+        "じゅんじょうなひと",
+        "どうろひょうしき",
+        "ゆそうする",
+        "いせい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "異性 → いせい"
+    },
+    {
+      "id": 8,
+      "questionType": "reading",
+      "question": "『療養中』ning o'qilishi qaysi?",
+      "word": "療養中",
+      "choices": [
+        "しょうじょう",
+        "もくひょうをさだめる",
+        "せいりせいとん",
+        "りょうようちゅう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "療養中 → りょうようちゅう"
+    },
+    {
+      "id": 9,
+      "questionType": "meaning",
+      "question": "『平均寿命』ning ma'nosi qaysi?",
+      "word": "平均寿命",
+      "choices": [
+        "aralash, pala-partish",
+        "ko'krak",
+        "ruhan ta'sir ko'rsatish",
+        "o'rtacha umr"
+      ],
+      "correctAnswer": 3,
+      "explanation": "平均寿命 → o'rtacha umr"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『いせい』qaysi yozuvga mos?",
+      "word": "異性",
+      "choices": [
+        "お香を焚く",
+        "〜を契機に",
+        "固体",
+        "異性"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いせい → 異性"
+    },
+    {
+      "id": 11,
+      "questionType": "meaning",
+      "question": "『診療時間』ning ma'nosi qaysi?",
+      "word": "診療時間",
+      "choices": [
+        "ko'rik vaqti",
+        "rivojlanish",
+        "ma'no bermoq",
+        "sharsharada tana va qalbni poklamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "診療時間 → ko'rik vaqti"
+    },
+    {
+      "id": 12,
+      "questionType": "kanji",
+      "question": "『けんぜんな』qaysi yozuvga mos?",
+      "word": "健全な",
+      "choices": [
+        "木製の家具",
+        "診",
+        "健全な",
+        "梅"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けんぜんな → 健全な"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『い・ことなる』qaysi yozuvga mos?",
+      "word": "異",
+      "choices": [
+        "城を築く",
+        "勢",
+        "停",
+        "異"
+      ],
+      "correctAnswer": 3,
+      "explanation": "い・ことなる → 異"
+    },
+    {
+      "id": 14,
+      "questionType": "kanji",
+      "question": "『けんざい』qaysi yozuvga mos?",
+      "word": "建材",
+      "choices": [
+        "建材",
+        "劇場",
+        "漁業を営む",
+        "美しい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "けんざい → 建材"
+    },
+    {
+      "id": 15,
+      "questionType": "word",
+      "question": "『baquvvat, sog'lom』ning yaponcha ifodasi qaysi?",
+      "word": "健やかな",
+      "choices": [
+        "薄",
+        "バラの香り",
+        "健やかな",
+        "輸入する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "baquvvat, sog'lom → 健やかな"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『からだのいじょう』qaysi yozuvga mos?",
+      "word": "体の異状",
+      "choices": [
+        "新しいクラスに溶け込む",
+        "不況",
+        "体の異状",
+        "問題用紙を配る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "からだのいじょう → 体の異状"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『cho'qintirish』ning yaponcha ifodasi qaysi?",
+      "word": "命名",
+      "choices": [
+        "柔道",
+        "劇場",
+        "車両",
+        "命名"
+      ],
+      "correctAnswer": 3,
+      "explanation": "cho'qintirish → 命名"
+    },
+    {
+      "id": 18,
+      "questionType": "recognition",
+      "question": "『健』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "健闘をたたえる",
+      "choices": [
+        "健闘をたたえる",
+        "美容室",
+        "桜前線",
+        "郵便局"
+      ],
+      "correctAnswer": 0,
+      "explanation": "健 → 健闘をたたえる"
+    },
+    {
+      "id": 19,
+      "questionType": "sentence",
+      "question": "『健康保険』ning ma'nosi qaysi?",
+      "word": "健康保険",
+      "choices": [
+        "ko'p bo'yangan",
+        "hovli",
+        "sog'liq uchun sug'urta",
+        "sinf xonasini tozalash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "健康保険 → sog'liq uchun sug'urta"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『初診』ning o'qilishi qaysi?",
+      "word": "初診",
+      "choices": [
+        "あまいミカン",
+        "しゅうきょうをしんこうする",
+        "しょしん",
+        "かこ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "初診 → しょしん"
+    },
+    {
+      "id": 21,
+      "questionType": "kanji",
+      "question": "『しん・みる』qaysi yozuvga mos?",
+      "word": "診",
+      "choices": [
+        "診",
+        "券",
+        "甘",
+        "頭脳明晰"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しん・みる → 診"
+    },
+    {
+      "id": 22,
+      "questionType": "kanji",
+      "question": "『けん・すこやか』qaysi yozuvga mos?",
+      "word": "健",
+      "choices": [
+        "自国領域",
+        "パーティーに招く",
+        "健",
+        "意見を交換する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けん・すこやか → 健"
+    },
+    {
+      "id": 23,
+      "questionType": "sentence",
+      "question": "『異にする』ning ma'nosi qaysi?",
+      "word": "異にする",
+      "choices": [
+        "ikki qo'l",
+        "bint o'ramoq",
+        "yurakning to'xtashi",
+        "balki, ehtimol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "異にする → balki, ehtimol"
+    },
+    {
+      "id": 24,
+      "questionType": "reading",
+      "question": "『命日』ning o'qilishi qaysi?",
+      "word": "命日",
+      "choices": [
+        "へいきんじゅみょう",
+        "ゆけつようのけつえき",
+        "りょうをする",
+        "めいにち"
+      ],
+      "correctAnswer": 3,
+      "explanation": "命日 → めいにち"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『しんりょうじかん』qaysi yozuvga mos?",
+      "word": "診療時間",
+      "choices": [
+        "布団を掛ける",
+        "診療時間",
+        "預金する",
+        "輸"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しんりょうじかん → 診療時間"
+    },
+    {
+      "id": 26,
+      "questionType": "meaning",
+      "question": "『異国』ning ma'nosi qaysi?",
+      "word": "異国",
+      "choices": [
+        "qobiliyatini ko'rsatmoq",
+        "chiroyli ayol",
+        "yumshoq qilib qaynatib pishirish",
+        "chet davlati"
+      ],
+      "correctAnswer": 3,
+      "explanation": "異国 → chet davlati"
+    },
+    {
+      "id": 27,
+      "questionType": "word",
+      "question": "『sog'liq uchun sug'urta』ning yaponcha ifodasi qaysi?",
+      "word": "健康保険",
+      "choices": [
+        "口に水を含む",
+        "居間",
+        "堂",
+        "健康保険"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sog'liq uchun sug'urta → 健康保険"
+    },
+    {
+      "id": 28,
+      "questionType": "word",
+      "question": "『tibbiy sug'urta tizimi』ning yaponcha ifodasi qaysi?",
+      "word": "医療保険制度",
+      "choices": [
+        "銀行の通帳",
+        "医療保険制度",
+        "不況",
+        "単純な問題"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tibbiy sug'urta tizimi → 医療保険制度"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『sog'lom, baquvvat』ning yaponcha ifodasi qaysi?",
+      "word": "健",
+      "choices": [
+        "振",
+        "振り込み",
+        "汚職",
+        "健"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sog'lom, baquvvat → 健"
+    },
+    {
+      "id": 30,
+      "questionType": "sentence",
+      "question": "『健闘をたたえる』ning ma'nosi qaysi?",
+      "word": "健闘をたたえる",
+      "choices": [
+        "bilak kuchi, jismoniy kuch",
+        "ota-ona bilan birga yashamoq",
+        "manzarasi, holati",
+        "yaxshi harakati uchun maqtash"
+      ],
+      "correctAnswer": 3,
+      "explanation": "健闘をたたえる → yaxshi harakati uchun maqtash"
+    },
+    {
+      "id": 31,
+      "questionType": "sentence",
+      "question": "『平均寿命』ning ma'nosi qaysi?",
+      "word": "平均寿命",
+      "choices": [
+        "valyuta",
+        "o'rtacha umr",
+        "taklif qilmoq",
+        "yumshoq ko'rpa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "平均寿命 → o'rtacha umr"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『めい・いのち』qaysi yozuvga mos?",
+      "word": "命",
+      "choices": [
+        "両方",
+        "命",
+        "お土産を届ける",
+        "証"
+      ],
+      "correctAnswer": 1,
+      "explanation": "めい・いのち → 命"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
+      "question": "『療』ning o'qilishi qaysi?",
+      "word": "療",
+      "choices": [
+        "かいてきなへや",
+        "りょう",
+        "ていけつあつ",
+        "めいにち"
+      ],
+      "correctAnswer": 1,
+      "explanation": "療 → りょう"
+    },
+    {
+      "id": 34,
+      "questionType": "meaning",
+      "question": "『命』ning ma'nosi qaysi?",
+      "word": "命",
+      "choices": [
+        "hayot, buyruq",
+        "shartnoma",
+        "kuchli oshqozon og'rig'i",
+        "poyezdni to'xtashi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "命 → hayot, buyruq"
+    },
+    {
+      "id": 35,
+      "questionType": "meaning",
+      "question": "『定期健診』ning ma'nosi qaysi?",
+      "word": "定期健診",
+      "choices": [
+        "ongiga muhrlab qo'yish",
+        "muntazam tekshiruv",
+        "sof qalb",
+        "noqonuniy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "定期健診 → muntazam tekshiruv"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『命名』ning o'qilishi qaysi?",
+      "word": "命名",
+      "choices": [
+        "おみやげをとどける",
+        "だつ",
+        "のうりにきざむ",
+        "めいめい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "命名 → めいめい"
+    },
+    {
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『みる』qaysi yozuvga mos?",
+      "word": "診る",
+      "choices": [
+        "身分証明書",
+        "城下町",
+        "診る",
+        "医療保険制度"
+      ],
+      "correctAnswer": 2,
+      "explanation": "みる → 診る"
+    },
+    {
+      "id": 38,
+      "questionType": "recognition",
+      "question": "『異』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "異性",
+      "choices": [
+        "骨の折れる仕事",
+        "著者",
+        "異性",
+        "並ぶ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "異 → 異性"
+    },
+    {
+      "id": 39,
+      "questionType": "sentence",
+      "question": "『健やかな』ning ma'nosi qaysi?",
+      "word": "健やかな",
+      "choices": [
+        "baquvvat, sog'lom",
+        "shirin mandarin",
+        "kedr daraxti changidan kasallanish",
+        "o'rtacha umr"
+      ],
+      "correctAnswer": 0,
+      "explanation": "健やかな → baquvvat, sog'lom"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『すこやかな』qaysi yozuvga mos?",
+      "word": "健やかな",
+      "choices": [
+        "非難の標的となる",
+        "健やかな",
+        "脱退",
+        "子供を送り届ける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "すこやかな → 健やかな"
+    },
+    {
+      "id": 41,
+      "questionType": "sentence",
+      "question": "『健康的な生活』ning ma'nosi qaysi?",
+      "word": "健康的な生活",
+      "choices": [
+        "sog'lom hayot",
+        "katta g'alaba",
+        "davlat chegarasidan kesib o'tish",
+        "sharsharada tana va qalbni poklamoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "健康的な生活 → sog'lom hayot"
+    },
+    {
+      "id": 42,
+      "questionType": "meaning",
+      "question": "『命日』ning ma'nosi qaysi?",
+      "word": "命日",
+      "choices": [
+        "vafot etgan yil",
+        "yo'l, davom",
+        "qiyin ish, jismoniy kuch talab qiladigan mehnat",
+        "oddiy savol, muammo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "命日 → vafot etgan yil"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『体の異状』ning ma'nosi qaysi?",
+      "word": "体の異状",
+      "choices": [
+        "pochta",
+        "qon bosimin o'lchash",
+        "tanadagi holatni buzilishi",
+        "marhamat, in'om"
+      ],
+      "correctAnswer": 2,
+      "explanation": "体の異状 → tanadagi holatni buzilishi"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『めいにち』qaysi yozuvga mos?",
+      "word": "命日",
+      "choices": [
+        "況",
+        "骨折する",
+        "港",
+        "命日"
+      ],
+      "correctAnswer": 3,
+      "explanation": "めいにち → 命日"
+    },
+    {
+      "id": 45,
+      "questionType": "word",
+      "question": "『tibbiy asbob-uskuna』ning yaponcha ifodasi qaysi?",
+      "word": "医療機器",
+      "choices": [
+        "賃金",
+        "医療機器",
+        "汚",
+        "招待する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tibbiy asbob-uskuna → 医療機器"
+    },
+    {
+      "id": 46,
+      "questionType": "kanji",
+      "question": "『ことなる』qaysi yozuvga mos?",
+      "word": "異なる",
+      "choices": [
+        "度胸がある",
+        "異なる",
+        "小麦粉と卵を混ぜる",
+        "滝で心身を清める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ことなる → 異なる"
+    },
+    {
+      "id": 47,
+      "questionType": "reading",
+      "question": "『健全な』ning o'qilishi qaysi?",
+      "word": "健全な",
+      "choices": [
+        "けんぜんな",
+        "でんしゃがこむ",
+        "ちゅうざい",
+        "かこのえいこう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "健全な → けんぜんな"
+    },
+    {
+      "id": 48,
+      "questionType": "sentence",
+      "question": "『異常気象』ning ma'nosi qaysi?",
+      "word": "異常気象",
+      "choices": [
+        "abnormal obhavo",
+        "xavotirlanmoq",
+        "farzand bilan siylanmoq",
+        "almashtirmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "異常気象 → abnormal obhavo"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『異』ning o'qilishi qaysi?",
+      "word": "異",
+      "choices": [
+        "い",
+        "よざくら",
+        "かわのりゅういき",
+        "い・ことなる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "異 → い・ことなる"
+    },
+    {
+      "id": 50,
+      "questionType": "meaning",
+      "question": "『命を授かる』ning ma'nosi qaysi?",
+      "word": "命を授かる",
+      "choices": [
+        "sudda guvohlik bermoq",
+        "farzandli bo'lmoq",
+        "yozuvchi",
+        "kir bo'lgan kiyim"
+      ],
+      "correctAnswer": 1,
+      "explanation": "命を授かる → farzandli bo'lmoq"
+    },
+    {
+      "id": 51,
+      "questionType": "reading",
+      "question": "『休診』ning o'qilishi qaysi?",
+      "word": "休診",
+      "choices": [
+        "きゅうしん",
+        "〜をけいきに",
+        "はらう",
+        "じしんによるひがい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "休診 → きゅうしん"
+    },
+    {
+      "id": 52,
+      "questionType": "reading",
+      "question": "『異なる』ning o'qilishi qaysi?",
+      "word": "異なる",
+      "choices": [
+        "ふっきん",
+        "けいやく",
+        "ことなる",
+        "くうこう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "異なる → ことなる"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『ていきけんしん』qaysi yozuvga mos?",
+      "word": "定期健診",
+      "choices": [
+        "定期健診",
+        "過",
+        "前の車を追い越す",
+        "後戻り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ていきけんしん → 定期健診"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『muolaja』ning yaponcha ifodasi qaysi?",
+      "word": "治療",
+      "choices": [
+        "電車が込む",
+        "治療",
+        "札束",
+        "腹"
+      ],
+      "correctAnswer": 1,
+      "explanation": "muolaja → 治療"
+    },
+    {
+      "id": 55,
+      "questionType": "meaning",
+      "question": "『休診』ning ma'nosi qaysi?",
+      "word": "休診",
+      "choices": [
+        "iflos qo'l",
+        "yomon munosabat",
+        "tekshiruv bo'lmaydigan kun, dam kuni",
+        "kiyimga lag'monning sho'rvasi tegishi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "休診 → tekshiruv bo'lmaydigan kun, dam kuni"
+    },
+    {
+      "id": 56,
+      "questionType": "reading",
+      "question": "『建材』ning o'qilishi qaysi?",
+      "word": "建材",
+      "choices": [
+        "けいはくなひと",
+        "めぐまれたせいかつ",
+        "へんかん",
+        "けんざい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "建材 → けんざい"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『せいめい』qaysi yozuvga mos?",
+      "word": "生命",
+      "choices": [
+        "込",
+        "生命",
+        "症候群",
+        "問題用紙を配る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "せいめい → 生命"
+    },
+    {
+      "id": 58,
+      "questionType": "kanji",
+      "question": "『いりょうきき』qaysi yozuvga mos?",
+      "word": "医療機器",
+      "choices": [
+        "筋肉を鍛える",
+        "映画を製作する",
+        "医療機器",
+        "イタリア製の靴"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いりょうきき → 医療機器"
+    },
+    {
+      "id": 59,
+      "questionType": "recognition",
+      "question": "『健』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "健全な",
+      "choices": [
+        "間違える",
+        "証券会社",
+        "整",
+        "健全な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "健 → 健全な"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『けんこうしんだん』qaysi yozuvga mos?",
+      "word": "健康診断",
+      "choices": [
+        "清",
+        "健康診断",
+        "演劇",
+        "展示する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "けんこうしんだん → 健康診断"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『診』ning ma'nosi qaysi?",
+      "word": "診",
+      "choices": [
+        "hovli, bog'",
+        "tekshirmoq (tibbiy)",
+        "elektr ta'minotidan uzilish",
+        "havo pochtasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "診 → tekshirmoq (tibbiy)"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『命令』ning ma'nosi qaysi?",
+      "word": "命令",
+      "choices": [
+        "buyruq",
+        "qobiliyatini ko'rsatmoq",
+        "qarag'ay",
+        "muntazam tekshiruv"
+      ],
+      "correctAnswer": 0,
+      "explanation": "命令 → buyruq"
+    },
+    {
+      "id": 63,
+      "questionType": "meaning",
+      "question": "『診察室』ning ma'nosi qaysi?",
+      "word": "診察室",
+      "choices": [
+        "namoyish etish",
+        "doira shaklini hosil qilish",
+        "tekshiruv xonasi",
+        "to'ldirmoq, tiqmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "診察室 → tekshiruv xonasi"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『異なる』ning ma'nosi qaysi?",
+      "word": "異なる",
+      "choices": [
+        "baxtli oila qurish",
+        "ish haqi",
+        "gavda turishi, holati",
+        "farq qilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "異なる → farq qilmoq"
+    },
+    {
+      "id": 65,
+      "questionType": "sentence",
+      "question": "『医療機器』ning ma'nosi qaysi?",
+      "word": "医療機器",
+      "choices": [
+        "toza, pok",
+        "oylik chipta",
+        "tibbiy asbob-uskuna",
+        "bo'lmoq, yashamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "医療機器 → tibbiy asbob-uskuna"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『健』ning o'qilishi qaysi?",
+      "word": "健",
+      "choices": [
+        "きものすがた",
+        "わたしをふくめてよにん",
+        "けん・すこやか",
+        "まえのくるまをおいこす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "健 → けん・すこやか"
+    },
+    {
+      "id": 67,
+      "questionType": "meaning",
+      "question": "『診る』ning ma'nosi qaysi?",
+      "word": "診る",
+      "choices": [
+        "shifokorga ko'rinmoq",
+        "og'riq susayishi",
+        "chiroyli ayol",
+        "mamlakat parlament binosi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "診る → shifokorga ko'rinmoq"
+    },
+    {
+      "id": 68,
+      "questionType": "word",
+      "question": "『maktab kasalxonasi』ning yaponcha ifodasi qaysi?",
+      "word": "保健室",
+      "choices": [
+        "輪",
+        "保健室",
+        "国際情勢",
+        "両方"
+      ],
+      "correctAnswer": 1,
+      "explanation": "maktab kasalxonasi → 保健室"
+    },
+    {
+      "id": 69,
+      "questionType": "recognition",
+      "question": "『健』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "健康保険",
+      "choices": [
+        "口に水を含む",
+        "健康保険",
+        "肩甲骨",
+        "滝で心身を清める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "健 → 健康保険"
+    },
+    {
+      "id": 70,
+      "questionType": "reading",
+      "question": "『診』ning o'qilishi qaysi?",
+      "word": "診",
+      "choices": [
+        "みそしる",
+        "しん・みる",
+        "めぐまれたせいかつ",
+        "もる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "診 → しん・みる"
+    },
+    {
+      "id": 71,
+      "questionType": "word",
+      "question": "『sog'lom go'zallik』ning yaponcha ifodasi qaysi?",
+      "word": "健康美",
+      "choices": [
+        "固まる",
+        "手帳",
+        "定期健診",
+        "健康美"
+      ],
+      "correctAnswer": 3,
+      "explanation": "sog'lom go'zallik → 健康美"
+    },
+    {
+      "id": 72,
+      "questionType": "kanji",
+      "question": "『いこく』qaysi yozuvga mos?",
+      "word": "異国",
+      "choices": [
+        "身分証明書",
+        "腕試し",
+        "異国",
+        "バスの停留所"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いこく → 異国"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『生命』ning o'qilishi qaysi?",
+      "word": "生命",
+      "choices": [
+        "かこのえいこう",
+        "にわ",
+        "じこくりょういき",
+        "せいめい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "生命 → せいめい"
+    },
+    {
+      "id": 74,
+      "questionType": "word",
+      "question": "『abnormal obhavo』ning yaponcha ifodasi qaysi?",
+      "word": "異常気象",
+      "choices": [
+        "快",
+        "杉",
+        "異常気象",
+        "落ち葉を掃く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "abnormal obhavo → 異常気象"
+    },
+    {
+      "id": 75,
+      "questionType": "sentence",
+      "question": "『診療時間』ning ma'nosi qaysi?",
+      "word": "診療時間",
+      "choices": [
+        "qulay xona",
+        "ko'rik vaqti",
+        "kedr daraxti",
+        "go'zallik saloni"
+      ],
+      "correctAnswer": 1,
+      "explanation": "診療時間 → ko'rik vaqti"
+    },
+    {
+      "id": 76,
+      "questionType": "sentence",
+      "question": "『命を落とす』ning ma'nosi qaysi?",
+      "word": "命を落とす",
+      "choices": [
+        "yo'l haqi",
+        "sudda guvohlik bermoq",
+        "sariqyog'ni eritish",
+        "hayotini yo'qotish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "命を落とす → hayotini yo'qotish"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『りょう』qaysi yozuvga mos?",
+      "word": "療",
+      "choices": [
+        "士",
+        "背骨",
+        "論文の清書をする",
+        "療"
+      ],
+      "correctAnswer": 3,
+      "explanation": "りょう → 療"
+    },
+    {
+      "id": 78,
+      "questionType": "sentence",
+      "question": "『健康診断』ning ma'nosi qaysi?",
+      "word": "健康診断",
+      "choices": [
+        "sakura (gilos guli)",
+        "tibbiy ko'rik",
+        "moliya instituti (tashkilot)",
+        "qurilish xomashyosi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "健康診断 → tibbiy ko'rik"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『ほけんしつ』qaysi yozuvga mos?",
+      "word": "保健室",
+      "choices": [
+        "蔵",
+        "保健室",
+        "鉄筋",
+        "形状"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ほけんしつ → 保健室"
+    },
+    {
+      "id": 80,
+      "questionType": "word",
+      "question": "『sog'lom』ning yaponcha ifodasi qaysi?",
+      "word": "健全な",
+      "choices": [
+        "利益を配分する",
+        "健全な",
+        "道路標識",
+        "越"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sog'lom → 健全な"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『りょうようちゅう』qaysi yozuvga mos?",
+      "word": "療養中",
+      "choices": [
+        "純粋な心",
+        "快気祝い",
+        "療養中",
+        "入場券"
+      ],
+      "correctAnswer": 2,
+      "explanation": "りょうようちゅう → 療養中"
+    },
+    {
+      "id": 82,
+      "questionType": "recognition",
+      "question": "『異』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "異常気象",
+      "choices": [
+        "不況",
+        "汚",
+        "異常気象",
+        "健康的な生活"
+      ],
+      "correctAnswer": 2,
+      "explanation": "異 → 異常気象"
+    },
+    {
+      "id": 83,
+      "questionType": "word",
+      "question": "『sog'lom hayot』ning yaponcha ifodasi qaysi?",
+      "word": "健康的な生活",
+      "choices": [
+        "掃除する",
+        "健康的な生活",
+        "千円札",
+        "部屋を汚す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sog'lom hayot → 健康的な生活"
+    },
+    {
+      "id": 84,
+      "questionType": "reading",
+      "question": "『診察室』ning o'qilishi qaysi?",
+      "word": "診察室",
+      "choices": [
+        "かりのすまい",
+        "じゅうきょ",
+        "ていせん",
+        "しんさつしつ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "診察室 → しんさつしつ"
+    },
+    {
+      "id": 85,
+      "questionType": "reading",
+      "question": "『診る』ning o'qilishi qaysi?",
+      "word": "診る",
+      "choices": [
+        "ぶんめいがさかえる",
+        "みる",
+        "なまえをけがす",
+        "いんがかんけい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "診る → みる"
+    },
+    {
+      "id": 86,
+      "questionType": "recognition",
+      "question": "『健』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "健やかな",
+      "choices": [
+        "チームに勢いがある",
+        "背筋",
+        "証明する",
+        "健やかな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "健 → 健やかな"
+    },
+    {
+      "id": 87,
+      "questionType": "recognition",
+      "question": "『療』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "医療保険制度",
+      "choices": [
+        "〜を契機に",
+        "円をドルに替える",
+        "医療保険制度",
+        "著者"
+      ],
+      "correctAnswer": 2,
+      "explanation": "療 → 医療保険制度"
+    },
+    {
+      "id": 88,
+      "questionType": "recognition",
+      "question": "『命』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "命令",
+      "choices": [
+        "腕がいい",
+        "前の車を追い越す",
+        "命令",
+        "心が清まる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "命 → 命令"
+    },
+    {
+      "id": 89,
+      "questionType": "word",
+      "question": "『farqli, boshqa』ning yaponcha ifodasi qaysi?",
+      "word": "異",
+      "choices": [
+        "国会議事堂",
+        "名前を汚す",
+        "普",
+        "異"
+      ],
+      "correctAnswer": 3,
+      "explanation": "farqli, boshqa → 異"
+    },
+    {
+      "id": 90,
+      "questionType": "recognition",
+      "question": "『診』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "意向を打診する",
+      "choices": [
+        "名前を汚す",
+        "意向を打診する",
+        "支払い",
+        "前の車を追い越す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "診 → 意向を打診する"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『めいめい』qaysi yozuvga mos?",
+      "word": "命名",
+      "choices": [
+        "明るい家庭を築く",
+        "混雑",
+        "命名",
+        "胸囲を測る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "めいめい → 命名"
+    },
+    {
+      "id": 92,
+      "questionType": "sentence",
+      "question": "『意向を打診する』ning ma'nosi qaysi?",
+      "word": "意向を打診する",
+      "choices": [
+        "farzandli bo'lmoq",
+        "to'lov",
+        "niyat bildirish",
+        "moda jurnali"
+      ],
+      "correctAnswer": 2,
+      "explanation": "意向を打診する → niyat bildirish"
+    },
+    {
+      "id": 93,
+      "questionType": "word",
+      "question": "『noodatiy hodisa』ning yaponcha ifodasi qaysi?",
+      "word": "異変",
+      "choices": [
+        "航空機",
+        "掃除する",
+        "異変",
+        "方針を固める"
+      ],
+      "correctAnswer": 2,
+      "explanation": "noodatiy hodisa → 異変"
+    },
+    {
+      "id": 94,
+      "questionType": "word",
+      "question": "『tiklanish jarayoni』ning yaponcha ifodasi qaysi?",
+      "word": "療養中",
+      "choices": [
+        "療養中",
+        "胸を打つ",
+        "前の車を追い越す",
+        "痛みが薄らぐ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tiklanish jarayoni → 療養中"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『いへん』qaysi yozuvga mos?",
+      "word": "異変",
+      "choices": [
+        "税込み",
+        "異変",
+        "郵",
+        "夜桜"
+      ],
+      "correctAnswer": 1,
+      "explanation": "いへん → 異変"
+    },
+    {
+      "id": 96,
+      "questionType": "reading",
+      "question": "『異変』ning o'qilishi qaysi?",
+      "word": "異変",
+      "choices": [
+        "すじみちをたてる",
+        "あまいせいかつ",
+        "いんねん",
+        "いへん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "異変 → いへん"
+    },
+    {
+      "id": 97,
+      "questionType": "recognition",
+      "question": "『命』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "平均寿命",
+      "choices": [
+        "免許証",
+        "平均寿命",
+        "胸が痛む",
+        "骨"
+      ],
+      "correctAnswer": 1,
+      "explanation": "命 → 平均寿命"
+    },
+    {
+      "id": 98,
+      "questionType": "kanji",
+      "question": "『いじょうきしょう』qaysi yozuvga mos?",
+      "word": "異常気象",
+      "choices": [
+        "映画を製作する",
+        "健やかな",
+        "異常気象",
+        "過ちを犯す"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いじょうきしょう → 異常気象"
+    },
+    {
+      "id": 99,
+      "questionType": "sentence",
+      "question": "『体の異状』ning ma'nosi qaysi?",
+      "word": "体の異状",
+      "choices": [
+        "sezilarli (keskin) rivojlanish",
+        "foydani taqsimlash",
+        "tanadagi holatni buzilishi",
+        "bo'yini solishtirish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "体の異状 → tanadagi holatni buzilishi"
+    },
+    {
+      "id": 100,
+      "questionType": "kanji",
+      "question": "『ちりょう』qaysi yozuvga mos?",
+      "word": "治療",
+      "choices": [
+        "診察室",
+        "駐車禁止",
+        "普",
+        "治療"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちりょう → 治療"
+    },
+    {
+      "id": 101,
+      "questionType": "recognition",
+      "question": "『命』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "命名",
+      "choices": [
+        "背筋",
+        "初診",
+        "標",
+        "命名"
+      ],
+      "correctAnswer": 3,
+      "explanation": "命 → 命名"
+    },
+    {
+      "id": 102,
+      "questionType": "word",
+      "question": "『hayotini yo'qotish』ning yaponcha ifodasi qaysi?",
+      "word": "命を落とす",
+      "choices": [
+        "命令",
+        "命を落とす",
+        "停戦",
+        "普通高校"
+      ],
+      "correctAnswer": 1,
+      "explanation": "hayotini yo'qotish → 命を落とす"
+    },
+    {
+      "id": 103,
+      "questionType": "sentence",
+      "question": "『定期健診』ning ma'nosi qaysi?",
+      "word": "定期健診",
+      "choices": [
+        "muntazam tekshiruv",
+        "gazeta yetkazib berish (kuryerlik)",
+        "yaxshi hayot",
+        "holat, vaziyat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "定期健診 → muntazam tekshiruv"
+    },
+    {
+      "id": 104,
+      "questionType": "kanji",
+      "question": "『ことにする』qaysi yozuvga mos?",
+      "word": "異にする",
+      "choices": [
+        "栄",
+        "空腹を覚える",
+        "異にする",
+        "梅雨前線"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ことにする → 異にする"
+    },
+    {
+      "id": 105,
+      "questionType": "kanji",
+      "question": "『けんこうほけん』qaysi yozuvga mos?",
+      "word": "健康保険",
+      "choices": [
+        "健康保険",
+        "口に水を含む",
+        "意見を交換する",
+        "掛"
+      ],
+      "correctAnswer": 0,
+      "explanation": "けんこうほけん → 健康保険"
+    },
+    {
+      "id": 106,
+      "questionType": "recognition",
+      "question": "『異』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "体の異状",
+      "choices": [
+        "普及する",
+        "甘やかす",
+        "体の異状",
+        "途中"
+      ],
+      "correctAnswer": 2,
+      "explanation": "異 → 体の異状"
+    },
+    {
+      "id": 107,
+      "questionType": "reading",
+      "question": "『異国』ning o'qilishi qaysi?",
+      "word": "異国",
+      "choices": [
+        "かたいれする",
+        "ふくをぬぐ",
+        "いこく",
+        "けっせきとどけ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "異国 → いこく"
+    },
+    {
+      "id": 108,
+      "questionType": "kanji",
+      "question": "『めいれい』qaysi yozuvga mos?",
+      "word": "命令",
+      "choices": [
+        "過",
+        "住居",
+        "命令",
+        "整理整頓"
+      ],
+      "correctAnswer": 2,
+      "explanation": "めいれい → 命令"
+    },
+    {
+      "id": 109,
+      "questionType": "meaning",
+      "question": "『健康診断』ning ma'nosi qaysi?",
+      "word": "健康診断",
+      "choices": [
+        "qobiliyatini ko'rsatmoq",
+        "chiqib ketish, tashlab ketish",
+        "tibbiy ko'rik",
+        "yoqimli, xushnud"
+      ],
+      "correctAnswer": 2,
+      "explanation": "健康診断 → tibbiy ko'rik"
+    },
+    {
+      "id": 110,
+      "questionType": "kanji",
+      "question": "『しょしん』qaysi yozuvga mos?",
+      "word": "初診",
+      "choices": [
+        "初診",
+        "肩甲骨",
+        "通貨",
+        "甘いミカン"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しょしん → 初診"
+    },
+    {
+      "id": 111,
+      "questionType": "word",
+      "question": "『muolaja qilmoq, davolamoq』ning yaponcha ifodasi qaysi?",
+      "word": "療",
+      "choices": [
+        "招待する",
+        "包帯を巻く",
+        "療",
+        "医療保険制度"
+      ],
+      "correctAnswer": 2,
+      "explanation": "muolaja qilmoq, davolamoq → 療"
+    },
+    {
+      "id": 112,
+      "questionType": "word",
+      "question": "『niyat bildirish』ning yaponcha ifodasi qaysi?",
+      "word": "意向を打診する",
+      "choices": [
+        "意向を打診する",
+        "死因",
+        "健全な",
+        "両立する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "niyat bildirish → 意向を打診する"
+    },
+    {
+      "id": 113,
+      "questionType": "sentence",
+      "question": "『医療保険制度』ning ma'nosi qaysi?",
+      "word": "医療保険制度",
+      "choices": [
+        "ikkala",
+        "baquvvat, sog'lom",
+        "tibbiy sug'urta tizimi",
+        "qiyalik, yonbag'irlik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "医療保険制度 → tibbiy sug'urta tizimi"
+    },
+    {
+      "id": 114,
+      "questionType": "recognition",
+      "question": "『異』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "異変",
+      "choices": [
+        "掃除する",
+        "異変",
+        "郵便局",
+        "校庭"
+      ],
+      "correctAnswer": 1,
+      "explanation": "異 → 異変"
+    },
+    {
+      "id": 115,
+      "questionType": "word",
+      "question": "『balki, ehtimol』ning yaponcha ifodasi qaysi?",
+      "word": "異にする",
+      "choices": [
+        "圧勝",
+        "異にする",
+        "難航する",
+        "振り込み"
+      ],
+      "correctAnswer": 1,
+      "explanation": "balki, ehtimol → 異にする"
+    },
+    {
+      "id": 116,
+      "questionType": "meaning",
+      "question": "『健闘をたたえる』ning ma'nosi qaysi?",
+      "word": "健闘をたたえる",
+      "choices": [
+        "yelka boyicha turmoq",
+        "sevgan inson tomonidan tashlab ketilish",
+        "yaxshi harakati uchun maqtash",
+        "rangi och"
+      ],
+      "correctAnswer": 2,
+      "explanation": "健闘をたたえる → yaxshi harakati uchun maqtash"
+    },
+    {
+      "id": 117,
+      "questionType": "reading",
+      "question": "『命令』ning o'qilishi qaysi?",
+      "word": "命令",
+      "choices": [
+        "いのけんさ",
+        "とどく",
+        "めいれい",
+        "かんきする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "命令 → めいれい"
+    },
+    {
+      "id": 118,
+      "questionType": "kanji",
+      "question": "『しんさつしつ』qaysi yozuvga mos?",
+      "word": "診察室",
+      "choices": [
+        "診察室",
+        "溶岩",
+        "危機を脱する",
+        "柔軟"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しんさつしつ → 診察室"
+    },
+    {
+      "id": 119,
+      "questionType": "reading",
+      "question": "『健康美』ning o'qilishi qaysi?",
+      "word": "健康美",
+      "choices": [
+        "じゅうきょ",
+        "けんこうび",
+        "じょうきょうがいっぺんする",
+        "パーティーにまねく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "健康美 → けんこうび"
+    },
+    {
+      "id": 120,
+      "questionType": "word",
+      "question": "『hayot』ning yaponcha ifodasi qaysi?",
+      "word": "生命",
+      "choices": [
+        "掛",
+        "命に別状はない",
+        "胃腸薬",
+        "生命"
+      ],
+      "correctAnswer": 3,
+      "explanation": "hayot → 生命"
+    },
+    {
+      "id": 121,
+      "questionType": "word",
+      "question": "『qurilish xomashyosi』ning yaponcha ifodasi qaysi?",
+      "word": "建材",
+      "choices": [
+        "建材",
+        "時刻",
+        "停電",
+        "輪"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qurilish xomashyosi → 建材"
+    },
+    {
+      "id": 122,
+      "questionType": "kanji",
+      "question": "『きゅうしん』qaysi yozuvga mos?",
+      "word": "休診",
+      "choices": [
+        "帳",
+        "休診",
+        "賃貸マンション",
+        "命名"
+      ],
+      "correctAnswer": 1,
+      "explanation": "きゅうしん → 休診"
+    },
+    {
+      "id": 123,
+      "questionType": "sentence",
+      "question": "『命を授かる』ning ma'nosi qaysi?",
+      "word": "命を授かる",
+      "choices": [
+        "farzandli bo'lmoq",
+        "shaxsni tasdiqlovchi hujjat",
+        "parlament yig'ilishini chaqirmoq",
+        "moliya instituti (tashkilot)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "命を授かる → farzandli bo'lmoq"
+    },
+    {
+      "id": 124,
+      "questionType": "reading",
+      "question": "『命』ning o'qilishi qaysi?",
+      "word": "命",
+      "choices": [
+        "たい",
+        "めい・いのち",
+        "さくらぜんせん",
+        "どうろをわたる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "命 → めい・いのち"
+    },
+    {
+      "id": 125,
+      "questionType": "reading",
+      "question": "『治療』ning o'qilishi qaysi?",
+      "word": "治療",
+      "choices": [
+        "ちりょう",
+        "けいやく",
+        "おおぜいのひと",
+        "あっしょう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "治療 → ちりょう"
+    },
+    {
+      "id": 126,
+      "questionType": "kanji",
+      "question": "『へいきんじゅみょう』qaysi yozuvga mos?",
+      "word": "平均寿命",
+      "choices": [
+        "文明が栄える",
+        "平均寿命",
+        "港",
+        "並ぶ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "へいきんじゅみょう → 平均寿命"
+    },
+    {
+      "id": 127,
+      "questionType": "sentence",
+      "question": "『的に命中する』ning ma'nosi qaysi?",
+      "word": "的に命中する",
+      "choices": [
+        "bo'yi cho'zilmoq",
+        "nishonga urush",
+        "rivojlanayotgan davlatlar",
+        "yapon o'rigi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "的に命中する → nishonga urush"
+    },
+    {
+      "id": 128,
+      "questionType": "kanji",
+      "question": "『けんこうび』qaysi yozuvga mos?",
+      "word": "健康美",
+      "choices": [
+        "配",
+        "駅の改札口",
+        "甘える",
+        "健康美"
+      ],
+      "correctAnswer": 3,
+      "explanation": "けんこうび → 健康美"
+    }
+  ]
+}

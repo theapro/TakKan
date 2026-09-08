@@ -5,241 +5,241 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "reading",
-      "question": "『低姿勢』ning o'qilishi qaysi?",
-      "word": "低姿勢",
+      "questionType": "meaning",
+      "question": "『大いに』ning ma'nosi qaysi?",
+      "word": "大いに",
       "choices": [
-        "だいなし",
-        "きんじょづきあい",
-        "ていしせい",
-        "はんせいかい"
+        "brend (nomlari)",
+        "juda",
+        "rozilik bildirmoq",
+        "tikilmoq"
       ],
-      "correctAnswer": 2,
-      "explanation": "低姿勢 → ていしせい"
+      "correctAnswer": 1,
+      "explanation": "大いに → juda"
     },
     {
       "id": 2,
       "questionType": "reading",
-      "question": "『込める』ning o'qilishi qaysi?",
-      "word": "込める",
+      "question": "『低学年』ning o'qilishi qaysi?",
+      "word": "低学年",
       "choices": [
-        "てんけんする",
-        "ちらばる",
-        "こめる",
-        "あらす"
+        "ていがくねん",
+        "ぜい",
+        "ただいま",
+        "おやもと"
       ],
-      "correctAnswer": 2,
-      "explanation": "込める → こめる"
+      "correctAnswer": 0,
+      "explanation": "低学年 → ていがくねん"
     },
     {
       "id": 3,
-      "questionType": "meaning",
-      "question": "『[〜を]結び付ける』ning ma'nosi qaysi?",
-      "word": "[〜を]結び付ける",
+      "questionType": "kanji",
+      "question": "『ていけつあつ』qaysi yozuvga mos?",
+      "word": "低血圧",
       "choices": [
-        "yaqinlashmoq, gaplashishga harakat qilmoq",
-        "bog'lamoq",
-        "atom elektr",
-        "gap boshlamoq, birinchi bo'lib aytmoq"
+        "うまい",
+        "もてなす",
+        "低血圧",
+        "精算する"
       ],
-      "correctAnswer": 1,
-      "explanation": "[〜を]結び付ける → bog'lamoq"
+      "correctAnswer": 2,
+      "explanation": "ていけつあつ → 低血圧"
     },
     {
       "id": 4,
-      "questionType": "reading",
-      "question": "『自己流』ning o'qilishi qaysi?",
-      "word": "自己流",
-      "choices": [
-        "さんふじんか",
-        "ちゅういほう",
-        "そんちょうする",
-        "じこりゅう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "自己流 → じこりゅう"
-    },
-    {
-      "id": 5,
-      "questionType": "word",
-      "question": "『xayolga keladigan narsa, taxmin』ning yaponcha ifodasi qaysi?",
-      "word": "心当たり",
-      "choices": [
-        "企業",
-        "だまる",
-        "心当たり",
-        "食いしん坊"
-      ],
-      "correctAnswer": 2,
-      "explanation": "xayolga keladigan narsa, taxmin → 心当たり"
-    },
-    {
-      "id": 6,
-      "questionType": "reading",
-      "question": "『覚え』ning o'qilishi qaysi?",
-      "word": "覚え",
-      "choices": [
-        "悪ふざけ",
-        "にんしんする",
-        "おぼえ",
-        "あたりまえ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "覚え → おぼえ"
-    },
-    {
-      "id": 7,
-      "questionType": "kanji",
-      "question": "『おじぎする』qaysi yozuvga mos?",
-      "word": "おじぎする",
-      "choices": [
-        "拍手する",
-        "操作する",
-        "おじぎする",
-        "副作用"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おじぎする → おじぎする"
-    },
-    {
-      "id": 8,
       "questionType": "word",
       "question": "『juda』ning yaponcha ifodasi qaysi?",
       "word": "大いに",
       "choices": [
-        "平気な",
-        "高収入",
-        "低次元",
-        "大いに"
+        "瞳がきつい",
+        "悪天候",
+        "大いに",
+        "出産する"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "juda → 大いに"
     },
     {
+      "id": 5,
+      "questionType": "meaning",
+      "question": "『大家』ning ma'nosi qaysi?",
+      "word": "大家",
+      "choices": [
+        "to'g'ridan to'g'ri",
+        "uy egasi",
+        "hazillashmoq, sho'xlik qilmoq",
+        "g'arbga qaragan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大家 → uy egasi"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『とっさに』qaysi yozuvga mos?",
+      "word": "とっさに",
+      "choices": [
+        "とっさに",
+        "心無い",
+        "物音",
+        "合コン"
+      ],
+      "correctAnswer": 0,
+      "explanation": "とっさに → とっさに"
+    },
+    {
+      "id": 7,
+      "questionType": "sentence",
+      "question": "『接する』ning ma'nosi qaysi?",
+      "word": "接する",
+      "choices": [
+        "muloqot qilmoq, aloqada bo'lmoq",
+        "bino yoshi",
+        "muhokama qilmoq, bahs yuritmoq",
+        "mahalliy mahsulot"
+      ],
+      "correctAnswer": 0,
+      "explanation": "接する → muloqot qilmoq, aloqada bo'lmoq"
+    },
+    {
+      "id": 8,
+      "questionType": "sentence",
+      "question": "『大いに』ning ma'nosi qaysi?",
+      "word": "大いに",
+      "choices": [
+        "juda",
+        "olib kelmoq (o'zi bilan)",
+        "hajm, miqdor; 2. ovoz balandligi",
+        "sevib qolmoq, romantik munosabatda bo'lmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "大いに → juda"
+    },
+    {
       "id": 9,
+      "questionType": "reading",
+      "question": "『近所付き合い』ning o'qilishi qaysi?",
+      "word": "近所付き合い",
+      "choices": [
+        "せいさんする",
+        "ていじげん",
+        "しぶい",
+        "きんじょづきあい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "近所付き合い → きんじょづきあい"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『心当たりのない』ning ma'nosi qaysi?",
+      "word": "心当たりのない",
+      "choices": [
+        "xayolga kelmaydigan, noma'lum",
+        "ko'pi, aksariyati",
+        "uy egasi",
+        "ish tashlash"
+      ],
+      "correctAnswer": 0,
+      "explanation": "心当たりのない → xayolga kelmaydigan, noma'lum"
+    },
+    {
+      "id": 11,
+      "questionType": "meaning",
+      "question": "『おじぎする』ning ma'nosi qaysi?",
+      "word": "おじぎする",
+      "choices": [
+        "ta'zim qilmoq",
+        "laqab",
+        "kardigan",
+        "manfaatli"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おじぎする → ta'zim qilmoq"
+    },
+    {
+      "id": 12,
+      "questionType": "reading",
+      "question": "『招く』ning o'qilishi qaysi?",
+      "word": "招く",
+      "choices": [
+        "しゅっしん",
+        "はいしする",
+        "まねく",
+        "あきる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "招く → まねく"
+    },
+    {
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『ていじげん』qaysi yozuvga mos?",
+      "word": "低次元",
+      "choices": [
+        "涙を流す",
+        "操作する",
+        "示す",
+        "低次元"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ていじげん → 低次元"
+    },
+    {
+      "id": 14,
       "questionType": "meaning",
       "question": "『自己紹介』ning ma'nosi qaysi?",
       "word": "自己紹介",
       "choices": [
-        "talabalar oshxonasi",
-        "bir-birini",
         "o'zini tanishtirmoq",
-        "oxirgi avtobus"
+        "pichirlamoq",
+        "tikilib qarash",
+        "ukol qilmoq"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "自己紹介 → o'zini tanishtirmoq"
     },
     {
-      "id": 10,
+      "id": 15,
       "questionType": "meaning",
-      "question": "『招く』ning ma'nosi qaysi?",
-      "word": "招く",
-      "choices": [
-        "yadro quroli",
-        "taklif qilmoq",
-        "tushunib rozi bo'lmoq, qanoatlanmoq",
-        "bir qarash; el nigohi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "招く → taklif qilmoq"
-    },
-    {
-      "id": 11,
-      "questionType": "kanji",
-      "question": "『どうき』qaysi yozuvga mos?",
-      "word": "同期",
-      "choices": [
-        "低次元",
-        "害",
-        "同期",
-        "介護する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "どうき → 同期"
-    },
-    {
-      "id": 12,
-      "questionType": "sentence",
-      "question": "『振り返る』ning ma'nosi qaysi?",
-      "word": "振り返る",
-      "choices": [
-        "bilvosita",
-        "sog'inch uyg'otadigan, eslashga arzigulik",
-        "ortga qaramoq; 2. o'tmishni eslamoq",
-        "qochmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "振り返る → ortga qaramoq; 2. o'tmishni eslamoq"
-    },
-    {
-      "id": 13,
-      "questionType": "reading",
-      "question": "『込める』ning o'qilishi qaysi?",
+      "question": "『込める』ning ma'nosi qaysi?",
       "word": "込める",
       "choices": [
-        "とける",
-        "こめる",
-        "ごうこん",
-        "いっかだんらん"
+        "qo'llanma",
+        "jo qilmoq, (tuyg'u, kuch) qo'shmoq",
+        "diqqatni jamlash kuchi",
+        "harakat qilmoq"
       ],
       "correctAnswer": 1,
-      "explanation": "込める → こめる"
-    },
-    {
-      "id": 14,
-      "questionType": "kanji",
-      "question": "『ちょくせつ』qaysi yozuvga mos?",
-      "word": "直接",
-      "choices": [
-        "〜未満",
-        "段差",
-        "直接",
-        "産む"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ちょくせつ → 直接"
-    },
-    {
-      "id": 15,
-      "questionType": "kanji",
-      "question": "『まねく』qaysi yozuvga mos?",
-      "word": "招く",
-      "choices": [
-        "呼び出す",
-        "蜂",
-        "招く",
-        "避ける"
-      ],
-      "correctAnswer": 2,
-      "explanation": "まねく → 招く"
+      "explanation": "込める → jo qilmoq, (tuyg'u, kuch) qo'shmoq"
     },
     {
       "id": 16,
-      "questionType": "reading",
-      "question": "『気配りする』ning o'qilishi qaysi?",
-      "word": "気配りする",
+      "questionType": "meaning",
+      "question": "『同期』ning ma'nosi qaysi?",
+      "word": "同期",
       "choices": [
-        "せいげんする",
-        "せっとくする",
-        "ししゅんき",
-        "きくばりする"
+        "o'tmish",
+        "bir yilda ishga kirgan tengdosh, kursdosh",
+        "mashhur kuy",
+        "berilib ketgan"
       ],
-      "correctAnswer": 3,
-      "explanation": "気配りする → きくばりする"
+      "correctAnswer": 1,
+      "explanation": "同期 → bir yilda ishga kirgan tengdosh, kursdosh"
     },
     {
       "id": 17,
-      "questionType": "kanji",
-      "question": "『こころあたり』qaysi yozuvga mos?",
-      "word": "心当たり",
+      "questionType": "reading",
+      "question": "『おじぎする』ning o'qilishi qaysi?",
+      "word": "おじぎする",
       "choices": [
-        "心当たり",
-        "機能性",
-        "過去",
+        "かくへいき",
+        "オーダーする",
+        "なにげない",
         "おじぎする"
       ],
-      "correctAnswer": 0,
-      "explanation": "こころあたり → 心当たり"
+      "correctAnswer": 3,
+      "explanation": "おじぎする → おじぎする"
     },
     {
       "id": 18,
@@ -247,293 +247,293 @@
       "question": "『低血圧』ning o'qilishi qaysi?",
       "word": "低血圧",
       "choices": [
-        "うけつぐ",
-        "かいにゅうする",
-        "なみだをながす",
-        "ていけつあつ"
+        "ていけつあつ",
+        "かんせつ",
+        "しょくば",
+        "れんあいする"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "低血圧 → ていけつあつ"
     },
     {
       "id": 19,
-      "questionType": "word",
-      "question": "『tarmoq; aloqalar tarmog'i』ning yaponcha ifodasi qaysi?",
-      "word": "ネットワーク",
+      "questionType": "reading",
+      "question": "『間接』ning o'qilishi qaysi?",
+      "word": "間接",
       "choices": [
         "ネットワーク",
-        "商店街",
-        "世代",
-        "裏切る"
+        "かんせつ",
+        "ともだちづきあい",
+        "ちゅうしょうきぎょう"
       ],
-      "correctAnswer": 0,
-      "explanation": "tarmoq; aloqalar tarmog'i → ネットワーク"
+      "correctAnswer": 1,
+      "explanation": "間接 → かんせつ"
     },
     {
       "id": 20,
-      "questionType": "meaning",
-      "question": "『コミュニケーション』ning ma'nosi qaysi?",
-      "word": "コミュニケーション",
+      "questionType": "word",
+      "question": "『(gap, salom, qo'l) almashmoq』ning yaponcha ifodasi qaysi?",
+      "word": "交わす",
       "choices": [
-        "laqab",
-        "vazifa, burch",
-        "muloqot",
-        "avlod (sinonim)"
+        "警備する",
+        "交わす",
+        "無口な",
+        "名産"
       ],
-      "correctAnswer": 2,
-      "explanation": "コミュニケーション → muloqot"
+      "correctAnswer": 1,
+      "explanation": "(gap, salom, qo'l) almashmoq → 交わす"
     },
     {
       "id": 21,
-      "questionType": "sentence",
-      "question": "『心当たりのない』ning ma'nosi qaysi?",
-      "word": "心当たりのない",
+      "questionType": "kanji",
+      "question": "『かいぬし』qaysi yozuvga mos?",
+      "word": "飼い主",
       "choices": [
-        "uyg'onmoq (ko'zi ochilmoq)",
-        "xayolga kelmaydigan, noma'lum",
-        "begona, birov",
-        "rishta, taqdiriy bog'liqlik"
+        "言い訳",
+        "ちらっと",
+        "飼い主",
+        "口論する"
       ],
-      "correctAnswer": 1,
-      "explanation": "心当たりのない → xayolga kelmaydigan, noma'lum"
+      "correctAnswer": 2,
+      "explanation": "かいぬし → 飼い主"
     },
     {
       "id": 22,
       "questionType": "sentence",
-      "question": "『自己紹介』ning ma'nosi qaysi?",
-      "word": "自己紹介",
-      "choices": [
-        "suyagi sinmoq",
-        "ko'zni olib qochish",
-        "o'zini tanishtirmoq",
-        "oila"
-      ],
-      "correctAnswer": 2,
-      "explanation": "自己紹介 → o'zini tanishtirmoq"
-    },
-    {
-      "id": 23,
-      "questionType": "sentence",
-      "question": "『結びつく』ning ma'nosi qaysi?",
-      "word": "結びつく",
-      "choices": [
-        "o'zaro bog'lanmoq",
-        "dan ko'ra",
-        "qarsak chalmoq",
-        "pichingli, istehzoli"
-      ],
-      "correctAnswer": 0,
-      "explanation": "結びつく → o'zaro bog'lanmoq"
-    },
-    {
-      "id": 24,
-      "questionType": "word",
-      "question": "『nolish, shikoyat』ning yaponcha ifodasi qaysi?",
-      "word": "ぐち",
-      "choices": [
-        "うらやましい",
-        "ぐち",
-        "覚え",
-        "招く"
-      ],
-      "correctAnswer": 1,
-      "explanation": "nolish, shikoyat → ぐち"
-    },
-    {
-      "id": 25,
-      "questionType": "reading",
-      "question": "『再会する』ning o'qilishi qaysi?",
-      "word": "再会する",
-      "choices": [
-        "せい",
-        "さいかいする",
-        "ひさしい",
-        "あいつ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "再会する → さいかいする"
-    },
-    {
-      "id": 26,
-      "questionType": "meaning",
-      "question": "『友達付き合い』ning ma'nosi qaysi?",
-      "word": "友達付き合い",
-      "choices": [
-        "do'stlar bilan munosabat",
-        "erkalanmoq",
-        "yomon (yopiq) doira, salbiy sikl",
-        "yuvinish xonasi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "友達付き合い → do'stlar bilan munosabat"
-    },
-    {
-      "id": 27,
-      "questionType": "meaning",
-      "question": "『心当たりのない』ning ma'nosi qaysi?",
-      "word": "心当たりのない",
-      "choices": [
-        "sharofati bilan",
-        "namlik",
-        "rozilik bildirmoq",
-        "xayolga kelmaydigan, noma'lum"
-      ],
-      "correctAnswer": 3,
-      "explanation": "心当たりのない → xayolga kelmaydigan, noma'lum"
-    },
-    {
-      "id": 28,
-      "questionType": "kanji",
-      "question": "『じこりゅう』qaysi yozuvga mos?",
-      "word": "自己流",
-      "choices": [
-        "養う",
-        "南向き",
-        "わが町",
-        "自己流"
-      ],
-      "correctAnswer": 3,
-      "explanation": "じこりゅう → 自己流"
-    },
-    {
-      "id": 29,
-      "questionType": "reading",
-      "question": "『同期』ning o'qilishi qaysi?",
-      "word": "同期",
-      "choices": [
-        "じぶんかってな",
-        "げんかい",
-        "こうろん",
-        "どうき"
-      ],
-      "correctAnswer": 3,
-      "explanation": "同期 → どうき"
-    },
-    {
-      "id": 30,
-      "questionType": "sentence",
-      "question": "『近所付き合い』ning ma'nosi qaysi?",
-      "word": "近所付き合い",
-      "choices": [
-        "arzimagan, kichik",
-        "ukol qilmoq",
-        "qo'shnilar bilan munosabat",
-        "tomoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "近所付き合い → qo'shnilar bilan munosabat"
-    },
-    {
-      "id": 31,
-      "questionType": "sentence",
       "question": "『おじぎする』ning ma'nosi qaysi?",
       "word": "おじぎする",
       "choices": [
+        "buzilmoq (shakl/holat)",
         "narx-navo (umumiy narxlar darajasi)",
-        "tomoq",
-        "rozilik bildirmoq",
+        "havas qiladigan, hasad qilinadigan",
         "ta'zim qilmoq"
       ],
       "correctAnswer": 3,
       "explanation": "おじぎする → ta'zim qilmoq"
     },
     {
-      "id": 32,
-      "questionType": "reading",
-      "question": "『呼び止める』ning o'qilishi qaysi?",
-      "word": "呼び止める",
+      "id": 23,
+      "questionType": "word",
+      "question": "『tarmoq; aloqalar tarmog'i』ning yaponcha ifodasi qaysi?",
+      "word": "ネットワーク",
       "choices": [
-        "れいきん",
-        "よびとめる",
-        "ふりかえる",
-        "せけんしらず"
+        "貸し借りする",
+        "ネットワーク",
+        "安定的な",
+        "あいつ"
       ],
       "correctAnswer": 1,
-      "explanation": "呼び止める → よびとめる"
+      "explanation": "tarmoq; aloqalar tarmog'i → ネットワーク"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『かわす』qaysi yozuvga mos?",
+      "word": "交わす",
+      "choices": [
+        "あいつ",
+        "交わす",
+        "うらやましい",
+        "輝く"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かわす → 交わす"
+    },
+    {
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『振り返る』ning ma'nosi qaysi?",
+      "word": "振り返る",
+      "choices": [
+        "ortga qaramoq; 2. o'tmishni eslamoq",
+        "hisoblab chiqmoq, hisob-kitobni aniqlamoq",
+        "ataylab, maqsadli",
+        "mashhur kuy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "振り返る → ortga qaramoq; 2. o'tmishni eslamoq"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『じこしょうかい』qaysi yozuvga mos?",
+      "word": "自己紹介",
+      "choices": [
+        "一人暮らし",
+        "逆らう",
+        "蚊",
+        "自己紹介"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じこしょうかい → 自己紹介"
+    },
+    {
+      "id": 27,
+      "questionType": "meaning",
+      "question": "『てっきり』ning ma'nosi qaysi?",
+      "word": "てっきり",
+      "choices": [
+        "jo'nash va yetib kelish (qatnov)",
+        "nigohi qattiq (badjahl ko'rinish)",
+        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
+        "ovoz berish, saylovda qatnashish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てっきり → shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
+    },
+    {
+      "id": 28,
+      "questionType": "reading",
+      "question": "『交わす』ning o'qilishi qaysi?",
+      "word": "交わす",
+      "choices": [
+        "かわす",
+        "ちる",
+        "おんだんな",
+        "しゅっさんする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "交わす → かわす"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『ていレベル』qaysi yozuvga mos?",
+      "word": "低レベル",
+      "choices": [
+        "低レベル",
+        "[〜を]結び付ける",
+        "バイキング",
+        "選挙する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ていレベル → 低レベル"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『muloqot』ning yaponcha ifodasi qaysi?",
+      "word": "コミュニケーション",
+      "choices": [
+        "かじる",
+        "好成績",
+        "ガーデニング",
+        "コミュニケーション"
+      ],
+      "correctAnswer": 3,
+      "explanation": "muloqot → コミュニケーション"
+    },
+    {
+      "id": 31,
+      "questionType": "reading",
+      "question": "『気配りする』ning o'qilishi qaysi?",
+      "word": "気配りする",
+      "choices": [
+        "きょういくひ",
+        "ニックネーム",
+        "せい",
+        "きくばりする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "気配りする → きくばりする"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『結びつく』ning ma'nosi qaysi?",
+      "word": "結びつく",
+      "choices": [
+        "sochilib yotmoq, to'zib ketmoq",
+        "xotira",
+        "o'zaro bog'lanmoq",
+        "atom elektr"
+      ],
+      "correctAnswer": 2,
+      "explanation": "結びつく → o'zaro bog'lanmoq"
     },
     {
       "id": 33,
-      "questionType": "reading",
-      "question": "『飼い主』ning o'qilishi qaysi?",
-      "word": "飼い主",
-      "choices": [
-        "なみだをながす",
-        "かいぬし",
-        "しせん",
-        "ほうこくする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "飼い主 → かいぬし"
-    },
-    {
-      "id": 34,
-      "questionType": "kanji",
-      "question": "『かんせつ』qaysi yozuvga mos?",
-      "word": "間接",
-      "choices": [
-        "間接",
-        "悪ふざけ",
-        "視線",
-        "たどり着く"
-      ],
-      "correctAnswer": 0,
-      "explanation": "かんせつ → 間接"
-    },
-    {
-      "id": 35,
       "questionType": "word",
       "question": "『shunday deb qat'iy o'ylab olmoq (aslida unday emas)』ning yaponcha ifodasi qaysi?",
       "word": "思い込む",
       "choices": [
-        "気配りする",
+        "手ぶら",
+        "耕す",
         "思い込む",
-        "直接",
-        "支援する"
+        "病状"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "shunday deb qat'iy o'ylab olmoq (aslida unday emas) → 思い込む"
     },
     {
-      "id": 36,
-      "questionType": "sentence",
-      "question": "『コミュニケーション』ning ma'nosi qaysi?",
-      "word": "コミュニケーション",
+      "id": 34,
+      "questionType": "reading",
+      "question": "『ぐち』ning o'qilishi qaysi?",
+      "word": "ぐち",
       "choices": [
-        "erkalatmoq, tantiq qilmoq",
-        "shubhalanmoq",
-        "charaqlamoq",
-        "muloqot"
+        "ぐち",
+        "ほこらしい",
+        "ふような",
+        "さかん"
       ],
-      "correctAnswer": 3,
-      "explanation": "コミュニケーション → muloqot"
+      "correctAnswer": 0,
+      "explanation": "ぐち → ぐち"
     },
     {
-      "id": 37,
+      "id": 35,
       "questionType": "kanji",
       "question": "『とっさに』qaysi yozuvga mos?",
       "word": "とっさに",
       "choices": [
-        "見習う",
-        "とっさに",
-        "出身",
-        "他人"
+        "土砂降り",
+        "恵まれる",
+        "プロポーズする",
+        "とっさに"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "とっさに → とっさに"
+    },
+    {
+      "id": 36,
+      "questionType": "word",
+      "question": "『o'sha lahzada』ning yaponcha ifodasi qaysi?",
+      "word": "とっさに",
+      "choices": [
+        "しつけ",
+        "物足りない",
+        "選挙する",
+        "とっさに"
+      ],
+      "correctAnswer": 3,
+      "explanation": "o'sha lahzada → とっさに"
+    },
+    {
+      "id": 37,
+      "questionType": "word",
+      "question": "『xayolga keladigan narsa, taxmin』ning yaponcha ifodasi qaysi?",
+      "word": "心当たり",
+      "choices": [
+        "コミュニケーション",
+        "医療費",
+        "心当たり",
+        "崩れる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "xayolga keladigan narsa, taxmin → 心当たり"
     },
     {
       "id": 38,
       "questionType": "reading",
-      "question": "『おじぎする』ning o'qilishi qaysi?",
-      "word": "おじぎする",
+      "question": "『込める』ning o'qilishi qaysi?",
+      "word": "込める",
       "choices": [
-        "どういする",
-        "なにげない",
-        "おじぎする",
-        "とける"
+        "こういんしょう",
+        "げんさくしゃ",
+        "アプローチする",
+        "こめる"
       ],
-      "correctAnswer": 2,
-      "explanation": "おじぎする → おじぎする"
+      "correctAnswer": 3,
+      "explanation": "込める → こめる"
     },
     {
       "id": 39,
@@ -541,1175 +541,1175 @@
       "question": "『さいかいする』qaysi yozuvga mos?",
       "word": "再会する",
       "choices": [
-        "温もり",
-        "交わす",
-        "大幅な",
-        "再会する"
+        "再会する",
+        "継ぐ",
+        "恋愛する",
+        "わが町"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "さいかいする → 再会する"
     },
     {
       "id": 40,
       "questionType": "reading",
-      "question": "『交わす』ning o'qilishi qaysi?",
-      "word": "交わす",
+      "question": "『大いに』ning o'qilishi qaysi?",
+      "word": "大いに",
       "choices": [
-        "いっきに",
-        "ちらかる",
-        "かわす",
-        "おんだんな"
+        "おおいに",
+        "きらくな",
+        "だしいれ",
+        "わざわざ"
       ],
-      "correctAnswer": 2,
-      "explanation": "交わす → かわす"
+      "correctAnswer": 0,
+      "explanation": "大いに → おおいに"
     },
     {
       "id": 41,
-      "questionType": "kanji",
-      "question": "『てっきり』qaysi yozuvga mos?",
-      "word": "てっきり",
+      "questionType": "sentence",
+      "question": "『コミュニケーション』ning ma'nosi qaysi?",
+      "word": "コミュニケーション",
       "choices": [
-        "励ます",
-        "介入する",
-        "頼りにする",
-        "てっきり"
+        "xayolga keladigan narsa, taxmin",
+        "tekshirmoq, nazorat qilmoq",
+        "muloqot",
+        "sharqqa qaragan"
       ],
-      "correctAnswer": 3,
-      "explanation": "てっきり → てっきり"
+      "correctAnswer": 2,
+      "explanation": "コミュニケーション → muloqot"
     },
     {
       "id": 42,
       "questionType": "reading",
-      "question": "『大家』ning o'qilishi qaysi?",
-      "word": "大家",
+      "question": "『招く』ning o'qilishi qaysi?",
+      "word": "招く",
       "choices": [
-        "おおや",
-        "さいがい",
-        "たべざかり",
-        "こう〜"
+        "かくへいき",
+        "まねく",
+        "ほえる",
+        "そんちょうする"
       ],
-      "correctAnswer": 0,
-      "explanation": "大家 → おおや"
+      "correctAnswer": 1,
+      "explanation": "招く → まねく"
     },
     {
       "id": 43,
       "questionType": "word",
-      "question": "『(gap, salom, qo'l) almashmoq』ning yaponcha ifodasi qaysi?",
-      "word": "交わす",
+      "question": "『do'stlar bilan munosabat』ning yaponcha ifodasi qaysi?",
+      "word": "友達付き合い",
       "choices": [
-        "今さら",
-        "交わす",
-        "病状",
-        "よこす"
+        "才能",
+        "操作する",
+        "からかう",
+        "友達付き合い"
       ],
-      "correctAnswer": 1,
-      "explanation": "(gap, salom, qo'l) almashmoq → 交わす"
+      "correctAnswer": 3,
+      "explanation": "do'stlar bilan munosabat → 友達付き合い"
     },
     {
       "id": 44,
-      "questionType": "kanji",
-      "question": "『ていじげん』qaysi yozuvga mos?",
-      "word": "低次元",
+      "questionType": "reading",
+      "question": "『コミュニケーション』ning o'qilishi qaysi?",
+      "word": "コミュニケーション",
       "choices": [
-        "わざわざ",
-        "名人",
-        "段差",
-        "低次元"
+        "うちあける",
+        "コミュニケーション",
+        "あい",
+        "こめる"
       ],
-      "correctAnswer": 3,
-      "explanation": "ていじげん → 低次元"
+      "correctAnswer": 1,
+      "explanation": "コミュニケーション → コミュニケーション"
     },
     {
       "id": 45,
       "questionType": "kanji",
+      "question": "『よびとめる』qaysi yozuvga mos?",
+      "word": "呼び止める",
+      "choices": [
+        "いやみな",
+        "呼び止める",
+        "頼りにする",
+        "質素な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "よびとめる → 呼び止める"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『直接』ning o'qilishi qaysi?",
+      "word": "直接",
+      "choices": [
+        "きまずい",
+        "ちあん",
+        "ごくわずか",
+        "ちょくせつ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "直接 → ちょくせつ"
+    },
+    {
+      "id": 47,
+      "questionType": "reading",
+      "question": "『てっきり』ning o'qilishi qaysi?",
+      "word": "てっきり",
+      "choices": [
+        "いまさら",
+        "てっきり",
+        "しょめん",
+        "ありがたい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てっきり → てっきり"
+    },
+    {
+      "id": 48,
+      "questionType": "meaning",
+      "question": "『飼い主』ning ma'nosi qaysi?",
+      "word": "飼い主",
+      "choices": [
+        "tarbiyalamoq, odob o'rgatmoq",
+        "xo'jayin, egasi (hayvonning)",
+        "eng sevimli narsa",
+        "yechim"
+      ],
+      "correctAnswer": 1,
+      "explanation": "飼い主 → xo'jayin, egasi (hayvonning)"
+    },
+    {
+      "id": 49,
+      "questionType": "reading",
+      "question": "『再会する』ning o'qilishi qaysi?",
+      "word": "再会する",
+      "choices": [
+        "かいごする",
+        "こうしんする",
+        "さいかいする",
+        "わがまち"
+      ],
+      "correctAnswer": 2,
+      "explanation": "再会する → さいかいする"
+    },
+    {
+      "id": 50,
+      "questionType": "word",
+      "question": "『kam mablag'』ning yaponcha ifodasi qaysi?",
+      "word": "低予算",
+      "choices": [
+        "抵抗する",
+        "低予算",
+        "うらむ",
+        "ペア"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kam mablag' → 低予算"
+    },
+    {
+      "id": 51,
+      "questionType": "meaning",
+      "question": "『直接』ning ma'nosi qaysi?",
+      "word": "直接",
+      "choices": [
+        "ko'ndirmoq, ishontirmoq",
+        "to'g'ridan to'g'ri, bilvosita",
+        "qayta uchrashmoq",
+        "anovi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "直接 → to'g'ridan to'g'ri, bilvosita"
+    },
+    {
+      "id": 52,
+      "questionType": "meaning",
+      "question": "『近所付き合い』ning ma'nosi qaysi?",
+      "word": "近所付き合い",
+      "choices": [
+        "aloqa, munosabat",
+        "chora ko'rmoq",
+        "qo'shnilar bilan munosabat",
+        "og'zi bo'sh (sir saqlay olmaydigan)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "近所付き合い → qo'shnilar bilan munosabat"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『接する』ning ma'nosi qaysi?",
+      "word": "接する",
+      "choices": [
+        "cheklangan vaqtli chegirma savdosi",
+        "havas qiladigan, hasad qilinadigan",
+        "yashirincha",
+        "muloqot qilmoq, aloqada bo'lmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "接する → muloqot qilmoq, aloqada bo'lmoq"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『xotira』ning yaponcha ifodasi qaysi?",
+      "word": "覚え",
+      "choices": [
+        "覚え",
+        "カーディガン",
+        "ホームヘルパー",
+        "えさ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "xotira → 覚え"
+    },
+    {
+      "id": 55,
+      "questionType": "sentence",
+      "question": "『友達付き合い』ning ma'nosi qaysi?",
+      "word": "友達付き合い",
+      "choices": [
+        "do'stlar bilan munosabat",
+        "taomning to'liq seti",
+        "havas qilmoq",
+        "qisqartirish, kamaytirish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "友達付き合い → do'stlar bilan munosabat"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『かわす』qaysi yozuvga mos?",
+      "word": "交わす",
+      "choices": [
+        "あだ名",
+        "つぶやく",
+        "交わす",
+        "悔やむ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かわす → 交わす"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『ちょくせつ』qaysi yozuvga mos?",
+      "word": "直接",
+      "choices": [
+        "促す",
+        "散らかる",
+        "直接",
+        "高学歴"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちょくせつ → 直接"
+    },
+    {
+      "id": 58,
+      "questionType": "reading",
+      "question": "『大家』ning o'qilishi qaysi?",
+      "word": "大家",
+      "choices": [
+        "ネットワーク",
+        "けいびがいしゃ",
+        "おおや",
+        "じぶんかってな"
+      ],
+      "correctAnswer": 2,
+      "explanation": "大家 → おおや"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『おじぎする』qaysi yozuvga mos?",
+      "word": "おじぎする",
+      "choices": [
+        "おじぎする",
+        "同意する",
+        "愛情",
+        "歓声"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おじぎする → おじぎする"
+    },
+    {
+      "id": 60,
+      "questionType": "sentence",
+      "question": "『とっさに』ning ma'nosi qaysi?",
+      "word": "とっさに",
+      "choices": [
+        "lip etib, ko'z qiri bilan (qaramoq)",
+        "qimmatga tushmoq",
+        "o'sha lahzada",
+        "bilmaslikka olish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "とっさに → o'sha lahzada"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『覚え』ning ma'nosi qaysi?",
+      "word": "覚え",
+      "choices": [
+        "xotira",
+        "jazolamoq",
+        "past qon bosimi",
+        "ovoz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "覚え → xotira"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『込める』ning o'qilishi qaysi?",
+      "word": "込める",
+      "choices": [
+        "ひきおとす",
+        "こめる",
+        "あくじょうけん",
+        "はくしゅする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "込める → こめる"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『結びつく』ning o'qilishi qaysi?",
+      "word": "結びつく",
+      "choices": [
+        "マスコミ",
+        "むすびつく",
+        "しみじみ",
+        "こういんしょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "結びつく → むすびつく"
+    },
+    {
+      "id": 64,
+      "questionType": "kanji",
+      "question": "『まねく』qaysi yozuvga mos?",
+      "word": "招く",
+      "choices": [
+        "招く",
+        "赤字",
+        "乗り切る",
+        "税"
+      ],
+      "correctAnswer": 0,
+      "explanation": "まねく → 招く"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『e'tibor qilmoq, g'amxo'rlik ko'rsatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "気配りする",
+      "choices": [
+        "気配りする",
+        "失格する",
+        "高気圧",
+        "いまさら"
+      ],
+      "correctAnswer": 0,
+      "explanation": "e'tibor qilmoq, g'amxo'rlik ko'rsatmoq → 気配りする"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『きくばりする』qaysi yozuvga mos?",
+      "word": "気配りする",
+      "choices": [
+        "悪天候",
+        "気配りする",
+        "生まれる",
+        "おかげ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "きくばりする → 気配りする"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『おもいこむ』qaysi yozuvga mos?",
+      "word": "思い込む",
+      "choices": [
+        "好条件",
+        "支援する",
+        "思い込む",
+        "誇らしい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おもいこむ → 思い込む"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『おおいに』qaysi yozuvga mos?",
+      "word": "大いに",
+      "choices": [
+        "大いに",
+        "一口",
+        "視線",
+        "心無い"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おおいに → 大いに"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『覚え』ning o'qilishi qaysi?",
+      "word": "覚え",
+      "choices": [
+        "おぼえ",
+        "いっか",
+        "ひみつ",
+        "いまさら"
+      ],
+      "correctAnswer": 0,
+      "explanation": "覚え → おぼえ"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『自己流』ning ma'nosi qaysi?",
+      "word": "自己流",
+      "choices": [
+        "sir",
+        "balandlik farqi (pog'ona, ostona)",
+        "shaxsiy metod",
+        "taqdir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "自己流 → shaxsiy metod"
+    },
+    {
+      "id": 71,
+      "questionType": "reading",
+      "question": "『低姿勢』ning o'qilishi qaysi?",
+      "word": "低姿勢",
+      "choices": [
+        "ささいな",
+        "ていしせい",
+        "つうしんする",
+        "かいけつさく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "低姿勢 → ていしせい"
+    },
+    {
+      "id": 72,
+      "questionType": "kanji",
       "question": "『ふりかえる』qaysi yozuvga mos?",
       "word": "振り返る",
       "choices": [
-        "ジェネレーション",
-        "だまる",
-        "もしかすると",
+        "都市開発",
+        "甘え",
+        "労働する",
         "振り返る"
       ],
       "correctAnswer": 3,
       "explanation": "ふりかえる → 振り返る"
     },
     {
-      "id": 46,
-      "questionType": "meaning",
-      "question": "『ネットワーク』ning ma'nosi qaysi?",
-      "word": "ネットワーク",
-      "choices": [
-        "kamtarona, sodda",
-        "tarmoq; aloqalar tarmog'i",
-        "tug'ilmoq",
-        "an'ana"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ネットワーク → tarmoq; aloqalar tarmog'i"
-    },
-    {
-      "id": 47,
-      "questionType": "sentence",
-      "question": "『呼び止める』ning ma'nosi qaysi?",
-      "word": "呼び止める",
-      "choices": [
-        "past saviya, sayoz",
-        "chaqirib to'xtatmoq",
-        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
-        "betashvish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "呼び止める → chaqirib to'xtatmoq"
-    },
-    {
-      "id": 48,
-      "questionType": "reading",
-      "question": "『接する』ning o'qilishi qaysi?",
+      "id": 73,
+      "questionType": "word",
+      "question": "『muloqot qilmoq, aloqada bo'lmoq』ning yaponcha ifodasi qaysi?",
       "word": "接する",
       "choices": [
-        "せっする",
-        "せけんしらず",
-        "どうし",
-        "じぶんかってな"
+        "接する",
+        "くどい",
+        "振り込む",
+        "妊婦"
       ],
       "correctAnswer": 0,
-      "explanation": "接する → せっする"
+      "explanation": "muloqot qilmoq, aloqada bo'lmoq → 接する"
     },
     {
-      "id": 49,
-      "questionType": "meaning",
-      "question": "『低次元』ning ma'nosi qaysi?",
-      "word": "低次元",
-      "choices": [
-        "nok",
-        "past saviya, sayoz",
-        "sharqqa qaragan",
-        "qaror"
-      ],
-      "correctAnswer": 1,
-      "explanation": "低次元 → past saviya, sayoz"
-    },
-    {
-      "id": 50,
-      "questionType": "meaning",
-      "question": "『飼い主』ning ma'nosi qaysi?",
-      "word": "飼い主",
-      "choices": [
-        "sochilib yotmoq, to'zib ketmoq",
-        "a'zo to'lovi",
-        "beparvo, parvo qilmaydigan",
-        "xo'jayin, egasi (hayvonning)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "飼い主 → xo'jayin, egasi (hayvonning)"
-    },
-    {
-      "id": 51,
+      "id": 74,
       "questionType": "kanji",
-      "question": "『こめる』qaysi yozuvga mos?",
-      "word": "込める",
+      "question": "『どうき』qaysi yozuvga mos?",
+      "word": "同期",
       "choices": [
-        "言いつける",
-        "〜未満",
-        "コンパ",
-        "込める"
-      ],
-      "correctAnswer": 3,
-      "explanation": "こめる → 込める"
-    },
-    {
-      "id": 52,
-      "questionType": "reading",
-      "question": "『ぐち』ning o'qilishi qaysi?",
-      "word": "ぐち",
-      "choices": [
-        "ぐち",
-        "かいぬし",
-        "おじぎする",
-        "くずれる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ぐち → ぐち"
-    },
-    {
-      "id": 53,
-      "questionType": "meaning",
-      "question": "『気配りする』ning ma'nosi qaysi?",
-      "word": "気配りする",
-      "choices": [
-        "suhbatlashmoq, dil so'zlashmoq",
-        "qo'llab-quvvatlamoq",
-        "yomon odat, qiliq",
-        "e'tibor qilmoq, g'amxo'rlik ko'rsatmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "気配りする → e'tibor qilmoq, g'amxo'rlik ko'rsatmoq"
-    },
-    {
-      "id": 54,
-      "questionType": "reading",
-      "question": "『直接』ning o'qilishi qaysi?",
-      "word": "直接",
-      "choices": [
-        "ちょくせつ",
-        "どうし",
-        "さくせいする",
-        "りべんせい"
-      ],
-      "correctAnswer": 0,
-      "explanation": "直接 → ちょくせつ"
-    },
-    {
-      "id": 55,
-      "questionType": "meaning",
-      "question": "『おじぎする』ning ma'nosi qaysi?",
-      "word": "おじぎする",
-      "choices": [
-        "aql tish",
-        "ta'zim qilmoq",
-        "avlod",
-        "xayolga kelmaydigan, noma'lum"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おじぎする → ta'zim qilmoq"
-    },
-    {
-      "id": 56,
-      "questionType": "sentence",
-      "question": "『低レベル』ning ma'nosi qaysi?",
-      "word": "低レベル",
-      "choices": [
-        "yomon ta'sir",
-        "past daraja",
-        "tengi yo'q",
-        "buyurmoq, topshirmoq; 2. chaqimchilik qilmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "低レベル → past daraja"
-    },
-    {
-      "id": 57,
-      "questionType": "reading",
-      "question": "『低次元』ning o'qilishi qaysi?",
-      "word": "低次元",
-      "choices": [
-        "しせん",
-        "ていじげん",
-        "あくしゅうかん",
-        "みじたくする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "低次元 → ていじげん"
-    },
-    {
-      "id": 58,
-      "questionType": "reading",
-      "question": "『ネットワーク』ning o'qilishi qaysi?",
-      "word": "ネットワーク",
-      "choices": [
-        "にらむ",
-        "うんめい",
-        "ネットワーク",
-        "かいごする"
+        "洗面所",
+        "領土",
+        "同期",
+        "にらむ"
       ],
       "correctAnswer": 2,
-      "explanation": "ネットワーク → ネットワーク"
+      "explanation": "どうき → 同期"
     },
     {
-      "id": 59,
-      "questionType": "meaning",
-      "question": "『間接』ning ma'nosi qaysi?",
-      "word": "間接",
-      "choices": [
-        "lip etib, bir zum",
-        "tuni bilan uxlamaslik",
-        "bilvosita",
-        "ombor"
-      ],
-      "correctAnswer": 2,
-      "explanation": "間接 → bilvosita"
-    },
-    {
-      "id": 60,
-      "questionType": "word",
-      "question": "『xayolga keladigan narsa, taxmin』ning yaponcha ifodasi qaysi?",
-      "word": "心当たり",
-      "choices": [
-        "交わす",
-        "低予算",
-        "心当たり",
-        "喉"
-      ],
-      "correctAnswer": 2,
-      "explanation": "xayolga keladigan narsa, taxmin → 心当たり"
-    },
-    {
-      "id": 61,
-      "questionType": "kanji",
-      "question": "『まねく』qaysi yozuvga mos?",
-      "word": "招く",
-      "choices": [
-        "いわば",
-        "一家団らん",
-        "招く",
-        "そらす"
-      ],
-      "correctAnswer": 2,
-      "explanation": "まねく → 招く"
-    },
-    {
-      "id": 62,
-      "questionType": "meaning",
-      "question": "『近所付き合い』ning ma'nosi qaysi?",
-      "word": "近所付き合い",
-      "choices": [
-        "qo'shnilar bilan munosabat",
-        "xiyonat qilmoq, sotmoq",
-        "aytish mumkinki, go'yo",
-        "kelib chiqishi (qayerlik)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "近所付き合い → qo'shnilar bilan munosabat"
-    },
-    {
-      "id": 63,
-      "questionType": "kanji",
-      "question": "『ていよさん』qaysi yozuvga mos?",
-      "word": "低予算",
-      "choices": [
-        "落ち込む",
-        "礼金",
-        "同士",
-        "低予算"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ていよさん → 低予算"
-    },
-    {
-      "id": 64,
-      "questionType": "meaning",
-      "question": "『大家』ning ma'nosi qaysi?",
-      "word": "大家",
-      "choices": [
-        "bezovta qiluvchi xatti-harakat",
-        "shimolga qaragan",
-        "odatiy, tabiiy",
-        "uy egasi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "大家 → uy egasi"
-    },
-    {
-      "id": 65,
-      "questionType": "kanji",
-      "question": "『ぐち』qaysi yozuvga mos?",
-      "word": "ぐち",
-      "choices": [
-        "終バス",
-        "ぐち",
-        "叶う",
-        "北向き"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ぐち → ぐち"
-    },
-    {
-      "id": 66,
-      "questionType": "sentence",
-      "question": "『接する』ning ma'nosi qaysi?",
-      "word": "接する",
-      "choices": [
-        "muloqot qilmoq, aloqada bo'lmoq",
-        "yangilamoq (shartnoma)",
-        "tengi yo'q",
-        "bezovta qiluvchi xatti-harakat"
-      ],
-      "correctAnswer": 0,
-      "explanation": "接する → muloqot qilmoq, aloqada bo'lmoq"
-    },
-    {
-      "id": 67,
-      "questionType": "kanji",
-      "question": "『こころあたり』qaysi yozuvga mos?",
-      "word": "心当たり",
-      "choices": [
-        "気配りする",
-        "自己紹介",
-        "心当たり",
-        "似顔絵"
-      ],
-      "correctAnswer": 2,
-      "explanation": "こころあたり → 心当たり"
-    },
-    {
-      "id": 68,
-      "questionType": "kanji",
-      "question": "『さいかいする』qaysi yozuvga mos?",
-      "word": "再会する",
-      "choices": [
-        "仲間はずれ",
-        "ネットワーク",
-        "再会する",
-        "洗面所"
-      ],
-      "correctAnswer": 2,
-      "explanation": "さいかいする → 再会する"
-    },
-    {
-      "id": 69,
-      "questionType": "word",
-      "question": "『kamtarona (tutgan holat)』ning yaponcha ifodasi qaysi?",
-      "word": "低姿勢",
-      "choices": [
-        "野外",
-        "低姿勢",
-        "手元",
-        "質問"
-      ],
-      "correctAnswer": 1,
-      "explanation": "kamtarona (tutgan holat) → 低姿勢"
-    },
-    {
-      "id": 70,
+      "id": 75,
       "questionType": "kanji",
       "question": "『きんじょづきあい』qaysi yozuvga mos?",
       "word": "近所付き合い",
       "choices": [
-        "低血圧",
-        "近所付き合い",
-        "だまる",
-        "株価"
+        "作成する",
+        "低予算",
+        "右に出る者はいない",
+        "近所付き合い"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "きんじょづきあい → 近所付き合い"
     },
     {
-      "id": 71,
-      "questionType": "reading",
-      "question": "『間接』ning o'qilishi qaysi?",
-      "word": "間接",
+      "id": 76,
+      "questionType": "sentence",
+      "question": "『心当たり』ning ma'nosi qaysi?",
+      "word": "心当たり",
       "choices": [
-        "ちゅういほう",
-        "かんせつ",
-        "しつけ",
-        "くいしんぼう"
+        "xayolga keladigan narsa, taxmin",
+        "avlod",
+        "urmoq, musht tushirmoq",
+        "tug'ilmoq"
       ],
-      "correctAnswer": 1,
-      "explanation": "間接 → かんせつ"
+      "correctAnswer": 0,
+      "explanation": "心当たり → xayolga keladigan narsa, taxmin"
     },
     {
-      "id": 72,
+      "id": 77,
       "questionType": "kanji",
-      "question": "『じこしょうかい』qaysi yozuvga mos?",
-      "word": "自己紹介",
+      "question": "『こころあたり』qaysi yozuvga mos?",
+      "word": "心当たり",
       "choices": [
-        "悪天候",
-        "自己紹介",
-        "介護する",
-        "響く"
+        "定時",
+        "心当たり",
+        "敷金",
+        "頼りにする"
       ],
       "correctAnswer": 1,
-      "explanation": "じこしょうかい → 自己紹介"
+      "explanation": "こころあたり → 心当たり"
     },
     {
-      "id": 73,
+      "id": 78,
+      "questionType": "meaning",
+      "question": "『呼び止める』ning ma'nosi qaysi?",
+      "word": "呼び止める",
+      "choices": [
+        "chaqirib to'xtatmoq",
+        "rozilik bildirmoq, tushunib qabul qilmoq",
+        "qo'shmoq, kiritmoq",
+        "nafasi qisilib qolmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "呼び止める → chaqirib to'xtatmoq"
+    },
+    {
+      "id": 79,
+      "questionType": "sentence",
+      "question": "『[〜を]結び付ける』ning ma'nosi qaysi?",
+      "word": "[〜を]結び付ける",
+      "choices": [
+        "shoh asar",
+        "xotira",
+        "qarshilik ko'rsatmoq",
+        "bog'lamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "[〜を]結び付ける → bog'lamoq"
+    },
+    {
+      "id": 80,
+      "questionType": "sentence",
+      "question": "『結びつく』ning ma'nosi qaysi?",
+      "word": "結びつく",
+      "choices": [
+        "yaxshi shifokor",
+        "o'zaro bog'lanmoq",
+        "qo'llanma",
+        "atayin, ovora bo'lib"
+      ],
+      "correctAnswer": 1,
+      "explanation": "結びつく → o'zaro bog'lanmoq"
+    },
+    {
+      "id": 81,
       "questionType": "kanji",
-      "question": "『おもいこむ』qaysi yozuvga mos?",
+      "question": "『おぼえ』qaysi yozuvga mos?",
+      "word": "覚え",
+      "choices": [
+        "覚え",
+        "むしろ",
+        "盛り上がる",
+        "介助犬"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おぼえ → 覚え"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『思い込む』ning ma'nosi qaysi?",
       "word": "思い込む",
       "choices": [
-        "友人",
-        "対策する",
-        "思い込む",
-        "でたらめな"
+        "bir luqma",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
+        "yomon ob-havo",
+        "ijara (ijaraga berish)"
       ],
-      "correctAnswer": 2,
-      "explanation": "おもいこむ → 思い込む"
+      "correctAnswer": 1,
+      "explanation": "思い込む → shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
     },
     {
-      "id": 74,
+      "id": 83,
       "questionType": "meaning",
       "question": "『振り返る』ning ma'nosi qaysi?",
       "word": "振り返る",
       "choices": [
-        "shogird, o'rganuvchi",
-        "ombor",
-        "meros qilib olmoq, qabul qilib olmoq",
+        "ovoz",
+        "o'rnak olmoq",
+        "o'zini tanishtirmoq",
         "ortga qaramoq; 2. o'tmishni eslamoq"
       ],
       "correctAnswer": 3,
       "explanation": "振り返る → ortga qaramoq; 2. o'tmishni eslamoq"
     },
     {
-      "id": 75,
-      "questionType": "word",
-      "question": "『xo'jayin, egasi (hayvonning)』ning yaponcha ifodasi qaysi?",
-      "word": "飼い主",
+      "id": 84,
+      "questionType": "kanji",
+      "question": "『こめる』qaysi yozuvga mos?",
+      "word": "込める",
       "choices": [
-        "飼い主",
-        "屋根",
-        "記憶",
-        "副作用"
-      ],
-      "correctAnswer": 0,
-      "explanation": "xo'jayin, egasi (hayvonning) → 飼い主"
-    },
-    {
-      "id": 76,
-      "questionType": "meaning",
-      "question": "『同期』ning ma'nosi qaysi?",
-      "word": "同期",
-      "choices": [
-        "aralashmoq, vositachilik qilmoq",
-        "mening uyim",
-        "bir yilda ishga kirgan tengdosh, kursdosh",
-        "ta'zim qilmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "同期 → bir yilda ishga kirgan tengdosh, kursdosh"
-    },
-    {
-      "id": 77,
-      "questionType": "word",
-      "question": "『o'sha lahzada』ning yaponcha ifodasi qaysi?",
-      "word": "とっさに",
-      "choices": [
-        "向き合う",
-        "とっさに",
-        "納得する",
-        "好印象"
-      ],
-      "correctAnswer": 1,
-      "explanation": "o'sha lahzada → とっさに"
-    },
-    {
-      "id": 78,
-      "questionType": "sentence",
-      "question": "『心当たり』ning ma'nosi qaysi?",
-      "word": "心当たり",
-      "choices": [
-        "xayolga keladigan narsa, taxmin",
-        "baqirmoq",
-        "aldamoq, chuv tushirmoq",
-        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "心当たり → xayolga keladigan narsa, taxmin"
-    },
-    {
-      "id": 79,
-      "questionType": "sentence",
-      "question": "『ネットワーク』ning ma'nosi qaysi?",
-      "word": "ネットワーク",
-      "choices": [
-        "tarmoq; aloqalar tarmog'i",
-        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
-        "do'stlar",
-        "ishonsa bo'ladigan, ishonchli"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ネットワーク → tarmoq; aloqalar tarmog'i"
-    },
-    {
-      "id": 80,
-      "questionType": "meaning",
-      "question": "『直接』ning ma'nosi qaysi?",
-      "word": "直接",
-      "choices": [
-        "aloqa qilmoq (onlayn)",
-        "do'stlar",
-        "to'g'ridan to'g'ri",
-        "yomon ob-havo"
-      ],
-      "correctAnswer": 2,
-      "explanation": "直接 → to'g'ridan to'g'ri"
-    },
-    {
-      "id": 81,
-      "questionType": "word",
-      "question": "『qayta uchrashmoq』ning yaponcha ifodasi qaysi?",
-      "word": "再会する",
-      "choices": [
-        "注射する",
-        "だます",
-        "憧れる",
-        "再会する"
+        "学食",
+        "税金",
+        "高学歴",
+        "込める"
       ],
       "correctAnswer": 3,
-      "explanation": "qayta uchrashmoq → 再会する"
-    },
-    {
-      "id": 82,
-      "questionType": "word",
-      "question": "『past qon bosimi』ning yaponcha ifodasi qaysi?",
-      "word": "低血圧",
-      "choices": [
-        "世代",
-        "低血圧",
-        "懐かしい",
-        "副作用"
-      ],
-      "correctAnswer": 1,
-      "explanation": "past qon bosimi → 低血圧"
-    },
-    {
-      "id": 83,
-      "questionType": "kanji",
-      "question": "『きくばりする』qaysi yozuvga mos?",
-      "word": "気配りする",
-      "choices": [
-        "普段",
-        "気楽な",
-        "気配りする",
-        "許す"
-      ],
-      "correctAnswer": 2,
-      "explanation": "きくばりする → 気配りする"
-    },
-    {
-      "id": 84,
-      "questionType": "meaning",
-      "question": "『てっきり』ning ma'nosi qaysi?",
-      "word": "てっきり",
-      "choices": [
-        "urmoq, musht tushirmoq",
-        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
-        "alohida (xususiy) hovlili uy",
-        "ish joyi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てっきり → shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
+      "explanation": "こめる → 込める"
     },
     {
       "id": 85,
-      "questionType": "meaning",
-      "question": "『低予算』ning ma'nosi qaysi?",
-      "word": "低予算",
+      "questionType": "kanji",
+      "question": "『おおいに』qaysi yozuvga mos?",
+      "word": "大いに",
       "choices": [
-        "funksionallik",
-        "dan kam",
-        "bahslashmoq",
-        "kam mablag'"
+        "大いに",
+        "過去",
+        "悪ふざけ",
+        "ささやく"
       ],
-      "correctAnswer": 3,
-      "explanation": "低予算 → kam mablag'"
+      "correctAnswer": 0,
+      "explanation": "おおいに → 大いに"
     },
     {
       "id": 86,
-      "questionType": "reading",
-      "question": "『ぐち』ning o'qilishi qaysi?",
-      "word": "ぐち",
+      "questionType": "kanji",
+      "question": "『こめる』qaysi yozuvga mos?",
+      "word": "込める",
       "choices": [
-        "けなす",
-        "いし",
-        "ぐち",
-        "ありがとう"
+        "質素な",
+        "いける",
+        "含める",
+        "込める"
       ],
-      "correctAnswer": 2,
-      "explanation": "ぐち → ぐち"
+      "correctAnswer": 3,
+      "explanation": "こめる → 込める"
     },
     {
       "id": 87,
-      "questionType": "meaning",
-      "question": "『込める』ning ma'nosi qaysi?",
-      "word": "込める",
-      "choices": [
-        "dangasa odam",
-        "tarbiya, odob",
-        "shimolga qaragan",
-        "jo qilmoq, (tuyg'u, kuch) qo'shmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "込める → jo qilmoq, (tuyg'u, kuch) qo'shmoq"
-    },
-    {
-      "id": 88,
-      "questionType": "word",
-      "question": "『bir yilda ishga kirgan tengdosh, kursdosh』ning yaponcha ifodasi qaysi?",
-      "word": "同期",
-      "choices": [
-        "一気に",
-        "同期",
-        "湿度",
-        "選挙する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "bir yilda ishga kirgan tengdosh, kursdosh → 同期"
-    },
-    {
-      "id": 89,
-      "questionType": "kanji",
-      "question": "『せっする』qaysi yozuvga mos?",
-      "word": "接する",
-      "choices": [
-        "商店街",
-        "接する",
-        "養う",
-        "招く"
-      ],
-      "correctAnswer": 1,
-      "explanation": "せっする → 接する"
-    },
-    {
-      "id": 90,
       "questionType": "kanji",
       "question": "『かいぬし』qaysi yozuvga mos?",
       "word": "飼い主",
       "choices": [
-        "悪ふざけ",
-        "荒らす",
-        "マイホーム",
-        "飼い主"
+        "親知らず",
+        "裏切る",
+        "飼い主",
+        "募集する"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "かいぬし → 飼い主"
     },
     {
-      "id": 91,
-      "questionType": "reading",
-      "question": "『直接』ning o'qilishi qaysi?",
+      "id": 88,
+      "questionType": "meaning",
+      "question": "『直接』ning ma'nosi qaysi?",
       "word": "直接",
       "choices": [
-        "がくしょく",
-        "おおや",
-        "ちょくせつ",
-        "なまけもの"
-      ],
-      "correctAnswer": 2,
-      "explanation": "直接 → ちょくせつ"
-    },
-    {
-      "id": 92,
-      "questionType": "meaning",
-      "question": "『呼び止める』ning ma'nosi qaysi?",
-      "word": "呼び止める",
-      "choices": [
-        "ko'rsatmoq, aks ettirmoq (ekranda)",
-        "buklanadigan soyabon",
-        "uy",
-        "chaqirib to'xtatmoq"
+        "hamkasb",
+        "hajm, miqdor; 2. ovoz balandligi",
+        "xarajat",
+        "to'g'ridan to'g'ri"
       ],
       "correctAnswer": 3,
-      "explanation": "呼び止める → chaqirib to'xtatmoq"
+      "explanation": "直接 → to'g'ridan to'g'ri"
     },
     {
-      "id": 93,
+      "id": 89,
       "questionType": "word",
-      "question": "『muloqot』ning yaponcha ifodasi qaysi?",
-      "word": "コミュニケーション",
+      "question": "『uy egasi』ning yaponcha ifodasi qaysi?",
+      "word": "大家",
       "choices": [
-        "高血圧",
-        "コミュニケーション",
-        "耐震",
-        "他人同士"
-      ],
-      "correctAnswer": 1,
-      "explanation": "muloqot → コミュニケーション"
-    },
-    {
-      "id": 94,
-      "questionType": "sentence",
-      "question": "『とっさに』ning ma'nosi qaysi?",
-      "word": "とっさに",
-      "choices": [
-        "endi (endi kech ma'nosida)",
-        "bekor qilmoq, tugatmoq",
-        "o'sha lahzada",
-        "qaror"
-      ],
-      "correctAnswer": 2,
-      "explanation": "とっさに → o'sha lahzada"
-    },
-    {
-      "id": 95,
-      "questionType": "word",
-      "question": "『o'zaro bog'lanmoq』ning yaponcha ifodasi qaysi?",
-      "word": "結びつく",
-      "choices": [
-        "ふざける",
-        "結びつく",
-        "野外",
-        "聡明な"
-      ],
-      "correctAnswer": 1,
-      "explanation": "o'zaro bog'lanmoq → 結びつく"
-    },
-    {
-      "id": 96,
-      "questionType": "kanji",
-      "question": "『おもいこむ』qaysi yozuvga mos?",
-      "word": "思い込む",
-      "choices": [
-        "初対面",
-        "もてなす",
-        "ありがたい",
-        "思い込む"
+        "医療費",
+        "雲がかかる",
+        "段差",
+        "大家"
       ],
       "correctAnswer": 3,
-      "explanation": "おもいこむ → 思い込む"
+      "explanation": "uy egasi → 大家"
     },
     {
-      "id": 97,
-      "questionType": "sentence",
-      "question": "『再会する』ning ma'nosi qaysi?",
-      "word": "再会する",
+      "id": 90,
+      "questionType": "word",
+      "question": "『past saviya, sayoz』ning yaponcha ifodasi qaysi?",
+      "word": "低次元",
       "choices": [
-        "kamtarona, sodda",
-        "bosmoq, jilovlamoq, cheklamoq",
-        "qayta uchrashmoq",
-        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)"
+        "低次元",
+        "手元",
+        "好物",
+        "見習う"
       ],
-      "correctAnswer": 2,
-      "explanation": "再会する → qayta uchrashmoq"
+      "correctAnswer": 0,
+      "explanation": "past saviya, sayoz → 低次元"
     },
     {
-      "id": 98,
+      "id": 91,
       "questionType": "kanji",
       "question": "『どうき』qaysi yozuvga mos?",
       "word": "同期",
       "choices": [
+        "励む",
         "同期",
-        "自己流",
-        "タイムセール",
-        "知らないふり"
+        "大好物",
+        "納める"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "どうき → 同期"
     },
     {
-      "id": 99,
-      "questionType": "reading",
-      "question": "『てっきり』ning o'qilishi qaysi?",
-      "word": "てっきり",
-      "choices": [
-        "アプローチする",
-        "はなよめ",
-        "てっきり",
-        "いっきに"
-      ],
-      "correctAnswer": 2,
-      "explanation": "てっきり → てっきり"
-    },
-    {
-      "id": 100,
-      "questionType": "reading",
-      "question": "『心当たり』ning o'qilishi qaysi?",
-      "word": "心当たり",
-      "choices": [
-        "ほうこくする",
-        "こころあたり",
-        "てっきり",
-        "たった"
-      ],
-      "correctAnswer": 1,
-      "explanation": "心当たり → こころあたり"
-    },
-    {
-      "id": 101,
-      "questionType": "kanji",
-      "question": "『コミュニケーション』qaysi yozuvga mos?",
-      "word": "コミュニケーション",
-      "choices": [
-        "商店街",
-        "わざわざ",
-        "コミュニケーション",
-        "勤続する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "コミュニケーション → コミュニケーション"
-    },
-    {
-      "id": 102,
+      "id": 92,
       "questionType": "meaning",
-      "question": "『思い込む』ning ma'nosi qaysi?",
-      "word": "思い込む",
-      "choices": [
-        "uyushtiruvchi, tashkilotchi",
-        "o'zaro, bir biriga",
-        "tushkunlikka tushmoq",
-        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "思い込む → shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
-    },
-    {
-      "id": 103,
-      "questionType": "word",
-      "question": "『o'sha lahzada』ning yaponcha ifodasi qaysi?",
+      "question": "『とっさに』ning ma'nosi qaysi?",
       "word": "とっさに",
       "choices": [
-        "友達付き合い",
-        "大幅な",
-        "とっさに",
-        "ありがたい"
+        "yechilmoq; erimoq",
+        "mazali (taom); yaxshi, qobiliyatli",
+        "tarmoq; aloqalar tarmog'i",
+        "o'sha lahzada"
       ],
-      "correctAnswer": 2,
-      "explanation": "o'sha lahzada → とっさに"
+      "correctAnswer": 3,
+      "explanation": "とっさに → o'sha lahzada"
     },
     {
-      "id": 104,
+      "id": 93,
       "questionType": "meaning",
       "question": "『再会する』ning ma'nosi qaysi?",
       "word": "再会する",
       "choices": [
-        "mehmon qilmoq",
-        "o'sha lahzada",
-        "mahalliy mahsulot",
+        "uy qarzi",
+        "yetib kelmoq",
+        "shved stoli",
         "qayta uchrashmoq"
       ],
       "correctAnswer": 3,
       "explanation": "再会する → qayta uchrashmoq"
     },
     {
-      "id": 105,
+      "id": 94,
+      "questionType": "meaning",
+      "question": "『気配りする』ning ma'nosi qaysi?",
+      "word": "気配りする",
+      "choices": [
+        "osmonni bulut qoplamoq",
+        "shahrimiz",
+        "e'tibor qilmoq, g'amxo'rlik ko'rsatmoq",
+        "gap boshlamoq, birinchi bo'lib aytmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "気配りする → e'tibor qilmoq, g'amxo'rlik ko'rsatmoq"
+    },
+    {
+      "id": 95,
       "questionType": "kanji",
       "question": "『むすびつく』qaysi yozuvga mos?",
       "word": "結びつく",
       "choices": [
-        "ささやく",
-        "頼る",
-        "才能",
-        "結びつく"
+        "コメディアン",
+        "質問",
+        "結びつく",
+        "高学歴"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "むすびつく → 結びつく"
     },
     {
-      "id": 106,
-      "questionType": "meaning",
-      "question": "『呼び止める』ning ma'nosi qaysi?",
-      "word": "呼び止める",
+      "id": 96,
+      "questionType": "word",
+      "question": "『xayolga kelmaydigan, noma'lum』ning yaponcha ifodasi qaysi?",
+      "word": "心当たりのない",
       "choices": [
-        "taassurot",
-        "ochiq havoda, tabiatda",
-        "hurmoq (it)",
-        "chaqirib to'xtatmoq"
+        "引き落とす",
+        "心当たりのない",
+        "親元",
+        "けなす"
       ],
-      "correctAnswer": 3,
-      "explanation": "呼び止める → chaqirib to'xtatmoq"
+      "correctAnswer": 1,
+      "explanation": "xayolga kelmaydigan, noma'lum → 心当たりのない"
     },
     {
-      "id": 107,
+      "id": 97,
+      "questionType": "sentence",
+      "question": "『低レベル』ning ma'nosi qaysi?",
+      "word": "低レベル",
+      "choices": [
+        "yuzma-yuz bo'lmoq, yuzlashmoq",
+        "uy egasi",
+        "past daraja",
+        "yechilmoq; erimoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "低レベル → past daraja"
+    },
+    {
+      "id": 98,
+      "questionType": "reading",
+      "question": "『ネットワーク』ning o'qilishi qaysi?",
+      "word": "ネットワーク",
+      "choices": [
+        "とくな",
+        "そわそわする",
+        "ネットワーク",
+        "しゃっきんする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ネットワーク → ネットワーク"
+    },
+    {
+      "id": 99,
+      "questionType": "kanji",
+      "question": "『こころあたり』qaysi yozuvga mos?",
+      "word": "心当たり",
+      "choices": [
+        "副作用",
+        "お互い",
+        "世代交代",
+        "心当たり"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こころあたり → 心当たり"
+    },
+    {
+      "id": 100,
       "questionType": "meaning",
+      "question": "『低姿勢』ning ma'nosi qaysi?",
+      "word": "低姿勢",
+      "choices": [
+        "kamtarona (tutgan holat)",
+        "omadsiz",
+        "ovqat pishirmoq",
+        "(gap, salom, qo'l) almashmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "低姿勢 → kamtarona (tutgan holat)"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『せっする』qaysi yozuvga mos?",
+      "word": "接する",
+      "choices": [
+        "更新する",
+        "口げんかする",
+        "接する",
+        "花嫁"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せっする → 接する"
+    },
+    {
+      "id": 102,
+      "questionType": "sentence",
       "question": "『振り返る』ning ma'nosi qaysi?",
       "word": "振り返る",
       "choices": [
-        "ortga qaramoq; 2. o'tmishni eslamoq",
-        "silliq, muammosiz",
-        "kelib chiqishi (qayerlik)",
-        "diskvalifikatsiya qilinmoq"
+        "gap boshlamoq, birinchi bo'lib aytmoq",
+        "ko'p pul",
+        "maslahat bermoq, dardini eshitmoq",
+        "ortga qaramoq; 2. o'tmishni eslamoq"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "振り返る → ortga qaramoq; 2. o'tmishni eslamoq"
     },
     {
-      "id": 108,
+      "id": 103,
       "questionType": "kanji",
-      "question": "『おおや』qaysi yozuvga mos?",
-      "word": "大家",
+      "question": "『きおく』qaysi yozuvga mos?",
+      "word": "記憶",
       "choices": [
-        "介助犬",
-        "機能性",
-        "大家",
-        "履歴"
+        "名曲",
+        "きっぱり",
+        "記憶",
+        "名声"
       ],
       "correctAnswer": 2,
-      "explanation": "おおや → 大家"
+      "explanation": "きおく → 記憶"
     },
     {
-      "id": 109,
+      "id": 104,
       "questionType": "kanji",
-      "question": "『じこしょうかい』qaysi yozuvga mos?",
-      "word": "自己紹介",
+      "question": "『おぼえ』qaysi yozuvga mos?",
+      "word": "覚え",
       "choices": [
-        "スムーズな",
-        "自己紹介",
-        "散らばる",
-        "一軒家"
-      ],
-      "correctAnswer": 1,
-      "explanation": "じこしょうかい → 自己紹介"
-    },
-    {
-      "id": 110,
-      "questionType": "sentence",
-      "question": "『大いに』ning ma'nosi qaysi?",
-      "word": "大いに",
-      "choices": [
-        "muhokama qilmoq, bahs yuritmoq",
-        "chora ko'rmoq",
-        "juda",
-        "yaxshi iqtisodiy holat"
+        "たどり着く",
+        "洗面所",
+        "覚え",
+        "表示する"
       ],
       "correctAnswer": 2,
-      "explanation": "大いに → juda"
+      "explanation": "おぼえ → 覚え"
     },
     {
-      "id": 111,
-      "questionType": "sentence",
-      "question": "『思い込む』ning ma'nosi qaysi?",
-      "word": "思い込む",
-      "choices": [
-        "yengib o'tmoq/boshdan kechirmoq",
-        "xayolga kelmaydigan, noma'lum",
-        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
-        "o'ylamasdan qilingan, rahmsiz"
-      ],
-      "correctAnswer": 2,
-      "explanation": "思い込む → shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
-    },
-    {
-      "id": 112,
+      "id": 105,
       "questionType": "reading",
-      "question": "『同期』ning o'qilishi qaysi?",
-      "word": "同期",
+      "question": "『とっさに』ning o'qilishi qaysi?",
+      "word": "とっさに",
       "choices": [
-        "どうき",
-        "にらむ",
-        "はなむこ",
-        "そんちょうする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "同期 → どうき"
-    },
-    {
-      "id": 113,
-      "questionType": "kanji",
-      "question": "『おおいに』qaysi yozuvga mos?",
-      "word": "大いに",
-      "choices": [
-        "散らばる",
-        "盛んな",
-        "あいつ",
-        "大いに"
-      ],
-      "correctAnswer": 3,
-      "explanation": "おおいに → 大いに"
-    },
-    {
-      "id": 114,
-      "questionType": "word",
-      "question": "『past daraja』ning yaponcha ifodasi qaysi?",
-      "word": "低レベル",
-      "choices": [
-        "肌",
-        "知らないふり",
-        "低レベル",
-        "記憶"
+        "きずつける",
+        "ブランド",
+        "とっさに",
+        "しつけ"
       ],
       "correctAnswer": 2,
-      "explanation": "past daraja → 低レベル"
+      "explanation": "とっさに → とっさに"
     },
     {
-      "id": 115,
+      "id": 106,
       "questionType": "kanji",
       "question": "『てっきり』qaysi yozuvga mos?",
       "word": "てっきり",
       "choices": [
-        "うつむく",
+        "コンパ",
         "てっきり",
-        "プロポーズする",
-        "実力"
+        "幹事",
+        "しつけ"
       ],
       "correctAnswer": 1,
       "explanation": "てっきり → てっきり"
     },
     {
-      "id": 116,
-      "questionType": "reading",
-      "question": "『記憶』ning o'qilishi qaysi?",
-      "word": "記憶",
+      "id": 107,
+      "questionType": "kanji",
+      "question": "『ていがくねん』qaysi yozuvga mos?",
+      "word": "低学年",
       "choices": [
-        "はなむこ",
-        "おりたたみがさ",
-        "たいしん",
-        "きおく"
+        "注射する",
+        "低学年",
+        "憧れる",
+        "奥"
       ],
-      "correctAnswer": 3,
-      "explanation": "記憶 → きおく"
+      "correctAnswer": 1,
+      "explanation": "ていがくねん → 低学年"
     },
     {
-      "id": 117,
-      "questionType": "word",
-      "question": "『xotira』ning yaponcha ifodasi qaysi?",
-      "word": "覚え",
+      "id": 108,
+      "questionType": "kanji",
+      "question": "『コミュニケーション』qaysi yozuvga mos?",
+      "word": "コミュニケーション",
       "choices": [
-        "普段",
-        "もしかしたら、もしかして、ひょっとすると",
-        "覚え",
-        "無口な"
+        "堅苦しい",
+        "花嫁",
+        "精算する",
+        "コミュニケーション"
+      ],
+      "correctAnswer": 3,
+      "explanation": "コミュニケーション → コミュニケーション"
+    },
+    {
+      "id": 109,
+      "questionType": "kanji",
+      "question": "『さいかいする』qaysi yozuvga mos?",
+      "word": "再会する",
+      "choices": [
+        "叶う",
+        "再会する",
+        "わが国",
+        "示す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "さいかいする → 再会する"
+    },
+    {
+      "id": 110,
+      "questionType": "reading",
+      "question": "『低予算』ning o'qilishi qaysi?",
+      "word": "低予算",
+      "choices": [
+        "けいびいん",
+        "あくしゅみ",
+        "ていよさん",
+        "ほじょする"
       ],
       "correctAnswer": 2,
-      "explanation": "xotira → 覚え"
+      "explanation": "低予算 → ていよさん"
     },
     {
-      "id": 118,
+      "id": 111,
       "questionType": "meaning",
-      "question": "『結びつく』ning ma'nosi qaysi?",
-      "word": "結びつく",
+      "question": "『招く』ning ma'nosi qaysi?",
+      "word": "招く",
       "choices": [
-        "jim, kam gapiradigan",
-        "aytish mumkinki, go'yo",
-        "aql tish",
-        "o'zaro bog'lanmoq"
+        "hozir; keldim (uyga)",
+        "taklif qilmoq",
+        "kiyinish, tayyorlanish",
+        "hayratlanmoq, qoyil qolmoq"
       ],
-      "correctAnswer": 3,
-      "explanation": "結びつく → o'zaro bog'lanmoq"
+      "correctAnswer": 1,
+      "explanation": "招く → taklif qilmoq"
     },
     {
-      "id": 119,
+      "id": 112,
       "questionType": "word",
       "question": "『xotira』ning yaponcha ifodasi qaysi?",
       "word": "記憶",
       "choices": [
         "記憶",
-        "まさか",
-        "もてなす",
-        "マイホーム"
+        "高血圧",
+        "強化する",
+        "介助犬"
       ],
       "correctAnswer": 0,
       "explanation": "xotira → 記憶"
     },
     {
+      "id": 113,
+      "questionType": "reading",
+      "question": "『同期』ning o'qilishi qaysi?",
+      "word": "同期",
+      "choices": [
+        "しゅっしん",
+        "どうき",
+        "ひきおとし",
+        "かんしんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "同期 → どうき"
+    },
+    {
+      "id": 114,
+      "questionType": "meaning",
+      "question": "『[〜を]結び付ける』ning ma'nosi qaysi?",
+      "word": "[〜を]結び付ける",
+      "choices": [
+        "keng qamrovli",
+        "bog'lamoq",
+        "kompaniyalar",
+        "usta, daho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "[〜を]結び付ける → bog'lamoq"
+    },
+    {
+      "id": 115,
+      "questionType": "kanji",
+      "question": "『まねく』qaysi yozuvga mos?",
+      "word": "招く",
+      "choices": [
+        "空っぽな",
+        "招く",
+        "だます",
+        "短縮する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "まねく → 招く"
+    },
+    {
+      "id": 116,
+      "questionType": "word",
+      "question": "『xayolga keladigan narsa, taxmin』ning yaponcha ifodasi qaysi?",
+      "word": "心当たり",
+      "choices": [
+        "心当たり",
+        "見積もり",
+        "出産する",
+        "わが町"
+      ],
+      "correctAnswer": 0,
+      "explanation": "xayolga keladigan narsa, taxmin → 心当たり"
+    },
+    {
+      "id": 117,
+      "questionType": "meaning",
+      "question": "『ぐち』ning ma'nosi qaysi?",
+      "word": "ぐち",
+      "choices": [
+        "qo'llanma",
+        "nahotki, kutilmaganda",
+        "nolish, shikoyat",
+        "sharofati bilan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぐち → nolish, shikoyat"
+    },
+    {
+      "id": 118,
+      "questionType": "kanji",
+      "question": "『じこしょうかい』qaysi yozuvga mos?",
+      "word": "自己紹介",
+      "choices": [
+        "作成する",
+        "自己紹介",
+        "振り返る",
+        "喉"
+      ],
+      "correctAnswer": 1,
+      "explanation": "じこしょうかい → 自己紹介"
+    },
+    {
+      "id": 119,
+      "questionType": "kanji",
+      "question": "『ていよさん』qaysi yozuvga mos?",
+      "word": "低予算",
+      "choices": [
+        "縁",
+        "生活費",
+        "低予算",
+        "勘違いする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ていよさん → 低予算"
+    },
+    {
       "id": 120,
       "questionType": "word",
-      "question": "『muloqot qilmoq, aloqada bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "接する",
+      "question": "『past daraja』ning yaponcha ifodasi qaysi?",
+      "word": "低レベル",
       "choices": [
-        "つぶやく",
-        "疑う",
-        "出身",
-        "接する"
+        "払い込む",
+        "低レベル",
+        "会計する",
+        "つぶやく"
       ],
-      "correctAnswer": 3,
-      "explanation": "muloqot qilmoq, aloqada bo'lmoq → 接する"
+      "correctAnswer": 1,
+      "explanation": "past daraja → 低レベル"
     },
     {
       "id": 121,
-      "questionType": "sentence",
-      "question": "『気配りする』ning ma'nosi qaysi?",
-      "word": "気配りする",
+      "questionType": "word",
+      "question": "『past qon bosimi』ning yaponcha ifodasi qaysi?",
+      "word": "低血圧",
       "choices": [
-        "nok",
-        "e'tibor qilmoq, g'amxo'rlik ko'rsatmoq",
-        "pala-partish, dag'al (ish)",
-        "aytish mumkinki, go'yo"
+        "度重なる",
+        "自立する",
+        "記憶",
+        "低血圧"
       ],
-      "correctAnswer": 1,
-      "explanation": "気配りする → e'tibor qilmoq, g'amxo'rlik ko'rsatmoq"
+      "correctAnswer": 3,
+      "explanation": "past qon bosimi → 低血圧"
     },
     {
       "id": 122,
       "questionType": "kanji",
-      "question": "『ていがくねん』qaysi yozuvga mos?",
-      "word": "低学年",
+      "question": "『ぐち』qaysi yozuvga mos?",
+      "word": "ぐち",
       "choices": [
-        "もしかすると",
-        "低学年",
-        "一戸建て",
-        "食いしん坊"
+        "行為",
+        "悪酔い",
+        "ぐち",
+        "副作用"
       ],
-      "correctAnswer": 1,
-      "explanation": "ていがくねん → 低学年"
+      "correctAnswer": 2,
+      "explanation": "ぐち → ぐち"
     },
     {
       "id": 123,
@@ -1717,769 +1717,769 @@
       "question": "『ていしせい』qaysi yozuvga mos?",
       "word": "低姿勢",
       "choices": [
-        "甘やかす",
-        "行為",
         "低姿勢",
-        "決意する"
+        "アプローチする",
+        "見積もり",
+        "骨折する"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "ていしせい → 低姿勢"
     },
     {
       "id": 124,
-      "questionType": "sentence",
-      "question": "『[〜を]結び付ける』ning ma'nosi qaysi?",
-      "word": "[〜を]結び付ける",
-      "choices": [
-        "yaxshi taassurot",
-        "parvarish qilmoq (keksa, bemorni)",
-        "bog'lamoq",
-        "iste'dod"
-      ],
-      "correctAnswer": 2,
-      "explanation": "[〜を]結び付ける → bog'lamoq"
-    },
-    {
-      "id": 125,
-      "questionType": "reading",
-      "question": "『近所付き合い』ning o'qilishi qaysi?",
-      "word": "近所付き合い",
-      "choices": [
-        "ホームヘルパー",
-        "きんじょづきあい",
-        "じぇねれーしょん",
-        "わるちえ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "近所付き合い → きんじょづきあい"
-    },
-    {
-      "id": 126,
-      "questionType": "word",
-      "question": "『xotira』ning yaponcha ifodasi qaysi?",
-      "word": "覚え",
-      "choices": [
-        "甘やかす",
-        "傷つける",
-        "名曲",
-        "覚え"
-      ],
-      "correctAnswer": 3,
-      "explanation": "xotira → 覚え"
-    },
-    {
-      "id": 127,
-      "questionType": "kanji",
-      "question": "『むすびつく』qaysi yozuvga mos?",
-      "word": "結びつく",
-      "choices": [
-        "うつむく",
-        "結びつく",
-        "追い出す",
-        "まさか"
-      ],
-      "correctAnswer": 1,
-      "explanation": "むすびつく → 結びつく"
-    },
-    {
-      "id": 128,
-      "questionType": "reading",
-      "question": "『飼い主』ning o'qilishi qaysi?",
-      "word": "飼い主",
-      "choices": [
-        "けねんする",
-        "ひがしむき",
-        "しんらいする",
-        "かいぬし"
-      ],
-      "correctAnswer": 3,
-      "explanation": "飼い主 → かいぬし"
-    },
-    {
-      "id": 129,
-      "questionType": "kanji",
-      "question": "『ネットワーク』qaysi yozuvga mos?",
-      "word": "ネットワーク",
-      "choices": [
-        "アプローチする",
-        "ネットワーク",
-        "仲間はずれ",
-        "写す"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ネットワーク → ネットワーク"
-    },
-    {
-      "id": 130,
-      "questionType": "meaning",
-      "question": "『てっきり』ning ma'nosi qaysi?",
-      "word": "てっきり",
-      "choices": [
-        "mustaqil bo'lmoq (o'z kuni o'ziga qolmoq)",
-        "bosmoq, jilovlamoq, cheklamoq",
-        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
-        "zerikarli"
-      ],
-      "correctAnswer": 2,
-      "explanation": "てっきり → shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
-    },
-    {
-      "id": 131,
-      "questionType": "kanji",
-      "question": "『ふりかえる』qaysi yozuvga mos?",
-      "word": "振り返る",
-      "choices": [
-        "振り返る",
-        "名医",
-        "カンニングする",
-        "悪天候"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ふりかえる → 振り返る"
-    },
-    {
-      "id": 132,
-      "questionType": "kanji",
-      "question": "『ていレベル』qaysi yozuvga mos?",
-      "word": "低レベル",
-      "choices": [
-        "もしかしたら、もしかして、ひょっとすると",
-        "低レベル",
-        "雑な",
-        "一気に"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ていレベル → 低レベル"
-    },
-    {
-      "id": 133,
-      "questionType": "meaning",
-      "question": "『大家』ning ma'nosi qaysi?",
-      "word": "大家",
-      "choices": [
-        "arzimagan, kichik",
-        "uy egasi",
-        "qo'l ostida",
-        "ne'matga muyassar bo'lmoq, omadi kulmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "大家 → uy egasi"
-    },
-    {
-      "id": 134,
-      "questionType": "reading",
-      "question": "『とっさに』ning o'qilishi qaysi?",
-      "word": "とっさに",
-      "choices": [
-        "とっさに",
-        "さんふじんか",
-        "こころあたりのない",
-        "ちらばる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "とっさに → とっさに"
-    },
-    {
-      "id": 135,
-      "questionType": "kanji",
-      "question": "『とっさに』qaysi yozuvga mos?",
-      "word": "とっさに",
-      "choices": [
-        "とっさに",
-        "ご馳走する",
-        "視線",
-        "労働する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "とっさに → とっさに"
-    },
-    {
-      "id": 136,
-      "questionType": "word",
-      "question": "『quyi sinf』ning yaponcha ifodasi qaysi?",
-      "word": "低学年",
-      "choices": [
-        "パワハラする",
-        "不景気",
-        "知識",
-        "低学年"
-      ],
-      "correctAnswer": 3,
-      "explanation": "quyi sinf → 低学年"
-    },
-    {
-      "id": 137,
-      "questionType": "meaning",
-      "question": "『ぐち』ning ma'nosi qaysi?",
-      "word": "ぐち",
-      "choices": [
-        "pastga qaramoq",
-        "qarsak chalmoq",
-        "qarshilik qilmoq, qarshi bormoq",
-        "nolish, shikoyat"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ぐち → nolish, shikoyat"
-    },
-    {
-      "id": 138,
-      "questionType": "reading",
-      "question": "『招く』ning o'qilishi qaysi?",
-      "word": "招く",
-      "choices": [
-        "えん",
-        "まねく",
-        "なつかしい",
-        "ホームヘルパー"
-      ],
-      "correctAnswer": 1,
-      "explanation": "招く → まねく"
-    },
-    {
-      "id": 139,
-      "questionType": "reading",
-      "question": "『大家』ning o'qilishi qaysi?",
-      "word": "大家",
-      "choices": [
-        "うんめい",
-        "おおや",
-        "こうほ",
-        "いっこだて"
-      ],
-      "correctAnswer": 1,
-      "explanation": "大家 → おおや"
-    },
-    {
-      "id": 140,
-      "questionType": "meaning",
-      "question": "『大いに』ning ma'nosi qaysi?",
-      "word": "大いに",
-      "choices": [
-        "o'ziga xos, betakror",
-        "kamtarona, sodda",
-        "ta'zim qilmoq",
-        "juda"
-      ],
-      "correctAnswer": 3,
-      "explanation": "大いに → juda"
-    },
-    {
-      "id": 141,
-      "questionType": "word",
-      "question": "『(gap, salom, qo'l) almashmoq』ning yaponcha ifodasi qaysi?",
-      "word": "交わす",
-      "choices": [
-        "不運な",
-        "交わす",
-        "友達同士",
-        "説得する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "(gap, salom, qo'l) almashmoq → 交わす"
-    },
-    {
-      "id": 142,
-      "questionType": "reading",
-      "question": "『思い込む』ning o'qilishi qaysi?",
-      "word": "思い込む",
-      "choices": [
-        "おもいこむ",
-        "かしかりする",
-        "たどりつく",
-        "ふけいき"
-      ],
-      "correctAnswer": 0,
-      "explanation": "思い込む → おもいこむ"
-    },
-    {
-      "id": 143,
-      "questionType": "kanji",
-      "question": "『かわす』qaysi yozuvga mos?",
-      "word": "交わす",
-      "choices": [
-        "てっきり",
-        "交わす",
-        "タイムセール",
-        "相談に乗る"
-      ],
-      "correctAnswer": 1,
-      "explanation": "かわす → 交わす"
-    },
-    {
-      "id": 144,
-      "questionType": "reading",
-      "question": "『交わす』ning o'qilishi qaysi?",
-      "word": "交わす",
-      "choices": [
-        "むちゅう",
-        "たべざかり",
-        "もしかしたら、もしかして、ひょっとすると",
-        "かわす"
-      ],
-      "correctAnswer": 3,
-      "explanation": "交わす → かわす"
-    },
-    {
-      "id": 145,
-      "questionType": "kanji",
-      "question": "『ぐち』qaysi yozuvga mos?",
-      "word": "ぐち",
-      "choices": [
-        "ぐち",
-        "名著",
-        "低予算",
-        "不景気"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ぐち → ぐち"
-    },
-    {
-      "id": 146,
-      "questionType": "kanji",
-      "question": "『かいぬし』qaysi yozuvga mos?",
-      "word": "飼い主",
-      "choices": [
-        "抗議する",
-        "飼い主",
-        "決まり",
-        "心細い"
-      ],
-      "correctAnswer": 1,
-      "explanation": "かいぬし → 飼い主"
-    },
-    {
-      "id": 147,
-      "questionType": "kanji",
-      "question": "『おぼえ』qaysi yozuvga mos?",
-      "word": "覚え",
-      "choices": [
-        "覚え",
-        "ネットワーク",
-        "崩れる",
-        "口実"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おぼえ → 覚え"
-    },
-    {
-      "id": 148,
-      "questionType": "meaning",
-      "question": "『込める』ning ma'nosi qaysi?",
-      "word": "込める",
-      "choices": [
-        "bema'ni, mantiqsiz",
-        "lip etib, bir zum",
-        "jo qilmoq, (tuyg'u, kuch) qo'shmoq",
-        "hurmoq (it)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "込める → jo qilmoq, (tuyg'u, kuch) qo'shmoq"
-    },
-    {
-      "id": 149,
-      "questionType": "meaning",
-      "question": "『直接』ning ma'nosi qaysi?",
-      "word": "直接",
-      "choices": [
-        "kompaniyalar",
-        "to'g'ridan to'g'ri, bilvosita",
-        "shoh asar",
-        "yuqori ma'lumotli"
-      ],
-      "correctAnswer": 1,
-      "explanation": "直接 → to'g'ridan to'g'ri, bilvosita"
-    },
-    {
-      "id": 150,
-      "questionType": "reading",
-      "question": "『自己紹介』ning o'qilishi qaysi?",
-      "word": "自己紹介",
-      "choices": [
-        "じこしょうかい",
-        "しんぱん",
-        "おもいやり",
-        "めいちょ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "自己紹介 → じこしょうかい"
-    },
-    {
-      "id": 151,
-      "questionType": "kanji",
-      "question": "『ていけつあつ』qaysi yozuvga mos?",
-      "word": "低血圧",
-      "choices": [
-        "低血圧",
-        "野外",
-        "点検する",
-        "恵まれる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ていけつあつ → 低血圧"
-    },
-    {
-      "id": 152,
-      "questionType": "word",
-      "question": "『muloqot qilmoq, aloqada bo'lmoq』ning yaponcha ifodasi qaysi?",
-      "word": "接する",
-      "choices": [
-        "接する",
-        "からかう",
-        "正直な",
-        "企業"
-      ],
-      "correctAnswer": 0,
-      "explanation": "muloqot qilmoq, aloqada bo'lmoq → 接する"
-    },
-    {
-      "id": 153,
-      "questionType": "reading",
-      "question": "『大いに』ning o'qilishi qaysi?",
-      "word": "大いに",
-      "choices": [
-        "さいかいする",
-        "おおいに",
-        "ちんたい",
-        "のど"
-      ],
-      "correctAnswer": 1,
-      "explanation": "大いに → おおいに"
-    },
-    {
-      "id": 154,
-      "questionType": "reading",
-      "question": "『振り返る』ning o'qilishi qaysi?",
-      "word": "振り返る",
-      "choices": [
-        "たいくつな",
-        "ささやく",
-        "ふりかえる",
-        "しらないふり"
-      ],
-      "correctAnswer": 2,
-      "explanation": "振り返る → ふりかえる"
-    },
-    {
-      "id": 155,
-      "questionType": "sentence",
-      "question": "『友達付き合い』ning ma'nosi qaysi?",
-      "word": "友達付き合い",
-      "choices": [
-        "do'stlar bilan munosabat",
-        "ombor",
-        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
-        "yuqori sinf (maktab)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "友達付き合い → do'stlar bilan munosabat"
-    },
-    {
-      "id": 156,
-      "questionType": "kanji",
-      "question": "『おおいに』qaysi yozuvga mos?",
-      "word": "大いに",
-      "choices": [
-        "あえて",
-        "大いに",
-        "禁物",
-        "仲間はずれ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "おおいに → 大いに"
-    },
-    {
-      "id": 157,
-      "questionType": "kanji",
-      "question": "『こめる』qaysi yozuvga mos?",
-      "word": "込める",
-      "choices": [
-        "低予算",
-        "込める",
-        "あくびする",
-        "出身"
-      ],
-      "correctAnswer": 1,
-      "explanation": "こめる → 込める"
-    },
-    {
-      "id": 158,
-      "questionType": "word",
-      "question": "『qo'shnilar bilan munosabat』ning yaponcha ifodasi qaysi?",
-      "word": "近所付き合い",
-      "choices": [
-        "いわば",
-        "拍手する",
-        "近所付き合い",
-        "同意する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "qo'shnilar bilan munosabat → 近所付き合い"
-    },
-    {
-      "id": 159,
-      "questionType": "kanji",
-      "question": "『きおく』qaysi yozuvga mos?",
-      "word": "記憶",
-      "choices": [
-        "疑う",
-        "記憶",
-        "決意する",
-        "介入する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "きおく → 記憶"
-    },
-    {
-      "id": 160,
-      "questionType": "reading",
-      "question": "『低予算』ning o'qilishi qaysi?",
-      "word": "低予算",
-      "choices": [
-        "ひがしむき",
-        "しゅうでん",
-        "ていよさん",
-        "こう〜"
-      ],
-      "correctAnswer": 2,
-      "explanation": "低予算 → ていよさん"
-    },
-    {
-      "id": 161,
-      "questionType": "kanji",
-      "question": "『かわす』qaysi yozuvga mos?",
-      "word": "交わす",
-      "choices": [
-        "禁物",
-        "高学年",
-        "交わす",
-        "接する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かわす → 交わす"
-    },
-    {
-      "id": 162,
       "questionType": "kanji",
       "question": "『おおや』qaysi yozuvga mos?",
       "word": "大家",
       "choices": [
-        "むしろ",
-        "世間知らず",
-        "管理する",
-        "大家"
+        "盛り上がる",
+        "大家",
+        "原子力発電所",
+        "何気ない"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "おおや → 大家"
     },
     {
-      "id": 163,
+      "id": 125,
       "questionType": "sentence",
-      "question": "『てっきり』ning ma'nosi qaysi?",
-      "word": "てっきり",
+      "question": "『呼び止める』ning ma'nosi qaysi?",
+      "word": "呼び止める",
       "choices": [
-        "to'g'ridan to'g'ri",
-        "chora ko'rmoq",
-        "muhokama qilmoq, bahs yuritmoq",
-        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "てっきり → shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
-    },
-    {
-      "id": 164,
-      "questionType": "kanji",
-      "question": "『せっする』qaysi yozuvga mos?",
-      "word": "接する",
-      "choices": [
-        "接する",
-        "花嫁",
-        "パワハラする",
-        "おじぎする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "せっする → 接する"
-    },
-    {
-      "id": 165,
-      "questionType": "reading",
-      "question": "『低学年』ning o'qilishi qaysi?",
-      "word": "低学年",
-      "choices": [
-        "ストライキ",
-        "ふる",
-        "ぼしゅうする",
-        "ていがくねん"
-      ],
-      "correctAnswer": 3,
-      "explanation": "低学年 → ていがくねん"
-    },
-    {
-      "id": 166,
-      "questionType": "kanji",
-      "question": "『おぼえ』qaysi yozuvga mos?",
-      "word": "覚え",
-      "choices": [
-        "覚え",
-        "秘密",
-        "一人住まい",
-        "仲良し"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おぼえ → 覚え"
-    },
-    {
-      "id": 167,
-      "questionType": "reading",
-      "question": "『覚え』ning o'qilishi qaysi?",
-      "word": "覚え",
-      "choices": [
-        "どしゃぶり",
-        "れんあいする",
-        "のど",
-        "おぼえ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "覚え → おぼえ"
-    },
-    {
-      "id": 168,
-      "questionType": "reading",
-      "question": "『招く』ning o'qilishi qaysi?",
-      "word": "招く",
-      "choices": [
-        "たいさくする",
-        "かたくるしい",
-        "まねく",
-        "ありがたい"
+        "qarshilik qilmoq, qarshi bormoq",
+        "vazifa, burch",
+        "chaqirib to'xtatmoq",
+        "mashhur kuy"
       ],
       "correctAnswer": 2,
-      "explanation": "招く → まねく"
+      "explanation": "呼び止める → chaqirib to'xtatmoq"
     },
     {
-      "id": 169,
-      "questionType": "kanji",
-      "question": "『ちょくせつ』qaysi yozuvga mos?",
-      "word": "直接",
-      "choices": [
-        "直接",
-        "言い訳",
-        "いまさら",
-        "世間知らず"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ちょくせつ → 直接"
-    },
-    {
-      "id": 170,
-      "questionType": "meaning",
-      "question": "『自己紹介』ning ma'nosi qaysi?",
-      "word": "自己紹介",
-      "choices": [
-        "qarz olmoq",
-        "o'zini tanishtirmoq",
-        "xudbin, o'zboshimcha",
-        "urmoq, musht tushirmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "自己紹介 → o'zini tanishtirmoq"
-    },
-    {
-      "id": 171,
-      "questionType": "meaning",
-      "question": "『招く』ning ma'nosi qaysi?",
-      "word": "招く",
-      "choices": [
-        "kamsitmoq",
-        "taklif qilmoq",
-        "sevgi",
-        "ijara uyi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "招く → taklif qilmoq"
-    },
-    {
-      "id": 172,
-      "questionType": "word",
-      "question": "『shaxsiy metod』ning yaponcha ifodasi qaysi?",
-      "word": "自己流",
-      "choices": [
-        "蚊",
-        "自己流",
-        "注射する",
-        "呼び止める"
-      ],
-      "correctAnswer": 1,
-      "explanation": "shaxsiy metod → 自己流"
-    },
-    {
-      "id": 173,
-      "questionType": "word",
-      "question": "『ta'zim qilmoq』ning yaponcha ifodasi qaysi?",
-      "word": "おじぎする",
-      "choices": [
-        "ぐち",
-        "過去",
-        "差別する",
-        "おじぎする"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ta'zim qilmoq → おじぎする"
-    },
-    {
-      "id": 174,
-      "questionType": "meaning",
+      "id": 126,
+      "questionType": "sentence",
       "question": "『気配りする』ning ma'nosi qaysi?",
       "word": "気配りする",
       "choices": [
-        "hayratlanmoq, qoyil qolmoq",
-        "fahmlamoq, sezmoq",
-        "ko'chirmoq (imtihonda)",
+        "ilk uchrashuv",
+        "qirg'oq chizig'i",
+        "atigi, bor-yo'g'i",
         "e'tibor qilmoq, g'amxo'rlik ko'rsatmoq"
       ],
       "correctAnswer": 3,
       "explanation": "気配りする → e'tibor qilmoq, g'amxo'rlik ko'rsatmoq"
     },
     {
-      "id": 175,
-      "questionType": "kanji",
-      "question": "『よびとめる』qaysi yozuvga mos?",
-      "word": "呼び止める",
+      "id": 127,
+      "questionType": "meaning",
+      "question": "『込める』ning ma'nosi qaysi?",
+      "word": "込める",
       "choices": [
-        "梨",
-        "ぐち",
-        "自己紹介",
-        "呼び止める"
+        "oila davrasi, oilaviy chog' o'tirish",
+        "o'z holiga tashlab qo'ymoq, e'tiborsiz qoldirmoq",
+        "kamtarona, sodda",
+        "jo qilmoq, (tuyg'u, kuch) qo'shmoq"
       ],
       "correctAnswer": 3,
-      "explanation": "よびとめる → 呼び止める"
+      "explanation": "込める → jo qilmoq, (tuyg'u, kuch) qo'shmoq"
+    },
+    {
+      "id": 128,
+      "questionType": "kanji",
+      "question": "『ちょくせつ』qaysi yozuvga mos?",
+      "word": "直接",
+      "choices": [
+        "名医",
+        "ファミリー",
+        "無口な",
+        "直接"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちょくせつ → 直接"
+    },
+    {
+      "id": 129,
+      "questionType": "meaning",
+      "question": "『自己紹介』ning ma'nosi qaysi?",
+      "word": "自己紹介",
+      "choices": [
+        "avlod",
+        "o'zini tanishtirmoq",
+        "shaxsiy metod",
+        "suyanmoq, tayanmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "自己紹介 → o'zini tanishtirmoq"
+    },
+    {
+      "id": 130,
+      "questionType": "reading",
+      "question": "『ぐち』ning o'qilishi qaysi?",
+      "word": "ぐち",
+      "choices": [
+        "うまれる",
+        "じゅうたくローン",
+        "ぐち",
+        "ふだん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぐち → ぐち"
+    },
+    {
+      "id": 131,
+      "questionType": "meaning",
+      "question": "『交わす』ning ma'nosi qaysi?",
+      "word": "交わす",
+      "choices": [
+        "(gap, salom, qo'l) almashmoq",
+        "maslahat bermoq, dardini eshitmoq",
+        "jozibali",
+        "nigohi qattiq (badjahl ko'rinish)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "交わす → (gap, salom, qo'l) almashmoq"
+    },
+    {
+      "id": 132,
+      "questionType": "kanji",
+      "question": "『ふりかえる』qaysi yozuvga mos?",
+      "word": "振り返る",
+      "choices": [
+        "ふざける",
+        "振り返る",
+        "マニュアル",
+        "友人達"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふりかえる → 振り返る"
+    },
+    {
+      "id": 133,
+      "questionType": "reading",
+      "question": "『覚え』ning o'qilishi qaysi?",
+      "word": "覚え",
+      "choices": [
+        "にらむ",
+        "てっきり",
+        "おぼえ",
+        "うつす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "覚え → おぼえ"
+    },
+    {
+      "id": 134,
+      "questionType": "word",
+      "question": "『nolish, shikoyat』ning yaponcha ifodasi qaysi?",
+      "word": "ぐち",
+      "choices": [
+        "ぐち",
+        "含む",
+        "込める",
+        "頼もしい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "nolish, shikoyat → ぐち"
+    },
+    {
+      "id": 135,
+      "questionType": "meaning",
+      "question": "『呼び止める』ning ma'nosi qaysi?",
+      "word": "呼び止める",
+      "choices": [
+        "hurmoq (it)",
+        "boshqarmoq",
+        "chaqirib to'xtatmoq",
+        "tishlamoq, g'ajimoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "呼び止める → chaqirib to'xtatmoq"
+    },
+    {
+      "id": 136,
+      "questionType": "sentence",
+      "question": "『思い込む』ning ma'nosi qaysi?",
+      "word": "思い込む",
+      "choices": [
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
+        "arzimagan, kichik",
+        "katsudon (qovurilgan go'sht qo'yilgan guruch)",
+        "bema'ni, mantiqsiz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "思い込む → shunday deb qat'iy o'ylab olmoq (aslida unday emas)"
+    },
+    {
+      "id": 137,
+      "questionType": "sentence",
+      "question": "『自己紹介』ning ma'nosi qaysi?",
+      "word": "自己紹介",
+      "choices": [
+        "o'zini tanishtirmoq",
+        "zerikib qolmoq, bezmoq",
+        "yuzma-yuz bo'lmoq, yuzlashmoq",
+        "barbod, rasvo bo'lish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "自己紹介 → o'zini tanishtirmoq"
+    },
+    {
+      "id": 138,
+      "questionType": "kanji",
+      "question": "『むすびつく』qaysi yozuvga mos?",
+      "word": "結びつく",
+      "choices": [
+        "結びつく",
+        "言いつける",
+        "安くつく",
+        "核兵器"
+      ],
+      "correctAnswer": 0,
+      "explanation": "むすびつく → 結びつく"
+    },
+    {
+      "id": 139,
+      "questionType": "kanji",
+      "question": "『じこりゅう』qaysi yozuvga mos?",
+      "word": "自己流",
+      "choices": [
+        "出産祝い",
+        "仲良し",
+        "拍手する",
+        "自己流"
+      ],
+      "correctAnswer": 3,
+      "explanation": "じこりゅう → 自己流"
+    },
+    {
+      "id": 140,
+      "questionType": "reading",
+      "question": "『接する』ning o'qilishi qaysi?",
+      "word": "接する",
+      "choices": [
+        "てんけんする",
+        "せっする",
+        "いわば",
+        "しゃっきんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "接する → せっする"
+    },
+    {
+      "id": 141,
+      "questionType": "reading",
+      "question": "『自己紹介』ning o'qilishi qaysi?",
+      "word": "自己紹介",
+      "choices": [
+        "ひとどおり",
+        "しつもん",
+        "じこしょうかい",
+        "はだ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "自己紹介 → じこしょうかい"
+    },
+    {
+      "id": 142,
+      "questionType": "meaning",
+      "question": "『低学年』ning ma'nosi qaysi?",
+      "word": "低学年",
+      "choices": [
+        "yirik kompaniyalar",
+        "shon-shuhrat",
+        "quyi sinf",
+        "taxminiy, umumiy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "低学年 → quyi sinf"
+    },
+    {
+      "id": 143,
+      "questionType": "word",
+      "question": "『tarmoq; aloqalar tarmog'i』ning yaponcha ifodasi qaysi?",
+      "word": "ネットワーク",
+      "choices": [
+        "ネットワーク",
+        "がっしりと",
+        "散らばる",
+        "好都合"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tarmoq; aloqalar tarmog'i → ネットワーク"
+    },
+    {
+      "id": 144,
+      "questionType": "kanji",
+      "question": "『せっする』qaysi yozuvga mos?",
+      "word": "接する",
+      "choices": [
+        "警報",
+        "名産",
+        "言い訳",
+        "接する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せっする → 接する"
+    },
+    {
+      "id": 145,
+      "questionType": "reading",
+      "question": "『大家』ning o'qilishi qaysi?",
+      "word": "大家",
+      "choices": [
+        "かんれんする",
+        "だいこうぶつ",
+        "おおや",
+        "さいがい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "大家 → おおや"
+    },
+    {
+      "id": 146,
+      "questionType": "kanji",
+      "question": "『ぐち』qaysi yozuvga mos?",
+      "word": "ぐち",
+      "choices": [
+        "間接",
+        "しつける",
+        "ぐち",
+        "屋根"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぐち → ぐち"
+    },
+    {
+      "id": 147,
+      "questionType": "meaning",
+      "question": "『てっきり』ning ma'nosi qaysi?",
+      "word": "てっきり",
+      "choices": [
+        "avlod",
+        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
+        "bir joyda uzluksiz ishlash",
+        "bo'sh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てっきり → shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
+    },
+    {
+      "id": 148,
+      "questionType": "meaning",
+      "question": "『コミュニケーション』ning ma'nosi qaysi?",
+      "word": "コミュニケーション",
+      "choices": [
+        "ayblamoq",
+        "uy loyihasi (necha xonali ekanligi)",
+        "muloqot",
+        "avlod"
+      ],
+      "correctAnswer": 2,
+      "explanation": "コミュニケーション → muloqot"
+    },
+    {
+      "id": 149,
+      "questionType": "sentence",
+      "question": "『ネットワーク』ning ma'nosi qaysi?",
+      "word": "ネットワーク",
+      "choices": [
+        "iqtisodiy farovonlik",
+        "an'ana",
+        "bekitiqcha ish qilmoq, pusmoq",
+        "tarmoq; aloqalar tarmog'i"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ネットワーク → tarmoq; aloqalar tarmog'i"
+    },
+    {
+      "id": 150,
+      "questionType": "reading",
+      "question": "『思い込む』ning o'qilishi qaysi?",
+      "word": "思い込む",
+      "choices": [
+        "おもいこむ",
+        "はげます",
+        "おんだんな",
+        "ほうっておく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "思い込む → おもいこむ"
+    },
+    {
+      "id": 151,
+      "questionType": "sentence",
+      "question": "『近所付き合い』ning ma'nosi qaysi?",
+      "word": "近所付き合い",
+      "choices": [
+        "oziq-ovqat xarajati",
+        "ne'matga muyassar bo'lmoq, omadi kulmoq",
+        "qo'shnilar bilan munosabat",
+        "uy loyihasi (necha xonali ekanligi)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "近所付き合い → qo'shnilar bilan munosabat"
+    },
+    {
+      "id": 152,
+      "questionType": "kanji",
+      "question": "『ネットワーク』qaysi yozuvga mos?",
+      "word": "ネットワーク",
+      "choices": [
+        "ストライキ",
+        "ネットワーク",
+        "対策する",
+        "しつけ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ネットワーク → ネットワーク"
+    },
+    {
+      "id": 153,
+      "questionType": "reading",
+      "question": "『低次元』ning o'qilishi qaysi?",
+      "word": "低次元",
+      "choices": [
+        "かぶか",
+        "ていじげん",
+        "カーディガン",
+        "あいする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "低次元 → ていじげん"
+    },
+    {
+      "id": 154,
+      "questionType": "kanji",
+      "question": "『かんせつ』qaysi yozuvga mos?",
+      "word": "間接",
+      "choices": [
+        "そらす",
+        "温もり",
+        "間接",
+        "悪習慣"
+      ],
+      "correctAnswer": 2,
+      "explanation": "かんせつ → 間接"
+    },
+    {
+      "id": 155,
+      "questionType": "reading",
+      "question": "『心当たり』ning o'qilishi qaysi?",
+      "word": "心当たり",
+      "choices": [
+        "こころあたり",
+        "はくしゅする",
+        "ちらりと",
+        "ふざける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "心当たり → こころあたり"
+    },
+    {
+      "id": 156,
+      "questionType": "kanji",
+      "question": "『おもいこむ』qaysi yozuvga mos?",
+      "word": "思い込む",
+      "choices": [
+        "思い込む",
+        "多岐にわたる",
+        "ホラ",
+        "手数料"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おもいこむ → 思い込む"
+    },
+    {
+      "id": 157,
+      "questionType": "meaning",
+      "question": "『飼い主』ning ma'nosi qaysi?",
+      "word": "飼い主",
+      "choices": [
+        "rishta, taqdiriy bog'liqlik",
+        "jinoyat sodir qilish",
+        "balog'at, o'smirlik davri",
+        "xo'jayin, egasi (hayvonning)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "飼い主 → xo'jayin, egasi (hayvonning)"
+    },
+    {
+      "id": 158,
+      "questionType": "sentence",
+      "question": "『てっきり』ning ma'nosi qaysi?",
+      "word": "てっきり",
+      "choices": [
+        "avlod (sinonim)",
+        "minnatdorlik uyg'otadigan, qadrli",
+        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
+        "qo'riqchi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てっきり → shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
+    },
+    {
+      "id": 159,
+      "questionType": "word",
+      "question": "『bir yilda ishga kirgan tengdosh, kursdosh』ning yaponcha ifodasi qaysi?",
+      "word": "同期",
+      "choices": [
+        "好条件",
+        "記憶",
+        "同期",
+        "賃貸"
+      ],
+      "correctAnswer": 2,
+      "explanation": "bir yilda ishga kirgan tengdosh, kursdosh → 同期"
+    },
+    {
+      "id": 160,
+      "questionType": "word",
+      "question": "『qo'shnilar bilan munosabat』ning yaponcha ifodasi qaysi?",
+      "word": "近所付き合い",
+      "choices": [
+        "逆らう",
+        "近所付き合い",
+        "振り返る",
+        "名所"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qo'shnilar bilan munosabat → 近所付き合い"
+    },
+    {
+      "id": 161,
+      "questionType": "reading",
+      "question": "『記憶』ning o'qilishi qaysi?",
+      "word": "記憶",
+      "choices": [
+        "きおく",
+        "しんちくする",
+        "わざわざ",
+        "ひょうじょう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "記憶 → きおく"
+    },
+    {
+      "id": 162,
+      "questionType": "reading",
+      "question": "『同期』ning o'qilishi qaysi?",
+      "word": "同期",
+      "choices": [
+        "ふくめる",
+        "せだいこうたい",
+        "こうつうひ",
+        "どうき"
+      ],
+      "correctAnswer": 3,
+      "explanation": "同期 → どうき"
+    },
+    {
+      "id": 163,
+      "questionType": "reading",
+      "question": "『交わす』ning o'qilishi qaysi?",
+      "word": "交わす",
+      "choices": [
+        "かわす",
+        "たった",
+        "せけんしらず",
+        "ほうふな"
+      ],
+      "correctAnswer": 0,
+      "explanation": "交わす → かわす"
+    },
+    {
+      "id": 164,
+      "questionType": "reading",
+      "question": "『自己流』ning o'qilishi qaysi?",
+      "word": "自己流",
+      "choices": [
+        "じこりゅう",
+        "やつ",
+        "とける",
+        "いいつける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "自己流 → じこりゅう"
+    },
+    {
+      "id": 165,
+      "questionType": "reading",
+      "question": "『振り返る』ning o'qilishi qaysi?",
+      "word": "振り返る",
+      "choices": [
+        "めいさん",
+        "ふりかえる",
+        "わがや",
+        "たいしん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "振り返る → ふりかえる"
+    },
+    {
+      "id": 166,
+      "questionType": "word",
+      "question": "『ta'zim qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "おじぎする",
+      "choices": [
+        "大いに",
+        "一家",
+        "限界",
+        "おじぎする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ta'zim qilmoq → おじぎする"
+    },
+    {
+      "id": 167,
+      "questionType": "reading",
+      "question": "『飼い主』ning o'qilishi qaysi?",
+      "word": "飼い主",
+      "choices": [
+        "しょくば",
+        "つみをおかす",
+        "かいぬし",
+        "だいなし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "飼い主 → かいぬし"
+    },
+    {
+      "id": 168,
+      "questionType": "kanji",
+      "question": "『おおや』qaysi yozuvga mos?",
+      "word": "大家",
+      "choices": [
+        "甘やかす",
+        "出し入れ",
+        "心細い",
+        "大家"
+      ],
+      "correctAnswer": 3,
+      "explanation": "おおや → 大家"
+    },
+    {
+      "id": 169,
+      "questionType": "meaning",
+      "question": "『再会する』ning ma'nosi qaysi?",
+      "word": "再会する",
+      "choices": [
+        "nok",
+        "qayta uchrashmoq",
+        "pul oldi berdi qilmoq",
+        "yomon odat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "再会する → qayta uchrashmoq"
+    },
+    {
+      "id": 170,
+      "questionType": "reading",
+      "question": "『呼び止める』ning o'qilishi qaysi?",
+      "word": "呼び止める",
+      "choices": [
+        "よびとめる",
+        "むきあう",
+        "にがおえ",
+        "つうしんする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "呼び止める → よびとめる"
+    },
+    {
+      "id": 171,
+      "questionType": "meaning",
+      "question": "『間接』ning ma'nosi qaysi?",
+      "word": "間接",
+      "choices": [
+        "bilvosita",
+        "begona, birov",
+        "taklif qilmoq",
+        "yangi qurmoq; yangi qurilgan (bino)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "間接 → bilvosita"
+    },
+    {
+      "id": 172,
+      "questionType": "word",
+      "question": "『taklif qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "招く",
+      "choices": [
+        "招く",
+        "称賛する",
+        "写す",
+        "手数料"
+      ],
+      "correctAnswer": 0,
+      "explanation": "taklif qilmoq → 招く"
+    },
+    {
+      "id": 173,
+      "questionType": "reading",
+      "question": "『直接』ning o'qilishi qaysi?",
+      "word": "直接",
+      "choices": [
+        "ちょくせつ",
+        "しゅうちゅうりょく",
+        "ほうふな",
+        "いきをきらす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "直接 → ちょくせつ"
+    },
+    {
+      "id": 174,
+      "questionType": "sentence",
+      "question": "『再会する』ning ma'nosi qaysi?",
+      "word": "再会する",
+      "choices": [
+        "yozma shakl (hujjat)",
+        "qayta uchrashmoq",
+        "mehnat qilmoq",
+        "bekitiqcha ish qilmoq, pusmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "再会する → qayta uchrashmoq"
+    },
+    {
+      "id": 175,
+      "questionType": "word",
+      "question": "『o'zaro bog'lanmoq』ning yaponcha ifodasi qaysi?",
+      "word": "結びつく",
+      "choices": [
+        "悪天候",
+        "覚え",
+        "結びつく",
+        "正午"
+      ],
+      "correctAnswer": 2,
+      "explanation": "o'zaro bog'lanmoq → 結びつく"
     },
     {
       "id": 176,
-      "questionType": "reading",
-      "question": "『結びつく』ning o'qilishi qaysi?",
-      "word": "結びつく",
+      "questionType": "kanji",
+      "question": "『てっきり』qaysi yozuvga mos?",
+      "word": "てっきり",
       "choices": [
-        "いんしょう",
-        "そうだんにのる",
-        "なっとくする",
-        "むすびつく"
+        "てっきり",
+        "しつけ",
+        "定時",
+        "安定的な"
       ],
-      "correctAnswer": 3,
-      "explanation": "結びつく → むすびつく"
+      "correctAnswer": 0,
+      "explanation": "てっきり → てっきり"
     },
     {
       "id": 177,
       "questionType": "reading",
-      "question": "『コミュニケーション』ning o'qilishi qaysi?",
-      "word": "コミュニケーション",
+      "question": "『飼い主』ning o'qilishi qaysi?",
+      "word": "飼い主",
       "choices": [
-        "めいい",
-        "コミュニケーション",
-        "ほえる",
-        "ごちそうする"
+        "ふあんていな",
+        "かいぬし",
+        "ひとりずまい",
+        "オーダーする"
       ],
       "correctAnswer": 1,
-      "explanation": "コミュニケーション → コミュニケーション"
+      "explanation": "飼い主 → かいぬし"
     }
   ]
 }

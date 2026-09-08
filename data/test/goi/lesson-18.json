@@ -1,0 +1,2583 @@
+{
+  "title": "Lesson 18 Test",
+  "type": "goi",
+  "lesson": "lesson-18",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "kanji",
+      "question": "『あわせる』qaysi yozuvga mos?",
+      "word": "併せる",
+      "choices": [
+        "ホームヘルパー",
+        "安くつく",
+        "併せる",
+        "住宅ローン"
+      ],
+      "correctAnswer": 2,
+      "explanation": "あわせる → 併せる"
+    },
+    {
+      "id": 2,
+      "questionType": "sentence",
+      "question": "『公共料金』ning ma'nosi qaysi?",
+      "word": "公共料金",
+      "choices": [
+        "kommunal to'lov",
+        "yuqori ma'lumotli",
+        "ari",
+        "iste'dod"
+      ],
+      "correctAnswer": 0,
+      "explanation": "公共料金 → kommunal to'lov"
+    },
+    {
+      "id": 3,
+      "questionType": "kanji",
+      "question": "『せっせと』qaysi yozuvga mos?",
+      "word": "せっせと",
+      "choices": [
+        "名著",
+        "一口",
+        "せっせと",
+        "警備する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せっせと → せっせと"
+    },
+    {
+      "id": 4,
+      "questionType": "word",
+      "question": "『astoydil, qattiq』ning yaponcha ifodasi qaysi?",
+      "word": "せっせと",
+      "choices": [
+        "気まずい",
+        "せっせと",
+        "けなす",
+        "仲間はずれ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "astoydil, qattiq → せっせと"
+    },
+    {
+      "id": 5,
+      "questionType": "reading",
+      "question": "『経費』ning o'qilishi qaysi?",
+      "word": "経費",
+      "choices": [
+        "さかん",
+        "はっちゃくする",
+        "こういんしょう",
+        "けいひ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "経費 → けいひ"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『けいびいん』qaysi yozuvga mos?",
+      "word": "警備員",
+      "choices": [
+        "警備員",
+        "プロポーズする",
+        "あえて",
+        "返済する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "けいびいん → 警備員"
+    },
+    {
+      "id": 7,
+      "questionType": "reading",
+      "question": "『納める』ning o'qilishi qaysi?",
+      "word": "納める",
+      "choices": [
+        "さからう",
+        "むちゅう",
+        "むきあう",
+        "おさめる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "納める → おさめる"
+    },
+    {
+      "id": 8,
+      "questionType": "kanji",
+      "question": "『ねんしゅう』qaysi yozuvga mos?",
+      "word": "年収",
+      "choices": [
+        "マイホーム",
+        "頼もしい",
+        "久しぶり",
+        "年収"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ねんしゅう → 年収"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
+      "question": "『高くつく』ning ma'nosi qaysi?",
+      "word": "高くつく",
+      "choices": [
+        "mazali (taom); yaxshi, qobiliyatli",
+        "qimmatga tushmoq",
+        "noto'g'ri tushunib olish",
+        "kamtarona, sodda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "高くつく → qimmatga tushmoq"
+    },
+    {
+      "id": 10,
+      "questionType": "reading",
+      "question": "『手数料』ning o'qilishi qaysi?",
+      "word": "手数料",
+      "choices": [
+        "てすうりょう",
+        "やくめ",
+        "はげます",
+        "いける"
+      ],
+      "correctAnswer": 0,
+      "explanation": "手数料 → てすうりょう"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『jinoyatni oldini olish, himoya qilish』ning yaponcha ifodasi qaysi?",
+      "word": "防犯",
+      "choices": [
+        "介助犬",
+        "でたらめな",
+        "促す",
+        "防犯"
+      ],
+      "correctAnswer": 3,
+      "explanation": "jinoyatni oldini olish, himoya qilish → 防犯"
+    },
+    {
+      "id": 12,
+      "questionType": "meaning",
+      "question": "『大金』ning ma'nosi qaysi?",
+      "word": "大金",
+      "choices": [
+        "kompaniyalar",
+        "yaxshi shifokor",
+        "omadsiz",
+        "ko'p pul"
+      ],
+      "correctAnswer": 3,
+      "explanation": "大金 → ko'p pul"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『yillik daromad』ning yaponcha ifodasi qaysi?",
+      "word": "年収",
+      "choices": [
+        "涙を流す",
+        "一軒家",
+        "年収",
+        "手元"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yillik daromad → 年収"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『赤字』ning o'qilishi qaysi?",
+      "word": "赤字",
+      "choices": [
+        "くちをきく",
+        "ちんたい",
+        "とくな",
+        "あかじ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "赤字 → あかじ"
+    },
+    {
+      "id": 15,
+      "questionType": "sentence",
+      "question": "『出し入れ』ning ma'nosi qaysi?",
+      "word": "出し入れ",
+      "choices": [
+        "mashhur asar, kitob",
+        "bino yoshi",
+        "oila",
+        "pul qo'yish va yechish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "出し入れ → pul qo'yish va yechish"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『けいひ』qaysi yozuvga mos?",
+      "word": "経費",
+      "choices": [
+        "だまる",
+        "荒らす",
+        "経費",
+        "懐かしい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けいひ → 経費"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『astoydil, qattiq』ning yaponcha ifodasi qaysi?",
+      "word": "せっせと",
+      "choices": [
+        "いやみな",
+        "せっせと",
+        "税",
+        "復帰する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "astoydil, qattiq → せっせと"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『引き落とし』ning ma'nosi qaysi?",
+      "word": "引き落とし",
+      "choices": [
+        "falokat/ ofat",
+        "ari",
+        "rahmat",
+        "avtomatik yechib olish (hisobdan)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "引き落とし → avtomatik yechib olish (hisobdan)"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『けいびがいしゃ』qaysi yozuvga mos?",
+      "word": "警備会社",
+      "choices": [
+        "散らかる",
+        "警備会社",
+        "借金する",
+        "高収入"
+      ],
+      "correctAnswer": 1,
+      "explanation": "けいびがいしゃ → 警備会社"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『含む』ning o'qilishi qaysi?",
+      "word": "含む",
+      "choices": [
+        "みつめあう",
+        "つくづくと",
+        "ふくむ",
+        "くいしんぼう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "含む → ふくむ"
+    },
+    {
+      "id": 21,
+      "questionType": "meaning",
+      "question": "『頑丈な』ning ma'nosi qaysi?",
+      "word": "頑丈な",
+      "choices": [
+        "baquvvat, mustahkam",
+        "ta'lim xarajati",
+        "namlik",
+        "o'ta rasmiy, siqiq (muhit)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "頑丈な → baquvvat, mustahkam"
+    },
+    {
+      "id": 22,
+      "questionType": "meaning",
+      "question": "『防犯』ning ma'nosi qaysi?",
+      "word": "防犯",
+      "choices": [
+        "bir oilaviy alohida uy",
+        "pastga qaramoq",
+        "jinoyatni oldini olish, himoya qilish",
+        "betashvish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "防犯 → jinoyatni oldini olish, himoya qilish"
+    },
+    {
+      "id": 23,
+      "questionType": "word",
+      "question": "『qo'riqchi』ning yaponcha ifodasi qaysi?",
+      "word": "警備員",
+      "choices": [
+        "かじる",
+        "警備員",
+        "覚え",
+        "得な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qo'riqchi → 警備員"
+    },
+    {
+      "id": 24,
+      "questionType": "reading",
+      "question": "『頑丈な』ning o'qilishi qaysi?",
+      "word": "頑丈な",
+      "choices": [
+        "しんぱん",
+        "かんじょう",
+        "しどうする",
+        "がんじょうな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "頑丈な → がんじょうな"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『はらいこむ』qaysi yozuvga mos?",
+      "word": "払い込む",
+      "choices": [
+        "交わす",
+        "世代",
+        "探る",
+        "払い込む"
+      ],
+      "correctAnswer": 3,
+      "explanation": "はらいこむ → 払い込む"
+    },
+    {
+      "id": 26,
+      "questionType": "word",
+      "question": "『xizmat haqi』ning yaponcha ifodasi qaysi?",
+      "word": "手数料",
+      "choices": [
+        "魅力的な",
+        "向き合う",
+        "養う",
+        "手数料"
+      ],
+      "correctAnswer": 3,
+      "explanation": "xizmat haqi → 手数料"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『ぼうはんべる』qaysi yozuvga mos?",
+      "word": "防犯ベル",
+      "choices": [
+        "梨",
+        "防犯ベル",
+        "伝統",
+        "失格する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ぼうはんべる → 防犯ベル"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『ひきおとし』qaysi yozuvga mos?",
+      "word": "引き落とし",
+      "choices": [
+        "解ける",
+        "パワハラする",
+        "教育費",
+        "引き落とし"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ひきおとし → 引き落とし"
+    },
+    {
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『てすうりょう』qaysi yozuvga mos?",
+      "word": "手数料",
+      "choices": [
+        "ファミリーレストラン",
+        "大金",
+        "追い出す",
+        "手数料"
+      ],
+      "correctAnswer": 3,
+      "explanation": "てすうりょう → 手数料"
+    },
+    {
+      "id": 30,
+      "questionType": "kanji",
+      "question": "『がんじょうな』qaysi yozuvga mos?",
+      "word": "頑丈な",
+      "choices": [
+        "悪知恵",
+        "世間知らず",
+        "頑丈な",
+        "頼る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "がんじょうな → 頑丈な"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『ぜいきん』qaysi yozuvga mos?",
+      "word": "税金",
+      "choices": [
+        "出産祝い",
+        "覚え",
+        "抵抗する",
+        "税金"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ぜいきん → 税金"
+    },
+    {
+      "id": 32,
+      "questionType": "word",
+      "question": "『tekshirmoq, ko'zdan kechirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "自分勝手な",
+        "悪趣味",
+        "点検する",
+        "一軒家"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tekshirmoq, ko'zdan kechirmoq → 点検する"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『たかくつく』qaysi yozuvga mos?",
+      "word": "高くつく",
+      "choices": [
+        "仲間はずれ",
+        "口論する",
+        "東向き",
+        "高くつく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "たかくつく → 高くつく"
+    },
+    {
+      "id": 34,
+      "questionType": "meaning",
+      "question": "『大金』ning ma'nosi qaysi?",
+      "word": "大金",
+      "choices": [
+        "iliqlik, taft",
+        "juda oz, atigi",
+        "qarsak chalmoq",
+        "ko'p pul"
+      ],
+      "correctAnswer": 3,
+      "explanation": "大金 → ko'p pul"
+    },
+    {
+      "id": 35,
+      "questionType": "word",
+      "question": "『xarajat』ning yaponcha ifodasi qaysi?",
+      "word": "出費する",
+      "choices": [
+        "抑える",
+        "出費する",
+        "仲間はずれ",
+        "高くつく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "xarajat → 出費する"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『ししゅつ』qaysi yozuvga mos?",
+      "word": "支出",
+      "choices": [
+        "治安",
+        "支出",
+        "決まり",
+        "慰める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ししゅつ → 支出"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『せいぜい』ning ma'nosi qaysi?",
+      "word": "せいぜい",
+      "choices": [
+        "haydab chiqarmoq",
+        "jo qilmoq, (tuyg'u, kuch) qo'shmoq",
+        "parvarish qilmoq (keksa, bemorni)",
+        "eng ko'pi bilan; oxirigacha, kuching yetgancha"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せいぜい → eng ko'pi bilan; oxirigacha, kuching yetgancha"
+    },
+    {
+      "id": 38,
+      "questionType": "kanji",
+      "question": "『こうきょうりょうきん』qaysi yozuvga mos?",
+      "word": "公共料金",
+      "choices": [
+        "経費",
+        "公共料金",
+        "縁",
+        "わざわざ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こうきょうりょうきん → 公共料金"
+    },
+    {
+      "id": 39,
+      "questionType": "kanji",
+      "question": "『ちくねんすう』qaysi yozuvga mos?",
+      "word": "築年数",
+      "choices": [
+        "下す",
+        "築年数",
+        "生活費",
+        "気まずい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちくねんすう → 築年数"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『赤字』ning o'qilishi qaysi?",
+      "word": "赤字",
+      "choices": [
+        "せいさく",
+        "はだ",
+        "くどい",
+        "あかじ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "赤字 → あかじ"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『点検する』ning o'qilishi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "しどうする",
+        "ものおき",
+        "てんけんする",
+        "なかよし"
+      ],
+      "correctAnswer": 2,
+      "explanation": "点検する → てんけんする"
+    },
+    {
+      "id": 42,
+      "questionType": "meaning",
+      "question": "『点検する』ning ma'nosi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "hisob-kitob, taxminiy narx",
+        "jon kuydirib xizmat qilmoq, bag'ishlamoq",
+        "tekshirmoq, ko'zdan kechirmoq",
+        "uy egasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "点検する → tekshirmoq, ko'zdan kechirmoq"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『ふくめる』qaysi yozuvga mos?",
+      "word": "含める",
+      "choices": [
+        "雲がかかる",
+        "含める",
+        "うまい",
+        "ささいな"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふくめる → 含める"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『おさめる』qaysi yozuvga mos?",
+      "word": "納める",
+      "choices": [
+        "納める",
+        "励ます",
+        "そわそわする",
+        "人件費"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おさめる → 納める"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『ごくわずか』ning o'qilishi qaysi?",
+      "word": "ごくわずか",
+      "choices": [
+        "てすうりょう",
+        "ひがしむき",
+        "なぐる",
+        "ごくわずか"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ごくわずか → ごくわずか"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『せいぜい』ning o'qilishi qaysi?",
+      "word": "せいぜい",
+      "choices": [
+        "せいぜい",
+        "ひとめ",
+        "いっけんや",
+        "きっぱり"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せいぜい → せいぜい"
+    },
+    {
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『しゅうにゅう』qaysi yozuvga mos?",
+      "word": "収入",
+      "choices": [
+        "語り合う",
+        "困難な",
+        "収入",
+        "礼金"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しゅうにゅう → 収入"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『たいきん』qaysi yozuvga mos?",
+      "word": "大金",
+      "choices": [
+        "投票する",
+        "愛する",
+        "大金",
+        "ホームヘルパー"
+      ],
+      "correctAnswer": 2,
+      "explanation": "たいきん → 大金"
+    },
+    {
+      "id": 49,
+      "questionType": "meaning",
+      "question": "『振り込む』ning ma'nosi qaysi?",
+      "word": "振り込む",
+      "choices": [
+        "xavfsizlik qo'ng'irog'i",
+        "kardigan",
+        "pul o'tkazmoq (hisobga)",
+        "avtomatik yechib olish (hisobdan)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "振り込む → pul o'tkazmoq (hisobga)"
+    },
+    {
+      "id": 50,
+      "questionType": "kanji",
+      "question": "『せいぜい』qaysi yozuvga mos?",
+      "word": "せいぜい",
+      "choices": [
+        "思いやり",
+        "懐かしい",
+        "むしろ",
+        "せいぜい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せいぜい → せいぜい"
+    },
+    {
+      "id": 51,
+      "questionType": "word",
+      "question": "『soliq』ning yaponcha ifodasi qaysi?",
+      "word": "税",
+      "choices": [
+        "段差",
+        "そっとする",
+        "税",
+        "温暖な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "soliq → 税"
+    },
+    {
+      "id": 52,
+      "questionType": "reading",
+      "question": "『高くつく』ning o'qilishi qaysi?",
+      "word": "高くつく",
+      "choices": [
+        "わがくに",
+        "たかくつく",
+        "めいせい",
+        "ひさしぶり"
+      ],
+      "correctAnswer": 1,
+      "explanation": "高くつく → たかくつく"
+    },
+    {
+      "id": 53,
+      "questionType": "reading",
+      "question": "『公共料金』ning o'qilishi qaysi?",
+      "word": "公共料金",
+      "choices": [
+        "こうきょうりょうきん",
+        "とっさに",
+        "おもいやり",
+        "フルコース"
+      ],
+      "correctAnswer": 0,
+      "explanation": "公共料金 → こうきょうりょうきん"
+    },
+    {
+      "id": 54,
+      "questionType": "sentence",
+      "question": "『警備会社』ning ma'nosi qaysi?",
+      "word": "警備会社",
+      "choices": [
+        "erkalik",
+        "qo'riqlash kompaniyasi",
+        "tibbiyot xarajati",
+        "a'zo to'lovi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "警備会社 → qo'riqlash kompaniyasi"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『ものおと』qaysi yozuvga mos?",
+      "word": "物音",
+      "choices": [
+        "カーディガン",
+        "きっぱり",
+        "ヘルパー",
+        "物音"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ものおと → 物音"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『せいぜい』qaysi yozuvga mos?",
+      "word": "せいぜい",
+      "choices": [
+        "大まかな",
+        "お互い",
+        "せいぜい",
+        "勘違いする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せいぜい → せいぜい"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『kamomad, zarar; 2. qizil bilan belgilangan joylar (xatolar)』ning yaponcha ifodasi qaysi?",
+      "word": "赤字",
+      "choices": [
+        "赤字",
+        "うつむく",
+        "原作者",
+        "探る"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kamomad, zarar; 2. qizil bilan belgilangan joylar (xatolar) → 赤字"
+    },
+    {
+      "id": 58,
+      "questionType": "word",
+      "question": "『daromad, kirim』ning yaponcha ifodasi qaysi?",
+      "word": "収入",
+      "choices": [
+        "温暖な",
+        "奥",
+        "解ける",
+        "収入"
+      ],
+      "correctAnswer": 3,
+      "explanation": "daromad, kirim → 収入"
+    },
+    {
+      "id": 59,
+      "questionType": "word",
+      "question": "『juda oz, atigi』ning yaponcha ifodasi qaysi?",
+      "word": "ごくわずか",
+      "choices": [
+        "フルコース",
+        "見習う",
+        "間取り",
+        "ごくわずか"
+      ],
+      "correctAnswer": 3,
+      "explanation": "juda oz, atigi → ごくわずか"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『しゅっぴする』qaysi yozuvga mos?",
+      "word": "出費する",
+      "choices": [
+        "称賛する",
+        "迷惑行為",
+        "おじぎする",
+        "出費する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しゅっぴする → 出費する"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『含む』ning o'qilishi qaysi?",
+      "word": "含む",
+      "choices": [
+        "さかん",
+        "ふくむ",
+        "きくばりする",
+        "けいびがいしゃ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "含む → ふくむ"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『税』ning o'qilishi qaysi?",
+      "word": "税",
+      "choices": [
+        "とける",
+        "ぜい",
+        "なかよし",
+        "ていじげん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "税 → ぜい"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『新築する』ning o'qilishi qaysi?",
+      "word": "新築する",
+      "choices": [
+        "こうしんする",
+        "ひがしむき",
+        "こんなんな",
+        "しんちくする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "新築する → しんちくする"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『出し入れ』ning ma'nosi qaysi?",
+      "word": "出し入れ",
+      "choices": [
+        "uzoq vaqt",
+        "pul qo'yish va yechish",
+        "qochqin",
+        "juda oz, atigi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "出し入れ → pul qo'yish va yechish"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『しんちくする』qaysi yozuvga mos?",
+      "word": "新築する",
+      "choices": [
+        "親元",
+        "注射する",
+        "新築する",
+        "反省会"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しんちくする → 新築する"
+    },
+    {
+      "id": 66,
+      "questionType": "word",
+      "question": "『qo'riqlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "警備する",
+      "choices": [
+        "盛り上がる",
+        "向き合う",
+        "警備する",
+        "交わす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "qo'riqlamoq → 警備する"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『ものおと』qaysi yozuvga mos?",
+      "word": "物音",
+      "choices": [
+        "物音",
+        "運命",
+        "費用",
+        "高学年"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ものおと → 物音"
+    },
+    {
+      "id": 68,
+      "questionType": "word",
+      "question": "『pul qo'yish va yechish』ning yaponcha ifodasi qaysi?",
+      "word": "出し入れ",
+      "choices": [
+        "ガーデニング",
+        "出し入れ",
+        "通信する",
+        "交わす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "pul qo'yish va yechish → 出し入れ"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『ざんだか』qaysi yozuvga mos?",
+      "word": "残高",
+      "choices": [
+        "落ち込む",
+        "愛情",
+        "残高",
+        "名声"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ざんだか → 残高"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『しんちくする』qaysi yozuvga mos?",
+      "word": "新築する",
+      "choices": [
+        "写す",
+        "夢中な",
+        "職場",
+        "新築する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しんちくする → 新築する"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『けいびする』qaysi yozuvga mos?",
+      "word": "警備する",
+      "choices": [
+        "警備する",
+        "勤続する",
+        "うつむく",
+        "雑な"
+      ],
+      "correctAnswer": 0,
+      "explanation": "けいびする → 警備する"
+    },
+    {
+      "id": 72,
+      "questionType": "meaning",
+      "question": "『警備会社』ning ma'nosi qaysi?",
+      "word": "警備会社",
+      "choices": [
+        "tishlamoq, g'ajimoq",
+        "an'ana",
+        "qo'riqlash kompaniyasi",
+        "beparvo, parvo qilmaydigan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "警備会社 → qo'riqlash kompaniyasi"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『防犯』ning o'qilishi qaysi?",
+      "word": "防犯",
+      "choices": [
+        "ふる",
+        "おしゃべりする",
+        "あくじょうけん",
+        "ぼうはん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "防犯 → ぼうはん"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『残高』ning o'qilishi qaysi?",
+      "word": "残高",
+      "choices": [
+        "やがい",
+        "ざんだか",
+        "ごちそうする",
+        "じぇねれーしょん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "残高 → ざんだか"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『てんけんする』qaysi yozuvga mos?",
+      "word": "点検する",
+      "choices": [
+        "大いに",
+        "治安",
+        "点検する",
+        "手すり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てんけんする → 点検する"
+    },
+    {
+      "id": 76,
+      "questionType": "kanji",
+      "question": "『ぜい』qaysi yozuvga mos?",
+      "word": "税",
+      "choices": [
+        "税",
+        "敷金",
+        "好物",
+        "司会する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぜい → 税"
+    },
+    {
+      "id": 77,
+      "questionType": "kanji",
+      "question": "『ごくわずか』qaysi yozuvga mos?",
+      "word": "ごくわずか",
+      "choices": [
+        "一家",
+        "一人住まい",
+        "ごくわずか",
+        "わが国"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ごくわずか → ごくわずか"
+    },
+    {
+      "id": 78,
+      "questionType": "reading",
+      "question": "『税金』ning o'qilishi qaysi?",
+      "word": "税金",
+      "choices": [
+        "ぜいきん",
+        "としかいはつ",
+        "しんだんする",
+        "こっせつする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "税金 → ぜいきん"
+    },
+    {
+      "id": 79,
+      "questionType": "meaning",
+      "question": "『公共料金』ning ma'nosi qaysi?",
+      "word": "公共料金",
+      "choices": [
+        "kommunal to'lov",
+        "hisoblab chiqmoq, hisob-kitobni aniqlamoq",
+        "qishloq",
+        "havas qiladigan, hasad qilinadigan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "公共料金 → kommunal to'lov"
+    },
+    {
+      "id": 80,
+      "questionType": "sentence",
+      "question": "『振り込む』ning ma'nosi qaysi?",
+      "word": "振り込む",
+      "choices": [
+        "pul o'tkazmoq (hisobga)",
+        "atigi, bor-yo'g'i",
+        "o'tmish",
+        "tishlamoq, g'ajimoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "振り込む → pul o'tkazmoq (hisobga)"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『あわせる』qaysi yozuvga mos?",
+      "word": "併せる",
+      "choices": [
+        "好景気",
+        "呼び出す",
+        "避ける",
+        "併せる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あわせる → 併せる"
+    },
+    {
+      "id": 82,
+      "questionType": "word",
+      "question": "『to'lamoq』ning yaponcha ifodasi qaysi?",
+      "word": "納める",
+      "choices": [
+        "納める",
+        "パワハラする",
+        "知らないふり",
+        "支出"
+      ],
+      "correctAnswer": 0,
+      "explanation": "to'lamoq → 納める"
+    },
+    {
+      "id": 83,
+      "questionType": "reading",
+      "question": "『警備する』ning o'qilishi qaysi?",
+      "word": "警備する",
+      "choices": [
+        "なにげない",
+        "みつもり",
+        "けいびする",
+        "いいつける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "警備する → けいびする"
+    },
+    {
+      "id": 84,
+      "questionType": "sentence",
+      "question": "『払い込む』ning ma'nosi qaysi?",
+      "word": "払い込む",
+      "choices": [
+        "qimmatga tushmoq",
+        "yomon ta'sir",
+        "taqdir",
+        "to'lab qo'ymoq (hisobga, bankomatda)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "払い込む → to'lab qo'ymoq (hisobga, bankomatda)"
+    },
+    {
+      "id": 85,
+      "questionType": "reading",
+      "question": "『納める』ning o'qilishi qaysi?",
+      "word": "納める",
+      "choices": [
+        "おさめる",
+        "しめす",
+        "いやみな",
+        "はんせいかい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "納める → おさめる"
+    },
+    {
+      "id": 86,
+      "questionType": "word",
+      "question": "『kommunal to'lov』ning yaponcha ifodasi qaysi?",
+      "word": "公共料金",
+      "choices": [
+        "公共料金",
+        "低次元",
+        "あくびする",
+        "募集する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "kommunal to'lov → 公共料金"
+    },
+    {
+      "id": 87,
+      "questionType": "kanji",
+      "question": "『あかじ』qaysi yozuvga mos?",
+      "word": "赤字",
+      "choices": [
+        "出費する",
+        "よこす",
+        "大半",
+        "赤字"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あかじ → 赤字"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『たいきん』qaysi yozuvga mos?",
+      "word": "大金",
+      "choices": [
+        "介護する",
+        "努める",
+        "到着する",
+        "大金"
+      ],
+      "correctAnswer": 3,
+      "explanation": "たいきん → 大金"
+    },
+    {
+      "id": 89,
+      "questionType": "sentence",
+      "question": "『安くつく』ning ma'nosi qaysi?",
+      "word": "安くつく",
+      "choices": [
+        "yuqori unumli, samarali (texnika)",
+        "ko'rsatmoq, aks ettirmoq (ekranda)",
+        "arzonga tushmoq",
+        "xizmat haqi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "安くつく → arzonga tushmoq"
+    },
+    {
+      "id": 90,
+      "questionType": "reading",
+      "question": "『併せる』ning o'qilishi qaysi?",
+      "word": "併せる",
+      "choices": [
+        "なっとくする",
+        "あわせる",
+        "まんびきする",
+        "きぎょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "併せる → あわせる"
+    },
+    {
+      "id": 91,
+      "questionType": "word",
+      "question": "『arzonga tushmoq』ning yaponcha ifodasi qaysi?",
+      "word": "安くつく",
+      "choices": [
+        "安くつく",
+        "励む",
+        "老犬",
+        "高学年"
+      ],
+      "correctAnswer": 0,
+      "explanation": "arzonga tushmoq → 安くつく"
+    },
+    {
+      "id": 92,
+      "questionType": "meaning",
+      "question": "『高くつく』ning ma'nosi qaysi?",
+      "word": "高くつく",
+      "choices": [
+        "qimmatga tushmoq",
+        "akusherlik-ginekologiya (bo'limi)",
+        "ko'chirib yozmoq; suratga olmoq",
+        "dangasa odam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "高くつく → qimmatga tushmoq"
+    },
+    {
+      "id": 93,
+      "questionType": "kanji",
+      "question": "『たかくつく』qaysi yozuvga mos?",
+      "word": "高くつく",
+      "choices": [
+        "産む",
+        "高くつく",
+        "もしかしたら、もしかして、ひょっとすると",
+        "住居費"
+      ],
+      "correctAnswer": 1,
+      "explanation": "たかくつく → 高くつく"
+    },
+    {
+      "id": 94,
+      "questionType": "word",
+      "question": "『pul yechmoq』ning yaponcha ifodasi qaysi?",
+      "word": "引き落とす",
+      "choices": [
+        "親知らず",
+        "表情",
+        "引き落とす",
+        "おじぎする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "pul yechmoq → 引き落とす"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『ざんだか』qaysi yozuvga mos?",
+      "word": "残高",
+      "choices": [
+        "残高",
+        "落ち込む",
+        "温暖な",
+        "浮かべる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ざんだか → 残高"
+    },
+    {
+      "id": 96,
+      "questionType": "reading",
+      "question": "『出し入れ』ning o'qilishi qaysi?",
+      "word": "出し入れ",
+      "choices": [
+        "ふけいき",
+        "かたりあう",
+        "だしいれ",
+        "かしかりする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "出し入れ → だしいれ"
+    },
+    {
+      "id": 97,
+      "questionType": "kanji",
+      "question": "『けいびする』qaysi yozuvga mos?",
+      "word": "警備する",
+      "choices": [
+        "支出",
+        "思春期",
+        "警備する",
+        "そらす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "けいびする → 警備する"
+    },
+    {
+      "id": 98,
+      "questionType": "meaning",
+      "question": "『手数料』ning ma'nosi qaysi?",
+      "word": "手数料",
+      "choices": [
+        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
+        "xizmat haqi",
+        "charaqlamoq",
+        "kamtarona, sodda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "手数料 → xizmat haqi"
+    },
+    {
+      "id": 99,
+      "questionType": "kanji",
+      "question": "『ふくむ』qaysi yozuvga mos?",
+      "word": "含む",
+      "choices": [
+        "南向き",
+        "含む",
+        "一軒家",
+        "高気圧"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふくむ → 含む"
+    },
+    {
+      "id": 100,
+      "questionType": "reading",
+      "question": "『税金』ning o'qilishi qaysi?",
+      "word": "税金",
+      "choices": [
+        "ひきおとし",
+        "ルール",
+        "ぜいきん",
+        "てんけんする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "税金 → ぜいきん"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『そっとする』qaysi yozuvga mos?",
+      "word": "そっとする",
+      "choices": [
+        "名産",
+        "何気ない",
+        "そっとする",
+        "勘違いする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "そっとする → そっとする"
+    },
+    {
+      "id": 102,
+      "questionType": "kanji",
+      "question": "『だしいれ』qaysi yozuvga mos?",
+      "word": "出し入れ",
+      "choices": [
+        "出し入れ",
+        "好景気",
+        "不安定な",
+        "つくづくと"
+      ],
+      "correctAnswer": 0,
+      "explanation": "だしいれ → 出し入れ"
+    },
+    {
+      "id": 103,
+      "questionType": "reading",
+      "question": "『収入』ning o'qilishi qaysi?",
+      "word": "収入",
+      "choices": [
+        "しゅうにゅう",
+        "れいきん",
+        "しせつ",
+        "ちくねんすう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "収入 → しゅうにゅう"
+    },
+    {
+      "id": 104,
+      "questionType": "sentence",
+      "question": "『引き落とし』ning ma'nosi qaysi?",
+      "word": "引き落とし",
+      "choices": [
+        "ko'rsatmoq, namoyish qilmoq",
+        "boqmoq, ta'minlamoq",
+        "avtomatik yechib olish (hisobdan)",
+        "lip etib, ko'z qiri bilan (qaramoq)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "引き落とし → avtomatik yechib olish (hisobdan)"
+    },
+    {
+      "id": 105,
+      "questionType": "sentence",
+      "question": "『防犯カメラ』ning ma'nosi qaysi?",
+      "word": "防犯カメラ",
+      "choices": [
+        "xavfsizlik kamerasi",
+        "yubormoq, berib yubormoq",
+        "pichirlamoq",
+        "belgilangan vaqt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "防犯カメラ → xavfsizlik kamerasi"
+    },
+    {
+      "id": 106,
+      "questionType": "kanji",
+      "question": "『ぼうはん』qaysi yozuvga mos?",
+      "word": "防犯",
+      "choices": [
+        "行為",
+        "志望する",
+        "防犯",
+        "認める"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぼうはん → 防犯"
+    },
+    {
+      "id": 107,
+      "questionType": "reading",
+      "question": "『含める』ning o'qilishi qaysi?",
+      "word": "含める",
+      "choices": [
+        "ふくめる",
+        "くちげんかする",
+        "ひとみがきつい",
+        "せいぜい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "含める → ふくめる"
+    },
+    {
+      "id": 108,
+      "questionType": "kanji",
+      "question": "『だしいれ』qaysi yozuvga mos?",
+      "word": "出し入れ",
+      "choices": [
+        "防犯カメラ",
+        "出し入れ",
+        "甘やかす",
+        "感心する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "だしいれ → 出し入れ"
+    },
+    {
+      "id": 109,
+      "questionType": "word",
+      "question": "『xarajat』ning yaponcha ifodasi qaysi?",
+      "word": "経費",
+      "choices": [
+        "秘密",
+        "気まずい",
+        "経費",
+        "振る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "xarajat → 経費"
+    },
+    {
+      "id": 110,
+      "questionType": "reading",
+      "question": "『築年数』ning o'qilishi qaysi?",
+      "word": "築年数",
+      "choices": [
+        "どうし",
+        "ちくねんすう",
+        "あくしゅみ",
+        "さかん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "築年数 → ちくねんすう"
+    },
+    {
+      "id": 111,
+      "questionType": "kanji",
+      "question": "『こうきょうりょうきん』qaysi yozuvga mos?",
+      "word": "公共料金",
+      "choices": [
+        "納める",
+        "貸し借りする",
+        "充実する",
+        "公共料金"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こうきょうりょうきん → 公共料金"
+    },
+    {
+      "id": 112,
+      "questionType": "meaning",
+      "question": "『警備する』ning ma'nosi qaysi?",
+      "word": "警備する",
+      "choices": [
+        "e'tiborli bo'lmoq, boshqalarni o'ylamoq",
+        "band, punkt",
+        "qo'riqlamoq",
+        "qaror"
+      ],
+      "correctAnswer": 2,
+      "explanation": "警備する → qo'riqlamoq"
+    },
+    {
+      "id": 113,
+      "questionType": "meaning",
+      "question": "『せいぜい』ning ma'nosi qaysi?",
+      "word": "せいぜい",
+      "choices": [
+        "yuqori bosqichga o'tmoq",
+        "chaqirmoq, taklif qilmoq",
+        "eng ko'pi bilan; oxirigacha, kuching yetgancha",
+        "hayvon ozuqasi (yem)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せいぜい → eng ko'pi bilan; oxirigacha, kuching yetgancha"
+    },
+    {
+      "id": 114,
+      "questionType": "meaning",
+      "question": "『残高』ning ma'nosi qaysi?",
+      "word": "残高",
+      "choices": [
+        "qishloq",
+        "qoldiq balans",
+        "aqlli",
+        "jo'nash va yetib kelish (qatnov)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "残高 → qoldiq balans"
+    },
+    {
+      "id": 115,
+      "questionType": "reading",
+      "question": "『物音』ning o'qilishi qaysi?",
+      "word": "物音",
+      "choices": [
+        "とうひょうする",
+        "ものおと",
+        "ちんたい",
+        "ひきおとし"
+      ],
+      "correctAnswer": 1,
+      "explanation": "物音 → ものおと"
+    },
+    {
+      "id": 116,
+      "questionType": "sentence",
+      "question": "『ごくわずか』ning ma'nosi qaysi?",
+      "word": "ごくわずか",
+      "choices": [
+        "buzilmoq, qulamoq (ob-havo buzilishi)",
+        "qila olmoq, (issiq non va tarvuz) yaxshi ketadi",
+        "juda oz, atigi",
+        "mehmon qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ごくわずか → juda oz, atigi"
+    },
+    {
+      "id": 117,
+      "questionType": "reading",
+      "question": "『そっとする』ning o'qilishi qaysi?",
+      "word": "そっとする",
+      "choices": [
+        "そっとする",
+        "こうほ",
+        "ちくねんすう",
+        "たいしん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "そっとする → そっとする"
+    },
+    {
+      "id": 118,
+      "questionType": "sentence",
+      "question": "『新築する』ning ma'nosi qaysi?",
+      "word": "新築する",
+      "choices": [
+        "o'ta rasmiy, siqiq (muhit)",
+        "olib kelmoq (o'zi bilan)",
+        "sog'inch uyg'otadigan, eslashga arzigulik",
+        "yangi qurmoq; yangi qurilgan (bino)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "新築する → yangi qurmoq; yangi qurilgan (bino)"
+    },
+    {
+      "id": 119,
+      "questionType": "word",
+      "question": "『to'lamoq』ning yaponcha ifodasi qaysi?",
+      "word": "納める",
+      "choices": [
+        "記憶",
+        "ブランド",
+        "納める",
+        "出産する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "to'lamoq → 納める"
+    },
+    {
+      "id": 120,
+      "questionType": "reading",
+      "question": "『引き落とし』ning o'qilishi qaysi?",
+      "word": "引き落とし",
+      "choices": [
+        "めがさめる",
+        "かいにゅうする",
+        "ふだん",
+        "ひきおとし"
+      ],
+      "correctAnswer": 3,
+      "explanation": "引き落とし → ひきおとし"
+    },
+    {
+      "id": 121,
+      "questionType": "sentence",
+      "question": "『せっせと』ning ma'nosi qaysi?",
+      "word": "せっせと",
+      "choices": [
+        "qishloq",
+        "anovi",
+        "astoydil, qattiq",
+        "yetib bormoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せっせと → astoydil, qattiq"
+    },
+    {
+      "id": 122,
+      "questionType": "word",
+      "question": "『xavfsizlik qo'ng'irog'i』ning yaponcha ifodasi qaysi?",
+      "word": "防犯ベル",
+      "choices": [
+        "防犯ベル",
+        "飼い主",
+        "高くつく",
+        "鍛える"
+      ],
+      "correctAnswer": 0,
+      "explanation": "xavfsizlik qo'ng'irog'i → 防犯ベル"
+    },
+    {
+      "id": 123,
+      "questionType": "reading",
+      "question": "『年収』ning o'qilishi qaysi?",
+      "word": "年収",
+      "choices": [
+        "わがまち",
+        "ねんしゅう",
+        "めぐまれる",
+        "むきあう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "年収 → ねんしゅう"
+    },
+    {
+      "id": 124,
+      "questionType": "word",
+      "question": "『xavfsizlik kamerasi』ning yaponcha ifodasi qaysi?",
+      "word": "防犯カメラ",
+      "choices": [
+        "野外",
+        "思いやり",
+        "防犯カメラ",
+        "大幅な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "xavfsizlik kamerasi → 防犯カメラ"
+    },
+    {
+      "id": 125,
+      "questionType": "reading",
+      "question": "『手数料』ning o'qilishi qaysi?",
+      "word": "手数料",
+      "choices": [
+        "おもいやり",
+        "はらいこむ",
+        "おちこむ",
+        "てすうりょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "手数料 → てすうりょう"
+    },
+    {
+      "id": 126,
+      "questionType": "word",
+      "question": "『baquvvat, mustahkam』ning yaponcha ifodasi qaysi?",
+      "word": "頑丈な",
+      "choices": [
+        "多岐にわたる",
+        "対策する",
+        "頑丈な",
+        "物足りない"
+      ],
+      "correctAnswer": 2,
+      "explanation": "baquvvat, mustahkam → 頑丈な"
+    },
+    {
+      "id": 127,
+      "questionType": "word",
+      "question": "『juda oz, atigi』ning yaponcha ifodasi qaysi?",
+      "word": "ごくわずか",
+      "choices": [
+        "赤字",
+        "口実",
+        "ごくわずか",
+        "解決策"
+      ],
+      "correctAnswer": 2,
+      "explanation": "juda oz, atigi → ごくわずか"
+    },
+    {
+      "id": 128,
+      "questionType": "sentence",
+      "question": "『防犯ベル』ning ma'nosi qaysi?",
+      "word": "防犯ベル",
+      "choices": [
+        "xavfsizlik qo'ng'irog'i",
+        "atom elektr",
+        "og'zi bo'sh (sir saqlay olmaydigan)",
+        "o'z ichiga olmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "防犯ベル → xavfsizlik qo'ng'irog'i"
+    },
+    {
+      "id": 129,
+      "questionType": "reading",
+      "question": "『警備員』ning o'qilishi qaysi?",
+      "word": "警備員",
+      "choices": [
+        "けいびいん",
+        "めいちょ",
+        "しぼうする",
+        "りょうかいする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "警備員 → けいびいん"
+    },
+    {
+      "id": 130,
+      "questionType": "kanji",
+      "question": "『あかじ』qaysi yozuvga mos?",
+      "word": "赤字",
+      "choices": [
+        "こそこそする",
+        "赤字",
+        "一軒家",
+        "俺"
+      ],
+      "correctAnswer": 1,
+      "explanation": "あかじ → 赤字"
+    },
+    {
+      "id": 131,
+      "questionType": "sentence",
+      "question": "『点検する』ning ma'nosi qaysi?",
+      "word": "点検する",
+      "choices": [
+        "ichib o'zini yomon his qilish",
+        "tekshirmoq, ko'zdan kechirmoq",
+        "yomon ta'sir",
+        "kechirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "点検する → tekshirmoq, ko'zdan kechirmoq"
+    },
+    {
+      "id": 132,
+      "questionType": "sentence",
+      "question": "『引き落とす』ning ma'nosi qaysi?",
+      "word": "引き落とす",
+      "choices": [
+        "ochofat, yeyishga o'ch",
+        "qarz olmoq",
+        "kamtarona, sodda",
+        "pul yechmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "引き落とす → pul yechmoq"
+    },
+    {
+      "id": 133,
+      "questionType": "reading",
+      "question": "『収入』ning o'qilishi qaysi?",
+      "word": "収入",
+      "choices": [
+        "こころあたり",
+        "げんさくしゃ",
+        "しゅうにゅう",
+        "おおはばな"
+      ],
+      "correctAnswer": 2,
+      "explanation": "収入 → しゅうにゅう"
+    },
+    {
+      "id": 134,
+      "questionType": "word",
+      "question": "『to'xtatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "併せる",
+      "choices": [
+        "併せる",
+        "知識",
+        "候補",
+        "ちらりと"
+      ],
+      "correctAnswer": 0,
+      "explanation": "to'xtatmoq → 併せる"
+    },
+    {
+      "id": 135,
+      "questionType": "kanji",
+      "question": "『ふりこむ』qaysi yozuvga mos?",
+      "word": "振り込む",
+      "choices": [
+        "出し入れ",
+        "愛する",
+        "妊婦",
+        "振り込む"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ふりこむ → 振り込む"
+    },
+    {
+      "id": 136,
+      "questionType": "reading",
+      "question": "『物音』ning o'qilishi qaysi?",
+      "word": "物音",
+      "choices": [
+        "がい",
+        "ものおと",
+        "こうがくれき",
+        "ホラ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "物音 → ものおと"
+    },
+    {
+      "id": 137,
+      "questionType": "word",
+      "question": "『qo'rqinchli his qilish』ning yaponcha ifodasi qaysi?",
+      "word": "そっとする",
+      "choices": [
+        "くどい",
+        "励む",
+        "印象",
+        "そっとする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qo'rqinchli his qilish → そっとする"
+    },
+    {
+      "id": 138,
+      "questionType": "meaning",
+      "question": "『新築する』ning ma'nosi qaysi?",
+      "word": "新築する",
+      "choices": [
+        "o'rniga to'lab turmoq",
+        "yangi qurmoq; yangi qurilgan (bino)",
+        "falokat/ ofat",
+        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "新築する → yangi qurmoq; yangi qurilgan (bino)"
+    },
+    {
+      "id": 139,
+      "questionType": "word",
+      "question": "『o'z ichiga olmoq』ning yaponcha ifodasi qaysi?",
+      "word": "含む",
+      "choices": [
+        "含む",
+        "補助する",
+        "低次元",
+        "そっとする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "o'z ichiga olmoq → 含む"
+    },
+    {
+      "id": 140,
+      "questionType": "kanji",
+      "question": "『やすくつく』qaysi yozuvga mos?",
+      "word": "安くつく",
+      "choices": [
+        "短縮する",
+        "頼りにする",
+        "呼び出す",
+        "安くつく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "やすくつく → 安くつく"
+    },
+    {
+      "id": 141,
+      "questionType": "meaning",
+      "question": "『払い込む』ning ma'nosi qaysi?",
+      "word": "払い込む",
+      "choices": [
+        "kam mablag'",
+        "mos kelmoq",
+        "urmoq, musht tushirmoq",
+        "to'lab qo'ymoq (hisobga, bankomatda)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "払い込む → to'lab qo'ymoq (hisobga, bankomatda)"
+    },
+    {
+      "id": 142,
+      "questionType": "kanji",
+      "question": "『せっせと』qaysi yozuvga mos?",
+      "word": "せっせと",
+      "choices": [
+        "尊重する",
+        "折りたたみ傘",
+        "せっせと",
+        "懐かしい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せっせと → せっせと"
+    },
+    {
+      "id": 143,
+      "questionType": "word",
+      "question": "『xarajat, chiqim』ning yaponcha ifodasi qaysi?",
+      "word": "支出",
+      "choices": [
+        "聡明な",
+        "支出",
+        "物音",
+        "高〜"
+      ],
+      "correctAnswer": 1,
+      "explanation": "xarajat, chiqim → 支出"
+    },
+    {
+      "id": 144,
+      "questionType": "reading",
+      "question": "『大金』ning o'qilishi qaysi?",
+      "word": "大金",
+      "choices": [
+        "じつりょく",
+        "たいきん",
+        "どういする",
+        "ペア"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大金 → たいきん"
+    },
+    {
+      "id": 145,
+      "questionType": "meaning",
+      "question": "『含める』ning ma'nosi qaysi?",
+      "word": "含める",
+      "choices": [
+        "hajm, miqdor; 2. ovoz balandligi",
+        "qisqartirish, kamaytirish",
+        "kamsitmoq",
+        "qo'shmoq, kiritmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "含める → qo'shmoq, kiritmoq"
+    },
+    {
+      "id": 146,
+      "questionType": "kanji",
+      "question": "『がんじょうな』qaysi yozuvga mos?",
+      "word": "頑丈な",
+      "choices": [
+        "一人暮らし",
+        "愛する",
+        "励む",
+        "頑丈な"
+      ],
+      "correctAnswer": 3,
+      "explanation": "がんじょうな → 頑丈な"
+    },
+    {
+      "id": 147,
+      "questionType": "sentence",
+      "question": "『そっとする』ning ma'nosi qaysi?",
+      "word": "そっとする",
+      "choices": [
+        "urmoq",
+        "erkalanmoq",
+        "taxminiy, umumiy",
+        "qo'rqinchli his qilish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "そっとする → qo'rqinchli his qilish"
+    },
+    {
+      "id": 148,
+      "questionType": "sentence",
+      "question": "『警備する』ning ma'nosi qaysi?",
+      "word": "警備する",
+      "choices": [
+        "qo'riqlamoq",
+        "qo'riqchi",
+        "atayin, ovora bo'lib",
+        "brend (nomlari)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "警備する → qo'riqlamoq"
+    },
+    {
+      "id": 149,
+      "questionType": "word",
+      "question": "『to'xtatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "併せる",
+      "choices": [
+        "カーディガン",
+        "併せる",
+        "禁句",
+        "都市開発"
+      ],
+      "correctAnswer": 1,
+      "explanation": "to'xtatmoq → 併せる"
+    },
+    {
+      "id": 150,
+      "questionType": "word",
+      "question": "『soliq』ning yaponcha ifodasi qaysi?",
+      "word": "税金",
+      "choices": [
+        "税金",
+        "普段",
+        "ホラ",
+        "高学年"
+      ],
+      "correctAnswer": 0,
+      "explanation": "soliq → 税金"
+    },
+    {
+      "id": 151,
+      "questionType": "word",
+      "question": "『kamomad, zarar; 2. qizil bilan belgilangan joylar (xatolar)』ning yaponcha ifodasi qaysi?",
+      "word": "赤字",
+      "choices": [
+        "勘定",
+        "赤字",
+        "蜂",
+        "おしゃべりする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kamomad, zarar; 2. qizil bilan belgilangan joylar (xatolar) → 赤字"
+    },
+    {
+      "id": 152,
+      "questionType": "reading",
+      "question": "『せっせと』ning o'qilishi qaysi?",
+      "word": "せっせと",
+      "choices": [
+        "こうじんぶつ",
+        "せっせと",
+        "らんぼうな",
+        "つくづくと"
+      ],
+      "correctAnswer": 1,
+      "explanation": "せっせと → せっせと"
+    },
+    {
+      "id": 153,
+      "questionType": "kanji",
+      "question": "『おさめる』qaysi yozuvga mos?",
+      "word": "納める",
+      "choices": [
+        "大金",
+        "うらむ",
+        "納める",
+        "好き嫌い"
+      ],
+      "correctAnswer": 2,
+      "explanation": "おさめる → 納める"
+    },
+    {
+      "id": 154,
+      "questionType": "meaning",
+      "question": "『出費する』ning ma'nosi qaysi?",
+      "word": "出費する",
+      "choices": [
+        "xarajat",
+        "bezovta bo'lish",
+        "xudbin, o'zboshimcha",
+        "atom elektr"
+      ],
+      "correctAnswer": 0,
+      "explanation": "出費する → xarajat"
+    },
+    {
+      "id": 155,
+      "questionType": "kanji",
+      "question": "『はらいこむ』qaysi yozuvga mos?",
+      "word": "払い込む",
+      "choices": [
+        "同士",
+        "豊富な",
+        "払い込む",
+        "株価"
+      ],
+      "correctAnswer": 2,
+      "explanation": "はらいこむ → 払い込む"
+    },
+    {
+      "id": 156,
+      "questionType": "kanji",
+      "question": "『ふくむ』qaysi yozuvga mos?",
+      "word": "含む",
+      "choices": [
+        "悪趣味",
+        "ファミリーレストラン",
+        "養育費",
+        "含む"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ふくむ → 含む"
+    },
+    {
+      "id": 157,
+      "questionType": "kanji",
+      "question": "『てんけんする』qaysi yozuvga mos?",
+      "word": "点検する",
+      "choices": [
+        "残高",
+        "わざわざ",
+        "点検する",
+        "手すり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てんけんする → 点検する"
+    },
+    {
+      "id": 158,
+      "questionType": "word",
+      "question": "『avtomatik yechib olish (hisobdan)』ning yaponcha ifodasi qaysi?",
+      "word": "引き落とし",
+      "choices": [
+        "右に出る者はいない",
+        "強化する",
+        "引き落とし",
+        "久しい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "avtomatik yechib olish (hisobdan) → 引き落とし"
+    },
+    {
+      "id": 159,
+      "questionType": "kanji",
+      "question": "『ぜいきん』qaysi yozuvga mos?",
+      "word": "税金",
+      "choices": [
+        "言い出す",
+        "税金",
+        "あだ名",
+        "友達同士"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ぜいきん → 税金"
+    },
+    {
+      "id": 160,
+      "questionType": "meaning",
+      "question": "『そっとする』ning ma'nosi qaysi?",
+      "word": "そっとする",
+      "choices": [
+        "balandlik farqi (pog'ona, ostona)",
+        "qo'rqinchli his qilish",
+        "nahotki, kutilmaganda",
+        "o'zaro, bir biriga"
+      ],
+      "correctAnswer": 1,
+      "explanation": "そっとする → qo'rqinchli his qilish"
+    },
+    {
+      "id": 161,
+      "questionType": "reading",
+      "question": "『支出』ning o'qilishi qaysi?",
+      "word": "支出",
+      "choices": [
+        "うながす",
+        "ちょくせつ",
+        "ししゅつ",
+        "どうき"
+      ],
+      "correctAnswer": 2,
+      "explanation": "支出 → ししゅつ"
+    },
+    {
+      "id": 162,
+      "questionType": "meaning",
+      "question": "『新築する』ning ma'nosi qaysi?",
+      "word": "新築する",
+      "choices": [
+        "yangi qurmoq; yangi qurilgan (bino)",
+        "tanishuv kechasi (yigit-qizlar davrasi)",
+        "yollamoq, qabul e'lon qilmoq",
+        "boshqarmoq (nazorat qilish)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "新築する → yangi qurmoq; yangi qurilgan (bino)"
+    },
+    {
+      "id": 163,
+      "questionType": "kanji",
+      "question": "『しゅうにゅう』qaysi yozuvga mos?",
+      "word": "収入",
+      "choices": [
+        "警備員",
+        "収入",
+        "親元",
+        "目が覚める"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しゅうにゅう → 収入"
+    },
+    {
+      "id": 164,
+      "questionType": "word",
+      "question": "『qoldiq balans』ning yaponcha ifodasi qaysi?",
+      "word": "残高",
+      "choices": [
+        "残高",
+        "好き嫌い",
+        "信頼する",
+        "土砂降り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qoldiq balans → 残高"
+    },
+    {
+      "id": 165,
+      "questionType": "word",
+      "question": "『ovoz』ning yaponcha ifodasi qaysi?",
+      "word": "物音",
+      "choices": [
+        "幹事",
+        "勘違いする",
+        "物音",
+        "出産する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ovoz → 物音"
+    },
+    {
+      "id": 166,
+      "questionType": "word",
+      "question": "『to'lab qo'ymoq (hisobga, bankomatda)』ning yaponcha ifodasi qaysi?",
+      "word": "払い込む",
+      "choices": [
+        "迷惑行為",
+        "充実する",
+        "けなす",
+        "払い込む"
+      ],
+      "correctAnswer": 3,
+      "explanation": "to'lab qo'ymoq (hisobga, bankomatda) → 払い込む"
+    },
+    {
+      "id": 167,
+      "questionType": "meaning",
+      "question": "『築年数』ning ma'nosi qaysi?",
+      "word": "築年数",
+      "choices": [
+        "kuyov",
+        "boshqarmoq",
+        "bino yoshi",
+        "yetib kelmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "築年数 → bino yoshi"
+    },
+    {
+      "id": 168,
+      "questionType": "meaning",
+      "question": "『高くつく』ning ma'nosi qaysi?",
+      "word": "高くつく",
+      "choices": [
+        "xursandchilik qichqiriqlari",
+        "qimmatga tushmoq",
+        "ozor bermoq, jarohatlamoq",
+        "faxrli, g'ururli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "高くつく → qimmatga tushmoq"
+    },
+    {
+      "id": 169,
+      "questionType": "sentence",
+      "question": "『出費する』ning ma'nosi qaysi?",
+      "word": "出費する",
+      "choices": [
+        "do'konlar ko'chasi, savdo maydoni",
+        "ko'nmoq, tushunib rozi bo'lmoq",
+        "tuni bilan uxlamaslik",
+        "xarajat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "出費する → xarajat"
+    },
+    {
+      "id": 170,
+      "questionType": "reading",
+      "question": "『防犯』ning o'qilishi qaysi?",
+      "word": "防犯",
+      "choices": [
+        "ぼうはん",
+        "どういする",
+        "ユニークな",
+        "こうきあつ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "防犯 → ぼうはん"
+    },
+    {
+      "id": 171,
+      "questionType": "reading",
+      "question": "『頑丈な』ning o'qilishi qaysi?",
+      "word": "頑丈な",
+      "choices": [
+        "せだい",
+        "さいかいする",
+        "がんじょうな",
+        "しゅうバス"
+      ],
+      "correctAnswer": 2,
+      "explanation": "頑丈な → がんじょうな"
+    },
+    {
+      "id": 172,
+      "questionType": "reading",
+      "question": "『併せる』ning o'qilishi qaysi?",
+      "word": "併せる",
+      "choices": [
+        "ものおと",
+        "めいじん",
+        "あわせる",
+        "あくしゅみ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "併せる → あわせる"
+    },
+    {
+      "id": 173,
+      "questionType": "reading",
+      "question": "『大金』ning o'qilishi qaysi?",
+      "word": "大金",
+      "choices": [
+        "どうせ",
+        "たいきん",
+        "どうき",
+        "かいがんせん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大金 → たいきん"
+    },
+    {
+      "id": 174,
+      "questionType": "word",
+      "question": "『o'z ichiga olmoq』ning yaponcha ifodasi qaysi?",
+      "word": "含む",
+      "choices": [
+        "同僚",
+        "住居費",
+        "含む",
+        "妊婦"
+      ],
+      "correctAnswer": 2,
+      "explanation": "o'z ichiga olmoq → 含む"
+    },
+    {
+      "id": 175,
+      "questionType": "meaning",
+      "question": "『収入』ning ma'nosi qaysi?",
+      "word": "収入",
+      "choices": [
+        "daromad, kirim",
+        "zerikib qolmoq, bezmoq",
+        "aql tish",
+        "ombor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "収入 → daromad, kirim"
+    },
+    {
+      "id": 176,
+      "questionType": "kanji",
+      "question": "『ぼうはん』qaysi yozuvga mos?",
+      "word": "防犯",
+      "choices": [
+        "息を切らす",
+        "伝統",
+        "防犯",
+        "ネットワーク"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぼうはん → 防犯"
+    },
+    {
+      "id": 177,
+      "questionType": "sentence",
+      "question": "『せいぜい』ning ma'nosi qaysi?",
+      "word": "せいぜい",
+      "choices": [
+        "a'zo to'lovi",
+        "qo'lga kiritish",
+        "mening uyim",
+        "eng ko'pi bilan; oxirigacha, kuching yetgancha"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せいぜい → eng ko'pi bilan; oxirigacha, kuching yetgancha"
+    },
+    {
+      "id": 178,
+      "questionType": "meaning",
+      "question": "『税金』ning ma'nosi qaysi?",
+      "word": "税金",
+      "choices": [
+        "zarar",
+        "yuqori qon bosimi",
+        "soliq",
+        "yechilmoq; erimoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "税金 → soliq"
+    },
+    {
+      "id": 179,
+      "questionType": "reading",
+      "question": "『払い込む』ning o'qilishi qaysi?",
+      "word": "払い込む",
+      "choices": [
+        "しぼうする",
+        "おもいやり",
+        "はらいこむ",
+        "かくへいき"
+      ],
+      "correctAnswer": 2,
+      "explanation": "払い込む → はらいこむ"
+    },
+    {
+      "id": 180,
+      "questionType": "reading",
+      "question": "『出費する』ning o'qilishi qaysi?",
+      "word": "出費する",
+      "choices": [
+        "しゅっぴする",
+        "ちる",
+        "おおまかな",
+        "うながす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "出費する → しゅっぴする"
+    },
+    {
+      "id": 181,
+      "questionType": "meaning",
+      "question": "『物音』ning ma'nosi qaysi?",
+      "word": "物音",
+      "choices": [
+        "mehmon qilmoq",
+        "tushunib rozi bo'lmoq, qanoatlanmoq",
+        "ovoz",
+        "bog'dorchilik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "物音 → ovoz"
+    },
+    {
+      "id": 182,
+      "questionType": "reading",
+      "question": "『残高』ning o'qilishi qaysi?",
+      "word": "残高",
+      "choices": [
+        "かしかりする",
+        "たいくつな",
+        "うらむ",
+        "ざんだか"
+      ],
+      "correctAnswer": 3,
+      "explanation": "残高 → ざんだか"
+    },
+    {
+      "id": 183,
+      "questionType": "kanji",
+      "question": "『てすうりょう』qaysi yozuvga mos?",
+      "word": "手数料",
+      "choices": [
+        "好物",
+        "手数料",
+        "一軒家",
+        "低レベル"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てすうりょう → 手数料"
+    },
+    {
+      "id": 184,
+      "questionType": "kanji",
+      "question": "『しゅっぴする』qaysi yozuvga mos?",
+      "word": "出費する",
+      "choices": [
+        "定時",
+        "右に出る者はいない",
+        "出費する",
+        "そっとする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しゅっぴする → 出費する"
+    }
+  ]
+}

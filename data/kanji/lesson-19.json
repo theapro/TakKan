@@ -1,0 +1,96 @@
+{
+    "title": "Lesson 19",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "症",
+          "reading": "しょう",
+          "meaning": "kasallik, alomat",
+          "onyomi": "ショウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "重症", "reading": "じゅうしょう", "meaning": "og'ir kasallik" },
+          { "id": 2, "word": "軽症", "reading": "けいしょう", "meaning": "yengil kasallik" },
+          { "id": 3, "word": "炎症を起こす", "reading": "えんしょうをおこす", "meaning": "yallig'lantirmoq" },
+          { "id": 4, "word": "けがの後遺症", "reading": "けがのこういしょう", "meaning": "shikastlanish oqibati" },
+          { "id": 5, "word": "症候群", "reading": "しょうこうぐん", "meaning": "sindrom" },
+          { "id": 6, "word": "風邪の症状", "reading": "かぜのしょうじょう", "meaning": "shamollash alomati" },
+          { "id": 7, "word": "命に別状はない", "reading": "いのちにべつじょうはない", "meaning": "hayot alomati yo'q (vafot etdi)" },
+          { "id": 8, "word": "賞状", "reading": "しょうじょう", "meaning": "faxriy yorliq" },
+          { "id": 9, "word": "礼状", "reading": "れいじょう", "meaning": "minnatdorchilik, minnatdorchilik xati" },
+          { "id": 10, "word": "形状", "reading": "けいじょう", "meaning": "shakl" },
+          { "id": 11, "word": "白状する", "reading": "はくじょうする", "meaning": "iqror bo'lmoq" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "因",
+          "reading": "いん",
+          "meaning": "sabab",
+          "onyomi": "イン",
+          "kunyomi": "よ(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "地震に因る被害", "reading": "じしんによるひがい", "meaning": "zilzila sabab bo'lgan falokat" },
+          { "id": 2, "word": "病気の原因", "reading": "びょうきのげんいん", "meaning": "kasallik sababi" },
+          { "id": 3, "word": "死因", "reading": "しいん", "meaning": "o'lim sababi" },
+          { "id": 4, "word": "因果関係", "reading": "いんがかんけい", "meaning": "sabab va oqibat munosabati" },
+          { "id": 5, "word": "因縁", "reading": "いんねん", "meaning": "taqdir" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "況",
+          "reading": "きょう",
+          "meaning": "holat, vaziyat",
+          "onyomi": "キョウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "状況が一変する", "reading": "じょうきょうがいっぺんする", "meaning": "vaziyat o'zgarishi" },
+          { "id": 2, "word": "近況", "reading": "きんきょう", "meaning": "hozirgi holat" },
+          { "id": 3, "word": "実況中継", "reading": "じっきょうちゅうけい", "meaning": "jonli efir" },
+          { "id": 4, "word": "不況", "reading": "ふきょう", "meaning": "turg'unlik" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "態",
+          "reading": "たい",
+          "meaning": "holat, ko'rinish",
+          "onyomi": "タイ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "態度が悪い", "reading": "たいどがわるい", "meaning": "yomon munosabat" },
+          { "id": 2, "word": "緊急事態", "reading": "きんきゅうじたい", "meaning": "favqulotda vaziyat" },
+          { "id": 3, "word": "容態が急変する", "reading": "ようだいがきゅうへんする", "meaning": "holat (sog'likni) keskin o'zgarishi" },
+          { "id": 4, "word": "植物の生態調査", "reading": "しょくぶつのせいたいちょうさ", "meaning": "o'simlikni ekologik tekshiruv" },
+          { "id": 5, "word": "受け入れ態勢", "reading": "うけいれたいせい", "meaning": "qabul qilish pozitsiyasi" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "圧",
+          "reading": "あつ",
+          "meaning": "bosim",
+          "onyomi": "アツ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "血圧を測る", "reading": "けつあつをはかる", "meaning": "qon bosimin o'lchash" },
+          { "id": 2, "word": "低血圧", "reading": "ていけつあつ", "meaning": "past qon bosimi" },
+          { "id": 3, "word": "高気圧", "reading": "こうきあつ", "meaning": "yuqori bosim" },
+          { "id": 4, "word": "圧力", "reading": "あつりょく", "meaning": "bosim" },
+          { "id": 5, "word": "圧倒的な", "reading": "あっとうてきな", "meaning": "haddan tashqari" },
+          { "id": 6, "word": "圧勝", "reading": "あっしょう", "meaning": "katta g'alaba" }
+        ]
+      }
+    ]
+  }

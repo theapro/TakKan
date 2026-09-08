@@ -1,0 +1,2051 @@
+{
+  "title": "Lesson 17 Test",
+  "type": "goi",
+  "lesson": "lesson-17",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "reading",
+      "question": "『そわそわする』ning o'qilishi qaysi?",
+      "word": "そわそわする",
+      "choices": [
+        "こうけつあつ",
+        "そわそわする",
+        "さける",
+        "やしなう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "そわそわする → そわそわする"
+    },
+    {
+      "id": 2,
+      "questionType": "kanji",
+      "question": "『しぼうする』qaysi yozuvga mos?",
+      "word": "志望する",
+      "choices": [
+        "会費",
+        "ボリューム",
+        "住居費",
+        "志望する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しぼうする → 志望する"
+    },
+    {
+      "id": 3,
+      "questionType": "reading",
+      "question": "『定時』ning o'qilishi qaysi?",
+      "word": "定時",
+      "choices": [
+        "ていじ",
+        "フルコース",
+        "げんさくしゃ",
+        "あくえいきょう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "定時 → ていじ"
+    },
+    {
+      "id": 4,
+      "questionType": "sentence",
+      "question": "『コメディアン』ning ma'nosi qaysi?",
+      "word": "コメディアン",
+      "choices": [
+        "qarshilik qilmoq, qarshi bormoq",
+        "ko'mak qilmoq",
+        "kulgi ustasi",
+        "endi (endi kech ma'nosida)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "コメディアン → kulgi ustasi"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『bo'sh』ning yaponcha ifodasi qaysi?",
+      "word": "空っぽな",
+      "choices": [
+        "行為",
+        "空っぽな",
+        "甘やかす",
+        "友人達"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bo'sh → 空っぽな"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『げんさくしゃ』qaysi yozuvga mos?",
+      "word": "原作者",
+      "choices": [
+        "残高",
+        "原作者",
+        "築年数",
+        "職場"
+      ],
+      "correctAnswer": 1,
+      "explanation": "げんさくしゃ → 原作者"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『どうりょう』qaysi yozuvga mos?",
+      "word": "同僚",
+      "choices": [
+        "納得する",
+        "[〜を]結び付ける",
+        "同僚",
+        "洗面所"
+      ],
+      "correctAnswer": 2,
+      "explanation": "どうりょう → 同僚"
+    },
+    {
+      "id": 8,
+      "questionType": "reading",
+      "question": "『促す』ning o'qilishi qaysi?",
+      "word": "促す",
+      "choices": [
+        "はげます",
+        "うちあける",
+        "わがや",
+        "うながす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "促す → うながす"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
+      "question": "『志望する』ning ma'nosi qaysi?",
+      "word": "志望する",
+      "choices": [
+        "cheklamoq",
+        "istak bildirmoq, (o'qish, ishga) intilmoq",
+        "bezovta bo'lish",
+        "zerikib qolmoq, bezmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "志望する → istak bildirmoq, (o'qish, ishga) intilmoq"
+    },
+    {
+      "id": 10,
+      "questionType": "word",
+      "question": "『ovqat pishirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "調理する",
+      "choices": [
+        "管理する",
+        "調理する",
+        "書面",
+        "残高"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ovqat pishirmoq → 調理する"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『tashxis qo'yish』ning yaponcha ifodasi qaysi?",
+      "word": "診断する",
+      "choices": [
+        "認める",
+        "診断する",
+        "折りたたみ傘",
+        "フルコース"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tashxis qo'yish → 診断する"
+    },
+    {
+      "id": 12,
+      "questionType": "kanji",
+      "question": "『しんろうしんぷ』qaysi yozuvga mos?",
+      "word": "新郎新婦",
+      "choices": [
+        "介護する",
+        "覚え",
+        "新郎新婦",
+        "ファミリーレストラン"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しんろうしんぷ → 新郎新婦"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『yuzida ifoda etmoq; xayolga keltirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "浮かべる",
+      "choices": [
+        "秘密",
+        "浮かべる",
+        "おかげ",
+        "無口な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yuzida ifoda etmoq; xayolga keltirmoq → 浮かべる"
+    },
+    {
+      "id": 14,
+      "questionType": "reading",
+      "question": "『乱暴な』ning o'qilishi qaysi?",
+      "word": "乱暴な",
+      "choices": [
+        "プロポーズする",
+        "ちゅういほう",
+        "こそこそする",
+        "らんぼうな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "乱暴な → らんぼうな"
+    },
+    {
+      "id": 15,
+      "questionType": "meaning",
+      "question": "『浮かべる』ning ma'nosi qaysi?",
+      "word": "浮かべる",
+      "choices": [
+        "xavotirlanmoq, tashvishlanmoq",
+        "omadsiz",
+        "yuzida ifoda etmoq; xayolga keltirmoq",
+        "suhbatlashmoq, dil so'zlashmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "浮かべる → yuzida ifoda etmoq; xayolga keltirmoq"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『してん』qaysi yozuvga mos?",
+      "word": "視点",
+      "choices": [
+        "我が家",
+        "視点",
+        "頼る",
+        "病状"
+      ],
+      "correctAnswer": 1,
+      "explanation": "してん → 視点"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『からっぽな』qaysi yozuvga mos?",
+      "word": "空っぽな",
+      "choices": [
+        "けなす",
+        "決心",
+        "空っぽな",
+        "仲良し"
+      ],
+      "correctAnswer": 2,
+      "explanation": "からっぽな → 空っぽな"
+    },
+    {
+      "id": 18,
+      "questionType": "sentence",
+      "question": "『了解する』ning ma'nosi qaysi?",
+      "word": "了解する",
+      "choices": [
+        "osmonni bulut qoplamoq",
+        "do'kondan o'g'irlik qilmoq (bildirmay olib chiqish)",
+        "rozilik bildirmoq, tushunib qabul qilmoq",
+        "dan ko'ra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "了解する → rozilik bildirmoq, tushunib qabul qilmoq"
+    },
+    {
+      "id": 19,
+      "questionType": "word",
+      "question": "『siyosat』ning yaponcha ifodasi qaysi?",
+      "word": "政策",
+      "choices": [
+        "盛り上がる",
+        "政策",
+        "勘違いする",
+        "出し入れ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "siyosat → 政策"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『してん』qaysi yozuvga mos?",
+      "word": "視点",
+      "choices": [
+        "あえて",
+        "コンパ",
+        "操作する",
+        "視点"
+      ],
+      "correctAnswer": 3,
+      "explanation": "してん → 視点"
+    },
+    {
+      "id": 21,
+      "questionType": "kanji",
+      "question": "『ようぎしゃ』qaysi yozuvga mos?",
+      "word": "容疑者",
+      "choices": [
+        "容疑者",
+        "一気に",
+        "歓声",
+        "印象"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ようぎしゃ → 容疑者"
+    },
+    {
+      "id": 22,
+      "questionType": "meaning",
+      "question": "『誇らしい』ning ma'nosi qaysi?",
+      "word": "誇らしい",
+      "choices": [
+        "xarajat, chiqim",
+        "faxrli, g'ururli",
+        "keng qamrovli",
+        "ustidan kulish, mazax qilish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "誇らしい → faxrli, g'ururli"
+    },
+    {
+      "id": 23,
+      "questionType": "reading",
+      "question": "『処罰する』ning o'qilishi qaysi?",
+      "word": "処罰する",
+      "choices": [
+        "あくじゅんかん",
+        "よびとめる",
+        "ねんしゅう",
+        "しょばつする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "処罰する → しょばつする"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『かかえる』qaysi yozuvga mos?",
+      "word": "抱える",
+      "choices": [
+        "抱える",
+        "一気に",
+        "集中力",
+        "解決する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かかえる → 抱える"
+    },
+    {
+      "id": 25,
+      "questionType": "reading",
+      "question": "『視点』ning o'qilishi qaysi?",
+      "word": "視点",
+      "choices": [
+        "しつど",
+        "してん",
+        "ちんたいじゅうたく",
+        "なみだをながす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "視点 → してん"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『せいさく』qaysi yozuvga mos?",
+      "word": "政策",
+      "choices": [
+        "政策",
+        "投票する",
+        "ばらす",
+        "時間を指す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せいさく → 政策"
+    },
+    {
+      "id": 27,
+      "questionType": "sentence",
+      "question": "『マスコミ』ning ma'nosi qaysi?",
+      "word": "マスコミ",
+      "choices": [
+        "tahlil (xulosa) yig'ilishi",
+        "kuchaytirish",
+        "xayolga keladigan narsa, taxmin",
+        "ommaviy axborot vositalari"
+      ],
+      "correctAnswer": 3,
+      "explanation": "マスコミ → ommaviy axborot vositalari"
+    },
+    {
+      "id": 28,
+      "questionType": "meaning",
+      "question": "『抱える』ning ma'nosi qaysi?",
+      "word": "抱える",
+      "choices": [
+        "usta, daho",
+        "oziq-ovqat xarajati",
+        "ko'tarib turmoq; (muammo, stressni) ichida saqlamoq",
+        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "抱える → ko'tarib turmoq; (muammo, stressni) ichida saqlamoq"
+    },
+    {
+      "id": 29,
+      "questionType": "word",
+      "question": "『ovqat pishirmoq』ning yaponcha ifodasi qaysi?",
+      "word": "調理する",
+      "choices": [
+        "調理する",
+        "励ます",
+        "鍛える",
+        "台無し"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ovqat pishirmoq → 調理する"
+    },
+    {
+      "id": 30,
+      "questionType": "meaning",
+      "question": "『マスコミ』ning ma'nosi qaysi?",
+      "word": "マスコミ",
+      "choices": [
+        "atigi, bor-yo'g'i",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
+        "ommaviy axborot vositalari",
+        "buyurtma bermoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "マスコミ → ommaviy axborot vositalari"
+    },
+    {
+      "id": 31,
+      "questionType": "word",
+      "question": "『belgilangan vaqt』ning yaponcha ifodasi qaysi?",
+      "word": "定時",
+      "choices": [
+        "一家団らん",
+        "低予算",
+        "友達同士",
+        "定時"
+      ],
+      "correctAnswer": 3,
+      "explanation": "belgilangan vaqt → 定時"
+    },
+    {
+      "id": 32,
+      "questionType": "word",
+      "question": "『qo'pol』ning yaponcha ifodasi qaysi?",
+      "word": "乱暴な",
+      "choices": [
+        "乱暴な",
+        "廃止する",
+        "手すり",
+        "せいぜい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qo'pol → 乱暴な"
+    },
+    {
+      "id": 33,
+      "questionType": "meaning",
+      "question": "『息を切らす』ning ma'nosi qaysi?",
+      "word": "息を切らす",
+      "choices": [
+        "norozilik bildirmoq",
+        "buyurtma bermoq",
+        "nafasi qisilib qolmoq",
+        "pichingli, istehzoli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "息を切らす → nafasi qisilib qolmoq"
+    },
+    {
+      "id": 34,
+      "questionType": "word",
+      "question": "『nuqtai nazar』ning yaponcha ifodasi qaysi?",
+      "word": "視点",
+      "choices": [
+        "ひとたび",
+        "視点",
+        "魅力的な",
+        "独立する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "nuqtai nazar → 視点"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『くだす』qaysi yozuvga mos?",
+      "word": "下す",
+      "choices": [
+        "土砂降り",
+        "司会する",
+        "下す",
+        "決勝戦"
+      ],
+      "correctAnswer": 2,
+      "explanation": "くだす → 下す"
+    },
+    {
+      "id": 36,
+      "questionType": "meaning",
+      "question": "『乱暴な』ning ma'nosi qaysi?",
+      "word": "乱暴な",
+      "choices": [
+        "qo'pol",
+        "yangi qurmoq; yangi qurilgan (bino)",
+        "yengib o'tmoq/boshdan kechirmoq",
+        "tush payti (soat 12)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "乱暴な → qo'pol"
+    },
+    {
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『うかべる』qaysi yozuvga mos?",
+      "word": "浮かべる",
+      "choices": [
+        "浮かべる",
+        "賃貸",
+        "見つめる",
+        "株価"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うかべる → 浮かべる"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『定時』ning o'qilishi qaysi?",
+      "word": "定時",
+      "choices": [
+        "がい",
+        "ていじ",
+        "やくめ",
+        "さんふじんか"
+      ],
+      "correctAnswer": 1,
+      "explanation": "定時 → ていじ"
+    },
+    {
+      "id": 39,
+      "questionType": "word",
+      "question": "『faxrli, g'ururli』ning yaponcha ifodasi qaysi?",
+      "word": "誇らしい",
+      "choices": [
+        "誇らしい",
+        "雑な",
+        "崩れる",
+        "だまる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "faxrli, g'ururli → 誇らしい"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『せいさく』qaysi yozuvga mos?",
+      "word": "政策",
+      "choices": [
+        "口実",
+        "指導する",
+        "独立する",
+        "政策"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せいさく → 政策"
+    },
+    {
+      "id": 41,
+      "questionType": "meaning",
+      "question": "『志望する』ning ma'nosi qaysi?",
+      "word": "志望する",
+      "choices": [
+        "yupatmoq",
+        "suhbatlashmoq, dil so'zlashmoq",
+        "mehnat qilmoq",
+        "istak bildirmoq, (o'qish, ishga) intilmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "志望する → istak bildirmoq, (o'qish, ishga) intilmoq"
+    },
+    {
+      "id": 42,
+      "questionType": "reading",
+      "question": "『原作者』ning o'qilishi qaysi?",
+      "word": "原作者",
+      "choices": [
+        "げんさくしゃ",
+        "せだい",
+        "きたえる",
+        "たよりにする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "原作者 → げんさくしゃ"
+    },
+    {
+      "id": 43,
+      "questionType": "word",
+      "question": "『baquvvat, mahkam』ning yaponcha ifodasi qaysi?",
+      "word": "がっしりと",
+      "choices": [
+        "がっしりと",
+        "徹夜する",
+        "似顔絵",
+        "土砂降り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "baquvvat, mahkam → がっしりと"
+    },
+    {
+      "id": 44,
+      "questionType": "meaning",
+      "question": "『新郎新婦』ning ma'nosi qaysi?",
+      "word": "新郎新婦",
+      "choices": [
+        "tarmoq; aloqalar tarmog'i",
+        "uyg'onmoq (ko'zi ochilmoq)",
+        "kuyov va kelin",
+        "ochiq havoda, tabiatda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "新郎新婦 → kuyov va kelin"
+    },
+    {
+      "id": 45,
+      "questionType": "meaning",
+      "question": "『同僚』ning ma'nosi qaysi?",
+      "word": "同僚",
+      "choices": [
+        "hamkasb",
+        "amalga oshmoq (orzu)",
+        "ish tashlash",
+        "qoida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "同僚 → hamkasb"
+    },
+    {
+      "id": 46,
+      "questionType": "meaning",
+      "question": "『処罰する』ning ma'nosi qaysi?",
+      "word": "処罰する",
+      "choices": [
+        "ovoz",
+        "ozor bermoq, jarohatlamoq",
+        "jazolamoq",
+        "homilador ayol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "処罰する → jazolamoq"
+    },
+    {
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『コメディアン』qaysi yozuvga mos?",
+      "word": "コメディアン",
+      "choices": [
+        "コメディアン",
+        "ただ今",
+        "名医",
+        "関連する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "コメディアン → コメディアン"
+    },
+    {
+      "id": 48,
+      "questionType": "reading",
+      "question": "『抱える』ning o'qilishi qaysi?",
+      "word": "抱える",
+      "choices": [
+        "にくまん",
+        "せいさんする",
+        "かかえる",
+        "てすり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "抱える → かかえる"
+    },
+    {
+      "id": 49,
+      "questionType": "sentence",
+      "question": "『処罰する』ning ma'nosi qaysi?",
+      "word": "処罰する",
+      "choices": [
+        "jazolamoq",
+        "buklanadigan soyabon",
+        "xavotirlanmoq, tashvishlanmoq",
+        "jinoyat sodir qilish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "処罰する → jazolamoq"
+    },
+    {
+      "id": 50,
+      "questionType": "word",
+      "question": "『baquvvat, mahkam』ning yaponcha ifodasi qaysi?",
+      "word": "がっしりと",
+      "choices": [
+        "いわば",
+        "審判",
+        "がっしりと",
+        "養う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "baquvvat, mahkam → がっしりと"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『げんさくしゃ』qaysi yozuvga mos?",
+      "word": "原作者",
+      "choices": [
+        "探る",
+        "蚊",
+        "原作者",
+        "頼る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "げんさくしゃ → 原作者"
+    },
+    {
+      "id": 52,
+      "questionType": "word",
+      "question": "『kulgi ustasi』ning yaponcha ifodasi qaysi?",
+      "word": "コメディアン",
+      "choices": [
+        "知らないふり",
+        "コメディアン",
+        "処罰する",
+        "手数料"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kulgi ustasi → コメディアン"
+    },
+    {
+      "id": 53,
+      "questionType": "meaning",
+      "question": "『下す』ning ma'nosi qaysi?",
+      "word": "下す",
+      "choices": [
+        "qaror chiqarmoq",
+        "o'quv haqi",
+        "nahotki, kutilmaganda",
+        "suyanmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "下す → qaror chiqarmoq"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『かかえる』qaysi yozuvga mos?",
+      "word": "抱える",
+      "choices": [
+        "心当たりのない",
+        "赤字",
+        "併せる",
+        "抱える"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かかえる → 抱える"
+    },
+    {
+      "id": 55,
+      "questionType": "sentence",
+      "question": "『浮かべる』ning ma'nosi qaysi?",
+      "word": "浮かべる",
+      "choices": [
+        "aloqa qilmoq (onlayn)",
+        "mening uyim",
+        "yuzida ifoda etmoq; xayolga keltirmoq",
+        "jim, kam gapiradigan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "浮かべる → yuzida ifoda etmoq; xayolga keltirmoq"
+    },
+    {
+      "id": 56,
+      "questionType": "meaning",
+      "question": "『そわそわする』ning ma'nosi qaysi?",
+      "word": "そわそわする",
+      "choices": [
+        "odatda, kundalik",
+        "pul qo'yish va yechish",
+        "yuqori daromad",
+        "bezovta bo'lish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "そわそわする → bezovta bo'lish"
+    },
+    {
+      "id": 57,
+      "questionType": "reading",
+      "question": "『抱える』ning o'qilishi qaysi?",
+      "word": "抱える",
+      "choices": [
+        "かかえる",
+        "はち",
+        "せっする",
+        "うけつぐ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "抱える → かかえる"
+    },
+    {
+      "id": 58,
+      "questionType": "sentence",
+      "question": "『診断する』ning ma'nosi qaysi?",
+      "word": "診断する",
+      "choices": [
+        "o'ylamasdan qilingan, rahmsiz",
+        "g'arbga qaragan",
+        "tashxis qo'yish",
+        "yomon hazil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "診断する → tashxis qo'yish"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『同僚』ning o'qilishi qaysi?",
+      "word": "同僚",
+      "choices": [
+        "そうだんにのる",
+        "オーダーする",
+        "どうりょう",
+        "こういんしょう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "同僚 → どうりょう"
+    },
+    {
+      "id": 60,
+      "questionType": "meaning",
+      "question": "『同僚』ning ma'nosi qaysi?",
+      "word": "同僚",
+      "choices": [
+        "hamkasb",
+        "alohida (xususiy) hovlili uy",
+        "qo'l ostida",
+        "farzand ko'rganlik tabrigi, sovg'asi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "同僚 → hamkasb"
+    },
+    {
+      "id": 61,
+      "questionType": "kanji",
+      "question": "『どうりょう』qaysi yozuvga mos?",
+      "word": "同僚",
+      "choices": [
+        "差し引く",
+        "スムーズな",
+        "同僚",
+        "甘え"
+      ],
+      "correctAnswer": 2,
+      "explanation": "どうりょう → 同僚"
+    },
+    {
+      "id": 62,
+      "questionType": "word",
+      "question": "『undamoq』ning yaponcha ifodasi qaysi?",
+      "word": "促す",
+      "choices": [
+        "好人物",
+        "管理する",
+        "促す",
+        "企業"
+      ],
+      "correctAnswer": 2,
+      "explanation": "undamoq → 促す"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『調理する』ning o'qilishi qaysi?",
+      "word": "調理する",
+      "choices": [
+        "しんきゅうする",
+        "かこ",
+        "ちょうりする",
+        "さくせいする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "調理する → ちょうりする"
+    },
+    {
+      "id": 64,
+      "questionType": "sentence",
+      "question": "『新郎新婦』ning ma'nosi qaysi?",
+      "word": "新郎新婦",
+      "choices": [
+        "pastga qaramoq",
+        "kuyov va kelin",
+        "do'stlar",
+        "kamtarona (tutgan holat)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "新郎新婦 → kuyov va kelin"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『うながす』qaysi yozuvga mos?",
+      "word": "促す",
+      "choices": [
+        "調理する",
+        "促す",
+        "高くつく",
+        "舌"
+      ],
+      "correctAnswer": 1,
+      "explanation": "うながす → 促す"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『いきをきらす』qaysi yozuvga mos?",
+      "word": "息を切らす",
+      "choices": [
+        "一軒家",
+        "思いやる",
+        "息を切らす",
+        "得な"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いきをきらす → 息を切らす"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『しんろうしんぷ』qaysi yozuvga mos?",
+      "word": "新郎新婦",
+      "choices": [
+        "あきれる",
+        "結びつく",
+        "新郎新婦",
+        "賃貸住宅"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しんろうしんぷ → 新郎新婦"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『ようぎしゃ』qaysi yozuvga mos?",
+      "word": "容疑者",
+      "choices": [
+        "説得する",
+        "スムーズな",
+        "拍手する",
+        "容疑者"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ようぎしゃ → 容疑者"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『乱暴な』ning o'qilishi qaysi?",
+      "word": "乱暴な",
+      "choices": [
+        "らんぼうな",
+        "ボリューム",
+        "なかよし",
+        "たいしん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "乱暴な → らんぼうな"
+    },
+    {
+      "id": 70,
+      "questionType": "word",
+      "question": "『ko'tarib turmoq; (muammo, stressni) ichida saqlamoq』ning yaponcha ifodasi qaysi?",
+      "word": "抱える",
+      "choices": [
+        "税金",
+        "抱える",
+        "好成績",
+        "赤字"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ko'tarib turmoq; (muammo, stressni) ichida saqlamoq → 抱える"
+    },
+    {
+      "id": 71,
+      "questionType": "sentence",
+      "question": "『空っぽな』ning ma'nosi qaysi?",
+      "word": "空っぽな",
+      "choices": [
+        "to'lamoq",
+        "mashhur kuy",
+        "bo'sh",
+        "qarzni qaytarmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "空っぽな → bo'sh"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『gumondor』ning yaponcha ifodasi qaysi?",
+      "word": "容疑者",
+      "choices": [
+        "説得する",
+        "容疑者",
+        "教育費",
+        "輝く"
+      ],
+      "correctAnswer": 1,
+      "explanation": "gumondor → 容疑者"
+    },
+    {
+      "id": 73,
+      "questionType": "word",
+      "question": "『rozilik bildirmoq, tushunib qabul qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "了解する",
+      "choices": [
+        "伝統",
+        "労働する",
+        "了解する",
+        "手前"
+      ],
+      "correctAnswer": 2,
+      "explanation": "rozilik bildirmoq, tushunib qabul qilmoq → 了解する"
+    },
+    {
+      "id": 74,
+      "questionType": "word",
+      "question": "『asl muallif』ning yaponcha ifodasi qaysi?",
+      "word": "原作者",
+      "choices": [
+        "原作者",
+        "間取り",
+        "肉まん",
+        "管理する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "asl muallif → 原作者"
+    },
+    {
+      "id": 75,
+      "questionType": "word",
+      "question": "『bo'sh』ning yaponcha ifodasi qaysi?",
+      "word": "空っぽな",
+      "choices": [
+        "低血圧",
+        "空っぽな",
+        "含める",
+        "短縮する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bo'sh → 空っぽな"
+    },
+    {
+      "id": 76,
+      "questionType": "kanji",
+      "question": "『しんだんする』qaysi yozuvga mos?",
+      "word": "診断する",
+      "choices": [
+        "響く",
+        "再会する",
+        "診断する",
+        "一人住まい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しんだんする → 診断する"
+    },
+    {
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『促す』ning ma'nosi qaysi?",
+      "word": "促す",
+      "choices": [
+        "undamoq",
+        "to'g'ridan to'g'ri, bilvosita",
+        "meros qilib olmoq, qabul qilib olmoq",
+        "dastidan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "促す → undamoq"
+    },
+    {
+      "id": 78,
+      "questionType": "word",
+      "question": "『siyosat』ning yaponcha ifodasi qaysi?",
+      "word": "政策",
+      "choices": [
+        "政策",
+        "実力",
+        "せい",
+        "梨"
+      ],
+      "correctAnswer": 0,
+      "explanation": "siyosat → 政策"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『しょばつする』qaysi yozuvga mos?",
+      "word": "処罰する",
+      "choices": [
+        "人件費",
+        "処罰する",
+        "魅力的な",
+        "得な"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しょばつする → 処罰する"
+    },
+    {
+      "id": 80,
+      "questionType": "reading",
+      "question": "『政策』ning o'qilishi qaysi?",
+      "word": "政策",
+      "choices": [
+        "はげます",
+        "せいさく",
+        "あくてんこう",
+        "してん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "政策 → せいさく"
+    },
+    {
+      "id": 81,
+      "questionType": "reading",
+      "question": "『鍛える』ning o'qilishi qaysi?",
+      "word": "鍛える",
+      "choices": [
+        "きたえる",
+        "せいかつひ",
+        "めいあん",
+        "さからう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "鍛える → きたえる"
+    },
+    {
+      "id": 82,
+      "questionType": "kanji",
+      "question": "『りょうかいする』qaysi yozuvga mos?",
+      "word": "了解する",
+      "choices": [
+        "高血圧",
+        "当たり前",
+        "物置",
+        "了解する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "りょうかいする → 了解する"
+    },
+    {
+      "id": 83,
+      "questionType": "reading",
+      "question": "『マスコミ』ning o'qilishi qaysi?",
+      "word": "マスコミ",
+      "choices": [
+        "めがさめる",
+        "ふあんていな",
+        "マスコミ",
+        "しつける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "マスコミ → マスコミ"
+    },
+    {
+      "id": 84,
+      "questionType": "reading",
+      "question": "『息を切らす』ning o'qilishi qaysi?",
+      "word": "息を切らす",
+      "choices": [
+        "いやみな",
+        "いきをきらす",
+        "ぼうはん",
+        "のりきる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "息を切らす → いきをきらす"
+    },
+    {
+      "id": 85,
+      "questionType": "kanji",
+      "question": "『ちょうりする』qaysi yozuvga mos?",
+      "word": "調理する",
+      "choices": [
+        "大いに",
+        "頼りにする",
+        "調理する",
+        "役目"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちょうりする → 調理する"
+    },
+    {
+      "id": 86,
+      "questionType": "word",
+      "question": "『belgilangan vaqt』ning yaponcha ifodasi qaysi?",
+      "word": "定時",
+      "choices": [
+        "治安",
+        "尊重する",
+        "傷つける",
+        "定時"
+      ],
+      "correctAnswer": 3,
+      "explanation": "belgilangan vaqt → 定時"
+    },
+    {
+      "id": 87,
+      "questionType": "reading",
+      "question": "『空っぽな』ning o'qilishi qaysi?",
+      "word": "空っぽな",
+      "choices": [
+        "からっぽな",
+        "しんらいする",
+        "はんせいする",
+        "うつす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "空っぽな → からっぽな"
+    },
+    {
+      "id": 88,
+      "questionType": "reading",
+      "question": "『下す』ning o'qilishi qaysi?",
+      "word": "下す",
+      "choices": [
+        "きのうせい",
+        "がい",
+        "くだす",
+        "ゆうじん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "下す → くだす"
+    },
+    {
+      "id": 89,
+      "questionType": "reading",
+      "question": "『視点』ning o'qilishi qaysi?",
+      "word": "視点",
+      "choices": [
+        "してん",
+        "やがい",
+        "しんきゅうする",
+        "いっかだんらん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "視点 → してん"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『ほこらしい』qaysi yozuvga mos?",
+      "word": "誇らしい",
+      "choices": [
+        "他人同士",
+        "誇らしい",
+        "接する",
+        "勘定"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ほこらしい → 誇らしい"
+    },
+    {
+      "id": 91,
+      "questionType": "meaning",
+      "question": "『下す』ning ma'nosi qaysi?",
+      "word": "下す",
+      "choices": [
+        "shoh asar",
+        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
+        "qaror chiqarmoq",
+        "hudud (davlat hududi)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "下す → qaror chiqarmoq"
+    },
+    {
+      "id": 92,
+      "questionType": "word",
+      "question": "『gumondor』ning yaponcha ifodasi qaysi?",
+      "word": "容疑者",
+      "choices": [
+        "発着する",
+        "一口",
+        "容疑者",
+        "せい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "gumondor → 容疑者"
+    },
+    {
+      "id": 93,
+      "questionType": "reading",
+      "question": "『誇らしい』ning o'qilishi qaysi?",
+      "word": "誇らしい",
+      "choices": [
+        "ざつな",
+        "ほこらしい",
+        "めいが",
+        "しょばつする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "誇らしい → ほこらしい"
+    },
+    {
+      "id": 94,
+      "questionType": "kanji",
+      "question": "『そわそわする』qaysi yozuvga mos?",
+      "word": "そわそわする",
+      "choices": [
+        "手数料",
+        "出身",
+        "そわそわする",
+        "とっさに"
+      ],
+      "correctAnswer": 2,
+      "explanation": "そわそわする → そわそわする"
+    },
+    {
+      "id": 95,
+      "questionType": "reading",
+      "question": "『下す』ning o'qilishi qaysi?",
+      "word": "下す",
+      "choices": [
+        "かいひ",
+        "てんけんする",
+        "かじる",
+        "くだす"
+      ],
+      "correctAnswer": 3,
+      "explanation": "下す → くだす"
+    },
+    {
+      "id": 96,
+      "questionType": "sentence",
+      "question": "『誇らしい』ning ma'nosi qaysi?",
+      "word": "誇らしい",
+      "choices": [
+        "shubhasiz shunday deb o'ylagan edim (aslida unday emas)",
+        "faxrli, g'ururli",
+        "keskin, qat'iy",
+        "uy egasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "誇らしい → faxrli, g'ururli"
+    },
+    {
+      "id": 97,
+      "questionType": "meaning",
+      "question": "『処罰する』ning ma'nosi qaysi?",
+      "word": "処罰する",
+      "choices": [
+        "charaqlamoq",
+        "yashirincha",
+        "chuqur",
+        "jazolamoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "処罰する → jazolamoq"
+    },
+    {
+      "id": 98,
+      "questionType": "sentence",
+      "question": "『がっしりと』ning ma'nosi qaysi?",
+      "word": "がっしりと",
+      "choices": [
+        "o'tmish",
+        "tishlamoq, g'ajimoq",
+        "bino yoshi",
+        "baquvvat, mahkam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "がっしりと → baquvvat, mahkam"
+    },
+    {
+      "id": 99,
+      "questionType": "kanji",
+      "question": "『うながす』qaysi yozuvga mos?",
+      "word": "促す",
+      "choices": [
+        "定時",
+        "促す",
+        "指導する",
+        "せっせと"
+      ],
+      "correctAnswer": 1,
+      "explanation": "うながす → 促す"
+    },
+    {
+      "id": 100,
+      "questionType": "meaning",
+      "question": "『視点』ning ma'nosi qaysi?",
+      "word": "視点",
+      "choices": [
+        "yuqori (atmosfera) bosim(i)",
+        "nuqtai nazar",
+        "qarash, ko'z qarashi",
+        "hisob-kitob, taxminiy narx"
+      ],
+      "correctAnswer": 1,
+      "explanation": "視点 → nuqtai nazar"
+    },
+    {
+      "id": 101,
+      "questionType": "reading",
+      "question": "『政策』ning o'qilishi qaysi?",
+      "word": "政策",
+      "choices": [
+        "せいさく",
+        "コメディアン",
+        "たどりつく",
+        "しめす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "政策 → せいさく"
+    },
+    {
+      "id": 102,
+      "questionType": "kanji",
+      "question": "『しぼうする』qaysi yozuvga mos?",
+      "word": "志望する",
+      "choices": [
+        "注意報",
+        "志望する",
+        "更新する",
+        "会費"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しぼうする → 志望する"
+    },
+    {
+      "id": 103,
+      "questionType": "meaning",
+      "question": "『新郎新婦』ning ma'nosi qaysi?",
+      "word": "新郎新婦",
+      "choices": [
+        "iroda, qat'iy niyat",
+        "kuyov va kelin",
+        "anchadan beri, ko'rishmaganiga ancha bo'ldi",
+        "qayta uchrashmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "新郎新婦 → kuyov va kelin"
+    },
+    {
+      "id": 104,
+      "questionType": "word",
+      "question": "『rozilik bildirmoq, tushunib qabul qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "了解する",
+      "choices": [
+        "副作用",
+        "了解する",
+        "たどり着く",
+        "今さら"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rozilik bildirmoq, tushunib qabul qilmoq → 了解する"
+    },
+    {
+      "id": 105,
+      "questionType": "reading",
+      "question": "『がっしりと』ning o'qilishi qaysi?",
+      "word": "がっしりと",
+      "choices": [
+        "じさんする",
+        "なし",
+        "がっしりと",
+        "みつめる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "がっしりと → がっしりと"
+    },
+    {
+      "id": 106,
+      "questionType": "reading",
+      "question": "『容疑者』ning o'qilishi qaysi?",
+      "word": "容疑者",
+      "choices": [
+        "きっぱり",
+        "ようぎしゃ",
+        "カンニングする",
+        "くずれる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "容疑者 → ようぎしゃ"
+    },
+    {
+      "id": 107,
+      "questionType": "kanji",
+      "question": "『らんぼうな』qaysi yozuvga mos?",
+      "word": "乱暴な",
+      "choices": [
+        "乱暴な",
+        "高学年",
+        "カーディガン",
+        "株価"
+      ],
+      "correctAnswer": 0,
+      "explanation": "らんぼうな → 乱暴な"
+    },
+    {
+      "id": 108,
+      "questionType": "word",
+      "question": "『asl muallif』ning yaponcha ifodasi qaysi?",
+      "word": "原作者",
+      "choices": [
+        "平気な",
+        "原作者",
+        "温もり",
+        "通信する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "asl muallif → 原作者"
+    },
+    {
+      "id": 109,
+      "questionType": "kanji",
+      "question": "『ちょうりする』qaysi yozuvga mos?",
+      "word": "調理する",
+      "choices": [
+        "調理する",
+        "バイキング",
+        "解決策",
+        "湿度"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちょうりする → 調理する"
+    },
+    {
+      "id": 110,
+      "questionType": "meaning",
+      "question": "『志望する』ning ma'nosi qaysi?",
+      "word": "志望する",
+      "choices": [
+        "istak bildirmoq, (o'qish, ishga) intilmoq",
+        "go'l, hayot tajribasi yo'q (odam)",
+        "bir qarash; el nigohi",
+        "baquvvat, mustahkam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "志望する → istak bildirmoq, (o'qish, ishga) intilmoq"
+    },
+    {
+      "id": 111,
+      "questionType": "kanji",
+      "question": "『しょばつする』qaysi yozuvga mos?",
+      "word": "処罰する",
+      "choices": [
+        "強化する",
+        "出身",
+        "処罰する",
+        "温もり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しょばつする → 処罰する"
+    },
+    {
+      "id": 112,
+      "questionType": "kanji",
+      "question": "『きたえる』qaysi yozuvga mos?",
+      "word": "鍛える",
+      "choices": [
+        "自立する",
+        "努める",
+        "鍛える",
+        "記憶"
+      ],
+      "correctAnswer": 2,
+      "explanation": "きたえる → 鍛える"
+    },
+    {
+      "id": 113,
+      "questionType": "kanji",
+      "question": "『くだす』qaysi yozuvga mos?",
+      "word": "下す",
+      "choices": [
+        "高くつく",
+        "議論する",
+        "下す",
+        "疑う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "くだす → 下す"
+    },
+    {
+      "id": 114,
+      "questionType": "reading",
+      "question": "『同僚』ning o'qilishi qaysi?",
+      "word": "同僚",
+      "choices": [
+        "めいわくこうい",
+        "はだ",
+        "しみじみ",
+        "どうりょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "同僚 → どうりょう"
+    },
+    {
+      "id": 115,
+      "questionType": "kanji",
+      "question": "『がっしりと』qaysi yozuvga mos?",
+      "word": "がっしりと",
+      "choices": [
+        "むしろ",
+        "がっしりと",
+        "害",
+        "大好物"
+      ],
+      "correctAnswer": 1,
+      "explanation": "がっしりと → がっしりと"
+    },
+    {
+      "id": 116,
+      "questionType": "kanji",
+      "question": "『マスコミ』qaysi yozuvga mos?",
+      "word": "マスコミ",
+      "choices": [
+        "似顔絵",
+        "打ち明ける",
+        "あくびする",
+        "マスコミ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "マスコミ → マスコミ"
+    },
+    {
+      "id": 117,
+      "questionType": "kanji",
+      "question": "『ていじ』qaysi yozuvga mos?",
+      "word": "定時",
+      "choices": [
+        "せい",
+        "手元",
+        "定時",
+        "洗面所"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ていじ → 定時"
+    },
+    {
+      "id": 118,
+      "questionType": "kanji",
+      "question": "『ていじ』qaysi yozuvga mos?",
+      "word": "定時",
+      "choices": [
+        "近所付き合い",
+        "施設",
+        "定時",
+        "語り合う"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ていじ → 定時"
+    },
+    {
+      "id": 119,
+      "questionType": "reading",
+      "question": "『容疑者』ning o'qilishi qaysi?",
+      "word": "容疑者",
+      "choices": [
+        "かかえる",
+        "せめる",
+        "ようぎしゃ",
+        "とっさに"
+      ],
+      "correctAnswer": 2,
+      "explanation": "容疑者 → ようぎしゃ"
+    },
+    {
+      "id": 120,
+      "questionType": "kanji",
+      "question": "『からっぽな』qaysi yozuvga mos?",
+      "word": "空っぽな",
+      "choices": [
+        "空っぽな",
+        "うらむ",
+        "大家",
+        "歓声"
+      ],
+      "correctAnswer": 0,
+      "explanation": "からっぽな → 空っぽな"
+    },
+    {
+      "id": 121,
+      "questionType": "word",
+      "question": "『chiniqtirmoq, mustahkamlash』ning yaponcha ifodasi qaysi?",
+      "word": "鍛える",
+      "choices": [
+        "手前",
+        "やつ",
+        "鍛える",
+        "いまさら"
+      ],
+      "correctAnswer": 2,
+      "explanation": "chiniqtirmoq, mustahkamlash → 鍛える"
+    },
+    {
+      "id": 122,
+      "questionType": "reading",
+      "question": "『志望する』ning o'qilishi qaysi?",
+      "word": "志望する",
+      "choices": [
+        "こそこそする",
+        "しぼうする",
+        "いっかだんらん",
+        "けつい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "志望する → しぼうする"
+    },
+    {
+      "id": 123,
+      "questionType": "kanji",
+      "question": "『しんだんする』qaysi yozuvga mos?",
+      "word": "診断する",
+      "choices": [
+        "わが町",
+        "候補",
+        "思いやり",
+        "診断する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しんだんする → 診断する"
+    },
+    {
+      "id": 124,
+      "questionType": "kanji",
+      "question": "『らんぼうな』qaysi yozuvga mos?",
+      "word": "乱暴な",
+      "choices": [
+        "乱暴な",
+        "税",
+        "そわそわする",
+        "知識"
+      ],
+      "correctAnswer": 0,
+      "explanation": "らんぼうな → 乱暴な"
+    },
+    {
+      "id": 125,
+      "questionType": "kanji",
+      "question": "『ほこらしい』qaysi yozuvga mos?",
+      "word": "誇らしい",
+      "choices": [
+        "誇らしい",
+        "口論する",
+        "ビュッフェ",
+        "名産"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ほこらしい → 誇らしい"
+    },
+    {
+      "id": 126,
+      "questionType": "reading",
+      "question": "『コメディアン』ning o'qilishi qaysi?",
+      "word": "コメディアン",
+      "choices": [
+        "がい",
+        "コメディアン",
+        "めがさめる",
+        "ひとりぐらし"
+      ],
+      "correctAnswer": 1,
+      "explanation": "コメディアン → コメディアン"
+    },
+    {
+      "id": 127,
+      "questionType": "sentence",
+      "question": "『そわそわする』ning ma'nosi qaysi?",
+      "word": "そわそわする",
+      "choices": [
+        "haqiqiy kuch, salohiyat",
+        "yoqtirgan narsa",
+        "sog'inch uyg'otadigan, eslashga arzigulik",
+        "bezovta bo'lish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "そわそわする → bezovta bo'lish"
+    },
+    {
+      "id": 128,
+      "questionType": "reading",
+      "question": "『新郎新婦』ning o'qilishi qaysi?",
+      "word": "新郎新婦",
+      "choices": [
+        "はらいこむ",
+        "あくえいきょう",
+        "くずれる",
+        "しんろうしんぷ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "新郎新婦 → しんろうしんぷ"
+    },
+    {
+      "id": 129,
+      "questionType": "kanji",
+      "question": "『りょうかいする』qaysi yozuvga mos?",
+      "word": "了解する",
+      "choices": [
+        "了解する",
+        "終電",
+        "口実",
+        "記憶"
+      ],
+      "correctAnswer": 0,
+      "explanation": "りょうかいする → 了解する"
+    },
+    {
+      "id": 130,
+      "questionType": "sentence",
+      "question": "『調理する』ning ma'nosi qaysi?",
+      "word": "調理する",
+      "choices": [
+        "ovqat pishirmoq",
+        "omadsiz",
+        "bekor qilmoq, tugatmoq",
+        "uzoq vaqt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "調理する → ovqat pishirmoq"
+    },
+    {
+      "id": 131,
+      "questionType": "word",
+      "question": "『bezovta bo'lish』ning yaponcha ifodasi qaysi?",
+      "word": "そわそわする",
+      "choices": [
+        "悪ふざけ",
+        "そわそわする",
+        "からかう",
+        "放っておく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bezovta bo'lish → そわそわする"
+    },
+    {
+      "id": 132,
+      "questionType": "reading",
+      "question": "『診断する』ning o'qilishi qaysi?",
+      "word": "診断する",
+      "choices": [
+        "ホームヘルパー",
+        "なぐさめる",
+        "はくしゅする",
+        "しんだんする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "診断する → しんだんする"
+    },
+    {
+      "id": 133,
+      "questionType": "meaning",
+      "question": "『鍛える』ning ma'nosi qaysi?",
+      "word": "鍛える",
+      "choices": [
+        "ko'pi, aksariyati",
+        "chiniqtirmoq, mustahkamlash",
+        "to'g'ridan to'g'ri",
+        "uy ijaraga olganda minnatdorlik puli (kalit puli ham deyiladi)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "鍛える → chiniqtirmoq, mustahkamlash"
+    },
+    {
+      "id": 134,
+      "questionType": "reading",
+      "question": "『原作者』ning o'qilishi qaysi?",
+      "word": "原作者",
+      "choices": [
+        "げんさくしゃ",
+        "いやみな",
+        "たてかえる",
+        "がくひ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "原作者 → げんさくしゃ"
+    },
+    {
+      "id": 135,
+      "questionType": "word",
+      "question": "『kulgi ustasi』ning yaponcha ifodasi qaysi?",
+      "word": "コメディアン",
+      "choices": [
+        "株価",
+        "コメディアン",
+        "高学歴",
+        "他人"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kulgi ustasi → コメディアン"
+    },
+    {
+      "id": 136,
+      "questionType": "word",
+      "question": "『nafasi qisilib qolmoq』ning yaponcha ifodasi qaysi?",
+      "word": "息を切らす",
+      "choices": [
+        "土砂降り",
+        "一人暮らし",
+        "息を切らす",
+        "差別する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "nafasi qisilib qolmoq → 息を切らす"
+    },
+    {
+      "id": 137,
+      "questionType": "word",
+      "question": "『tashxis qo'yish』ning yaponcha ifodasi qaysi?",
+      "word": "診断する",
+      "choices": [
+        "診断する",
+        "出身",
+        "礼金",
+        "折りたたみ傘"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tashxis qo'yish → 診断する"
+    },
+    {
+      "id": 138,
+      "questionType": "kanji",
+      "question": "『きたえる』qaysi yozuvga mos?",
+      "word": "鍛える",
+      "choices": [
+        "鍛える",
+        "書面",
+        "役目",
+        "友人達"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きたえる → 鍛える"
+    },
+    {
+      "id": 139,
+      "questionType": "kanji",
+      "question": "『マスコミ』qaysi yozuvga mos?",
+      "word": "マスコミ",
+      "choices": [
+        "梨",
+        "マスコミ",
+        "我が家",
+        "奥"
+      ],
+      "correctAnswer": 1,
+      "explanation": "マスコミ → マスコミ"
+    },
+    {
+      "id": 140,
+      "questionType": "reading",
+      "question": "『了解する』ning o'qilishi qaysi?",
+      "word": "了解する",
+      "choices": [
+        "はくしゅする",
+        "りょうかいする",
+        "はなよめ",
+        "まねく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "了解する → りょうかいする"
+    },
+    {
+      "id": 141,
+      "questionType": "reading",
+      "question": "『促す』ning o'qilishi qaysi?",
+      "word": "促す",
+      "choices": [
+        "うながす",
+        "あたりまえ",
+        "めいが",
+        "むきあう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "促す → うながす"
+    },
+    {
+      "id": 142,
+      "questionType": "sentence",
+      "question": "『息を切らす』ning ma'nosi qaysi?",
+      "word": "息を切らす",
+      "choices": [
+        "xavfsizlik qo'ng'irog'i",
+        "nafasi qisilib qolmoq",
+        "shahrimiz",
+        "mashhur rasm; mashhur film"
+      ],
+      "correctAnswer": 1,
+      "explanation": "息を切らす → nafasi qisilib qolmoq"
+    },
+    {
+      "id": 143,
+      "questionType": "kanji",
+      "question": "『うかべる』qaysi yozuvga mos?",
+      "word": "浮かべる",
+      "choices": [
+        "解決策",
+        "賃貸",
+        "浮かべる",
+        "警備する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "うかべる → 浮かべる"
+    },
+    {
+      "id": 144,
+      "questionType": "word",
+      "question": "『ommaviy axborot vositalari』ning yaponcha ifodasi qaysi?",
+      "word": "マスコミ",
+      "choices": [
+        "ありがたい",
+        "食費",
+        "マスコミ",
+        "悪趣味"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ommaviy axborot vositalari → マスコミ"
+    },
+    {
+      "id": 145,
+      "questionType": "reading",
+      "question": "『鍛える』ning o'qilishi qaysi?",
+      "word": "鍛える",
+      "choices": [
+        "おぼえ",
+        "ボリューム",
+        "ちらかる",
+        "きたえる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "鍛える → きたえる"
+    },
+    {
+      "id": 146,
+      "questionType": "reading",
+      "question": "『浮かべる』ning o'qilishi qaysi?",
+      "word": "浮かべる",
+      "choices": [
+        "ふうんな",
+        "きょういくひ",
+        "うかべる",
+        "でたらめな"
+      ],
+      "correctAnswer": 2,
+      "explanation": "浮かべる → うかべる"
+    }
+  ]
+}

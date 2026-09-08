@@ -1,0 +1,1589 @@
+{
+  "title": "Lesson 18 Test",
+  "type": "kanji",
+  "lesson": "lesson-18",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "word",
+      "question": "『oshqozon tahlili』ning yaponcha ifodasi qaysi?",
+      "word": "胃の検査",
+      "choices": [
+        "停",
+        "城",
+        "掃",
+        "胃の検査"
+      ],
+      "correctAnswer": 3,
+      "explanation": "oshqozon tahlili → 胃の検査"
+    },
+    {
+      "id": 2,
+      "questionType": "recognition",
+      "question": "『胃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胃腸薬",
+      "choices": [
+        "落ち葉を掃く",
+        "夜桜",
+        "胃腸薬",
+        "普段着"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃 → 胃腸薬"
+    },
+    {
+      "id": 3,
+      "questionType": "word",
+      "question": "『suyak』ning yaponcha ifodasi qaysi?",
+      "word": "骨",
+      "choices": [
+        "骨",
+        "空港",
+        "普通高校",
+        "札"
+      ],
+      "correctAnswer": 0,
+      "explanation": "suyak → 骨"
+    },
+    {
+      "id": 4,
+      "questionType": "word",
+      "question": "『qon rishtasi』ning yaponcha ifodasi qaysi?",
+      "word": "腹筋",
+      "choices": [
+        "後戻り",
+        "腹筋",
+        "甘",
+        "宗派"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qon rishtasi → 腹筋"
+    },
+    {
+      "id": 5,
+      "questionType": "recognition",
+      "question": "『脳』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "頭脳明晰",
+      "choices": [
+        "電車が込む",
+        "汚",
+        "布団を掛ける",
+        "頭脳明晰"
+      ],
+      "correctAnswer": 3,
+      "explanation": "脳 → 頭脳明晰"
+    },
+    {
+      "id": 6,
+      "questionType": "meaning",
+      "question": "『筋道を立てる』ning ma'nosi qaysi?",
+      "word": "筋道を立てる",
+      "choices": [
+        "jasur",
+        "ma'no bermoq",
+        "oylik chipta",
+        "hazm qildiruvchi dori"
+      ],
+      "correctAnswer": 1,
+      "explanation": "筋道を立てる → ma'no bermoq"
+    },
+    {
+      "id": 7,
+      "questionType": "kanji",
+      "question": "『いえん』qaysi yozuvga mos?",
+      "word": "胃炎",
+      "choices": [
+        "美容室",
+        "胃炎",
+        "大盛り",
+        "症候群"
+      ],
+      "correctAnswer": 1,
+      "explanation": "いえん → 胃炎"
+    },
+    {
+      "id": 8,
+      "questionType": "reading",
+      "question": "『節分』ning o'qilishi qaysi?",
+      "word": "節分",
+      "choices": [
+        "せつぶん",
+        "はいけい",
+        "いま",
+        "えんげき"
+      ],
+      "correctAnswer": 0,
+      "explanation": "節分 → せつぶん"
+    },
+    {
+      "id": 9,
+      "questionType": "meaning",
+      "question": "『頭脳明晰』ning ma'nosi qaysi?",
+      "word": "頭脳明晰",
+      "choices": [
+        "katta portsiya ovqat",
+        "yenni dollarga almashtirish",
+        "fikri tiniqlashish",
+        "maqsadni aniq qilib olish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "頭脳明晰 → fikri tiniqlashish"
+    },
+    {
+      "id": 10,
+      "questionType": "kanji",
+      "question": "『のうかがく』qaysi yozuvga mos?",
+      "word": "脳科学",
+      "choices": [
+        "峠を越す",
+        "意見を交換する",
+        "脳科学",
+        "標準"
+      ],
+      "correctAnswer": 2,
+      "explanation": "のうかがく → 脳科学"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『接骨院』ning o'qilishi qaysi?",
+      "word": "接骨院",
+      "choices": [
+        "ばい・うめ",
+        "せっこついん",
+        "せつぶん",
+        "なん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "接骨院 → せっこついん"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『oshqozon raki』ning yaponcha ifodasi qaysi?",
+      "word": "胃がん",
+      "choices": [
+        "姿",
+        "胃がん",
+        "電車が込む",
+        "百貨店"
+      ],
+      "correctAnswer": 1,
+      "explanation": "oshqozon raki → 胃がん"
+    },
+    {
+      "id": 13,
+      "questionType": "sentence",
+      "question": "『筋肉を鍛える』ning ma'nosi qaysi?",
+      "word": "筋肉を鍛える",
+      "choices": [
+        "qiyin kechmoq (ish, muzokara)",
+        "tungi sakura daraxti",
+        "muskul yig'ish",
+        "italiyada tayyorlangan tufli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "筋肉を鍛える → muskul yig'ish"
+    },
+    {
+      "id": 14,
+      "questionType": "recognition",
+      "question": "『臓』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "心臓",
+      "choices": [
+        "胸がどきどきする",
+        "落ち葉を掃く",
+        "心臓",
+        "健康的な生活"
+      ],
+      "correctAnswer": 2,
+      "explanation": "臓 → 心臓"
+    },
+    {
+      "id": 15,
+      "questionType": "recognition",
+      "question": "『胃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胃袋",
+      "choices": [
+        "普段着",
+        "命を授かる",
+        "命",
+        "胃袋"
+      ],
+      "correctAnswer": 3,
+      "explanation": "胃 → 胃袋"
+    },
+    {
+      "id": 16,
+      "questionType": "sentence",
+      "question": "『胃の検査』ning ma'nosi qaysi?",
+      "word": "胃の検査",
+      "choices": [
+        "turli maqsadda ishlatsa bo'ladigan",
+        "bo'g'im, fasl",
+        "oshqozon tahlili",
+        "farqli, boshqa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃の検査 → oshqozon tahlili"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『せつぶん』qaysi yozuvga mos?",
+      "word": "節分",
+      "choices": [
+        "郵",
+        "用途が広い",
+        "松ぼっくり",
+        "節分"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せつぶん → 節分"
+    },
+    {
+      "id": 18,
+      "questionType": "meaning",
+      "question": "『筋肉を鍛える』ning ma'nosi qaysi?",
+      "word": "筋肉を鍛える",
+      "choices": [
+        "yenlik banknota",
+        "vaqtinchalik, faraz",
+        "muskul yig'ish",
+        "kayfiyatni o'zgartirish, havo almashtirish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "筋肉を鍛える → muskul yig'ish"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『いぶくろ』qaysi yozuvga mos?",
+      "word": "胃袋",
+      "choices": [
+        "パーティーに招く",
+        "人生は甘くない",
+        "胃袋",
+        "暴力団を一掃する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いぶくろ → 胃袋"
+    },
+    {
+      "id": 20,
+      "questionType": "recognition",
+      "question": "『胃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胃痛がひどい",
+      "choices": [
+        "標",
+        "ねぎを刻む",
+        "胃痛がひどい",
+        "両方"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃 → 胃痛がひどい"
+    },
+    {
+      "id": 21,
+      "questionType": "word",
+      "question": "『hazm qildiruvchi dori』ning yaponcha ifodasi qaysi?",
+      "word": "胃腸薬",
+      "choices": [
+        "途中",
+        "盛大な",
+        "腹を割って話す",
+        "胃腸薬"
+      ],
+      "correctAnswer": 3,
+      "explanation": "hazm qildiruvchi dori → 胃腸薬"
+    },
+    {
+      "id": 22,
+      "questionType": "meaning",
+      "question": "『胃』ning ma'nosi qaysi?",
+      "word": "胃",
+      "choices": [
+        "oshqozon",
+        "hazm qildiruvchi dori",
+        "yuborish, jo'natish",
+        "rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胃 → oshqozon"
+    },
+    {
+      "id": 23,
+      "questionType": "sentence",
+      "question": "『脳の働き』ning ma'nosi qaysi?",
+      "word": "脳の働き",
+      "choices": [
+        "to'qima shikastlanishi",
+        "oshqozon tahlili",
+        "miya faoliyati",
+        "kelmaslik haqidagi xabarnoma (ariza)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "脳の働き → miya faoliyati"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『のう』qaysi yozuvga mos?",
+      "word": "脳",
+      "choices": [
+        "節",
+        "輸送する",
+        "因果関係",
+        "脳"
+      ],
+      "correctAnswer": 3,
+      "explanation": "のう → 脳"
+    },
+    {
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『季節』ning ma'nosi qaysi?",
+      "word": "季節",
+      "choices": [
+        "yelka, kurak",
+        "balki, ehtimol",
+        "pul almashtirish",
+        "fasl"
+      ],
+      "correctAnswer": 3,
+      "explanation": "季節 → fasl"
+    },
+    {
+      "id": 26,
+      "questionType": "meaning",
+      "question": "『臓器移植』ning ma'nosi qaysi?",
+      "word": "臓器移植",
+      "choices": [
+        "yashash xonasi (zal)",
+        "sezilarli (keskin) rivojlanish",
+        "aeroport",
+        "ichki organlarni ko'chirib o'tkazish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "臓器移植 → ichki organlarni ko'chirib o'tkazish"
+    },
+    {
+      "id": 27,
+      "questionType": "meaning",
+      "question": "『足の筋』ning ma'nosi qaysi?",
+      "word": "足の筋",
+      "choices": [
+        "yapon usulidagi bog'",
+        "kiyimga lag'monning sho'rvasi tegishi",
+        "kimono kiygan qiyofa",
+        "oyoq muskuli"
+      ],
+      "correctAnswer": 3,
+      "explanation": "足の筋 → oyoq muskuli"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『ほね』qaysi yozuvga mos?",
+      "word": "骨",
+      "choices": [
+        "背",
+        "命",
+        "骨",
+        "週刊誌"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ほね → 骨"
+    },
+    {
+      "id": 29,
+      "questionType": "recognition",
+      "question": "『筋』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "足の筋",
+      "choices": [
+        "運賃",
+        "足の筋",
+        "顔を背ける",
+        "道路標識"
+      ],
+      "correctAnswer": 1,
+      "explanation": "筋 → 足の筋"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『armature』ning yaponcha ifodasi qaysi?",
+      "word": "鉄筋",
+      "choices": [
+        "違",
+        "腕試し",
+        "鉄筋",
+        "療養中"
+      ],
+      "correctAnswer": 2,
+      "explanation": "armature → 鉄筋"
+    },
+    {
+      "id": 31,
+      "questionType": "meaning",
+      "question": "『脳の働き』ning ma'nosi qaysi?",
+      "word": "脳の働き",
+      "choices": [
+        "shartnoma, ahd",
+        "miya faoliyati",
+        "rivojlanish",
+        "ota-ona bilan birga yashamoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脳の働き → miya faoliyati"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『ぞうきいしょく』qaysi yozuvga mos?",
+      "word": "臓器移植",
+      "choices": [
+        "臓器移植",
+        "形状",
+        "お土産を届ける",
+        "腕組みをする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぞうきいしょく → 臓器移植"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『ぞう』qaysi yozuvga mos?",
+      "word": "臓",
+      "choices": [
+        "パーティーに招く",
+        "川の流域",
+        "臓",
+        "命を落とす"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ぞう → 臓"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『しんぞう』qaysi yozuvga mos?",
+      "word": "心臓",
+      "choices": [
+        "背を向ける",
+        "心臓",
+        "食堂",
+        "著名人"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しんぞう → 心臓"
+    },
+    {
+      "id": 35,
+      "questionType": "sentence",
+      "question": "『骨折する』ning ma'nosi qaysi?",
+      "word": "骨折する",
+      "choices": [
+        "ikki qo'l",
+        "bint o'ramoq",
+        "sinmoq (suyak)",
+        "kundalik yozib borish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "骨折する → sinmoq (suyak)"
+    },
+    {
+      "id": 36,
+      "questionType": "meaning",
+      "question": "『骨折する』ning ma'nosi qaysi?",
+      "word": "骨折する",
+      "choices": [
+        "rasm ko'rgazmasi",
+        "sinmoq (suyak)",
+        "yumshoq, og'izda erib ketadigan ovqat",
+        "sabab va oqibat munosabati"
+      ],
+      "correctAnswer": 1,
+      "explanation": "骨折する → sinmoq (suyak)"
+    },
+    {
+      "id": 37,
+      "questionType": "recognition",
+      "question": "『脳』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "脳の働き",
+      "choices": [
+        "私を含めて四人",
+        "発展途上国",
+        "脳の働き",
+        "誌"
+      ],
+      "correctAnswer": 2,
+      "explanation": "脳 → 脳の働き"
+    },
+    {
+      "id": 38,
+      "questionType": "sentence",
+      "question": "『脳裏に刻む』ning ma'nosi qaysi?",
+      "word": "脳裏に刻む",
+      "choices": [
+        "ongiga muhrlab qo'yish",
+        "bint o'ramoq",
+        "dinga ishonish",
+        "pulni qaytarib bermoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "脳裏に刻む → ongiga muhrlab qo'yish"
+    },
+    {
+      "id": 39,
+      "questionType": "reading",
+      "question": "『鉄筋』ning o'qilishi qaysi?",
+      "word": "鉄筋",
+      "choices": [
+        "とうちゃくする",
+        "いぬのくびわ",
+        "りょうようちゅう",
+        "てっきん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "鉄筋 → てっきん"
+    },
+    {
+      "id": 40,
+      "questionType": "word",
+      "question": "『rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv』ning yaponcha ifodasi qaysi?",
+      "word": "首脳会談",
+      "choices": [
+        "首脳会談",
+        "混乱",
+        "並",
+        "整理整頓"
+      ],
+      "correctAnswer": 0,
+      "explanation": "rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv → 首脳会談"
+    },
+    {
+      "id": 41,
+      "questionType": "kanji",
+      "question": "『ちすじ』qaysi yozuvga mos?",
+      "word": "血筋",
+      "choices": [
+        "峠を越す",
+        "雑音がする",
+        "背中",
+        "血筋"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ちすじ → 血筋"
+    },
+    {
+      "id": 42,
+      "questionType": "recognition",
+      "question": "『節』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "節分",
+      "choices": [
+        "契約をする",
+        "準備が整う",
+        "満腹",
+        "節分"
+      ],
+      "correctAnswer": 3,
+      "explanation": "節 → 節分"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『背筋』ning o'qilishi qaysi?",
+      "word": "背筋",
+      "choices": [
+        "せすじ",
+        "はらをきめる",
+        "ちゅうざい",
+        "けんとうをたたえる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "背筋 → せすじ"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『骨』ning o'qilishi qaysi?",
+      "word": "骨",
+      "choices": [
+        "きょう",
+        "こつ・ほね",
+        "ぜいこみ",
+        "ききをだっする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "骨 → こつ・ほね"
+    },
+    {
+      "id": 45,
+      "questionType": "reading",
+      "question": "『洗脳』ning o'qilishi qaysi?",
+      "word": "洗脳",
+      "choices": [
+        "ゆうびんがとどく",
+        "あまやかす",
+        "せんのう",
+        "てる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "洗脳 → せんのう"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『内臓』ning o'qilishi qaysi?",
+      "word": "内臓",
+      "choices": [
+        "ちがう",
+        "ないぞう",
+        "れいぞうこ",
+        "ぎょそん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "内臓 → ないぞう"
+    },
+    {
+      "id": 47,
+      "questionType": "word",
+      "question": "『bo'g'im, fasl』ning yaponcha ifodasi qaysi?",
+      "word": "節",
+      "choices": [
+        "心臓が停止する",
+        "服を脱ぐ",
+        "節",
+        "味が薄まる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "bo'g'im, fasl → 節"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
+      "question": "『ふっきん』qaysi yozuvga mos?",
+      "word": "腹筋",
+      "choices": [
+        "腹筋",
+        "展示する",
+        "重症",
+        "芳香剤"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ふっきん → 腹筋"
+    },
+    {
+      "id": 49,
+      "questionType": "sentence",
+      "question": "『臓器移植』ning ma'nosi qaysi?",
+      "word": "臓器移植",
+      "choices": [
+        "ichki organlarni ko'chirib o'tkazish",
+        "havo almashtirish",
+        "yumshoq ko'rpa",
+        "fikr almashish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "臓器移植 → ichki organlarni ko'chirib o'tkazish"
+    },
+    {
+      "id": 50,
+      "questionType": "kanji",
+      "question": "『ずのうめいせき』qaysi yozuvga mos?",
+      "word": "頭脳明晰",
+      "choices": [
+        "頭脳明晰",
+        "運転を替わる",
+        "問題用紙を配る",
+        "汁"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ずのうめいせき → 頭脳明晰"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『きせつ』qaysi yozuvga mos?",
+      "word": "季節",
+      "choices": [
+        "異",
+        "遅刻",
+        "臓器移植",
+        "季節"
+      ],
+      "correctAnswer": 3,
+      "explanation": "きせつ → 季節"
+    },
+    {
+      "id": 52,
+      "questionType": "recognition",
+      "question": "『筋』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "筋道を立てる",
+      "choices": [
+        "お見舞い",
+        "肩",
+        "炎症を起こす",
+        "筋道を立てる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "筋 → 筋道を立てる"
+    },
+    {
+      "id": 53,
+      "questionType": "word",
+      "question": "『oshqozon qopi』ning yaponcha ifodasi qaysi?",
+      "word": "胃袋",
+      "choices": [
+        "着物姿",
+        "両側",
+        "胃袋",
+        "純情な人"
+      ],
+      "correctAnswer": 2,
+      "explanation": "oshqozon qopi → 胃袋"
+    },
+    {
+      "id": 54,
+      "questionType": "word",
+      "question": "『ichki organ』ning yaponcha ifodasi qaysi?",
+      "word": "臓",
+      "choices": [
+        "骨の折れる仕事",
+        "違",
+        "パーティーに招く",
+        "臓"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ichki organ → 臓"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『こつ・ほね』qaysi yozuvga mos?",
+      "word": "骨",
+      "choices": [
+        "骨",
+        "小麦粉と卵を混ぜる",
+        "接骨院",
+        "製造年月日"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こつ・ほね → 骨"
+    },
+    {
+      "id": 56,
+      "questionType": "meaning",
+      "question": "『胃炎』ning ma'nosi qaysi?",
+      "word": "胃炎",
+      "choices": [
+        "suyak",
+        "in'om qilmoq, sadaqa bermoq",
+        "gastrit",
+        "kitobni pochta orqali yuborish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃炎 → gastrit"
+    },
+    {
+      "id": 57,
+      "questionType": "kanji",
+      "question": "『いちょうやく』qaysi yozuvga mos?",
+      "word": "胃腸薬",
+      "choices": [
+        "因",
+        "桜前線",
+        "イタリア製の靴",
+        "胃腸薬"
+      ],
+      "correctAnswer": 3,
+      "explanation": "いちょうやく → 胃腸薬"
+    },
+    {
+      "id": 58,
+      "questionType": "word",
+      "question": "『kuchli oshqozon og'rig'i』ning yaponcha ifodasi qaysi?",
+      "word": "胃痛がひどい",
+      "choices": [
+        "過ちを犯す",
+        "宝石",
+        "胃痛がひどい",
+        "新しいクラスに溶け込む"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kuchli oshqozon og'rig'i → 胃痛がひどい"
+    },
+    {
+      "id": 59,
+      "questionType": "meaning",
+      "question": "『脳』ning ma'nosi qaysi?",
+      "word": "脳",
+      "choices": [
+        "ko'rpa yopish",
+        "yopirilib kelmoq (buyurtmalar)",
+        "miya",
+        "ijaraga olingan ko'p qavatli uy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "脳 → miya"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『あしのすじ』qaysi yozuvga mos?",
+      "word": "足の筋",
+      "choices": [
+        "越",
+        "新製品",
+        "証券会社",
+        "足の筋"
+      ],
+      "correctAnswer": 3,
+      "explanation": "あしのすじ → 足の筋"
+    },
+    {
+      "id": 61,
+      "questionType": "reading",
+      "question": "『足の筋』ning o'qilishi qaysi?",
+      "word": "足の筋",
+      "choices": [
+        "あしのすじ",
+        "しゃりょう",
+        "どんぶり",
+        "ほしょうにん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "足の筋 → あしのすじ"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『筋』ning ma'nosi qaysi?",
+      "word": "筋",
+      "choices": [
+        "mil (strelka) tebranishi",
+        "muskul, tola",
+        "yomg'irlar mavsumi",
+        "yengiltak, mulohazasiz odam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "筋 → muskul, tola"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『胃がん』ning o'qilishi qaysi?",
+      "word": "胃がん",
+      "choices": [
+        "ふとんをかける",
+        "いがん",
+        "じしんによるひがい",
+        "いのちをさずかる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "胃がん → いがん"
+    },
+    {
+      "id": 64,
+      "questionType": "kanji",
+      "question": "『せつ』qaysi yozuvga mos?",
+      "word": "節",
+      "choices": [
+        "イタリア製の靴",
+        "靴が脱げる",
+        "内臓",
+        "節"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せつ → 節"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『yurak』ning yaponcha ifodasi qaysi?",
+      "word": "心臓",
+      "choices": [
+        "心臓",
+        "融通がきかない人",
+        "株券",
+        "著"
+      ],
+      "correctAnswer": 0,
+      "explanation": "yurak → 心臓"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『脳科学』ning o'qilishi qaysi?",
+      "word": "脳科学",
+      "choices": [
+        "みずであじをうすめる",
+        "のうかがく",
+        "いえん",
+        "し"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脳科学 → のうかがく"
+    },
+    {
+      "id": 67,
+      "questionType": "word",
+      "question": "『ortopediya klinikasi』ning yaponcha ifodasi qaysi?",
+      "word": "接骨院",
+      "choices": [
+        "胸を打つ",
+        "新聞配達",
+        "接骨院",
+        "標準"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ortopediya klinikasi → 接骨院"
+    },
+    {
+      "id": 68,
+      "questionType": "kanji",
+      "question": "『せすじ』qaysi yozuvga mos?",
+      "word": "背筋",
+      "choices": [
+        "堂々",
+        "城",
+        "背筋",
+        "並べる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せすじ → 背筋"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『血筋』ning o'qilishi qaysi?",
+      "word": "血筋",
+      "choices": [
+        "ちすじ",
+        "ぎょ・りょう",
+        "くら",
+        "こうしんりょう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "血筋 → ちすじ"
+    },
+    {
+      "id": 70,
+      "questionType": "recognition",
+      "question": "『骨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "骨の折れる仕事",
+      "choices": [
+        "骨の折れる仕事",
+        "仮の住まい",
+        "振",
+        "梅雨"
+      ],
+      "correctAnswer": 0,
+      "explanation": "骨 → 骨の折れる仕事"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『せぼね』qaysi yozuvga mos?",
+      "word": "背骨",
+      "choices": [
+        "雑音がする",
+        "荷物を詰め込む",
+        "展",
+        "背骨"
+      ],
+      "correctAnswer": 3,
+      "explanation": "せぼね → 背骨"
+    },
+    {
+      "id": 72,
+      "questionType": "reading",
+      "question": "『腹筋』ning o'qilishi qaysi?",
+      "word": "腹筋",
+      "choices": [
+        "むねがどきどきする",
+        "ふっきん",
+        "せっこついん",
+        "れいじょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腹筋 → ふっきん"
+    },
+    {
+      "id": 73,
+      "questionType": "reading",
+      "question": "『心臓』ning o'qilishi qaysi?",
+      "word": "心臓",
+      "choices": [
+        "かわせレート",
+        "めぐまれたせいかつ",
+        "しんぞう",
+        "はくじょうする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "心臓 → しんぞう"
+    },
+    {
+      "id": 74,
+      "questionType": "recognition",
+      "question": "『脳』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "脳科学",
+      "choices": [
+        "胸囲を測る",
+        "腹が立つ",
+        "脳科学",
+        "普"
+      ],
+      "correctAnswer": 2,
+      "explanation": "脳 → 脳科学"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『いのけんさ』qaysi yozuvga mos?",
+      "word": "胃の検査",
+      "choices": [
+        "夜桜",
+        "税込み",
+        "胃の検査",
+        "不況"
+      ],
+      "correctAnswer": 2,
+      "explanation": "いのけんさ → 胃の検査"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『胃腸薬』ning o'qilishi qaysi?",
+      "word": "胃腸薬",
+      "choices": [
+        "さいばんしょでしょうげんする",
+        "いちょうやく",
+        "いつうがひどい",
+        "びじん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "胃腸薬 → いちょうやく"
+    },
+    {
+      "id": 77,
+      "questionType": "sentence",
+      "question": "『首脳会談』ning ma'nosi qaysi?",
+      "word": "首脳会談",
+      "choices": [
+        "yenlik banknota",
+        "mamnuniyat bilan qabul qilish",
+        "rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv",
+        "yo'lni kesib o'tish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "首脳会談 → rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv"
+    },
+    {
+      "id": 78,
+      "questionType": "reading",
+      "question": "『背骨』ning o'qilishi qaysi?",
+      "word": "背骨",
+      "choices": [
+        "せぼね",
+        "おんけいをうける",
+        "あともどり",
+        "あっしょう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "背骨 → せぼね"
+    },
+    {
+      "id": 79,
+      "questionType": "sentence",
+      "question": "『筋道を立てる』ning ma'nosi qaysi?",
+      "word": "筋道を立てる",
+      "choices": [
+        "vaqt, lahza",
+        "butunlay tugatish, tozalash",
+        "almashtirish",
+        "ma'no bermoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "筋道を立てる → ma'no bermoq"
+    },
+    {
+      "id": 80,
+      "questionType": "meaning",
+      "question": "『骨』ning ma'nosi qaysi?",
+      "word": "骨",
+      "choices": [
+        "sog'lom, baquvvat",
+        "jig'ildon qaynashi",
+        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq",
+        "suyak"
+      ],
+      "correctAnswer": 3,
+      "explanation": "骨 → suyak"
+    },
+    {
+      "id": 81,
+      "questionType": "meaning",
+      "question": "『血筋』ning ma'nosi qaysi?",
+      "word": "血筋",
+      "choices": [
+        "qiyin ish, jismoniy kuch talab qiladigan mehnat",
+        "yelka kengligi keng",
+        "to'qima shikastlanishi",
+        "toza, pok"
+      ],
+      "correctAnswer": 2,
+      "explanation": "血筋 → to'qima shikastlanishi"
+    },
+    {
+      "id": 82,
+      "questionType": "sentence",
+      "question": "『頭脳明晰』ning ma'nosi qaysi?",
+      "word": "頭脳明晰",
+      "choices": [
+        "yurakdan bajarish",
+        "aeroport",
+        "fikri tiniqlashish",
+        "baliqchilik porti"
+      ],
+      "correctAnswer": 2,
+      "explanation": "頭脳明晰 → fikri tiniqlashish"
+    },
+    {
+      "id": 83,
+      "questionType": "kanji",
+      "question": "『せっこついん』qaysi yozuvga mos?",
+      "word": "接骨院",
+      "choices": [
+        "脱",
+        "接骨院",
+        "小麦粉と卵を混ぜる",
+        "賃貸マンション"
+      ],
+      "correctAnswer": 1,
+      "explanation": "せっこついん → 接骨院"
+    },
+    {
+      "id": 84,
+      "questionType": "meaning",
+      "question": "『内臓』ning ma'nosi qaysi?",
+      "word": "内臓",
+      "choices": [
+        "transport",
+        "ikkalasi ham",
+        "ichki organlar",
+        "kasal ko'rgani borish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "内臓 → ichki organlar"
+    },
+    {
+      "id": 85,
+      "questionType": "kanji",
+      "question": "『ないぞう』qaysi yozuvga mos?",
+      "word": "内臓",
+      "choices": [
+        "仮定する",
+        "杉",
+        "筋肉を鍛える",
+        "内臓"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ないぞう → 内臓"
+    },
+    {
+      "id": 86,
+      "questionType": "kanji",
+      "question": "『せんのう』qaysi yozuvga mos?",
+      "word": "洗脳",
+      "choices": [
+        "日本庭園",
+        "賃",
+        "洗脳",
+        "快"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せんのう → 洗脳"
+    },
+    {
+      "id": 87,
+      "questionType": "reading",
+      "question": "『胃炎』ning o'qilishi qaysi?",
+      "word": "胃炎",
+      "choices": [
+        "れい",
+        "れいぞうこ",
+        "もくひょうをさだめる",
+        "いえん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "胃炎 → いえん"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『てっきん』qaysi yozuvga mos?",
+      "word": "鉄筋",
+      "choices": [
+        "痛みが薄らぐ",
+        "鉄筋",
+        "脳科学",
+        "記帳する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てっきん → 鉄筋"
+    },
+    {
+      "id": 89,
+      "questionType": "recognition",
+      "question": "『胃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胃の検査",
+      "choices": [
+        "輸出する",
+        "週刊誌",
+        "胃の検査",
+        "脳科学"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃 → 胃の検査"
+    },
+    {
+      "id": 90,
+      "questionType": "word",
+      "question": "『umurtqa suyagi』ning yaponcha ifodasi qaysi?",
+      "word": "背骨",
+      "choices": [
+        "漁業を営む",
+        "背骨",
+        "輪",
+        "腕力"
+      ],
+      "correctAnswer": 1,
+      "explanation": "umurtqa suyagi → 背骨"
+    },
+    {
+      "id": 91,
+      "questionType": "word",
+      "question": "『qiyin ish, jismoniy kuch talab qiladigan mehnat』ning yaponcha ifodasi qaysi?",
+      "word": "骨の折れる仕事",
+      "choices": [
+        "純",
+        "製造年月日",
+        "骨の折れる仕事",
+        "胸囲を測る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "qiyin ish, jismoniy kuch talab qiladigan mehnat → 骨の折れる仕事"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『のうのはたらき』qaysi yozuvga mos?",
+      "word": "脳の働き",
+      "choices": [
+        "百貨店",
+        "腹が立つ",
+        "脳の働き",
+        "腕試し"
+      ],
+      "correctAnswer": 2,
+      "explanation": "のうのはたらき → 脳の働き"
+    },
+    {
+      "id": 93,
+      "questionType": "reading",
+      "question": "『臓』ning o'qilishi qaysi?",
+      "word": "臓",
+      "choices": [
+        "ぞう",
+        "ぞうきいしょく",
+        "パーティーにまねく",
+        "けい・え"
+      ],
+      "correctAnswer": 0,
+      "explanation": "臓 → ぞう"
+    },
+    {
+      "id": 94,
+      "questionType": "kanji",
+      "question": "『い』qaysi yozuvga mos?",
+      "word": "胃",
+      "choices": [
+        "劇場",
+        "乗車券",
+        "汚れた服",
+        "胃"
+      ],
+      "correctAnswer": 3,
+      "explanation": "い → 胃"
+    },
+    {
+      "id": 95,
+      "questionType": "reading",
+      "question": "『脳』ning o'qilishi qaysi?",
+      "word": "脳",
+      "choices": [
+        "かぜにまう",
+        "のう",
+        "おおもり",
+        "ふくをぬぐ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脳 → のう"
+    },
+    {
+      "id": 96,
+      "questionType": "word",
+      "question": "『nevralogiya』ning yaponcha ifodasi qaysi?",
+      "word": "脳科学",
+      "choices": [
+        "脳科学",
+        "届",
+        "命令",
+        "航空便"
+      ],
+      "correctAnswer": 0,
+      "explanation": "nevralogiya → 脳科学"
+    },
+    {
+      "id": 97,
+      "questionType": "kanji",
+      "question": "『きん・すじ』qaysi yozuvga mos?",
+      "word": "筋",
+      "choices": [
+        "杉の木",
+        "筋",
+        "肩入れする",
+        "居酒屋"
+      ],
+      "correctAnswer": 1,
+      "explanation": "きん・すじ → 筋"
+    },
+    {
+      "id": 98,
+      "questionType": "kanji",
+      "question": "『しゅのうかいだん』qaysi yozuvga mos?",
+      "word": "首脳会談",
+      "choices": [
+        "肩甲骨",
+        "顔を背ける",
+        "新聞配達",
+        "首脳会談"
+      ],
+      "correctAnswer": 3,
+      "explanation": "しゅのうかいだん → 首脳会談"
+    },
+    {
+      "id": 99,
+      "questionType": "word",
+      "question": "『umurtqa pog'onasi』ning yaponcha ifodasi qaysi?",
+      "word": "背筋",
+      "choices": [
+        "背",
+        "背筋",
+        "胃腸薬",
+        "腕"
+      ],
+      "correctAnswer": 1,
+      "explanation": "umurtqa pog'onasi → 背筋"
+    },
+    {
+      "id": 100,
+      "questionType": "reading",
+      "question": "『筋』ning o'qilishi qaysi?",
+      "word": "筋",
+      "choices": [
+        "せをむける",
+        "けいじょう",
+        "きん・すじ",
+        "ちゅうざい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "筋 → きん・すじ"
+    },
+    {
+      "id": 101,
+      "questionType": "reading",
+      "question": "『胃』ning o'qilishi qaysi?",
+      "word": "胃",
+      "choices": [
+        "かりのすまい",
+        "しゅうきょうをしんこうする",
+        "い",
+        "じこく"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃 → い"
+    },
+    {
+      "id": 102,
+      "questionType": "reading",
+      "question": "『胃袋』ning o'qilishi qaysi?",
+      "word": "胃袋",
+      "choices": [
+        "いぶくろ",
+        "せいくらべ",
+        "けい・え",
+        "いえん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胃袋 → いぶくろ"
+    },
+    {
+      "id": 103,
+      "questionType": "word",
+      "question": "『ruhan ta'sir ko'rsatish』ning yaponcha ifodasi qaysi?",
+      "word": "洗脳",
+      "choices": [
+        "梅雨",
+        "硬貨",
+        "立ち入り禁止区域",
+        "洗脳"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ruhan ta'sir ko'rsatish → 洗脳"
+    },
+    {
+      "id": 104,
+      "questionType": "word",
+      "question": "『ongiga muhrlab qo'yish』ning yaponcha ifodasi qaysi?",
+      "word": "脳裏に刻む",
+      "choices": [
+        "腹を割って話す",
+        "脳裏に刻む",
+        "道路を渡る",
+        "勢"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ongiga muhrlab qo'yish → 脳裏に刻む"
+    },
+    {
+      "id": 105,
+      "questionType": "sentence",
+      "question": "『胃痛がひどい』ning ma'nosi qaysi?",
+      "word": "胃痛がひどい",
+      "choices": [
+        "sodda, beg'ubor odam",
+        "har bir bekatda to'xtaydigan poyezd",
+        "kuchli oshqozon og'rig'i",
+        "lava"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胃痛がひどい → kuchli oshqozon og'rig'i"
+    },
+    {
+      "id": 106,
+      "questionType": "meaning",
+      "question": "『節分』ning ma'nosi qaysi?",
+      "word": "節分",
+      "choices": [
+        "muqim turmoq (xizmatda, chet elda)",
+        "kundalik yozib borish",
+        "kundalik",
+        "qishning oxirgi kuni yapon kalendari bo'yicha"
+      ],
+      "correctAnswer": 3,
+      "explanation": "節分 → qishning oxirgi kuni yapon kalendari bo'yicha"
+    },
+    {
+      "id": 107,
+      "questionType": "sentence",
+      "question": "『骨の折れる仕事』ning ma'nosi qaysi?",
+      "word": "骨の折れる仕事",
+      "choices": [
+        "umurtqa pog'onasi",
+        "yaxshi harakati uchun maqtash",
+        "ta'mi to'q (quyuq)",
+        "qiyin ish, jismoniy kuch talab qiladigan mehnat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "骨の折れる仕事 → qiyin ish, jismoniy kuch talab qiladigan mehnat"
+    },
+    {
+      "id": 108,
+      "questionType": "reading",
+      "question": "『季節』ning o'qilishi qaysi?",
+      "word": "季節",
+      "choices": [
+        "せいりせいとん",
+        "きせつ",
+        "ちんぎん",
+        "おう・さくら"
+      ],
+      "correctAnswer": 1,
+      "explanation": "季節 → きせつ"
+    },
+    {
+      "id": 109,
+      "questionType": "kanji",
+      "question": "『いがん』qaysi yozuvga mos?",
+      "word": "胃がん",
+      "choices": [
+        "胃がん",
+        "停車する",
+        "溶岩",
+        "物を渡す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いがん → 胃がん"
+    },
+    {
+      "id": 110,
+      "questionType": "recognition",
+      "question": "『胃』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胃がん",
+      "choices": [
+        "胃がん",
+        "裁判所で証言する",
+        "盛んな声援",
+        "杉"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胃 → 胃がん"
+    },
+    {
+      "id": 111,
+      "questionType": "kanji",
+      "question": "『こっせつする』qaysi yozuvga mos?",
+      "word": "骨折する",
+      "choices": [
+        "賃金",
+        "峠を越す",
+        "前輪と後輪",
+        "骨折する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "こっせつする → 骨折する"
+    },
+    {
+      "id": 112,
+      "questionType": "reading",
+      "question": "『節』ning o'qilishi qaysi?",
+      "word": "節",
+      "choices": [
+        "けんぜんな",
+        "りだつ",
+        "せい",
+        "せつ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "節 → せつ"
+    },
+    {
+      "id": 113,
+      "questionType": "reading",
+      "question": "『骨』ning o'qilishi qaysi?",
+      "word": "骨",
+      "choices": [
+        "けんこうこつ",
+        "ほね",
+        "ふつ",
+        "ふくにラーメンのしるがついた"
+      ],
+      "correctAnswer": 1,
+      "explanation": "骨 → ほね"
+    }
+  ]
+}

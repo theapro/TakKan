@@ -5,689 +5,689 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "meaning",
-      "question": "『食堂』ning ma'nosi qaysi?",
-      "word": "食堂",
-      "choices": [
-        "oshxona (umumiy)",
-        "taltaytirmoq",
-        "hayot oson emas",
-        "aralashmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "食堂 → oshxona (umumiy)"
-    },
-    {
-      "id": 2,
       "questionType": "reading",
       "question": "『宗派』ning o'qilishi qaysi?",
       "word": "宗派",
       "choices": [
-        "ちょめいじん",
+        "いちょうやく",
         "しゅうは",
-        "ざつだん",
-        "のりまき"
+        "はらがたつ",
+        "うけいれたいせい"
       ],
       "correctAnswer": 1,
       "explanation": "宗派 → しゅうは"
     },
     {
-      "id": 3,
-      "questionType": "word",
-      "question": "『marhamat, in'om』ning yaponcha ifodasi qaysi?",
-      "word": "恵",
-      "choices": [
-        "非難の標的となる",
-        "恵",
-        "仮説を立てる",
-        "杉"
-      ],
-      "correctAnswer": 1,
-      "explanation": "marhamat, in'om → 恵"
-    },
-    {
-      "id": 4,
-      "questionType": "meaning",
-      "question": "『宗教を信仰する』ning ma'nosi qaysi?",
-      "word": "宗教を信仰する",
-      "choices": [
-        "gipoteza (faraz) qo'ymoq",
-        "kelmaslik haqidagi xabarnoma (ariza)",
-        "dinga ishonish",
-        "butunlay tugatish, tozalash"
-      ],
-      "correctAnswer": 2,
-      "explanation": "宗教を信仰する → dinga ishonish"
-    },
-    {
-      "id": 5,
-      "questionType": "reading",
-      "question": "『食堂』ning o'qilishi qaysi?",
-      "word": "食堂",
-      "choices": [
-        "しょくどう",
-        "ととのえる",
-        "こていする",
-        "こむ・こめる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "食堂 → しょくどう"
-    },
-    {
-      "id": 6,
+      "id": 2,
       "questionType": "reading",
       "question": "『恵』ning o'qilishi qaysi?",
       "word": "恵",
       "choices": [
-        "きおくがうすれる",
-        "いま",
+        "ぼうりょくだんをいっそうする",
+        "じゅん",
         "けい・え",
-        "たんじゅんなもんだい"
+        "ざんだかしょうかい"
       ],
       "correctAnswer": 2,
       "explanation": "恵 → けい・え"
     },
     {
-      "id": 7,
-      "questionType": "kanji",
-      "question": "『どうどう』qaysi yozuvga mos?",
-      "word": "堂々",
-      "choices": [
-        "元に戻す",
-        "新製品",
-        "堂々",
-        "子供を送り届ける"
-      ],
-      "correctAnswer": 2,
-      "explanation": "どうどう → 堂々"
-    },
-    {
-      "id": 8,
-      "questionType": "meaning",
-      "question": "『絵画展』ning ma'nosi qaysi?",
-      "word": "絵画展",
-      "choices": [
-        "savollar varag'ini tarqatish",
-        "taklif qilmoq",
-        "gipoteza (faraz) qo'ymoq",
-        "rasm ko'rgazmasi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "絵画展 → rasm ko'rgazmasi"
-    },
-    {
-      "id": 9,
-      "questionType": "word",
-      "question": "『rivojlanish』ning yaponcha ifodasi qaysi?",
-      "word": "進展する",
-      "choices": [
-        "漁港",
-        "変換",
-        "進展する",
-        "柔"
-      ],
-      "correctAnswer": 2,
-      "explanation": "rivojlanish → 進展する"
-    },
-    {
-      "id": 10,
-      "questionType": "kanji",
-      "question": "『しゅう・そう』qaysi yozuvga mos?",
-      "word": "宗",
-      "choices": [
-        "私を含めて四人",
-        "振り込み",
-        "宗",
-        "混ざる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "しゅう・そう → 宗"
-    },
-    {
-      "id": 11,
+      "id": 3,
       "questionType": "kanji",
       "question": "『しんてんする』qaysi yozuvga mos?",
       "word": "進展する",
       "choices": [
-        "純粋な心",
-        "本が刊行する",
-        "親と同居する",
-        "進展する"
+        "進展する",
+        "軽薄な人",
+        "服にラーメンの汁がついた",
+        "気分転換"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "しんてんする → 進展する"
     },
     {
-      "id": 12,
-      "questionType": "kanji",
-      "question": "『ぶ』qaysi yozuvga mos?",
-      "word": "舞",
-      "choices": [
-        "絵画展",
-        "舞",
-        "招",
-        "勢いよく"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ぶ → 舞"
-    },
-    {
-      "id": 13,
-      "questionType": "word",
-      "question": "『kasal ko'rgani borish』ning yaponcha ifodasi qaysi?",
-      "word": "お見舞い",
-      "choices": [
-        "株券",
-        "大勢の人",
-        "お見舞い",
-        "定期券"
-      ],
-      "correctAnswer": 2,
-      "explanation": "kasal ko'rgani borish → お見舞い"
-    },
-    {
-      "id": 14,
+      "id": 4,
       "questionType": "kanji",
       "question": "『げき』qaysi yozuvga mos?",
       "word": "劇",
       "choices": [
+        "建築士",
         "劇",
-        "溶",
-        "展開",
-        "欠席届"
+        "色が薄い",
+        "契約をする"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "げき → 劇"
     },
     {
-      "id": 15,
-      "questionType": "recognition",
-      "question": "『恵』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "お金を恵む",
+      "id": 5,
+      "questionType": "reading",
+      "question": "『展』ning o'qilishi qaysi?",
+      "word": "展",
       "choices": [
-        "届",
-        "お金を恵む",
-        "契約書",
-        "舞"
+        "きざむ",
+        "てん",
+        "きん・すじ",
+        "こうすい"
       ],
       "correctAnswer": 1,
-      "explanation": "恵 → お金を恵む"
+      "explanation": "展 → てん"
     },
     {
-      "id": 16,
-      "questionType": "kanji",
-      "question": "『てんじする』qaysi yozuvga mos?",
-      "word": "展示する",
-      "choices": [
-        "展示する",
-        "含",
-        "各駅停車",
-        "校庭"
-      ],
-      "correctAnswer": 0,
-      "explanation": "てんじする → 展示する"
-    },
-    {
-      "id": 17,
+      "id": 6,
       "questionType": "word",
-      "question": "『rivojlanish; yoyilish』ning yaponcha ifodasi qaysi?",
-      "word": "展開",
+      "question": "『dinga ishonish』ning yaponcha ifodasi qaysi?",
+      "word": "宗教を信仰する",
       "choices": [
-        "心が清まる",
-        "香辛料",
-        "展開",
-        "前輪と後輪"
+        "療",
+        "輪になる",
+        "宗教を信仰する",
+        "美人"
       ],
       "correctAnswer": 2,
-      "explanation": "rivojlanish; yoyilish → 展開"
+      "explanation": "dinga ishonish → 宗教を信仰する"
     },
     {
-      "id": 18,
+      "id": 7,
       "questionType": "reading",
-      "question": "『展開』ning o'qilishi qaysi?",
-      "word": "展開",
+      "question": "『堂々』ning o'qilishi qaysi?",
+      "word": "堂々",
       "choices": [
-        "ほんをゆうそうする",
-        "ゆそうする",
-        "こうつういはん",
-        "てんかい"
+        "ふつうのかてい",
+        "うでだめし",
+        "しろをきずく",
+        "どうどう"
       ],
       "correctAnswer": 3,
-      "explanation": "展開 → てんかい"
+      "explanation": "堂々 → どうどう"
     },
     {
-      "id": 19,
-      "questionType": "kanji",
-      "question": "『こうどう』qaysi yozuvga mos?",
-      "word": "講堂",
+      "id": 8,
+      "questionType": "recognition",
+      "question": "『舞』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "舞台に立つ",
       "choices": [
-        "講堂",
-        "非難の標的となる",
-        "純情な人",
-        "入場券"
-      ],
-      "correctAnswer": 0,
-      "explanation": "こうどう → 講堂"
-    },
-    {
-      "id": 20,
-      "questionType": "reading",
-      "question": "『講堂』ning o'qilishi qaysi?",
-      "word": "講堂",
-      "choices": [
-        "こんらん",
-        "ぜいこみ",
-        "ゆ",
-        "こうどう"
+        "貴重品を預かる",
+        "礼状",
+        "イタリア製の靴",
+        "舞台に立つ"
       ],
       "correctAnswer": 3,
-      "explanation": "講堂 → こうどう"
+      "explanation": "舞 → 舞台に立つ"
     },
     {
-      "id": 21,
-      "questionType": "kanji",
-      "question": "『えんげき』qaysi yozuvga mos?",
-      "word": "演劇",
-      "choices": [
-        "招待状",
-        "前輪と後輪",
-        "米の中に麦が混じっている",
-        "演劇"
-      ],
-      "correctAnswer": 3,
-      "explanation": "えんげき → 演劇"
-    },
-    {
-      "id": 22,
-      "questionType": "kanji",
-      "question": "『どう』qaysi yozuvga mos?",
-      "word": "堂",
-      "choices": [
-        "予約が殺到する",
-        "堂",
-        "大勢の人",
-        "固"
-      ],
-      "correctAnswer": 1,
-      "explanation": "どう → 堂"
-    },
-    {
-      "id": 23,
-      "questionType": "reading",
-      "question": "『劇場』ning o'qilishi qaysi?",
-      "word": "劇場",
-      "choices": [
-        "すぎる",
-        "やわらかなふとん",
-        "ふつうよきん",
-        "げきじょう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "劇場 → げきじょう"
-    },
-    {
-      "id": 24,
+      "id": 9,
       "questionType": "sentence",
-      "question": "『恩恵を受ける』ning ma'nosi qaysi?",
-      "word": "恩恵を受ける",
+      "question": "『国会議事堂』ning ma'nosi qaysi?",
+      "word": "国会議事堂",
       "choices": [
-        "foyda olish",
-        "javon ichini tartibga keltirish",
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
-        "kirish chiptasi"
+        "mamlakat parlament binosi",
+        "qiyofa, shakl",
+        "butunlay tugatish, tozalash",
+        "poyezd gavjum (tirband) bo'lishi"
       ],
       "correctAnswer": 0,
-      "explanation": "恩恵を受ける → foyda olish"
+      "explanation": "国会議事堂 → mamlakat parlament binosi"
     },
     {
-      "id": 25,
+      "id": 10,
       "questionType": "reading",
       "question": "『宗』ning o'qilishi qaysi?",
       "word": "宗",
       "choices": [
-        "まねく",
-        "きちょうする",
+        "きよいこころ",
+        "てちょう",
         "しゅう・そう",
-        "ぶたいにたつ"
+        "ふ"
       ],
       "correctAnswer": 2,
       "explanation": "宗 → しゅう・そう"
     },
     {
-      "id": 26,
-      "questionType": "meaning",
-      "question": "『宗派』ning ma'nosi qaysi?",
-      "word": "宗派",
-      "choices": [
-        "xavotirlanmoq",
-        "o'qishdan vaqtincha chetlatish",
-        "mazhab, tariqat",
-        "sahna asari"
-      ],
-      "correctAnswer": 2,
-      "explanation": "宗派 → mazhab, tariqat"
-    },
-    {
-      "id": 27,
-      "questionType": "meaning",
-      "question": "『宗』ning ma'nosi qaysi?",
-      "word": "宗",
-      "choices": [
-        "din, mazhab",
-        "erish, moliya",
-        "kasal ko'rgani borish",
-        "xazina, boylik"
-      ],
-      "correctAnswer": 0,
-      "explanation": "宗 → din, mazhab"
-    },
-    {
-      "id": 28,
+      "id": 11,
       "questionType": "kanji",
       "question": "『かいがてん』qaysi yozuvga mos?",
       "word": "絵画展",
       "choices": [
-        "快気祝い",
+        "人並みに生活する",
         "絵画展",
-        "両替",
-        "届"
+        "固まる",
+        "風邪の症状"
       ],
       "correctAnswer": 1,
       "explanation": "かいがてん → 絵画展"
     },
     {
-      "id": 29,
-      "questionType": "kanji",
-      "question": "『てんかい』qaysi yozuvga mos?",
-      "word": "展開",
-      "choices": [
-        "払",
-        "展開",
-        "立ち入り禁止区域",
-        "掛かる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てんかい → 展開"
-    },
-    {
-      "id": 30,
-      "questionType": "kanji",
-      "question": "『しょくどう』qaysi yozuvga mos?",
-      "word": "食堂",
-      "choices": [
-        "準備が整う",
-        "食堂",
-        "態度が軟化する",
-        "硬貨"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しょくどう → 食堂"
-    },
-    {
-      "id": 31,
-      "questionType": "sentence",
-      "question": "『国会議事堂』ning ma'nosi qaysi?",
-      "word": "国会議事堂",
-      "choices": [
-        "qarag'ay",
-        "mamlakat parlament binosi",
-        "tasdiqlamoq, ko'rsatmoq",
-        "to'lov"
-      ],
-      "correctAnswer": 1,
-      "explanation": "国会議事堂 → mamlakat parlament binosi"
-    },
-    {
-      "id": 32,
-      "questionType": "kanji",
-      "question": "『はってんする』qaysi yozuvga mos?",
-      "word": "発展する",
-      "choices": [
-        "発展する",
-        "宝石",
-        "欠席届",
-        "前の車を追い越す"
-      ],
-      "correctAnswer": 0,
-      "explanation": "はってんする → 発展する"
-    },
-    {
-      "id": 33,
+      "id": 12,
       "questionType": "meaning",
-      "question": "『展示する』ning ma'nosi qaysi?",
-      "word": "展示する",
-      "choices": [
-        "taxlamoq",
-        "mamnuniyat bilan qabul qilish",
-        "namoyish etish",
-        "bo'lmoq, yashamoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "展示する → namoyish etish"
-    },
-    {
-      "id": 34,
-      "questionType": "word",
-      "question": "『sahna asari, drama』ning yaponcha ifodasi qaysi?",
-      "word": "劇",
-      "choices": [
-        "払い戻す",
-        "清",
-        "劇",
-        "新製品"
-      ],
-      "correctAnswer": 2,
-      "explanation": "sahna asari, drama → 劇"
-    },
-    {
-      "id": 35,
-      "questionType": "recognition",
-      "question": "『堂』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "講堂",
-      "choices": [
-        "講堂",
-        "汚い手",
-        "雑談",
-        "心に刻む"
-      ],
-      "correctAnswer": 0,
-      "explanation": "堂 → 講堂"
-    },
-    {
-      "id": 36,
-      "questionType": "word",
-      "question": "『raqs』ning yaponcha ifodasi qaysi?",
-      "word": "舞",
-      "choices": [
-        "舞",
-        "痛みが薄らぐ",
-        "子供を送り届ける",
-        "手紙が届く"
-      ],
-      "correctAnswer": 0,
-      "explanation": "raqs → 舞"
-    },
-    {
-      "id": 37,
-      "questionType": "kanji",
-      "question": "『しゅうは』qaysi yozuvga mos?",
-      "word": "宗派",
-      "choices": [
-        "交通違反",
-        "宗派",
-        "普及する",
-        "旅券"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しゅうは → 宗派"
-    },
-    {
-      "id": 38,
-      "questionType": "kanji",
-      "question": "『かぜにまう』qaysi yozuvga mos?",
-      "word": "風に舞う",
-      "choices": [
-        "お金を恵む",
-        "美しい",
-        "雑誌を読む",
-        "風に舞う"
-      ],
-      "correctAnswer": 3,
-      "explanation": "かぜにまう → 風に舞う"
-    },
-    {
-      "id": 39,
-      "questionType": "sentence",
-      "question": "『恵まれた生活』ning ma'nosi qaysi?",
-      "word": "恵まれた生活",
-      "choices": [
-        "yaxshi hayot",
-        "mashhur inson",
-        "yumshoq",
-        "maroqli vaqt o'tkazish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "恵まれた生活 → yaxshi hayot"
-    },
-    {
-      "id": 40,
-      "questionType": "word",
-      "question": "『teatr (bino)』ning yaponcha ifodasi qaysi?",
-      "word": "劇場",
-      "choices": [
-        "講堂",
-        "普通預金",
-        "郵",
-        "劇場"
-      ],
-      "correctAnswer": 3,
-      "explanation": "teatr (bino) → 劇場"
-    },
-    {
-      "id": 41,
-      "questionType": "word",
-      "question": "『fojia (tragediya)』ning yaponcha ifodasi qaysi?",
-      "word": "悲劇",
-      "choices": [
-        "盛んな声援",
-        "過ちを犯す",
-        "停学",
-        "悲劇"
-      ],
-      "correctAnswer": 3,
-      "explanation": "fojia (tragediya) → 悲劇"
-    },
-    {
-      "id": 42,
-      "questionType": "sentence",
       "question": "『進展する』ning ma'nosi qaysi?",
       "word": "進展する",
       "choices": [
-        "xalqaro vaziyat",
-        "ma'ruza (majlis) zali",
-        "kiyimga lag'monning sho'rvasi tegishi",
+        "xotirasi yomonlashmoq",
+        "belgi, standart",
+        "yurak hapqirishi",
         "rivojlanish"
       ],
       "correctAnswer": 3,
       "explanation": "進展する → rivojlanish"
     },
     {
-      "id": 43,
-      "questionType": "meaning",
-      "question": "『国会議事堂』ning ma'nosi qaysi?",
-      "word": "国会議事堂",
+      "id": 13,
+      "questionType": "kanji",
+      "question": "『えんげき』qaysi yozuvga mos?",
+      "word": "演劇",
       "choices": [
-        "oddiy, keng tarqalgan",
-        "adashmoq",
-        "mamlakat parlament binosi",
-        "moliya instituti (tashkilot)"
+        "荷物を詰め込む",
+        "育ち盛り",
+        "演劇",
+        "状況が一変する"
       ],
       "correctAnswer": 2,
-      "explanation": "国会議事堂 → mamlakat parlament binosi"
+      "explanation": "えんげき → 演劇"
     },
     {
-      "id": 44,
+      "id": 14,
+      "questionType": "meaning",
+      "question": "『舞台に立つ』ning ma'nosi qaysi?",
+      "word": "舞台に立つ",
+      "choices": [
+        "o'qishdan vaqtincha chetlatish",
+        "sahnaga chiqish",
+        "guvohnoma",
+        "ta'mi suyulishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "舞台に立つ → sahnaga chiqish"
+    },
+    {
+      "id": 15,
+      "questionType": "meaning",
+      "question": "『展開』ning ma'nosi qaysi?",
+      "word": "展開",
+      "choices": [
+        "rivojlanish; yoyilish",
+        "sog'liq uchun sug'urta",
+        "poyezd gavjum (tirband) bo'lishi",
+        "yelka qotib qolishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "展開 → rivojlanish; yoyilish"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『かぜにまう』qaysi yozuvga mos?",
+      "word": "風に舞う",
+      "choices": [
+        "色が薄い",
+        "風に舞う",
+        "顔を背ける",
+        "輸血用の血液"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かぜにまう → 風に舞う"
+    },
+    {
+      "id": 17,
+      "questionType": "meaning",
+      "question": "『演劇』ning ma'nosi qaysi?",
+      "word": "演劇",
+      "choices": [
+        "yelka boyicha turmoq",
+        "xonani iflos qilish",
+        "sahna asari",
+        "dovondan oshmoq; eng og'ir nuqtadan o'tmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "演劇 → sahna asari"
+    },
+    {
+      "id": 18,
+      "questionType": "word",
+      "question": "『yoyilish, rivojlanish』ning yaponcha ifodasi qaysi?",
+      "word": "展",
+      "choices": [
+        "停",
+        "展",
+        "恵まれた生活",
+        "気を配る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yoyilish, rivojlanish → 展"
+    },
+    {
+      "id": 19,
+      "questionType": "word",
+      "question": "『sahna asari, drama』ning yaponcha ifodasi qaysi?",
+      "word": "劇",
+      "choices": [
+        "劇",
+        "腕",
+        "混ざる",
+        "近況"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sahna asari, drama → 劇"
+    },
+    {
+      "id": 20,
+      "questionType": "reading",
+      "question": "『展開』ning o'qilishi qaysi?",
+      "word": "展開",
+      "choices": [
+        "しんせいひん",
+        "てんかい",
+        "むねがいたむ",
+        "ふくをぬぐ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "展開 → てんかい"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『舞』ning o'qilishi qaysi?",
+      "word": "舞",
+      "choices": [
+        "いりょうほけんせいど",
+        "こだからにめぐまれる",
+        "ぶ",
+        "ぞう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "舞 → ぶ"
+    },
+    {
+      "id": 22,
+      "questionType": "kanji",
+      "question": "『しゅうは』qaysi yozuvga mos?",
+      "word": "宗派",
+      "choices": [
+        "宗派",
+        "立ち入り禁止区域",
+        "美",
+        "漁業を営む"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しゅうは → 宗派"
+    },
+    {
+      "id": 23,
+      "questionType": "meaning",
+      "question": "『講堂』ning ma'nosi qaysi?",
+      "word": "講堂",
+      "choices": [
+        "to'lov",
+        "ma'ruza (majlis) zali",
+        "farzand bilan siylanmoq",
+        "bank daftarchasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "講堂 → ma'ruza (majlis) zali"
+    },
+    {
+      "id": 24,
+      "questionType": "word",
+      "question": "『rivojlanish』ning yaponcha ifodasi qaysi?",
+      "word": "発展する",
+      "choices": [
+        "貨物列車",
+        "礼状",
+        "発展する",
+        "掃除する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "rivojlanish → 発展する"
+    },
+    {
+      "id": 25,
+      "questionType": "meaning",
+      "question": "『展示する』ning ma'nosi qaysi?",
+      "word": "展示する",
+      "choices": [
+        "xat yetib kelishi",
+        "namoyish etish",
+        "kafil",
+        "bo'yinbog' (hayvon uchun)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "展示する → namoyish etish"
+    },
+    {
+      "id": 26,
+      "questionType": "kanji",
+      "question": "『ひげき』qaysi yozuvga mos?",
+      "word": "悲劇",
+      "choices": [
+        "香",
+        "悲劇",
+        "白状する",
+        "過去"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ひげき → 悲劇"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『どうどう』qaysi yozuvga mos?",
+      "word": "堂々",
+      "choices": [
+        "堂々",
+        "漁港",
+        "普通の家庭",
+        "到"
+      ],
+      "correctAnswer": 0,
+      "explanation": "どうどう → 堂々"
+    },
+    {
+      "id": 28,
       "questionType": "reading",
       "question": "『劇』ning o'qilishi qaysi?",
       "word": "劇",
       "choices": [
-        "みそしる",
-        "しょう",
+        "からだがやわらかい",
         "げき",
-        "ひゃっかてん"
+        "くうこう",
+        "どきょうがある"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "劇 → げき"
     },
     {
-      "id": 45,
+      "id": 29,
+      "questionType": "kanji",
+      "question": "『はってんする』qaysi yozuvga mos?",
+      "word": "発展する",
+      "choices": [
+        "香る",
+        "停戦",
+        "融通がきかない人",
+        "発展する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "はってんする → 発展する"
+    },
+    {
+      "id": 30,
+      "questionType": "sentence",
+      "question": "『風に舞う』ning ma'nosi qaysi?",
+      "word": "風に舞う",
+      "choices": [
+        "shamolda raqsga tushmoq",
+        "chet davlati",
+        "qaytmoq, qaytarmoq",
+        "go'zallik va salomatlikni saqlash"
+      ],
+      "correctAnswer": 0,
+      "explanation": "風に舞う → shamolda raqsga tushmoq"
+    },
+    {
+      "id": 31,
+      "questionType": "word",
+      "question": "『raqs』ning yaponcha ifodasi qaysi?",
+      "word": "舞",
+      "choices": [
+        "香る",
+        "健康保険",
+        "濃",
+        "舞"
+      ],
+      "correctAnswer": 3,
+      "explanation": "raqs → 舞"
+    },
+    {
+      "id": 32,
+      "questionType": "reading",
+      "question": "『見舞う』ning o'qilishi qaysi?",
+      "word": "見舞う",
+      "choices": [
+        "みまう",
+        "こたい",
+        "うでどけい",
+        "てんじする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "見舞う → みまう"
+    },
+    {
+      "id": 33,
+      "questionType": "word",
+      "question": "『fojia (tragediya)』ning yaponcha ifodasi qaysi?",
+      "word": "悲劇",
+      "choices": [
+        "輸",
+        "悲劇",
+        "並ぶ",
+        "朝刊"
+      ],
+      "correctAnswer": 1,
+      "explanation": "fojia (tragediya) → 悲劇"
+    },
+    {
+      "id": 34,
+      "questionType": "word",
+      "question": "『marhamat, in'om』ning yaponcha ifodasi qaysi?",
+      "word": "恵",
+      "choices": [
+        "刻",
+        "恵まれた生活",
+        "夕刊",
+        "恵"
+      ],
+      "correctAnswer": 3,
+      "explanation": "marhamat, in'om → 恵"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『てんかい』qaysi yozuvga mos?",
+      "word": "展開",
+      "choices": [
+        "契",
+        "展開",
+        "照",
+        "心臓が停止する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てんかい → 展開"
+    },
+    {
+      "id": 36,
+      "questionType": "recognition",
+      "question": "『宗』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "宗教を信仰する",
+      "choices": [
+        "両方",
+        "掛",
+        "植物の生態調査",
+        "宗教を信仰する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "宗 → 宗教を信仰する"
+    },
+    {
+      "id": 37,
+      "questionType": "recognition",
+      "question": "『舞』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "風に舞う",
+      "choices": [
+        "風に舞う",
+        "身分証明書",
+        "席を換わる",
+        "前輪と後輪"
+      ],
+      "correctAnswer": 0,
+      "explanation": "舞 → 風に舞う"
+    },
+    {
+      "id": 38,
       "questionType": "sentence",
       "question": "『展示する』ning ma'nosi qaysi?",
       "word": "展示する",
       "choices": [
-        "tarqalmoq, mashhur bo'lmoq",
-        "to'lamoq",
-        "namoyish etish",
-        "marhamat o'tiring"
+        "arxitektor, quruvchi",
+        "dzyudo",
+        "orqa, bo'y",
+        "namoyish etish"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "展示する → namoyish etish"
     },
     {
-      "id": 46,
-      "questionType": "word",
-      "question": "『foyda olish』ning yaponcha ifodasi qaysi?",
-      "word": "恩恵を受ける",
+      "id": 39,
+      "questionType": "reading",
+      "question": "『講堂』ning o'qilishi qaysi?",
+      "word": "講堂",
       "choices": [
-        "口に水を含む",
-        "恩恵を受ける",
-        "お金を恵む",
-        "夜桜"
+        "こうどう",
+        "きんにくをきたえる",
+        "うんちん",
+        "きぶんてんかん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "講堂 → こうどう"
+    },
+    {
+      "id": 40,
+      "questionType": "sentence",
+      "question": "『舞台に立つ』ning ma'nosi qaysi?",
+      "word": "舞台に立つ",
+      "choices": [
+        "olingan joyga qaytarib qo'yish",
+        "sahnaga chiqish",
+        "fikri tiniqlashish",
+        "ta'mi suyulishi"
       ],
       "correctAnswer": 1,
-      "explanation": "foyda olish → 恩恵を受ける"
+      "explanation": "舞台に立つ → sahnaga chiqish"
+    },
+    {
+      "id": 41,
+      "questionType": "recognition",
+      "question": "『展』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "発展する",
+      "choices": [
+        "越",
+        "発展する",
+        "着物姿",
+        "肩書き"
+      ],
+      "correctAnswer": 1,
+      "explanation": "展 → 発展する"
+    },
+    {
+      "id": 42,
+      "questionType": "reading",
+      "question": "『食堂』ning o'qilishi qaysi?",
+      "word": "食堂",
+      "choices": [
+        "しょくどう",
+        "だったい",
+        "たいふうのせいりょく",
+        "ゆうびんきょく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "食堂 → しょくどう"
+    },
+    {
+      "id": 43,
+      "questionType": "kanji",
+      "question": "『てんじする』qaysi yozuvga mos?",
+      "word": "展示する",
+      "choices": [
+        "甘いミカン",
+        "休診",
+        "礼状",
+        "展示する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "てんじする → 展示する"
+    },
+    {
+      "id": 44,
+      "questionType": "sentence",
+      "question": "『発展する』ning ma'nosi qaysi?",
+      "word": "発展する",
+      "choices": [
+        "muolaja",
+        "mamlakat parlament binosi",
+        "o'rtasida",
+        "rivojlanish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "発展する → rivojlanish"
+    },
+    {
+      "id": 45,
+      "questionType": "sentence",
+      "question": "『進展する』ning ma'nosi qaysi?",
+      "word": "進展する",
+      "choices": [
+        "haddan tashqari",
+        "ikkala",
+        "rivojlanish",
+        "sabab"
+      ],
+      "correctAnswer": 2,
+      "explanation": "進展する → rivojlanish"
+    },
+    {
+      "id": 46,
+      "questionType": "sentence",
+      "question": "『お見舞い』ning ma'nosi qaysi?",
+      "word": "お見舞い",
+      "choices": [
+        "yoritmoq",
+        "standart, norma",
+        "osmoq, ilmoq",
+        "kasal ko'rgani borish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "お見舞い → kasal ko'rgani borish"
     },
     {
       "id": 47,
       "questionType": "kanji",
+      "question": "『げきじょう』qaysi yozuvga mos?",
+      "word": "劇場",
+      "choices": [
+        "招待する",
+        "劇場",
+        "骨折する",
+        "照"
+      ],
+      "correctAnswer": 1,
+      "explanation": "げきじょう → 劇場"
+    },
+    {
+      "id": 48,
+      "questionType": "kanji",
       "question": "『けい・え』qaysi yozuvga mos?",
       "word": "恵",
       "choices": [
-        "普通高校",
-        "木製の家具",
-        "杉",
+        "乗車券",
+        "混乱",
+        "快気祝い",
         "恵"
       ],
       "correctAnswer": 3,
       "explanation": "けい・え → 恵"
     },
     {
-      "id": 48,
-      "questionType": "meaning",
-      "question": "『演劇』ning ma'nosi qaysi?",
-      "word": "演劇",
-      "choices": [
-        "tozalash",
-        "sezilarli (keskin) rivojlanish",
-        "izakaya (yapon mayxonasi)",
-        "sahna asari"
-      ],
-      "correctAnswer": 3,
-      "explanation": "演劇 → sahna asari"
-    },
-    {
       "id": 49,
-      "questionType": "sentence",
-      "question": "『宗教を信仰する』ning ma'nosi qaysi?",
-      "word": "宗教を信仰する",
+      "questionType": "word",
+      "question": "『mazhab, tariqat』ning yaponcha ifodasi qaysi?",
+      "word": "宗派",
       "choices": [
-        "ketma-ket (navbatda) turmoq",
-        "dinga ishonish",
-        "baxtli oila qurish",
-        "teatr tomoshasi, spektakl"
+        "宗派",
+        "米の中に麦が混じっている",
+        "照明",
+        "免許証"
       ],
-      "correctAnswer": 1,
-      "explanation": "宗教を信仰する → dinga ishonish"
+      "correctAnswer": 0,
+      "explanation": "mazhab, tariqat → 宗派"
     },
     {
       "id": 50,
@@ -695,447 +695,461 @@
       "question": "『お金を恵む』ning ma'nosi qaysi?",
       "word": "お金を恵む",
       "choices": [
-        "muqim turmoq (xizmatda, chet elda)",
-        "in'om qilmoq, sadaqa bermoq",
-        "xato qilish",
-        "soliqdan qochish"
+        "marhamat o'tiring",
+        "yangi yilda yeyiladigan soba",
+        "turli xil mahsulotlar",
+        "in'om qilmoq, sadaqa bermoq"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "お金を恵む → in'om qilmoq, sadaqa bermoq"
     },
     {
       "id": 51,
-      "questionType": "reading",
-      "question": "『絵画展』ning o'qilishi qaysi?",
-      "word": "絵画展",
+      "questionType": "kanji",
+      "question": "『ぶ』qaysi yozuvga mos?",
+      "word": "舞",
       "choices": [
-        "ていきけん",
-        "かいがてん",
-        "ゆう",
-        "あまやかす"
+        "巻",
+        "立ち入り禁止区域",
+        "高気圧",
+        "舞"
       ],
-      "correctAnswer": 1,
-      "explanation": "絵画展 → かいがてん"
+      "correctAnswer": 3,
+      "explanation": "ぶ → 舞"
     },
     {
       "id": 52,
-      "questionType": "recognition",
-      "question": "『宗』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "宗派",
+      "questionType": "meaning",
+      "question": "『絵画展』ning ma'nosi qaysi?",
+      "word": "絵画展",
       "choices": [
-        "宗派",
-        "松ぼっくり",
-        "混ざる",
-        "柔道"
+        "yurak",
+        "sovg'a",
+        "rasm ko'rgazmasi",
+        "qo'l kurashi. Kuch sinashish"
       ],
-      "correctAnswer": 0,
-      "explanation": "宗 → 宗派"
+      "correctAnswer": 2,
+      "explanation": "絵画展 → rasm ko'rgazmasi"
     },
     {
       "id": 53,
-      "questionType": "reading",
-      "question": "『展』ning o'qilishi qaysi?",
-      "word": "展",
+      "questionType": "sentence",
+      "question": "『恵まれた生活』ning ma'nosi qaysi?",
+      "word": "恵まれた生活",
       "choices": [
-        "でんしゃのきっぷ",
-        "りょうがえ",
-        "いろがうすい",
-        "てん"
+        "yaxshi hayot",
+        "baliqchilik porti",
+        "yoritmoq",
+        "tufli yechilib ketishi"
       ],
-      "correctAnswer": 3,
-      "explanation": "展 → てん"
+      "correctAnswer": 0,
+      "explanation": "恵まれた生活 → yaxshi hayot"
     },
     {
       "id": 54,
-      "questionType": "reading",
-      "question": "『舞』ning o'qilishi qaysi?",
-      "word": "舞",
+      "questionType": "kanji",
+      "question": "『しゅう・そう』qaysi yozuvga mos?",
+      "word": "宗",
       "choices": [
-        "ふつうよきん",
-        "きがかりなこと",
-        "ひょう",
-        "ぶ"
+        "腕試し",
+        "子供を送り届ける",
+        "宗",
+        "バラの香り"
       ],
-      "correctAnswer": 3,
-      "explanation": "舞 → ぶ"
+      "correctAnswer": 2,
+      "explanation": "しゅう・そう → 宗"
     },
     {
       "id": 55,
-      "questionType": "word",
-      "question": "『zal, bino』ning yaponcha ifodasi qaysi?",
-      "word": "堂",
-      "choices": [
-        "新しいクラスに溶け込む",
-        "堂",
-        "混ざる",
-        "玄関の表札"
-      ],
-      "correctAnswer": 1,
-      "explanation": "zal, bino → 堂"
-    },
-    {
-      "id": 56,
-      "questionType": "kanji",
-      "question": "『てん』qaysi yozuvga mos?",
-      "word": "展",
-      "choices": [
-        "犬の首輪",
-        "展",
-        "服を脱ぐ",
-        "目標に到達する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てん → 展"
-    },
-    {
-      "id": 57,
       "questionType": "reading",
       "question": "『演劇』ning o'qilishi qaysi?",
       "word": "演劇",
       "choices": [
-        "じゅうどう",
-        "ゆうびんがとどく",
-        "えんげき",
-        "ぶたいにたつ"
+        "いん",
+        "せなか",
+        "なんこうする",
+        "えんげき"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "演劇 → えんげき"
     },
     {
-      "id": 58,
-      "questionType": "recognition",
-      "question": "『舞』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "風に舞う",
-      "choices": [
-        "〜を契機に",
-        "風に舞う",
-        "美",
-        "快い返事"
-      ],
-      "correctAnswer": 1,
-      "explanation": "舞 → 風に舞う"
-    },
-    {
-      "id": 59,
-      "questionType": "sentence",
-      "question": "『発展する』ning ma'nosi qaysi?",
-      "word": "発展する",
-      "choices": [
-        "tarqatmoq, taqsimlamoq",
-        "hisobdan avtomatik yechish (to'lov)",
-        "rivojlanish",
-        "qimmatbaho narsani omonatga olish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "発展する → rivojlanish"
-    },
-    {
-      "id": 60,
-      "questionType": "word",
-      "question": "『ma'ruza (majlis) zali』ning yaponcha ifodasi qaysi?",
-      "word": "講堂",
-      "choices": [
-        "国会議事堂",
-        "贈",
-        "換える",
-        "講堂"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ma'ruza (majlis) zali → 講堂"
-    },
-    {
-      "id": 61,
-      "questionType": "recognition",
-      "question": "『舞』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "見舞う",
-      "choices": [
-        "見舞う",
-        "気掛かりなこと",
-        "梅雨",
-        "落ち葉を掃く"
-      ],
-      "correctAnswer": 0,
-      "explanation": "舞 → 見舞う"
-    },
-    {
-      "id": 62,
-      "questionType": "reading",
-      "question": "『見舞う』ning o'qilishi qaysi?",
-      "word": "見舞う",
-      "choices": [
-        "ていがく",
-        "たいどがなんかする",
-        "みそしる",
-        "みまう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "見舞う → みまう"
-    },
-    {
-      "id": 63,
+      "id": 56,
       "questionType": "word",
       "question": "『shamolda raqsga tushmoq』ning yaponcha ifodasi qaysi?",
       "word": "風に舞う",
       "choices": [
-        "頭が固い",
+        "城",
         "風に舞う",
-        "論文の清書をする",
-        "展"
+        "過去",
+        "食堂"
       ],
       "correctAnswer": 1,
       "explanation": "shamolda raqsga tushmoq → 風に舞う"
     },
     {
-      "id": 64,
-      "questionType": "sentence",
-      "question": "『風に舞う』ning ma'nosi qaysi?",
-      "word": "風に舞う",
-      "choices": [
-        "shamolda raqsga tushmoq",
-        "olingan joyga qaytarib qo'yish",
-        "taklif qilmoq",
-        "sezilarli (keskin) rivojlanish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "風に舞う → shamolda raqsga tushmoq"
-    },
-    {
-      "id": 65,
-      "questionType": "sentence",
-      "question": "『舞台に立つ』ning ma'nosi qaysi?",
-      "word": "舞台に立つ",
-      "choices": [
-        "sahnaga chiqish",
-        "tartibga keltirmoq, tayyorlamoq",
-        "rasm ko'rgazmasi",
-        "tayyorlangan kun, oy, yil"
-      ],
-      "correctAnswer": 0,
-      "explanation": "舞台に立つ → sahnaga chiqish"
-    },
-    {
-      "id": 66,
+      "id": 57,
       "questionType": "word",
-      "question": "『rivojlanish』ning yaponcha ifodasi qaysi?",
-      "word": "発展する",
+      "question": "『zal, bino』ning yaponcha ifodasi qaysi?",
+      "word": "堂",
       "choices": [
-        "発展する",
-        "並",
-        "普通の家庭",
-        "発展途上国"
+        "交替する",
+        "停学",
+        "子宝に恵まれる",
+        "堂"
       ],
-      "correctAnswer": 0,
-      "explanation": "rivojlanish → 発展する"
+      "correctAnswer": 3,
+      "explanation": "zal, bino → 堂"
     },
     {
-      "id": 67,
-      "questionType": "sentence",
-      "question": "『お見舞い』ning ma'nosi qaysi?",
-      "word": "お見舞い",
-      "choices": [
-        "kasal ko'rgani borish",
-        "moslashuvchan emas, gap uqmaydigan odam",
-        "chuqur kosa (donburi)",
-        "qattiq, mustahkam"
-      ],
-      "correctAnswer": 0,
-      "explanation": "お見舞い → kasal ko'rgani borish"
-    },
-    {
-      "id": 68,
-      "questionType": "kanji",
-      "question": "『げきじょう』qaysi yozuvga mos?",
-      "word": "劇場",
-      "choices": [
-        "宝",
-        "劇場",
-        "整える",
-        "並ぶ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "げきじょう → 劇場"
-    },
-    {
-      "id": 69,
+      "id": 58,
       "questionType": "reading",
-      "question": "『堂々』ning o'qilishi qaysi?",
-      "word": "堂々",
+      "question": "『絵画展』ning o'qilishi qaysi?",
+      "word": "絵画展",
       "choices": [
-        "あやまちをおかす",
-        "ちがう",
-        "どうどう",
-        "てんかい"
+        "くら",
+        "ゆそうする",
+        "のりまき",
+        "かいがてん"
       ],
-      "correctAnswer": 2,
-      "explanation": "堂々 → どうどう"
+      "correctAnswer": 3,
+      "explanation": "絵画展 → かいがてん"
     },
     {
-      "id": 70,
-      "questionType": "word",
-      "question": "『sahnaga chiqish』ning yaponcha ifodasi qaysi?",
-      "word": "舞台に立つ",
-      "choices": [
-        "盛",
-        "舞台に立つ",
-        "渡",
-        "清い心"
-      ],
-      "correctAnswer": 1,
-      "explanation": "sahnaga chiqish → 舞台に立つ"
-    },
-    {
-      "id": 71,
+      "id": 59,
       "questionType": "word",
       "question": "『in'om qilmoq, sadaqa bermoq』ning yaponcha ifodasi qaysi?",
       "word": "お金を恵む",
       "choices": [
-        "針が振れる",
+        "容態が急変する",
+        "通過",
         "お金を恵む",
-        "振り込み",
-        "新しいクラスに溶け込む"
+        "域"
+      ],
+      "correctAnswer": 2,
+      "explanation": "in'om qilmoq, sadaqa bermoq → お金を恵む"
+    },
+    {
+      "id": 60,
+      "questionType": "kanji",
+      "question": "『てん』qaysi yozuvga mos?",
+      "word": "展",
+      "choices": [
+        "お土産を届ける",
+        "帳",
+        "身分証明書",
+        "展"
+      ],
+      "correctAnswer": 3,
+      "explanation": "てん → 展"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『恩恵を受ける』ning ma'nosi qaysi?",
+      "word": "恩恵を受ける",
+      "choices": [
+        "foyda olish",
+        "tayyorgarlik pishmoq (tayyor bo'lmoq)",
+        "ota-ona bilan birga yashamoq",
+        "taqdir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "恩恵を受ける → foyda olish"
+    },
+    {
+      "id": 62,
+      "questionType": "recognition",
+      "question": "『劇』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "悲劇",
+      "choices": [
+        "節分",
+        "悲劇",
+        "パーティーに招く",
+        "前輪と後輪"
       ],
       "correctAnswer": 1,
-      "explanation": "in'om qilmoq, sadaqa bermoq → お金を恵む"
+      "explanation": "劇 → 悲劇"
+    },
+    {
+      "id": 63,
+      "questionType": "kanji",
+      "question": "『みまう』qaysi yozuvga mos?",
+      "word": "見舞う",
+      "choices": [
+        "舞",
+        "貴重品を預かる",
+        "席を換わる",
+        "見舞う"
+      ],
+      "correctAnswer": 3,
+      "explanation": "みまう → 見舞う"
+    },
+    {
+      "id": 64,
+      "questionType": "word",
+      "question": "『yaxshi hayot』ning yaponcha ifodasi qaysi?",
+      "word": "恵まれた生活",
+      "choices": [
+        "城を築く",
+        "汚染された川",
+        "恵まれた生活",
+        "盛んな声援"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yaxshi hayot → 恵まれた生活"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『holidan xabar olmoq』ning yaponcha ifodasi qaysi?",
+      "word": "見舞う",
+      "choices": [
+        "因",
+        "朝刊",
+        "美人",
+        "見舞う"
+      ],
+      "correctAnswer": 3,
+      "explanation": "holidan xabar olmoq → 見舞う"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『どう』qaysi yozuvga mos?",
+      "word": "堂",
+      "choices": [
+        "汁",
+        "小麦粉と卵を混ぜる",
+        "堂",
+        "天丼"
+      ],
+      "correctAnswer": 2,
+      "explanation": "どう → 堂"
+    },
+    {
+      "id": 67,
+      "questionType": "word",
+      "question": "『din, mazhab』ning yaponcha ifodasi qaysi?",
+      "word": "宗",
+      "choices": [
+        "意見を交換する",
+        "腕前を見せる",
+        "宝石",
+        "宗"
+      ],
+      "correctAnswer": 3,
+      "explanation": "din, mazhab → 宗"
+    },
+    {
+      "id": 68,
+      "questionType": "reading",
+      "question": "『堂』ning o'qilishi qaysi?",
+      "word": "堂",
+      "choices": [
+        "わん・うで",
+        "ちいきじゅうみん",
+        "どう",
+        "けんこうてきなせいかつ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "堂 → どう"
+    },
+    {
+      "id": 69,
+      "questionType": "meaning",
+      "question": "『お見舞い』ning ma'nosi qaysi?",
+      "word": "お見舞い",
+      "choices": [
+        "hayotini yo'qotish",
+        "yo'lni kesib o'tish",
+        "kasal ko'rgani borish",
+        "kirish chiptasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "お見舞い → kasal ko'rgani borish"
+    },
+    {
+      "id": 70,
+      "questionType": "recognition",
+      "question": "『舞』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "見舞う",
+      "choices": [
+        "夏が過ぎる",
+        "見舞う",
+        "日誌をつける",
+        "用途が広い"
+      ],
+      "correctAnswer": 1,
+      "explanation": "舞 → 見舞う"
+    },
+    {
+      "id": 71,
+      "questionType": "word",
+      "question": "『oshxona (umumiy)』ning yaponcha ifodasi qaysi?",
+      "word": "食堂",
+      "choices": [
+        "食堂",
+        "展開",
+        "旅券",
+        "税込み"
+      ],
+      "correctAnswer": 0,
+      "explanation": "oshxona (umumiy) → 食堂"
     },
     {
       "id": 72,
       "questionType": "meaning",
-      "question": "『展』ning ma'nosi qaysi?",
-      "word": "展",
+      "question": "『国会議事堂』ning ma'nosi qaysi?",
+      "word": "国会議事堂",
       "choices": [
-        "samolyot",
-        "gullamoq, yashnamoq",
-        "o'z davlati hududi",
-        "yoyilish, rivojlanish"
+        "tibbiy sug'urta tizimi",
+        "ombor, saqlash",
+        "mamlakat parlament binosi",
+        "sahna asari"
       ],
-      "correctAnswer": 3,
-      "explanation": "展 → yoyilish, rivojlanish"
+      "correctAnswer": 2,
+      "explanation": "国会議事堂 → mamlakat parlament binosi"
     },
     {
       "id": 73,
+      "questionType": "sentence",
+      "question": "『恩恵を受ける』ning ma'nosi qaysi?",
+      "word": "恩恵を受ける",
+      "choices": [
+        "soliq ichida",
+        "oddiy bank hisobi",
+        "foyda olish",
+        "sariqyog'ni eritish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "恩恵を受ける → foyda olish"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『劇場』ning o'qilishi qaysi?",
+      "word": "劇場",
+      "choices": [
+        "ていでん",
+        "ちいきじゅうみん",
+        "ていがく",
+        "げきじょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "劇場 → げきじょう"
+    },
+    {
+      "id": 75,
+      "questionType": "sentence",
+      "question": "『宗教を信仰する』ning ma'nosi qaysi?",
+      "word": "宗教を信仰する",
+      "choices": [
+        "univermag, universal magazin",
+        "vaqtinchalik, faraz",
+        "sariqyog'ni eritish",
+        "dinga ishonish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "宗教を信仰する → dinga ishonish"
+    },
+    {
+      "id": 76,
+      "questionType": "recognition",
+      "question": "『劇』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "劇場",
+      "choices": [
+        "身分証明書",
+        "庭",
+        "劇場",
+        "輪になる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "劇 → 劇場"
+    },
+    {
+      "id": 77,
+      "questionType": "word",
+      "question": "『salobatli, viqorli』ning yaponcha ifodasi qaysi?",
+      "word": "堂々",
+      "choices": [
+        "定期券",
+        "堂々",
+        "胸を打つ",
+        "骨の折れる仕事"
+      ],
+      "correctAnswer": 1,
+      "explanation": "salobatli, viqorli → 堂々"
+    },
+    {
+      "id": 78,
       "questionType": "reading",
       "question": "『悲劇』ning o'qilishi qaysi?",
       "word": "悲劇",
       "choices": [
-        "こんざつ",
-        "きものすがた",
         "ひげき",
-        "ふとんをかける"
+        "けんこうほけん",
+        "いろがうすい",
+        "てい"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "悲劇 → ひげき"
     },
     {
-      "id": 74,
-      "questionType": "recognition",
-      "question": "『舞』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "舞台に立つ",
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『こうどう』qaysi yozuvga mos?",
+      "word": "講堂",
       "choices": [
-        "舞台に立つ",
-        "松ぼっくり",
-        "軟らかいごはん",
-        "保証人"
+        "味が薄まる",
+        "講堂",
+        "牛乳にカルシウムが含まれている",
+        "けがの後遺症"
       ],
-      "correctAnswer": 0,
-      "explanation": "舞 → 舞台に立つ"
+      "correctAnswer": 1,
+      "explanation": "こうどう → 講堂"
     },
     {
-      "id": 75,
+      "id": 80,
       "questionType": "kanji",
       "question": "『おみまい』qaysi yozuvga mos?",
       "word": "お見舞い",
       "choices": [
-        "単純な問題",
+        "百貨店",
         "お見舞い",
-        "国会議事堂",
-        "両"
+        "建材",
+        "満腹"
       ],
       "correctAnswer": 1,
       "explanation": "おみまい → お見舞い"
     },
     {
-      "id": 76,
-      "questionType": "word",
-      "question": "『holidan xabar olmoq』ning yaponcha ifodasi qaysi?",
-      "word": "見舞う",
-      "choices": [
-        "楽しい時を過ごす",
-        "見舞う",
-        "体が柔らかい",
-        "記憶が薄れる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "holidan xabar olmoq → 見舞う"
-    },
-    {
-      "id": 77,
-      "questionType": "word",
-      "question": "『yaxshi hayot』ning yaponcha ifodasi qaysi?",
-      "word": "恵まれた生活",
-      "choices": [
-        "玄関の表札",
-        "味が薄まる",
-        "夕刊",
-        "恵まれた生活"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yaxshi hayot → 恵まれた生活"
-    },
-    {
-      "id": 78,
-      "questionType": "kanji",
-      "question": "『ひげき』qaysi yozuvga mos?",
-      "word": "悲劇",
-      "choices": [
-        "悲劇",
-        "目標に到達する",
-        "両",
-        "絵の具を溶く"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ひげき → 悲劇"
-    },
-    {
-      "id": 79,
+      "id": 81,
       "questionType": "meaning",
-      "question": "『堂々』ning ma'nosi qaysi?",
-      "word": "堂々",
+      "question": "『劇場』ning ma'nosi qaysi?",
+      "word": "劇場",
       "choices": [
-        "sariqyog'ni eritish",
-        "salobatli, viqorli",
-        "pochtaxona",
-        "aksiya qog'ozi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "堂々 → salobatli, viqorli"
-    },
-    {
-      "id": 80,
-      "questionType": "kanji",
-      "question": "『みまう』qaysi yozuvga mos?",
-      "word": "見舞う",
-      "choices": [
-        "桜前線",
-        "免許証",
-        "見舞う",
-        "ねぎを刻む"
+        "katta portsiya ovqat",
+        "yumshoq qilib qaynatib pishirish",
+        "teatr (bino)",
+        "tibbiy ko'rik"
       ],
       "correctAnswer": 2,
-      "explanation": "みまう → 見舞う"
+      "explanation": "劇場 → teatr (bino)"
     },
     {
-      "id": 81,
-      "questionType": "reading",
-      "question": "『堂』ning o'qilishi qaysi?",
-      "word": "堂",
+      "id": 82,
+      "questionType": "kanji",
+      "question": "『しょくどう』qaysi yozuvga mos?",
+      "word": "食堂",
       "choices": [
-        "きたないて",
-        "かい",
-        "まねく",
-        "どう"
+        "臓",
+        "胃",
+        "刊",
+        "食堂"
       ],
       "correctAnswer": 3,
-      "explanation": "堂 → どう"
+      "explanation": "しょくどう → 食堂"
     }
   ]
 }

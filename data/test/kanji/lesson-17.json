@@ -1,0 +1,1785 @@
+{
+  "title": "Lesson 17 Test",
+  "type": "kanji",
+  "lesson": "lesson-17",
+  "questions": [
+    {
+      "id": 1,
+      "questionType": "meaning",
+      "question": "『腕組みをする』ning ma'nosi qaysi?",
+      "word": "腕組みをする",
+      "choices": [
+        "raqs",
+        "qo'lni bukmoq",
+        "mutaxassis, kasb egasi",
+        "orqaga qaytish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腕組みをする → qo'lni bukmoq"
+    },
+    {
+      "id": 2,
+      "questionType": "meaning",
+      "question": "『腕白な子供』ning ma'nosi qaysi?",
+      "word": "腕白な子供",
+      "choices": [
+        "oqqa ko'chirish",
+        "tantiq bola",
+        "sog'lom hayot",
+        "yumshoq, egiluvchan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腕白な子供 → tantiq bola"
+    },
+    {
+      "id": 3,
+      "questionType": "meaning",
+      "question": "『顔を背ける』ning ma'nosi qaysi?",
+      "word": "顔を背ける",
+      "choices": [
+        "oldinda qiyinchiliklar ko'p",
+        "qorni och his qilmoq",
+        "buyruq",
+        "yuzini ortga burish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "顔を背ける → yuzini ortga burish"
+    },
+    {
+      "id": 4,
+      "questionType": "meaning",
+      "question": "『本の背表紙』ning ma'nosi qaysi?",
+      "word": "本の背表紙",
+      "choices": [
+        "kitob muqovasi",
+        "samolyot",
+        "univermag, universal magazin",
+        "umurtqa suyagi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "本の背表紙 → kitob muqovasi"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『homiylik qilish』ning yaponcha ifodasi qaysi?",
+      "word": "肩入れする",
+      "choices": [
+        "払い戻す",
+        "肩入れする",
+        "胃袋",
+        "犬の首輪"
+      ],
+      "correctAnswer": 1,
+      "explanation": "homiylik qilish → 肩入れする"
+    },
+    {
+      "id": 6,
+      "questionType": "word",
+      "question": "『qaror qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "腹を決める",
+      "choices": [
+        "診療時間",
+        "整理整頓",
+        "建材",
+        "腹を決める"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qaror qilmoq → 腹を決める"
+    },
+    {
+      "id": 7,
+      "questionType": "meaning",
+      "question": "『肩を並べる』ning ma'nosi qaysi?",
+      "word": "肩を並べる",
+      "choices": [
+        "yoritmoq",
+        "yelka boyicha turmoq",
+        "iflos qo'l",
+        "standart, norma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "肩を並べる → yelka boyicha turmoq"
+    },
+    {
+      "id": 8,
+      "questionType": "reading",
+      "question": "『腕時計』ning o'qilishi qaysi?",
+      "word": "腕時計",
+      "choices": [
+        "ぎょそん",
+        "やわらかなふとん",
+        "うでどけい",
+        "けがのこういしょう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腕時計 → うでどけい"
+    },
+    {
+      "id": 9,
+      "questionType": "kanji",
+      "question": "『うでだめし』qaysi yozuvga mos?",
+      "word": "腕試し",
+      "choices": [
+        "腕試し",
+        "振",
+        "桜前線",
+        "内臓"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うでだめし → 腕試し"
+    },
+    {
+      "id": 10,
+      "questionType": "sentence",
+      "question": "『顔を背ける』ning ma'nosi qaysi?",
+      "word": "顔を背ける",
+      "choices": [
+        "past qon bosimi",
+        "iflos, kir",
+        "o'z ichiga olmoq",
+        "yuzini ortga burish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "顔を背ける → yuzini ortga burish"
+    },
+    {
+      "id": 11,
+      "questionType": "reading",
+      "question": "『腕相撲』ning o'qilishi qaysi?",
+      "word": "腕相撲",
+      "choices": [
+        "きよい",
+        "うでずもう",
+        "しょうじょう",
+        "みまう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腕相撲 → うでずもう"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『qo'l kurashi. Kuch sinashish』ning yaponcha ifodasi qaysi?",
+      "word": "腕相撲",
+      "choices": [
+        "腕相撲",
+        "手を振る",
+        "荷物を詰め込む",
+        "栄養"
+      ],
+      "correctAnswer": 0,
+      "explanation": "qo'l kurashi. Kuch sinashish → 腕相撲"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『bo'yi cho'zilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "背が伸びる",
+      "choices": [
+        "背が伸びる",
+        "汚い手",
+        "劇場",
+        "異国"
+      ],
+      "correctAnswer": 0,
+      "explanation": "bo'yi cho'zilmoq → 背が伸びる"
+    },
+    {
+      "id": 14,
+      "questionType": "sentence",
+      "question": "『腕組みをする』ning ma'nosi qaysi?",
+      "word": "腕組みをする",
+      "choices": [
+        "qo'lni bukmoq",
+        "noodatiy hodisa",
+        "ozuqa",
+        "chipta tekshirish (turniket) darvozasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腕組みをする → qo'lni bukmoq"
+    },
+    {
+      "id": 15,
+      "questionType": "recognition",
+      "question": "『胸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胸がどきどきする",
+      "choices": [
+        "指輪",
+        "胸がどきどきする",
+        "お金を恵む",
+        "薄"
+      ],
+      "correctAnswer": 1,
+      "explanation": "胸 → 胸がどきどきする"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『かたがき』qaysi yozuvga mos?",
+      "word": "肩書き",
+      "choices": [
+        "肩書き",
+        "本が刊行する",
+        "化粧が濃い",
+        "円をドルに替える"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かたがき → 肩書き"
+    },
+    {
+      "id": 17,
+      "questionType": "meaning",
+      "question": "『胸がどきどきする』ning ma'nosi qaysi?",
+      "word": "胸がどきどきする",
+      "choices": [
+        "ma'no bermoq",
+        "yurak hapqirishi",
+        "shamol kuchi",
+        "hovli, bog'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "胸がどきどきする → yurak hapqirishi"
+    },
+    {
+      "id": 18,
+      "questionType": "sentence",
+      "question": "『胸焼けがする』ning ma'nosi qaysi?",
+      "word": "胸焼けがする",
+      "choices": [
+        "kedr daraxti",
+        "sakura (gilos guli)",
+        "jig'ildon qaynashi",
+        "o'rtacha umr"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胸焼けがする → jig'ildon qaynashi"
+    },
+    {
+      "id": 19,
+      "questionType": "meaning",
+      "question": "『背を向ける』ning ma'nosi qaysi?",
+      "word": "背を向ける",
+      "choices": [
+        "o'z davlati hududi",
+        "narsani berish",
+        "sinmoq (suyak)",
+        "o'zini ko'rmagandek tutish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "背を向ける → o'zini ko'rmagandek tutish"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『かたがこる』qaysi yozuvga mos?",
+      "word": "肩がこる",
+      "choices": [
+        "骨の折れる仕事",
+        "肩がこる",
+        "過",
+        "免許証"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かたがこる → 肩がこる"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『肩甲骨』ning o'qilishi qaysi?",
+      "word": "肩甲骨",
+      "choices": [
+        "けんこうこつ",
+        "あっしょう",
+        "よざくら",
+        "ちょう"
+      ],
+      "correctAnswer": 0,
+      "explanation": "肩甲骨 → けんこうこつ"
+    },
+    {
+      "id": 22,
+      "questionType": "kanji",
+      "question": "『せいくらべ』qaysi yozuvga mos?",
+      "word": "背比べ",
+      "choices": [
+        "背比べ",
+        "腕白な子供",
+        "並べる",
+        "肩幅が広い"
+      ],
+      "correctAnswer": 0,
+      "explanation": "せいくらべ → 背比べ"
+    },
+    {
+      "id": 23,
+      "questionType": "recognition",
+      "question": "『腕』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "腕相撲",
+      "choices": [
+        "腕相撲",
+        "替",
+        "輸",
+        "郵便局"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腕 → 腕相撲"
+    },
+    {
+      "id": 24,
+      "questionType": "kanji",
+      "question": "『はらがたつ』qaysi yozuvga mos?",
+      "word": "腹が立つ",
+      "choices": [
+        "違法",
+        "腹が立つ",
+        "心に刻む",
+        "形状"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はらがたつ → 腹が立つ"
+    },
+    {
+      "id": 25,
+      "questionType": "reading",
+      "question": "『背後』ning o'qilishi qaysi?",
+      "word": "背後",
+      "choices": [
+        "こたい",
+        "はいご",
+        "てちょう",
+        "いへん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "背後 → はいご"
+    },
+    {
+      "id": 26,
+      "questionType": "sentence",
+      "question": "『空腹を覚える』ning ma'nosi qaysi?",
+      "word": "空腹を覚える",
+      "choices": [
+        "qorni och his qilmoq",
+        "moliya instituti (tashkilot)",
+        "yo'l haqi",
+        "chuqur kosa (donburi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "空腹を覚える → qorni och his qilmoq"
+    },
+    {
+      "id": 27,
+      "questionType": "kanji",
+      "question": "『うでずもう』qaysi yozuvga mos?",
+      "word": "腕相撲",
+      "choices": [
+        "圧勝",
+        "名札をつける",
+        "健やかな",
+        "腕相撲"
+      ],
+      "correctAnswer": 3,
+      "explanation": "うでずもう → 腕相撲"
+    },
+    {
+      "id": 28,
+      "questionType": "sentence",
+      "question": "『腕がいい』ning ma'nosi qaysi?",
+      "word": "腕がいい",
+      "choices": [
+        "hayot oson emas",
+        "shartnoma",
+        "qobiliyatli",
+        "muolaja qilmoq, davolamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腕がいい → qobiliyatli"
+    },
+    {
+      "id": 29,
+      "questionType": "meaning",
+      "question": "『胸が痛む』ning ma'nosi qaysi?",
+      "word": "胸が痛む",
+      "choices": [
+        "ko'krak qafasi og'rishi",
+        "to'lov",
+        "yashirmay, ochiq gapirish",
+        "manzarasi, holati"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胸が痛む → ko'krak qafasi og'rishi"
+    },
+    {
+      "id": 30,
+      "questionType": "recognition",
+      "question": "『胸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "度胸がある",
+      "choices": [
+        "普通預金",
+        "仮説を立てる",
+        "度胸がある",
+        "荷物を詰め込む"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胸 → 度胸がある"
+    },
+    {
+      "id": 31,
+      "questionType": "sentence",
+      "question": "『腕前を見せる』ning ma'nosi qaysi?",
+      "word": "腕前を見せる",
+      "choices": [
+        "qobiliyatini ko'rsatmoq",
+        "in'om qilmoq, sadaqa bermoq",
+        "katta g'alaba",
+        "bilak kuchi, jismoniy kuch"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腕前を見せる → qobiliyatini ko'rsatmoq"
+    },
+    {
+      "id": 32,
+      "questionType": "recognition",
+      "question": "『腕』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "腕時計",
+      "choices": [
+        "腕時計",
+        "問題用紙を配る",
+        "腹が立つ",
+        "航空便"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腕 → 腕時計"
+    },
+    {
+      "id": 33,
+      "questionType": "word",
+      "question": "『jig'ildon qaynashi』ning yaponcha ifodasi qaysi?",
+      "word": "胸焼けがする",
+      "choices": [
+        "肩甲骨",
+        "異変",
+        "胸焼けがする",
+        "恵"
+      ],
+      "correctAnswer": 2,
+      "explanation": "jig'ildon qaynashi → 胸焼けがする"
+    },
+    {
+      "id": 34,
+      "questionType": "word",
+      "question": "『yelka, kurak』ning yaponcha ifodasi qaysi?",
+      "word": "背中",
+      "choices": [
+        "体の異状",
+        "背景",
+        "背中",
+        "大盛り"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yelka, kurak → 背中"
+    },
+    {
+      "id": 35,
+      "questionType": "kanji",
+      "question": "『きょう・むね』qaysi yozuvga mos?",
+      "word": "胸",
+      "choices": [
+        "胸",
+        "背骨",
+        "絵の具を溶く",
+        "骨の折れる仕事"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きょう・むね → 胸"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『腕試し』ning o'qilishi qaysi?",
+      "word": "腕試し",
+      "choices": [
+        "うでだめし",
+        "やわらかなふとん",
+        "ならべる",
+        "せきをかわる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腕試し → うでだめし"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『腹を割って話す』ning ma'nosi qaysi?",
+      "word": "腹を割って話す",
+      "choices": [
+        "xonani iflos qilish",
+        "yashirmay, ochiq gapirish",
+        "ta'mi suyulishi",
+        "qizg'in olqishlar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腹を割って話す → yashirmay, ochiq gapirish"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『背』ning o'qilishi qaysi?",
+      "word": "背",
+      "choices": [
+        "はい・せ",
+        "ゆ",
+        "いのけんさ",
+        "くうふくをおぼえる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "背 → はい・せ"
+    },
+    {
+      "id": 39,
+      "questionType": "recognition",
+      "question": "『腕』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "腕白な子供",
+      "choices": [
+        "休診",
+        "腕白な子供",
+        "輸",
+        "診る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腕 → 腕白な子供"
+    },
+    {
+      "id": 40,
+      "questionType": "kanji",
+      "question": "『はいけい』qaysi yozuvga mos?",
+      "word": "背景",
+      "choices": [
+        "芝居",
+        "背景",
+        "山腹",
+        "顔を背ける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はいけい → 背景"
+    },
+    {
+      "id": 41,
+      "questionType": "sentence",
+      "question": "『胸がどきどきする』ning ma'nosi qaysi?",
+      "word": "胸がどきどきする",
+      "choices": [
+        "qaytmoq, qaytarmoq",
+        "yurak hapqirishi",
+        "halqa, g'ildirak",
+        "tashvish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "胸がどきどきする → yurak hapqirishi"
+    },
+    {
+      "id": 42,
+      "questionType": "word",
+      "question": "『kurak suyagi』ning yaponcha ifodasi qaysi?",
+      "word": "肩甲骨",
+      "choices": [
+        "宝石",
+        "巻",
+        "肩甲骨",
+        "標準"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kurak suyagi → 肩甲骨"
+    },
+    {
+      "id": 43,
+      "questionType": "reading",
+      "question": "『背中』ning o'qilishi qaysi?",
+      "word": "背中",
+      "choices": [
+        "きをくばる",
+        "ふとっぱら",
+        "あやまつ",
+        "せなか"
+      ],
+      "correctAnswer": 3,
+      "explanation": "背中 → せなか"
+    },
+    {
+      "id": 44,
+      "questionType": "reading",
+      "question": "『腹』ning o'qilishi qaysi?",
+      "word": "腹",
+      "choices": [
+        "ふく・はら",
+        "ていきけんしん",
+        "こうくうき",
+        "きんにくをきたえる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腹 → ふく・はら"
+    },
+    {
+      "id": 45,
+      "questionType": "word",
+      "question": "『qo'l soat』ning yaponcha ifodasi qaysi?",
+      "word": "腕時計",
+      "choices": [
+        "駐在する",
+        "硬貨",
+        "米の中に麦が混じっている",
+        "腕時計"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qo'l soat → 腕時計"
+    },
+    {
+      "id": 46,
+      "questionType": "sentence",
+      "question": "『腹が立つ』ning ma'nosi qaysi?",
+      "word": "腹が立つ",
+      "choices": [
+        "yangi sinfga moslashib ketmoq",
+        "mazhab, tariqat",
+        "kasallikdan tuzalganlikni nishonlash",
+        "jahl chiqmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "腹が立つ → jahl chiqmoq"
+    },
+    {
+      "id": 47,
+      "questionType": "recognition",
+      "question": "『背』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "本の背表紙",
+      "choices": [
+        "庭",
+        "本の背表紙",
+        "脱",
+        "心配する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "背 → 本の背表紙"
+    },
+    {
+      "id": 48,
+      "questionType": "sentence",
+      "question": "『胸を打つ』ning ma'nosi qaysi?",
+      "word": "胸を打つ",
+      "choices": [
+        "umurtqa suyagi",
+        "sahna asari",
+        "1) g'amdan ko'ksini urish, 2) hayratlanish",
+        "yuk poyezdi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胸を打つ → 1) g'amdan ko'ksini urish, 2) hayratlanish"
+    },
+    {
+      "id": 49,
+      "questionType": "word",
+      "question": "『manzarasi, holati』ning yaponcha ifodasi qaysi?",
+      "word": "背景",
+      "choices": [
+        "背景",
+        "席を換わる",
+        "異国",
+        "航空便"
+      ],
+      "correctAnswer": 0,
+      "explanation": "manzarasi, holati → 背景"
+    },
+    {
+      "id": 50,
+      "questionType": "recognition",
+      "question": "『腕』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "腕組みをする",
+      "choices": [
+        "払",
+        "態度が悪い",
+        "腕組みをする",
+        "席に戻る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腕 → 腕組みをする"
+    },
+    {
+      "id": 51,
+      "questionType": "meaning",
+      "question": "『腕がいい』ning ma'nosi qaysi?",
+      "word": "腕がいい",
+      "choices": [
+        "kitob yozmoq, nashr etmoq",
+        "taklifnoma",
+        "qobiliyatli",
+        "qo'lni silkitish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腕がいい → qobiliyatli"
+    },
+    {
+      "id": 52,
+      "questionType": "recognition",
+      "question": "『肩』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "肩入れする",
+      "choices": [
+        "柔道",
+        "お金を恵む",
+        "丼",
+        "肩入れする"
+      ],
+      "correctAnswer": 3,
+      "explanation": "肩 → 肩入れする"
+    },
+    {
+      "id": 53,
+      "questionType": "kanji",
+      "question": "『けんこうこつ』qaysi yozuvga mos?",
+      "word": "肩甲骨",
+      "choices": [
+        "肩甲骨",
+        "実況中継",
+        "腕力",
+        "劇"
+      ],
+      "correctAnswer": 0,
+      "explanation": "けんこうこつ → 肩甲骨"
+    },
+    {
+      "id": 54,
+      "questionType": "reading",
+      "question": "『腕力』ning o'qilishi qaysi?",
+      "word": "腕力",
+      "choices": [
+        "ばいうぜんせん",
+        "かこのえいこう",
+        "しょうたいじょう",
+        "わんりょく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "腕力 → わんりょく"
+    },
+    {
+      "id": 55,
+      "questionType": "kanji",
+      "question": "『ふく・はら』qaysi yozuvga mos?",
+      "word": "腹",
+      "choices": [
+        "空港",
+        "航空便",
+        "腹",
+        "論文の清書をする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ふく・はら → 腹"
+    },
+    {
+      "id": 56,
+      "questionType": "reading",
+      "question": "『肩』ning o'qilishi qaysi?",
+      "word": "肩",
+      "choices": [
+        "しょうめいする",
+        "きんきょう",
+        "けん・かた",
+        "えいがをせいさくする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "肩 → けん・かた"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『1) g'amdan ko'ksini urish, 2) hayratlanish』ning yaponcha ifodasi qaysi?",
+      "word": "胸を打つ",
+      "choices": [
+        "胸を打つ",
+        "家賃",
+        "天丼",
+        "気分転換"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1) g'amdan ko'ksini urish, 2) hayratlanish → 胸を打つ"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『肩がこる』ning ma'nosi qaysi?",
+      "word": "肩がこる",
+      "choices": [
+        "un bilan tuxumni aralashtirmoq",
+        "yelka qotib qolishi",
+        "piyoz to'g'rash",
+        "qorin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "肩がこる → yelka qotib qolishi"
+    },
+    {
+      "id": 59,
+      "questionType": "reading",
+      "question": "『腕』ning o'qilishi qaysi?",
+      "word": "腕",
+      "choices": [
+        "どうろひょうしき",
+        "けんこうこつ",
+        "かんきする",
+        "わん・うで"
+      ],
+      "correctAnswer": 3,
+      "explanation": "腕 → わん・うで"
+    },
+    {
+      "id": 60,
+      "questionType": "recognition",
+      "question": "『背』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "顔を背ける",
+      "choices": [
+        "化粧が濃い",
+        "音符",
+        "顔を背ける",
+        "松ぼっくり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "背 → 顔を背ける"
+    },
+    {
+      "id": 61,
+      "questionType": "meaning",
+      "question": "『腕試し』ning ma'nosi qaysi?",
+      "word": "腕試し",
+      "choices": [
+        "pochta yetib kelishi",
+        "aralash, pala-partish",
+        "kuchini sinab ko'rmoq",
+        "abnormal obhavo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腕試し → kuchini sinab ko'rmoq"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『腕』ning ma'nosi qaysi?",
+      "word": "腕",
+      "choices": [
+        "turar-joy",
+        "bilak, qo'l",
+        "parvarish xodimi (qariya, bemorlar)",
+        "vaziyat o'zgarishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腕 → bilak, qo'l"
+    },
+    {
+      "id": 63,
+      "questionType": "meaning",
+      "question": "『腹が立つ』ning ma'nosi qaysi?",
+      "word": "腹が立つ",
+      "choices": [
+        "ko'krak",
+        "jahl chiqmoq",
+        "egiluvchan, moslashuvchan",
+        "yumshoq, og'izda erib ketadigan ovqat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腹が立つ → jahl chiqmoq"
+    },
+    {
+      "id": 64,
+      "questionType": "reading",
+      "question": "『山腹』ning o'qilishi qaysi?",
+      "word": "山腹",
+      "choices": [
+        "さんぷく",
+        "めいれい",
+        "きん・すじ",
+        "ぎょそん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "山腹 → さんぷく"
+    },
+    {
+      "id": 65,
+      "questionType": "word",
+      "question": "『qobiliyatini ko'rsatmoq』ning yaponcha ifodasi qaysi?",
+      "word": "腕前を見せる",
+      "choices": [
+        "貴重品を預かる",
+        "腕前を見せる",
+        "命に別状はない",
+        "年越しそば"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qobiliyatini ko'rsatmoq → 腕前を見せる"
+    },
+    {
+      "id": 66,
+      "questionType": "kanji",
+      "question": "『うでがいい』qaysi yozuvga mos?",
+      "word": "腕がいい",
+      "choices": [
+        "甘やかす",
+        "腕がいい",
+        "違",
+        "日本庭園"
+      ],
+      "correctAnswer": 1,
+      "explanation": "うでがいい → 腕がいい"
+    },
+    {
+      "id": 67,
+      "questionType": "word",
+      "question": "『gavdani o'lchamoq』ning yaponcha ifodasi qaysi?",
+      "word": "胸囲を測る",
+      "choices": [
+        "胸囲を測る",
+        "通過",
+        "異常気象",
+        "骨の折れる仕事"
+      ],
+      "correctAnswer": 0,
+      "explanation": "gavdani o'lchamoq → 胸囲を測る"
+    },
+    {
+      "id": 68,
+      "questionType": "meaning",
+      "question": "『肩幅が広い』ning ma'nosi qaysi?",
+      "word": "肩幅が広い",
+      "choices": [
+        "yelka kengligi keng",
+        "daftarga yozib qo'yish",
+        "kirish chiptasi",
+        "qizg'in olqishlar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "肩幅が広い → yelka kengligi keng"
+    },
+    {
+      "id": 69,
+      "questionType": "meaning",
+      "question": "『空腹を覚える』ning ma'nosi qaysi?",
+      "word": "空腹を覚える",
+      "choices": [
+        "sarlavha",
+        "qorni och his qilmoq",
+        "avtobus bekati",
+        "farzand bilan siylanmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "空腹を覚える → qorni och his qilmoq"
+    },
+    {
+      "id": 70,
+      "questionType": "meaning",
+      "question": "『胸』ning ma'nosi qaysi?",
+      "word": "胸",
+      "choices": [
+        "ko'krak",
+        "qiyofa, shakl",
+        "orqa, quymich",
+        "taqdir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胸 → ko'krak"
+    },
+    {
+      "id": 71,
+      "questionType": "meaning",
+      "question": "『背比べ』ning ma'nosi qaysi?",
+      "word": "背比べ",
+      "choices": [
+        "qarag'ay daraxti",
+        "bo'yini solishtirish",
+        "ortopediya klinikasi",
+        "stulga qaytish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "背比べ → bo'yini solishtirish"
+    },
+    {
+      "id": 72,
+      "questionType": "word",
+      "question": "『qiyalik, yonbag'irlik』ning yaponcha ifodasi qaysi?",
+      "word": "山腹",
+      "choices": [
+        "硬貨",
+        "雑音がする",
+        "議会を招集する",
+        "山腹"
+      ],
+      "correctAnswer": 3,
+      "explanation": "qiyalik, yonbag'irlik → 山腹"
+    },
+    {
+      "id": 73,
+      "questionType": "sentence",
+      "question": "『親の期待に背く』ning ma'nosi qaysi?",
+      "word": "親の期待に背く",
+      "choices": [
+        "turg'unlik",
+        "ota-ona umidiga qarshi borish",
+        "sivilizatsiya gullab yashnashi",
+        "tibbiy sug'urta tizimi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "親の期待に背く → ota-ona umidiga qarshi borish"
+    },
+    {
+      "id": 74,
+      "questionType": "reading",
+      "question": "『背景』ning o'qilishi qaysi?",
+      "word": "背景",
+      "choices": [
+        "はいけい",
+        "いせい",
+        "つうか",
+        "しゅうかんし"
+      ],
+      "correctAnswer": 0,
+      "explanation": "背景 → はいけい"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『むなさわぎ』qaysi yozuvga mos?",
+      "word": "胸騒ぎ",
+      "choices": [
+        "舞",
+        "固まる",
+        "過去の栄光",
+        "胸騒ぎ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "むなさわぎ → 胸騒ぎ"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『肩書き』ning o'qilishi qaysi?",
+      "word": "肩書き",
+      "choices": [
+        "かたがき",
+        "ゆしゅつする",
+        "しんりょうじかん",
+        "おう・さくら"
+      ],
+      "correctAnswer": 0,
+      "explanation": "肩書き → かたがき"
+    },
+    {
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『度胸がある』ning ma'nosi qaysi?",
+      "word": "度胸がある",
+      "choices": [
+        "ko'pchilik",
+        "jonli efir",
+        "oshqozon tahlili",
+        "jasur"
+      ],
+      "correctAnswer": 3,
+      "explanation": "度胸がある → jasur"
+    },
+    {
+      "id": 78,
+      "questionType": "sentence",
+      "question": "『肩幅が広い』ning ma'nosi qaysi?",
+      "word": "肩幅が広い",
+      "choices": [
+        "parlament yig'ilishini chaqirmoq",
+        "yelka kengligi keng",
+        "sog'lom",
+        "ta'mi to'q (quyuq)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "肩幅が広い → yelka kengligi keng"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『うでどけい』qaysi yozuvga mos?",
+      "word": "腕時計",
+      "choices": [
+        "本を郵送する",
+        "心配する",
+        "背が伸びる",
+        "腕時計"
+      ],
+      "correctAnswer": 3,
+      "explanation": "うでどけい → 腕時計"
+    },
+    {
+      "id": 80,
+      "questionType": "recognition",
+      "question": "『腹』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "腹が立つ",
+      "choices": [
+        "腹が立つ",
+        "季節",
+        "残高照会",
+        "天丼"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腹 → 腹が立つ"
+    },
+    {
+      "id": 81,
+      "questionType": "sentence",
+      "question": "『本の背表紙』ning ma'nosi qaysi?",
+      "word": "本の背表紙",
+      "choices": [
+        "to'lov",
+        "kitob muqovasi",
+        "oddiy, keng tarqalgan",
+        "sahna asari, drama"
+      ],
+      "correctAnswer": 1,
+      "explanation": "本の背表紙 → kitob muqovasi"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『腹』ning ma'nosi qaysi?",
+      "word": "腹",
+      "choices": [
+        "qorin",
+        "shaxsni tasdiqlovchi hujjat",
+        "musiqiy nota",
+        "ketma-ket (navbatda) turmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腹 → qorin"
+    },
+    {
+      "id": 83,
+      "questionType": "meaning",
+      "question": "『肩の荷が下りる』ning ma'nosi qaysi?",
+      "word": "肩の荷が下りる",
+      "choices": [
+        "sakura gullash chizig'i (fronti)",
+        "yelka qotib qolishi",
+        "o'zini yengil his qilmoq",
+        "muzni erishi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "肩の荷が下りる → o'zini yengil his qilmoq"
+    },
+    {
+      "id": 84,
+      "questionType": "sentence",
+      "question": "『肩入れする』ning ma'nosi qaysi?",
+      "word": "肩入れする",
+      "choices": [
+        "gavdani o'lchamoq",
+        "gavda turishi, holati",
+        "sutda kalsiy bor",
+        "homiylik qilish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "肩入れする → homiylik qilish"
+    },
+    {
+      "id": 85,
+      "questionType": "sentence",
+      "question": "『肩を並べる』ning ma'nosi qaysi?",
+      "word": "肩を並べる",
+      "choices": [
+        "saxovatli",
+        "korrupsiya",
+        "yelka boyicha turmoq",
+        "kasallikdan tuzalganlikni nishonlash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "肩を並べる → yelka boyicha turmoq"
+    },
+    {
+      "id": 86,
+      "questionType": "recognition",
+      "question": "『肩』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "肩を並べる",
+      "choices": [
+        "肩を並べる",
+        "清",
+        "乗車券",
+        "健康診断"
+      ],
+      "correctAnswer": 0,
+      "explanation": "肩 → 肩を並べる"
+    },
+    {
+      "id": 87,
+      "questionType": "word",
+      "question": "『orqa, quymich』ning yaponcha ifodasi qaysi?",
+      "word": "背後",
+      "choices": [
+        "背後",
+        "姿勢",
+        "裁判所で証言する",
+        "人並みに生活する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "orqa, quymich → 背後"
+    },
+    {
+      "id": 88,
+      "questionType": "sentence",
+      "question": "『肩の荷が下りる』ning ma'nosi qaysi?",
+      "word": "肩の荷が下りる",
+      "choices": [
+        "o'zini yengil his qilmoq",
+        "og'riq susayishi",
+        "ijaraga olingan ko'p qavatli uy",
+        "chipta tekshirish (turniket) darvozasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "肩の荷が下りる → o'zini yengil his qilmoq"
+    },
+    {
+      "id": 89,
+      "questionType": "word",
+      "question": "『ota-ona umidiga qarshi borish』ning yaponcha ifodasi qaysi?",
+      "word": "親の期待に背く",
+      "choices": [
+        "高気圧",
+        "照",
+        "親の期待に背く",
+        "新製品"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ota-ona umidiga qarshi borish → 親の期待に背く"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『むねをうつ』qaysi yozuvga mos?",
+      "word": "胸を打つ",
+      "choices": [
+        "香水",
+        "生命",
+        "整える",
+        "胸を打つ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "むねをうつ → 胸を打つ"
+    },
+    {
+      "id": 91,
+      "questionType": "kanji",
+      "question": "『まんぷく』qaysi yozuvga mos?",
+      "word": "満腹",
+      "choices": [
+        "建材",
+        "意向を打診する",
+        "胃の検査",
+        "満腹"
+      ],
+      "correctAnswer": 3,
+      "explanation": "まんぷく → 満腹"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『さんぷく』qaysi yozuvga mos?",
+      "word": "山腹",
+      "choices": [
+        "汚職",
+        "本を郵送する",
+        "山腹",
+        "体の異状"
+      ],
+      "correctAnswer": 2,
+      "explanation": "さんぷく → 山腹"
+    },
+    {
+      "id": 93,
+      "questionType": "meaning",
+      "question": "『背』ning ma'nosi qaysi?",
+      "word": "背",
+      "choices": [
+        "gipoteza (faraz) qo'ymoq",
+        "orqa, bo'y",
+        "ko'pchilik",
+        "qattiq jism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "背 → orqa, bo'y"
+    },
+    {
+      "id": 94,
+      "questionType": "kanji",
+      "question": "『はい・せ』qaysi yozuvga mos?",
+      "word": "背",
+      "choices": [
+        "指輪",
+        "背",
+        "目標に到達する",
+        "診る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "はい・せ → 背"
+    },
+    {
+      "id": 95,
+      "questionType": "word",
+      "question": "『saxovatli』ning yaponcha ifodasi qaysi?",
+      "word": "太っ腹",
+      "choices": [
+        "私を含めて四人",
+        "込",
+        "太っ腹",
+        "整"
+      ],
+      "correctAnswer": 2,
+      "explanation": "saxovatli → 太っ腹"
+    },
+    {
+      "id": 96,
+      "questionType": "word",
+      "question": "『sarlavha』ning yaponcha ifodasi qaysi?",
+      "word": "肩書き",
+      "choices": [
+        "肩書き",
+        "荷物を詰め込む",
+        "背筋",
+        "発展する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sarlavha → 肩書き"
+    },
+    {
+      "id": 97,
+      "questionType": "sentence",
+      "question": "『腹を割って話す』ning ma'nosi qaysi?",
+      "word": "腹を割って話す",
+      "choices": [
+        "yashirmay, ochiq gapirish",
+        "o'tmish",
+        "yenlik banknota",
+        "din, mazhab"
+      ],
+      "correctAnswer": 0,
+      "explanation": "腹を割って話す → yashirmay, ochiq gapirish"
+    },
+    {
+      "id": 98,
+      "questionType": "sentence",
+      "question": "『肩がこる』ning ma'nosi qaysi?",
+      "word": "肩がこる",
+      "choices": [
+        "nevralogiya",
+        "qimmatbaho tosh",
+        "yelka qotib qolishi",
+        "kitob yozmoq, nashr etmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "肩がこる → yelka qotib qolishi"
+    },
+    {
+      "id": 99,
+      "questionType": "kanji",
+      "question": "『むねがいたむ』qaysi yozuvga mos?",
+      "word": "胸が痛む",
+      "choices": [
+        "満腹",
+        "家賃",
+        "新聞配達",
+        "胸が痛む"
+      ],
+      "correctAnswer": 3,
+      "explanation": "むねがいたむ → 胸が痛む"
+    },
+    {
+      "id": 100,
+      "questionType": "sentence",
+      "question": "『度胸がある』ning ma'nosi qaysi?",
+      "word": "度胸がある",
+      "choices": [
+        "kitobni pochta orqali yuborish",
+        "belgi, standart",
+        "farzand bilan siylanmoq",
+        "jasur"
+      ],
+      "correctAnswer": 3,
+      "explanation": "度胸がある → jasur"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『わん・うで』qaysi yozuvga mos?",
+      "word": "腕",
+      "choices": [
+        "符",
+        "楽しい時を過ごす",
+        "腕",
+        "手を振る"
+      ],
+      "correctAnswer": 2,
+      "explanation": "わん・うで → 腕"
+    },
+    {
+      "id": 102,
+      "questionType": "kanji",
+      "question": "『はいご』qaysi yozuvga mos?",
+      "word": "背後",
+      "choices": [
+        "布団を掛ける",
+        "贈り物",
+        "混",
+        "背後"
+      ],
+      "correctAnswer": 3,
+      "explanation": "はいご → 背後"
+    },
+    {
+      "id": 103,
+      "questionType": "reading",
+      "question": "『太っ腹』ning o'qilishi qaysi?",
+      "word": "太っ腹",
+      "choices": [
+        "ざんだかしょうかい",
+        "ふとっぱら",
+        "てがみがとどく",
+        "つうか"
+      ],
+      "correctAnswer": 1,
+      "explanation": "太っ腹 → ふとっぱら"
+    },
+    {
+      "id": 104,
+      "questionType": "sentence",
+      "question": "『腕白な子供』ning ma'nosi qaysi?",
+      "word": "腕白な子供",
+      "choices": [
+        "shaxsni tasdiqlovchi hujjat",
+        "tarqalmoq, mashhur bo'lmoq",
+        "tantiq bola",
+        "gazeta yetkazib berish (kuryerlik)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腕白な子供 → tantiq bola"
+    },
+    {
+      "id": 105,
+      "questionType": "reading",
+      "question": "『満腹』ning o'qilishi qaysi?",
+      "word": "満腹",
+      "choices": [
+        "ひなんのひょうてきとなる",
+        "まんぷく",
+        "わん・うで",
+        "げきじょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "満腹 → まんぷく"
+    },
+    {
+      "id": 106,
+      "questionType": "recognition",
+      "question": "『肩』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "肩がこる",
+      "choices": [
+        "症",
+        "届",
+        "肩がこる",
+        "劇"
+      ],
+      "correctAnswer": 2,
+      "explanation": "肩 → 肩がこる"
+    },
+    {
+      "id": 107,
+      "questionType": "sentence",
+      "question": "『胸囲を測る』ning ma'nosi qaysi?",
+      "word": "胸囲を測る",
+      "choices": [
+        "gavdani o'lchamoq",
+        "din, mazhab",
+        "faxriy yorliq",
+        "qo'lni silkitish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胸囲を測る → gavdani o'lchamoq"
+    },
+    {
+      "id": 108,
+      "questionType": "recognition",
+      "question": "『背』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "背景",
+      "choices": [
+        "展示する",
+        "背景",
+        "健康診断",
+        "道路を渡る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "背 → 背景"
+    },
+    {
+      "id": 109,
+      "questionType": "recognition",
+      "question": "『胸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胸囲を測る",
+      "choices": [
+        "胸囲を測る",
+        "著",
+        "植物の生態調査",
+        "美と健康を保つ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胸 → 胸囲を測る"
+    },
+    {
+      "id": 110,
+      "questionType": "meaning",
+      "question": "『胸騒ぎ』ning ma'nosi qaysi?",
+      "word": "胸騒ぎ",
+      "choices": [
+        "yumshoq",
+        "oldindagi mashinani quvib o'tmoq",
+        "tashvish",
+        "hovli, bog'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胸騒ぎ → tashvish"
+    },
+    {
+      "id": 111,
+      "questionType": "recognition",
+      "question": "『肩』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "肩幅が広い",
+      "choices": [
+        "掛",
+        "製",
+        "映画を製作する",
+        "肩幅が広い"
+      ],
+      "correctAnswer": 3,
+      "explanation": "肩 → 肩幅が広い"
+    },
+    {
+      "id": 112,
+      "questionType": "word",
+      "question": "『to'q qorin』ning yaponcha ifodasi qaysi?",
+      "word": "満腹",
+      "choices": [
+        "美人",
+        "満腹",
+        "手帳",
+        "生命"
+      ],
+      "correctAnswer": 1,
+      "explanation": "to'q qorin → 満腹"
+    },
+    {
+      "id": 113,
+      "questionType": "sentence",
+      "question": "『腹を決める』ning ma'nosi qaysi?",
+      "word": "腹を決める",
+      "choices": [
+        "mutaxassis, kasb egasi",
+        "pul almashtirish",
+        "qaror qilmoq",
+        "og'izga suv olish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "腹を決める → qaror qilmoq"
+    },
+    {
+      "id": 114,
+      "questionType": "reading",
+      "question": "『背比べ』ning o'qilishi qaysi?",
+      "word": "背比べ",
+      "choices": [
+        "めい・いのち",
+        "ふとっぱら",
+        "ようとがひろい",
+        "せいくらべ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "背比べ → せいくらべ"
+    },
+    {
+      "id": 115,
+      "questionType": "kanji",
+      "question": "『ふとっぱら』qaysi yozuvga mos?",
+      "word": "太っ腹",
+      "choices": [
+        "舞台に立つ",
+        "席を換わる",
+        "太っ腹",
+        "賞状"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ふとっぱら → 太っ腹"
+    },
+    {
+      "id": 116,
+      "questionType": "recognition",
+      "question": "『腹』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "満腹",
+      "choices": [
+        "運賃",
+        "満腹",
+        "香る",
+        "払"
+      ],
+      "correctAnswer": 1,
+      "explanation": "腹 → 満腹"
+    },
+    {
+      "id": 117,
+      "questionType": "kanji",
+      "question": "『せなか』qaysi yozuvga mos?",
+      "word": "背中",
+      "choices": [
+        "映画を製作する",
+        "前途多難",
+        "背中",
+        "圧"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せなか → 背中"
+    },
+    {
+      "id": 118,
+      "questionType": "sentence",
+      "question": "『背が伸びる』ning ma'nosi qaysi?",
+      "word": "背が伸びる",
+      "choices": [
+        "kundalik",
+        "toza, pok",
+        "bo'yi cho'zilmoq",
+        "orqa, bo'y"
+      ],
+      "correctAnswer": 2,
+      "explanation": "背が伸びる → bo'yi cho'zilmoq"
+    },
+    {
+      "id": 119,
+      "questionType": "recognition",
+      "question": "『胸』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "胸が痛む",
+      "choices": [
+        "胸が痛む",
+        "港",
+        "肩",
+        "腕がいい"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胸 → 胸が痛む"
+    },
+    {
+      "id": 120,
+      "questionType": "word",
+      "question": "『bilak kuchi, jismoniy kuch』ning yaponcha ifodasi qaysi?",
+      "word": "腕力",
+      "choices": [
+        "腕力",
+        "税込み",
+        "川の流域",
+        "支払い"
+      ],
+      "correctAnswer": 0,
+      "explanation": "bilak kuchi, jismoniy kuch → 腕力"
+    },
+    {
+      "id": 121,
+      "questionType": "kanji",
+      "question": "『けん・かた』qaysi yozuvga mos?",
+      "word": "肩",
+      "choices": [
+        "靴が脱げる",
+        "病気の原因",
+        "医療保険制度",
+        "肩"
+      ],
+      "correctAnswer": 3,
+      "explanation": "けん・かた → 肩"
+    },
+    {
+      "id": 122,
+      "questionType": "meaning",
+      "question": "『肩』ning ma'nosi qaysi?",
+      "word": "肩",
+      "choices": [
+        "yelka",
+        "ko'rik vaqti",
+        "qiyg'os gullash",
+        "eksport qilish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "肩 → yelka"
+    },
+    {
+      "id": 123,
+      "questionType": "reading",
+      "question": "『胸』ning o'qilishi qaysi?",
+      "word": "胸",
+      "choices": [
+        "ぶ",
+        "きゅうしん",
+        "きょう・むね",
+        "ぶんめいがさかえる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "胸 → きょう・むね"
+    },
+    {
+      "id": 124,
+      "questionType": "kanji",
+      "question": "『わんりょく』qaysi yozuvga mos?",
+      "word": "腕力",
+      "choices": [
+        "痛みが薄らぐ",
+        "命名",
+        "腕力",
+        "健康美"
+      ],
+      "correctAnswer": 2,
+      "explanation": "わんりょく → 腕力"
+    },
+    {
+      "id": 125,
+      "questionType": "sentence",
+      "question": "『背を向ける』ning ma'nosi qaysi?",
+      "word": "背を向ける",
+      "choices": [
+        "o'zini ko'rmagandek tutish",
+        "chet davlati",
+        "yenni dollarga almashtirish",
+        "bo'yoqni eritish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "背を向ける → o'zini ko'rmagandek tutish"
+    },
+    {
+      "id": 126,
+      "questionType": "sentence",
+      "question": "『胸が痛む』ning ma'nosi qaysi?",
+      "word": "胸が痛む",
+      "choices": [
+        "ko'krak qafasi og'rishi",
+        "kundalik yozib borish",
+        "ichki organlar",
+        "parlament yig'ilishini chaqirmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "胸が痛む → ko'krak qafasi og'rishi"
+    },
+    {
+      "id": 127,
+      "questionType": "reading",
+      "question": "『胸騒ぎ』ning o'qilishi qaysi?",
+      "word": "胸騒ぎ",
+      "choices": [
+        "じゅうきょ",
+        "かたはばがひろい",
+        "ほね",
+        "むなさわぎ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "胸騒ぎ → むなさわぎ"
+    }
+  ]
+}

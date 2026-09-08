@@ -5,1389 +5,1417 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "kanji",
-      "question": "『しん』qaysi yozuvga mos?",
-      "word": "振",
+      "questionType": "word",
+      "question": "『eshik taxtachasi (familiya yozilgan)』ning yaponcha ifodasi qaysi?",
+      "word": "玄関の表札",
       "choices": [
-        "振",
-        "交通違反",
-        "株券",
-        "純粋な心"
+        "玄関の表札",
+        "チームに勢いがある",
+        "支払い",
+        "輸"
       ],
       "correctAnswer": 0,
-      "explanation": "しん → 振"
+      "explanation": "eshik taxtachasi (familiya yozilgan) → 玄関の表札"
     },
     {
       "id": 2,
-      "questionType": "reading",
-      "question": "『照明』ning o'qilishi qaysi?",
-      "word": "照明",
+      "questionType": "sentence",
+      "question": "『普通預金』ning ma'nosi qaysi?",
+      "word": "普通預金",
       "choices": [
-        "まえのくるまをおいこす",
-        "いきおいよく",
-        "しょうめい",
-        "しん"
+        "yoritmoq",
+        "davlat chegarasidan kesib o'tish",
+        "oddiy bank hisobi",
+        "yupqa, suyuq"
       ],
       "correctAnswer": 2,
-      "explanation": "照明 → しょうめい"
+      "explanation": "普通預金 → oddiy bank hisobi"
     },
     {
       "id": 3,
       "questionType": "sentence",
+      "question": "『貨物列車』ning ma'nosi qaysi?",
+      "word": "貨物列車",
+      "choices": [
+        "to'kilgan barglarni supurish",
+        "iqror bo'lmoq",
+        "yuk poyezdi",
+        "bo'yinbog' (hayvon uchun)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "貨物列車 → yuk poyezdi"
+    },
+    {
+      "id": 4,
+      "questionType": "word",
+      "question": "『pul, tovar』ning yaponcha ifodasi qaysi?",
+      "word": "貨",
+      "choices": [
+        "到",
+        "心を込める",
+        "貨",
+        "背が伸びる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "pul, tovar → 貨"
+    },
+    {
+      "id": 5,
+      "questionType": "reading",
+      "question": "『千円札』ning o'qilishi qaysi?",
+      "word": "千円札",
+      "choices": [
+        "かたをならべる",
+        "ないぞう",
+        "せんえんさつ",
+        "けんこうび"
+      ],
+      "correctAnswer": 2,
+      "explanation": "千円札 → せんえんさつ"
+    },
+    {
+      "id": 6,
+      "questionType": "kanji",
+      "question": "『ひゃっかてん』qaysi yozuvga mos?",
+      "word": "百貨店",
+      "choices": [
+        "背が伸びる",
+        "溶",
+        "百貨店",
+        "製造年月日"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ひゃっかてん → 百貨店"
+    },
+    {
+      "id": 7,
+      "questionType": "word",
+      "question": "『daftar』ning yaponcha ifodasi qaysi?",
+      "word": "帳",
+      "choices": [
+        "因果関係",
+        "梅雨",
+        "帳",
+        "初診"
+      ],
+      "correctAnswer": 2,
+      "explanation": "daftar → 帳"
+    },
+    {
+      "id": 8,
+      "questionType": "meaning",
+      "question": "『記帳する』ning ma'nosi qaysi?",
+      "word": "記帳する",
+      "choices": [
+        "daftarga yozib qo'yish",
+        "xazina, boylik",
+        "oyoq muskuli",
+        "aralash, pala-partish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "記帳する → daftarga yozib qo'yish"
+    },
+    {
+      "id": 9,
+      "questionType": "sentence",
       "question": "『駅の改札口』ning ma'nosi qaysi?",
       "word": "駅の改札口",
       "choices": [
-        "to'lov",
+        "korrupsiya",
         "chipta tekshirish (turniket) darvozasi",
-        "qattiq, mustahkam",
-        "katta portsiya ovqat"
+        "tartibga keltirmoq, tayyorlamoq",
+        "soliq ichida"
       ],
       "correctAnswer": 1,
       "explanation": "駅の改札口 → chipta tekshirish (turniket) darvozasi"
     },
     {
-      "id": 4,
-      "questionType": "meaning",
-      "question": "『通貨』ning ma'nosi qaysi?",
-      "word": "通貨",
-      "choices": [
-        "teatr tomoshasi, spektakl",
-        "valyuta",
-        "yumshoq ko'rpa",
-        "taltaytirmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "通貨 → valyuta"
-    },
-    {
-      "id": 5,
+      "id": 10,
       "questionType": "recognition",
-      "question": "『札』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "玄関の表札",
-      "choices": [
-        "普",
-        "札束",
-        "玄関の表札",
-        "普及する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "札 → 玄関の表札"
-    },
-    {
-      "id": 6,
-      "questionType": "kanji",
-      "question": "『こうざふりかえ』qaysi yozuvga mos?",
-      "word": "口座振替",
-      "choices": [
-        "著者",
-        "目標を定める",
-        "席を換わる",
-        "口座振替"
-      ],
-      "correctAnswer": 3,
-      "explanation": "こうざふりかえ → 口座振替"
-    },
-    {
-      "id": 7,
-      "questionType": "sentence",
-      "question": "『記帳する』ning ma'nosi qaysi?",
-      "word": "記帳する",
-      "choices": [
-        "navbat almashinmoq",
-        "daftarga yozib qo'yish",
-        "marhamat, in'om",
-        "o'tib ketish (to'xtamasdan)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "記帳する → daftarga yozib qo'yish"
-    },
-    {
-      "id": 8,
-      "questionType": "sentence",
-      "question": "『恋人に振られる』ning ma'nosi qaysi?",
-      "word": "恋人に振られる",
-      "choices": [
-        "tashish, jo'natish",
-        "yomg'ir mavsumi fronti",
-        "sevgan inson tomonidan tashlab ketilish",
-        "oqqa ko'chirish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "恋人に振られる → sevgan inson tomonidan tashlab ketilish"
-    },
-    {
-      "id": 9,
-      "questionType": "reading",
-      "question": "『雑貨』ning o'qilishi qaysi?",
+      "question": "『貨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
       "word": "雑貨",
       "choices": [
-        "じゅん",
-        "ざっか",
-        "りょうて",
-        "こうすい"
+        "腹筋",
+        "航空機",
+        "雑貨",
+        "腹が立つ"
       ],
-      "correctAnswer": 1,
-      "explanation": "雑貨 → ざっか"
+      "correctAnswer": 2,
+      "explanation": "貨 → 雑貨"
     },
     {
-      "id": 10,
-      "questionType": "meaning",
+      "id": 11,
+      "questionType": "sentence",
       "question": "『預金する』ning ma'nosi qaysi?",
       "word": "預金する",
       "choices": [
-        "suv bilan ta'mni me'yorlashtirish",
+        "qulay xona",
         "bankka pul qo'yish",
-        "poyezd chiptasi",
-        "pul almashtirish"
+        "oshxona (umumiy)",
+        "silkitmoq, tebranmoq"
       ],
       "correctAnswer": 1,
       "explanation": "預金する → bankka pul qo'yish"
     },
     {
-      "id": 11,
-      "questionType": "word",
-      "question": "『univermag, universal magazin』ning yaponcha ifodasi qaysi?",
-      "word": "百貨店",
-      "choices": [
-        "展示する",
-        "甘いミカン",
-        "仮の住まい",
-        "百貨店"
-      ],
-      "correctAnswer": 3,
-      "explanation": "univermag, universal magazin → 百貨店"
-    },
-    {
       "id": 12,
       "questionType": "kanji",
-      "question": "『よ』qaysi yozuvga mos?",
-      "word": "預",
+      "question": "『つうか』qaysi yozuvga mos?",
+      "word": "通貨",
       "choices": [
-        "混",
-        "手を振る",
-        "預",
-        "杉"
+        "宝石",
+        "ファッション誌",
+        "清い心",
+        "通貨"
       ],
-      "correctAnswer": 2,
-      "explanation": "よ → 預"
+      "correctAnswer": 3,
+      "explanation": "つうか → 通貨"
     },
     {
       "id": 13,
-      "questionType": "word",
-      "question": "『tanga』ning yaponcha ifodasi qaysi?",
-      "word": "硬貨",
-      "choices": [
-        "運賃",
-        "変換",
-        "硬貨",
-        "映画を製作する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "tanga → 硬貨"
-    },
-    {
-      "id": 14,
-      "questionType": "recognition",
-      "question": "『札』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "駅の改札口",
-      "choices": [
-        "駅の改札口",
-        "バラの香り",
-        "自国領域",
-        "小麦粉と卵を混ぜる"
-      ],
-      "correctAnswer": 0,
-      "explanation": "札 → 駅の改札口"
-    },
-    {
-      "id": 15,
-      "questionType": "word",
-      "question": "『tebranish, chayqalish』ning yaponcha ifodasi qaysi?",
-      "word": "振動",
-      "choices": [
-        "利益を配分する",
-        "柔らかな布団",
-        "振動",
-        "部屋を汚す"
-      ],
-      "correctAnswer": 2,
-      "explanation": "tebranish, chayqalish → 振動"
-    },
-    {
-      "id": 16,
-      "questionType": "kanji",
-      "question": "『せんえんさつ』qaysi yozuvga mos?",
-      "word": "千円札",
-      "choices": [
-        "掛かる",
-        "布団を掛ける",
-        "薄",
-        "千円札"
-      ],
-      "correctAnswer": 3,
-      "explanation": "せんえんさつ → 千円札"
-    },
-    {
-      "id": 17,
-      "questionType": "recognition",
-      "question": "『照』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "照明",
-      "choices": [
-        "照明",
-        "輪",
-        "電車の切符",
-        "恵"
-      ],
-      "correctAnswer": 0,
-      "explanation": "照 → 照明"
-    },
-    {
-      "id": 18,
-      "questionType": "reading",
-      "question": "『照』ning o'qilishi qaysi?",
-      "word": "照",
-      "choices": [
-        "かかる",
-        "しょう",
-        "にっしをつける",
-        "ねぎをきざむ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "照 → しょう"
-    },
-    {
-      "id": 19,
-      "questionType": "kanji",
-      "question": "『か』qaysi yozuvga mos?",
-      "word": "貨",
-      "choices": [
-        "車両",
-        "貨",
-        "帳",
-        "混ざる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "か → 貨"
-    },
-    {
-      "id": 20,
-      "questionType": "kanji",
-      "question": "『かもつれっしゃ』qaysi yozuvga mos?",
-      "word": "貨物列車",
-      "choices": [
-        "汁",
-        "航空便",
-        "薄",
-        "貨物列車"
-      ],
-      "correctAnswer": 3,
-      "explanation": "かもつれっしゃ → 貨物列車"
-    },
-    {
-      "id": 21,
-      "questionType": "sentence",
-      "question": "『貴重品を預かる』ning ma'nosi qaysi?",
-      "word": "貴重品を預かる",
-      "choices": [
-        "bo'lmoq, yashamoq",
-        "qimmatbaho narsani omonatga olish",
-        "kundalik",
-        "adashmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "貴重品を預かる → qimmatbaho narsani omonatga olish"
-    },
-    {
-      "id": 22,
       "questionType": "sentence",
       "question": "『針が振れる』ning ma'nosi qaysi?",
       "word": "針が振れる",
       "choices": [
         "mil (strelka) tebranishi",
-        "sinf xonasini tozalash",
-        "to'lamoq",
-        "farzand bilan siylanmoq"
+        "yurak hapqirishi",
+        "qotmoq",
+        "hayotini yo'qotish"
       ],
       "correctAnswer": 0,
       "explanation": "針が振れる → mil (strelka) tebranishi"
     },
     {
-      "id": 23,
+      "id": 14,
       "questionType": "kanji",
-      "question": "『さつ・ふだ』qaysi yozuvga mos?",
-      "word": "札",
-      "choices": [
-        "札",
-        "目標を定める",
-        "貨",
-        "態度が軟化する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "さつ・ふだ → 札"
-    },
-    {
-      "id": 24,
-      "questionType": "word",
-      "question": "『ismi yozilgan beyjik tayyorlash』ning yaponcha ifodasi qaysi?",
-      "word": "名札をつける",
-      "choices": [
-        "居間",
-        "停戦",
-        "両方",
-        "名札をつける"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ismi yozilgan beyjik tayyorlash → 名札をつける"
-    },
-    {
-      "id": 25,
-      "questionType": "reading",
-      "question": "『貨』ning o'qilishi qaysi?",
+      "question": "『か』qaysi yozuvga mos?",
       "word": "貨",
       "choices": [
-        "ねぎをきざむ",
-        "か",
-        "ふつうのかてい",
-        "てる"
+        "受け入れ態勢",
+        "標",
+        "貨",
+        "親と同居する"
       ],
-      "correctAnswer": 1,
-      "explanation": "貨 → か"
+      "correctAnswer": 2,
+      "explanation": "か → 貨"
     },
     {
-      "id": 26,
+      "id": 15,
+      "questionType": "kanji",
+      "question": "『ふりこみ』qaysi yozuvga mos?",
+      "word": "振り込み",
+      "choices": [
+        "振り込み",
+        "腕",
+        "純情な人",
+        "普段着"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ふりこみ → 振り込み"
+    },
+    {
+      "id": 16,
+      "questionType": "kanji",
+      "question": "『ざっか』qaysi yozuvga mos?",
+      "word": "雑貨",
+      "choices": [
+        "空港",
+        "雑貨",
+        "券",
+        "状況が一変する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ざっか → 雑貨"
+    },
+    {
+      "id": 17,
+      "questionType": "kanji",
+      "question": "『てをふる』qaysi yozuvga mos?",
+      "word": "手を振る",
+      "choices": [
+        "背筋",
+        "手を振る",
+        "配",
+        "汁"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てをふる → 手を振る"
+    },
+    {
+      "id": 18,
       "questionType": "meaning",
+      "question": "『恋人に振られる』ning ma'nosi qaysi?",
+      "word": "恋人に振られる",
+      "choices": [
+        "sevgan inson tomonidan tashlab ketilish",
+        "ruhan ta'sir ko'rsatish",
+        "tarqalmoq, mashhur bo'lmoq",
+        "gastrit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "恋人に振られる → sevgan inson tomonidan tashlab ketilish"
+    },
+    {
+      "id": 19,
+      "questionType": "sentence",
+      "question": "『手を振る』ning ma'nosi qaysi?",
+      "word": "手を振る",
+      "choices": [
+        "qimmatbaho narsani omonatga olish",
+        "eksport qilish",
+        "qo'lni silkitish",
+        "musiqiy nota"
+      ],
+      "correctAnswer": 2,
+      "explanation": "手を振る → qo'lni silkitish"
+    },
+    {
+      "id": 20,
+      "questionType": "sentence",
+      "question": "『銀行の通帳』ning ma'nosi qaysi?",
+      "word": "銀行の通帳",
+      "choices": [
+        "Yangi mahsulot",
+        "gurung,suhbat",
+        "bank daftarchasi",
+        "pul almashtirish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "銀行の通帳 → bank daftarchasi"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『雑貨』ning o'qilishi qaysi?",
+      "word": "雑貨",
+      "choices": [
+        "しん・みる",
+        "ほうせき",
+        "いちょうやく",
+        "ざっか"
+      ],
+      "correctAnswer": 3,
+      "explanation": "雑貨 → ざっか"
+    },
+    {
+      "id": 22,
+      "questionType": "sentence",
       "question": "『記帳する』ning ma'nosi qaysi?",
       "word": "記帳する",
       "choices": [
-        "go'zallik va salomatlikni saqlash",
-        "ta'mi to'q (quyuq)",
-        "aralashmoq",
+        "eksport qilish",
+        "farq qilmoq",
+        "omonat qoldirmoq",
         "daftarga yozib qo'yish"
       ],
       "correctAnswer": 3,
       "explanation": "記帳する → daftarga yozib qo'yish"
     },
     {
-      "id": 27,
-      "questionType": "meaning",
-      "question": "『駅の改札口』ning ma'nosi qaysi?",
-      "word": "駅の改札口",
+      "id": 23,
+      "questionType": "word",
+      "question": "『kundalik』ning yaponcha ifodasi qaysi?",
+      "word": "手帳",
       "choices": [
-        "brokerlik kompaniyasi",
-        "belgi, chipta",
-        "chipta tekshirish (turniket) darvozasi",
-        "transport"
+        "異国",
+        "芝居",
+        "手帳",
+        "両"
       ],
       "correctAnswer": 2,
-      "explanation": "駅の改札口 → chipta tekshirish (turniket) darvozasi"
+      "explanation": "kundalik → 手帳"
     },
     {
-      "id": 28,
-      "questionType": "sentence",
-      "question": "『預金する』ning ma'nosi qaysi?",
-      "word": "預金する",
+      "id": 24,
+      "questionType": "recognition",
+      "question": "『振』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "恋人に振られる",
       "choices": [
-        "bankka pul qo'yish",
-        "o'tmishdagi shon-sharaf",
-        "baliqchilik qishlog'i",
-        "turli maqsadda ishlatsa bo'ladigan"
-      ],
-      "correctAnswer": 0,
-      "explanation": "預金する → bankka pul qo'yish"
-    },
-    {
-      "id": 29,
-      "questionType": "word",
-      "question": "『pul, tovar』ning yaponcha ifodasi qaysi?",
-      "word": "貨",
-      "choices": [
-        "乗車券",
-        "預",
-        "進展する",
-        "貨"
+        "漁村",
+        "普",
+        "新製品",
+        "恋人に振られる"
       ],
       "correctAnswer": 3,
-      "explanation": "pul, tovar → 貨"
+      "explanation": "振 → 恋人に振られる"
     },
     {
-      "id": 30,
-      "questionType": "meaning",
-      "question": "『手を振る』ning ma'nosi qaysi?",
-      "word": "手を振る",
-      "choices": [
-        "lotereya",
-        "qo'lni silkitish",
-        "un bilan tuxumni aralashtirmoq",
-        "doira shaklini hosil qilish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "手を振る → qo'lni silkitish"
-    },
-    {
-      "id": 31,
-      "questionType": "kanji",
-      "question": "『つうか』qaysi yozuvga mos?",
-      "word": "通貨",
-      "choices": [
-        "通貨",
-        "前途多難",
-        "製造年月日",
-        "郵便局"
-      ],
-      "correctAnswer": 0,
-      "explanation": "つうか → 通貨"
-    },
-    {
-      "id": 32,
-      "questionType": "kanji",
-      "question": "『しんどう』qaysi yozuvga mos?",
-      "word": "振動",
-      "choices": [
-        "裁判所で証言する",
-        "輪",
-        "快く引き受ける",
-        "振動"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しんどう → 振動"
-    },
-    {
-      "id": 33,
-      "questionType": "sentence",
-      "question": "『振り込み』ning ma'nosi qaysi?",
-      "word": "振り込み",
-      "choices": [
-        "yapon o'rigi",
-        "yaxshi hayot",
-        "osilib turmoq",
-        "bank orqali to'lov qilish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "振り込み → bank orqali to'lov qilish"
-    },
-    {
-      "id": 34,
-      "questionType": "kanji",
-      "question": "『ざっか』qaysi yozuvga mos?",
-      "word": "雑貨",
-      "choices": [
-        "居",
-        "日本の姿",
-        "航",
-        "雑貨"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ざっか → 雑貨"
-    },
-    {
-      "id": 35,
+      "id": 25,
       "questionType": "word",
       "question": "『yoritmoq』ning yaponcha ifodasi qaysi?",
       "word": "照",
       "choices": [
-        "宝",
-        "身分証明書",
-        "並",
-        "照"
+        "勢いよく",
+        "照",
+        "盛大な",
+        "胃痛がひどい"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "yoritmoq → 照"
     },
     {
-      "id": 36,
+      "id": 26,
       "questionType": "kanji",
-      "question": "『ざんだかしょうかい』qaysi yozuvga mos?",
-      "word": "残高照会",
+      "question": "『こうざふりかえ』qaysi yozuvga mos?",
+      "word": "口座振替",
       "choices": [
-        "融",
-        "快気祝い",
-        "残高照会",
-        "配"
+        "口座振替",
+        "利益を配分する",
+        "水で味を薄める",
+        "本を郵送する"
       ],
-      "correctAnswer": 2,
-      "explanation": "ざんだかしょうかい → 残高照会"
+      "correctAnswer": 0,
+      "explanation": "こうざふりかえ → 口座振替"
     },
     {
-      "id": 37,
+      "id": 27,
+      "questionType": "sentence",
+      "question": "『名札をつける』ning ma'nosi qaysi?",
+      "word": "名札をつける",
+      "choices": [
+        "yoritmoq",
+        "ismi yozilgan beyjik tayyorlash",
+        "yurakdan bajarish",
+        "hovli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "名札をつける → ismi yozilgan beyjik tayyorlash"
+    },
+    {
+      "id": 28,
+      "questionType": "meaning",
+      "question": "『預金する』ning ma'nosi qaysi?",
+      "word": "預金する",
+      "choices": [
+        "orqa, bo'y",
+        "rivojlanish",
+        "ikkalasini birga olib bormoq",
+        "bankka pul qo'yish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "預金する → bankka pul qo'yish"
+    },
+    {
+      "id": 29,
+      "questionType": "reading",
+      "question": "『百貨店』ning o'qilishi qaysi?",
+      "word": "百貨店",
+      "choices": [
+        "こころよいへんじ",
+        "なつがすぎる",
+        "はらがたつ",
+        "ひゃっかてん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "百貨店 → ひゃっかてん"
+    },
+    {
+      "id": 30,
+      "questionType": "sentence",
+      "question": "『振り込み』ning ma'nosi qaysi?",
+      "word": "振り込み",
+      "choices": [
+        "yuborish, jo'natish",
+        "bank orqali to'lov qilish",
+        "sakura (gilos guli)",
+        "oshqozon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "振り込み → bank orqali to'lov qilish"
+    },
+    {
+      "id": 31,
+      "questionType": "word",
+      "question": "『yenlik banknota』ning yaponcha ifodasi qaysi?",
+      "word": "千円札",
+      "choices": [
+        "招",
+        "輸送する",
+        "展",
+        "千円札"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yenlik banknota → 千円札"
+    },
+    {
+      "id": 32,
+      "questionType": "meaning",
+      "question": "『振動』ning ma'nosi qaysi?",
+      "word": "振動",
+      "choices": [
+        "tebranish, chayqalish",
+        "go'zallik saloni",
+        "italiyada tayyorlangan tufli",
+        "kirish chiptasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "振動 → tebranish, chayqalish"
+    },
+    {
+      "id": 33,
+      "questionType": "reading",
+      "question": "『札束』ning o'qilishi qaysi?",
+      "word": "札束",
+      "choices": [
+        "きせつ",
+        "さつたば",
+        "あまいミカン",
+        "ゆそうする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "札束 → さつたば"
+    },
+    {
+      "id": 34,
       "questionType": "reading",
       "question": "『通貨』ning o'qilishi qaysi?",
       "word": "通貨",
       "choices": [
-        "かくえきていしゃ",
-        "こうつういはん",
-        "こう・きょう・かおる・か",
+        "いんがかんけい",
+        "わたる",
+        "よきんする",
         "つうか"
       ],
       "correctAnswer": 3,
       "explanation": "通貨 → つうか"
     },
     {
-      "id": 38,
-      "questionType": "reading",
-      "question": "『帳』ning o'qilishi qaysi?",
-      "word": "帳",
+      "id": 35,
+      "questionType": "word",
+      "question": "『qimmatbaho narsani omonatga olish』ning yaponcha ifodasi qaysi?",
+      "word": "貴重品を預かる",
       "choices": [
-        "ちょう",
-        "けいはくなひと",
-        "はらう",
-        "しゅうかんし"
+        "貴重品を預かる",
+        "週刊誌",
+        "胸",
+        "定期券"
       ],
       "correctAnswer": 0,
-      "explanation": "帳 → ちょう"
+      "explanation": "qimmatbaho narsani omonatga olish → 貴重品を預かる"
     },
     {
-      "id": 39,
+      "id": 36,
       "questionType": "word",
-      "question": "『bir dasta pul』ning yaponcha ifodasi qaysi?",
-      "word": "札束",
+      "question": "『qoldiqni so'rash (balans)』ning yaponcha ifodasi qaysi?",
+      "word": "残高照会",
       "choices": [
-        "宝石",
-        "心臓が停止する",
-        "札束",
-        "郵便局"
+        "快適な部屋",
+        "残高照会",
+        "単純な問題",
+        "本を著す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "qoldiqni so'rash (balans) → 残高照会"
+    },
+    {
+      "id": 37,
+      "questionType": "word",
+      "question": "『turli xil mahsulotlar』ning yaponcha ifodasi qaysi?",
+      "word": "雑貨",
+      "choices": [
+        "肩甲骨",
+        "払い戻す",
+        "雑貨",
+        "背中"
       ],
       "correctAnswer": 2,
-      "explanation": "bir dasta pul → 札束"
+      "explanation": "turli xil mahsulotlar → 雑貨"
     },
     {
-      "id": 40,
-      "questionType": "reading",
-      "question": "『照る』ning o'qilishi qaysi?",
-      "word": "照る",
-      "choices": [
-        "てる",
-        "ふりこみ",
-        "おおぜいのひと",
-        "かいがてん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "照る → てる"
-    },
-    {
-      "id": 41,
+      "id": 38,
       "questionType": "kanji",
       "question": "『ふつうよきん』qaysi yozuvga mos?",
       "word": "普通預金",
       "choices": [
         "普通預金",
         "通貨",
-        "恋人に振られる",
-        "著"
+        "平均寿命",
+        "残高照会"
       ],
       "correctAnswer": 0,
       "explanation": "ふつうよきん → 普通預金"
     },
     {
-      "id": 42,
-      "questionType": "sentence",
-      "question": "『口座振替』ning ma'nosi qaysi?",
-      "word": "口座振替",
-      "choices": [
-        "italiyada tayyorlangan tufli",
-        "maktab hovlisi",
-        "hayot oson emas",
-        "hisobdan avtomatik yechish (to'lov)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "口座振替 → hisobdan avtomatik yechish (to'lov)"
-    },
-    {
-      "id": 43,
-      "questionType": "sentence",
+      "id": 39,
+      "questionType": "meaning",
       "question": "『銀行の通帳』ning ma'nosi qaysi?",
       "word": "銀行の通帳",
       "choices": [
         "bank daftarchasi",
-        "gazeta yetkazib berish (kuryerlik)",
-        "kedr",
-        "sutda kalsiy bor"
+        "murakkab hisob-kitob",
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "kurak suyagi"
       ],
       "correctAnswer": 0,
       "explanation": "銀行の通帳 → bank daftarchasi"
     },
     {
-      "id": 44,
-      "questionType": "word",
-      "question": "『qoldiqni so'rash (balans)』ning yaponcha ifodasi qaysi?",
-      "word": "残高照会",
+      "id": 40,
+      "questionType": "reading",
+      "question": "『振』ning o'qilishi qaysi?",
+      "word": "振",
       "choices": [
-        "招待する",
-        "米を貯蔵する",
-        "普通の家庭",
-        "残高照会"
+        "まつぼっくり",
+        "せんのう",
+        "しん",
+        "ちすじ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "振 → しん"
+    },
+    {
+      "id": 41,
+      "questionType": "sentence",
+      "question": "『口座振替』ning ma'nosi qaysi?",
+      "word": "口座振替",
+      "choices": [
+        "hisobdan avtomatik yechish (to'lov)",
+        "un bilan tuxumni aralashtirmoq",
+        "hayot alomati yo'q (vafot etdi)",
+        "yopirilib kelmoq (buyurtmalar)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "口座振替 → hisobdan avtomatik yechish (to'lov)"
+    },
+    {
+      "id": 42,
+      "questionType": "recognition",
+      "question": "『貨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "百貨店",
+      "choices": [
+        "定期券",
+        "汚",
+        "緊急事態",
+        "百貨店"
       ],
       "correctAnswer": 3,
-      "explanation": "qoldiqni so'rash (balans) → 残高照会"
+      "explanation": "貨 → 百貨店"
+    },
+    {
+      "id": 43,
+      "questionType": "recognition",
+      "question": "『預』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "預金する",
+      "choices": [
+        "バラの香り",
+        "腹を決める",
+        "預金する",
+        "両"
+      ],
+      "correctAnswer": 2,
+      "explanation": "預 → 預金する"
+    },
+    {
+      "id": 44,
+      "questionType": "kanji",
+      "question": "『せんえんさつ』qaysi yozuvga mos?",
+      "word": "千円札",
+      "choices": [
+        "本が刊行する",
+        "展",
+        "千円札",
+        "絵の具を溶く"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せんえんさつ → 千円札"
     },
     {
       "id": 45,
-      "questionType": "kanji",
-      "question": "『ふりこみ』qaysi yozuvga mos?",
-      "word": "振り込み",
+      "questionType": "recognition",
+      "question": "『預』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "普通預金",
       "choices": [
-        "両手",
-        "振り込み",
-        "本を郵送する",
-        "気を配る"
+        "命令",
+        "異なる",
+        "甘やかす",
+        "普通預金"
       ],
-      "correctAnswer": 1,
-      "explanation": "ふりこみ → 振り込み"
+      "correctAnswer": 3,
+      "explanation": "預 → 普通預金"
     },
     {
       "id": 46,
       "questionType": "word",
-      "question": "『bank orqali to'lov qilish』ning yaponcha ifodasi qaysi?",
-      "word": "振り込み",
+      "question": "『hisobdan avtomatik yechish (to'lov)』ning yaponcha ifodasi qaysi?",
+      "word": "口座振替",
       "choices": [
-        "違う",
-        "ファッション誌",
-        "宝",
-        "振り込み"
+        "異にする",
+        "腕前を見せる",
+        "口座振替",
+        "届"
       ],
-      "correctAnswer": 3,
-      "explanation": "bank orqali to'lov qilish → 振り込み"
+      "correctAnswer": 2,
+      "explanation": "hisobdan avtomatik yechish (to'lov) → 口座振替"
     },
     {
       "id": 47,
-      "questionType": "word",
-      "question": "『oddiy bank hisobi』ning yaponcha ifodasi qaysi?",
-      "word": "普通預金",
+      "questionType": "kanji",
+      "question": "『よきんする』qaysi yozuvga mos?",
+      "word": "預金する",
       "choices": [
-        "両側",
-        "各駅停車",
-        "普通預金",
-        "家賃"
+        "軟らかく煮る",
+        "預金する",
+        "服を脱ぐ",
+        "堂々"
       ],
-      "correctAnswer": 2,
-      "explanation": "oddiy bank hisobi → 普通預金"
+      "correctAnswer": 1,
+      "explanation": "よきんする → 預金する"
     },
     {
       "id": 48,
-      "questionType": "meaning",
-      "question": "『恋人に振られる』ning ma'nosi qaysi?",
-      "word": "恋人に振られる",
+      "questionType": "reading",
+      "question": "『硬貨』ning o'qilishi qaysi?",
+      "word": "硬貨",
       "choices": [
-        "sevgan inson tomonidan tashlab ketilish",
-        "daftar",
-        "adashmoq, xato qilmoq",
-        "joy almashmoq"
+        "しゅうきょうをしんこうする",
+        "えいよう",
+        "せいぞうねんがっぴ",
+        "こうか"
       ],
-      "correctAnswer": 0,
-      "explanation": "恋人に振られる → sevgan inson tomonidan tashlab ketilish"
+      "correctAnswer": 3,
+      "explanation": "硬貨 → こうか"
     },
     {
       "id": 49,
+      "questionType": "word",
+      "question": "『tanga』ning yaponcha ifodasi qaysi?",
+      "word": "硬貨",
+      "choices": [
+        "態度が軟化する",
+        "背後",
+        "硬貨",
+        "電車の切符"
+      ],
+      "correctAnswer": 2,
+      "explanation": "tanga → 硬貨"
+    },
+    {
+      "id": 50,
+      "questionType": "recognition",
+      "question": "『貨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "通貨",
+      "choices": [
+        "通貨",
+        "堂",
+        "滝で心身を清める",
+        "お香を焚く"
+      ],
+      "correctAnswer": 0,
+      "explanation": "貨 → 通貨"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『さつたば』qaysi yozuvga mos?",
+      "word": "札束",
+      "choices": [
+        "国際情勢",
+        "雑",
+        "札束",
+        "円をドルに替える"
+      ],
+      "correctAnswer": 2,
+      "explanation": "さつたば → 札束"
+    },
+    {
+      "id": 52,
+      "questionType": "kanji",
+      "question": "『こうか』qaysi yozuvga mos?",
+      "word": "硬貨",
+      "choices": [
+        "製造年月日",
+        "招",
+        "硬貨",
+        "融"
+      ],
+      "correctAnswer": 2,
+      "explanation": "こうか → 硬貨"
+    },
+    {
+      "id": 53,
+      "questionType": "word",
+      "question": "『bir dasta pul』ning yaponcha ifodasi qaysi?",
+      "word": "札束",
+      "choices": [
+        "両替",
+        "札束",
+        "恵",
+        "前の車を追い越す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "bir dasta pul → 札束"
+    },
+    {
+      "id": 54,
+      "questionType": "meaning",
+      "question": "『振』ning ma'nosi qaysi?",
+      "word": "振",
+      "choices": [
+        "bank orqali to'lov qilish",
+        "silkitmoq, tebranmoq",
+        "adashmoq, xato qilmoq",
+        "bolani uyga eltib qo'yish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "振 → silkitmoq, tebranmoq"
+    },
+    {
+      "id": 55,
+      "questionType": "word",
+      "question": "『belgi, banknota』ning yaponcha ifodasi qaysi?",
+      "word": "札",
+      "choices": [
+        "札",
+        "議会を招集する",
+        "心臓が停止する",
+        "舞台に立つ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "belgi, banknota → 札"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『ざんだかしょうかい』qaysi yozuvga mos?",
+      "word": "残高照会",
+      "choices": [
+        "含",
+        "残高照会",
+        "両",
+        "意見を交換する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ざんだかしょうかい → 残高照会"
+    },
+    {
+      "id": 57,
+      "questionType": "recognition",
+      "question": "『貨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "硬貨",
+      "choices": [
+        "指輪",
+        "漁",
+        "危機を脱する",
+        "硬貨"
+      ],
+      "correctAnswer": 3,
+      "explanation": "貨 → 硬貨"
+    },
+    {
+      "id": 58,
+      "questionType": "kanji",
+      "question": "『てる』qaysi yozuvga mos?",
+      "word": "照る",
+      "choices": [
+        "軟",
+        "普通預金",
+        "照る",
+        "住居"
+      ],
+      "correctAnswer": 2,
+      "explanation": "てる → 照る"
+    },
+    {
+      "id": 59,
       "questionType": "sentence",
       "question": "『荷物を預ける』ning ma'nosi qaysi?",
       "word": "荷物を預ける",
       "choices": [
-        "valyuta kursi",
-        "xavfdan qutulish",
-        "gavda turishi, holati",
+        "taltaytirmoq",
+        "yangi sinfga moslashib ketmoq",
+        "muqim turmoq (xizmatda, chet elda)",
         "yukni qoldirish"
       ],
       "correctAnswer": 3,
       "explanation": "荷物を預ける → yukni qoldirish"
     },
     {
-      "id": 50,
-      "questionType": "reading",
-      "question": "『振動』ning o'qilishi qaysi?",
-      "word": "振動",
-      "choices": [
-        "しん",
-        "しんどう",
-        "たい",
-        "はえあるじゅしょう"
-      ],
-      "correctAnswer": 1,
-      "explanation": "振動 → しんどう"
-    },
-    {
-      "id": 51,
-      "questionType": "reading",
-      "question": "『預』ning o'qilishi qaysi?",
-      "word": "預",
-      "choices": [
-        "よ",
-        "ほんをあらわす",
-        "か",
-        "〜をけいきに"
-      ],
-      "correctAnswer": 0,
-      "explanation": "預 → よ"
-    },
-    {
-      "id": 52,
-      "questionType": "word",
-      "question": "『yenlik banknota』ning yaponcha ifodasi qaysi?",
-      "word": "千円札",
-      "choices": [
-        "運賃",
-        "千円札",
-        "進展する",
-        "記帳する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "yenlik banknota → 千円札"
-    },
-    {
-      "id": 53,
-      "questionType": "meaning",
-      "question": "『貨物列車』ning ma'nosi qaysi?",
-      "word": "貨物列車",
-      "choices": [
-        "poyezd gavjum (tirband) bo'lishi",
-        "qalbga joylab olish, bir narsani unutmaslik",
-        "sof, pok",
-        "yuk poyezdi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "貨物列車 → yuk poyezdi"
-    },
-    {
-      "id": 54,
-      "questionType": "recognition",
-      "question": "『預』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "貴重品を預かる",
-      "choices": [
-        "雑音がする",
-        "貴重品を預かる",
-        "漁業を営む",
-        "停"
-      ],
-      "correctAnswer": 1,
-      "explanation": "預 → 貴重品を預かる"
-    },
-    {
-      "id": 55,
-      "questionType": "recognition",
-      "question": "『振』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "口座振替",
-      "choices": [
-        "口座振替",
-        "お香を焚く",
-        "預",
-        "換気する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "振 → 口座振替"
-    },
-    {
-      "id": 56,
-      "questionType": "sentence",
-      "question": "『貨物列車』ning ma'nosi qaysi?",
-      "word": "貨物列車",
-      "choices": [
-        "davlat chegarasidan kesib o'tish",
-        "yuk poyezdi",
-        "kasallikdan tuzalganlikni nishonlash",
-        "bank daftarchasi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "貨物列車 → yuk poyezdi"
-    },
-    {
-      "id": 57,
-      "questionType": "kanji",
-      "question": "『てをふる』qaysi yozuvga mos?",
-      "word": "手を振る",
-      "choices": [
-        "日本庭園",
-        "手を振る",
-        "城を築く",
-        "発展する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てをふる → 手を振る"
-    },
-    {
-      "id": 58,
-      "questionType": "word",
-      "question": "『belgi, banknota』ning yaponcha ifodasi qaysi?",
-      "word": "札",
-      "choices": [
-        "札",
-        "利益を配分する",
-        "固まる",
-        "大勢の人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "belgi, banknota → 札"
-    },
-    {
-      "id": 59,
-      "questionType": "sentence",
-      "question": "『名札をつける』ning ma'nosi qaysi?",
-      "word": "名札をつける",
-      "choices": [
-        "maroqli vaqt o'tkazish",
-        "eksport qilish",
-        "pul, tovar",
-        "ismi yozilgan beyjik tayyorlash"
-      ],
-      "correctAnswer": 3,
-      "explanation": "名札をつける → ismi yozilgan beyjik tayyorlash"
-    },
-    {
       "id": 60,
-      "questionType": "recognition",
-      "question": "『振』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "振動",
+      "questionType": "kanji",
+      "question": "『しょうめい』qaysi yozuvga mos?",
+      "word": "照明",
       "choices": [
-        "巻",
-        "国際情勢",
-        "振動",
-        "仮説を立てる"
+        "洗脳",
+        "照明",
+        "松",
+        "蔵"
       ],
-      "correctAnswer": 2,
-      "explanation": "振 → 振動"
+      "correctAnswer": 1,
+      "explanation": "しょうめい → 照明"
     },
     {
       "id": 61,
-      "questionType": "kanji",
-      "question": "『ひゃっかてん』qaysi yozuvga mos?",
-      "word": "百貨店",
+      "questionType": "reading",
+      "question": "『照る』ning o'qilishi qaysi?",
+      "word": "照る",
       "choices": [
-        "のり巻き",
-        "米を貯蔵する",
-        "百貨店",
-        "脱退"
+        "こうか",
+        "もる",
+        "おせんされたかわ",
+        "てる"
       ],
-      "correctAnswer": 2,
-      "explanation": "ひゃっかてん → 百貨店"
+      "correctAnswer": 3,
+      "explanation": "照る → てる"
     },
     {
       "id": 62,
       "questionType": "meaning",
-      "question": "『針が振れる』ning ma'nosi qaysi?",
-      "word": "針が振れる",
+      "question": "『駅の改札口』ning ma'nosi qaysi?",
+      "word": "駅の改札口",
       "choices": [
-        "o'z ichiga olmoq",
-        "sovg'a qilmoq",
-        "tortmoq, solmoq (idishga)",
-        "mil (strelka) tebranishi"
+        "ko'rik vaqti",
+        "qiyg'os gullash",
+        "ortopediya klinikasi",
+        "chipta tekshirish (turniket) darvozasi"
       ],
       "correctAnswer": 3,
-      "explanation": "針が振れる → mil (strelka) tebranishi"
+      "explanation": "駅の改札口 → chipta tekshirish (turniket) darvozasi"
     },
     {
       "id": 63,
-      "questionType": "recognition",
-      "question": "『貨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "雑貨",
-      "choices": [
-        "本が刊行する",
-        "雑貨",
-        "劇場",
-        "引き出しの中を整理する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "貨 → 雑貨"
-    },
-    {
-      "id": 64,
-      "questionType": "kanji",
-      "question": "『ちょう』qaysi yozuvga mos?",
-      "word": "帳",
-      "choices": [
-        "帳",
-        "校庭",
-        "元に戻す",
-        "大勢の人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ちょう → 帳"
-    },
-    {
-      "id": 65,
-      "questionType": "word",
-      "question": "『eshik taxtachasi (familiya yozilgan)』ning yaponcha ifodasi qaysi?",
-      "word": "玄関の表札",
-      "choices": [
-        "朝刊",
-        "払",
-        "免許証",
-        "玄関の表札"
-      ],
-      "correctAnswer": 3,
-      "explanation": "eshik taxtachasi (familiya yozilgan) → 玄関の表札"
-    },
-    {
-      "id": 66,
-      "questionType": "reading",
-      "question": "『千円札』ning o'qilishi qaysi?",
-      "word": "千円札",
-      "choices": [
-        "ゆう",
-        "ふつうのかてい",
-        "いき",
-        "せんえんさつ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "千円札 → せんえんさつ"
-    },
-    {
-      "id": 67,
-      "questionType": "kanji",
-      "question": "『きちょうする』qaysi yozuvga mos?",
-      "word": "記帳する",
-      "choices": [
-        "記帳する",
-        "服にラーメンの汁がついた",
-        "前輪と後輪",
-        "過去の栄光"
-      ],
-      "correctAnswer": 0,
-      "explanation": "きちょうする → 記帳する"
-    },
-    {
-      "id": 68,
-      "questionType": "word",
-      "question": "『yoritish, iluminatsiya』ning yaponcha ifodasi qaysi?",
-      "word": "照明",
-      "choices": [
-        "問題用紙を配る",
-        "漁業を営む",
-        "帳",
-        "照明"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yoritish, iluminatsiya → 照明"
-    },
-    {
-      "id": 69,
-      "questionType": "reading",
-      "question": "『百貨店』ning o'qilishi qaysi?",
-      "word": "百貨店",
-      "choices": [
-        "ひゃっかてん",
-        "もんだいようしをくばる",
-        "あまえる",
-        "ゆうびんがとどく"
-      ],
-      "correctAnswer": 0,
-      "explanation": "百貨店 → ひゃっかてん"
-    },
-    {
-      "id": 70,
       "questionType": "reading",
       "question": "『手帳』ning o'qilishi qaysi?",
       "word": "手帳",
       "choices": [
         "てちょう",
-        "ふくにラーメンのしるがついた",
-        "くばる",
-        "おすい"
+        "ぜんりんとこうりん",
+        "はいけい",
+        "まえのくるまをおいこす"
       ],
       "correctAnswer": 0,
       "explanation": "手帳 → てちょう"
     },
     {
-      "id": 71,
-      "questionType": "kanji",
-      "question": "『しょう』qaysi yozuvga mos?",
-      "word": "照",
-      "choices": [
-        "絵画展",
-        "車両",
-        "普段着",
-        "照"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しょう → 照"
-    },
-    {
-      "id": 72,
-      "questionType": "sentence",
-      "question": "『普通預金』ning ma'nosi qaysi?",
-      "word": "普通預金",
-      "choices": [
-        "tortmoq, solmoq (idishga)",
-        "almashtirmoq",
-        "qiyg'os gullash",
-        "oddiy bank hisobi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "普通預金 → oddiy bank hisobi"
-    },
-    {
-      "id": 73,
-      "questionType": "word",
-      "question": "『yukni qoldirish』ning yaponcha ifodasi qaysi?",
-      "word": "荷物を預ける",
-      "choices": [
-        "各駅停車",
-        "荷物を預ける",
-        "お香を焚く",
-        "汚染された川"
-      ],
-      "correctAnswer": 1,
-      "explanation": "yukni qoldirish → 荷物を預ける"
-    },
-    {
-      "id": 74,
-      "questionType": "meaning",
-      "question": "『照る』ning ma'nosi qaysi?",
-      "word": "照る",
-      "choices": [
-        "yoritmoq, nur sochmoq",
-        "halqa, g'ildirak",
-        "yupqa qog'oz",
-        "ladan yoqish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "照る → yoritmoq, nur sochmoq"
-    },
-    {
-      "id": 75,
-      "questionType": "reading",
-      "question": "『硬貨』ning o'qilishi qaysi?",
-      "word": "硬貨",
-      "choices": [
-        "ぜんりんとこうりん",
-        "ゆしゅつする",
-        "こうか",
-        "どうどう"
-      ],
-      "correctAnswer": 2,
-      "explanation": "硬貨 → こうか"
-    },
-    {
-      "id": 76,
-      "questionType": "word",
-      "question": "『bank daftarchasi』ning yaponcha ifodasi qaysi?",
-      "word": "銀行の通帳",
-      "choices": [
-        "銀行の通帳",
-        "介護士",
-        "居間",
-        "柔和な性格"
-      ],
-      "correctAnswer": 0,
-      "explanation": "bank daftarchasi → 銀行の通帳"
-    },
-    {
-      "id": 77,
-      "questionType": "reading",
-      "question": "『札束』ning o'qilishi qaysi?",
-      "word": "札束",
-      "choices": [
-        "ひょうじゅん",
-        "わ",
-        "さつたば",
-        "あまえる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "札束 → さつたば"
-    },
-    {
-      "id": 78,
-      "questionType": "kanji",
-      "question": "『しょうめい』qaysi yozuvga mos?",
-      "word": "照明",
-      "choices": [
-        "照明",
-        "預",
-        "皿におかずを盛る",
-        "離脱"
-      ],
-      "correctAnswer": 0,
-      "explanation": "しょうめい → 照明"
-    },
-    {
-      "id": 79,
-      "questionType": "meaning",
-      "question": "『貴重品を預かる』ning ma'nosi qaysi?",
-      "word": "貴重品を預かる",
-      "choices": [
-        "taklifnoma",
-        "qasr bunyod etish",
-        "qimmatbaho narsani omonatga olish",
-        "belgi, standart"
-      ],
-      "correctAnswer": 2,
-      "explanation": "貴重品を預かる → qimmatbaho narsani omonatga olish"
-    },
-    {
-      "id": 80,
-      "questionType": "kanji",
-      "question": "『てちょう』qaysi yozuvga mos?",
-      "word": "手帳",
-      "choices": [
-        "両立する",
-        "残高照会",
-        "手帳",
-        "贈"
-      ],
-      "correctAnswer": 2,
-      "explanation": "てちょう → 手帳"
-    },
-    {
-      "id": 81,
-      "questionType": "word",
-      "question": "『omonat qoldirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "預",
-      "choices": [
-        "記帳する",
-        "盛んな声援",
-        "預",
-        "居酒屋"
-      ],
-      "correctAnswer": 2,
-      "explanation": "omonat qoldirmoq → 預"
-    },
-    {
-      "id": 82,
-      "questionType": "meaning",
-      "question": "『口座振替』ning ma'nosi qaysi?",
-      "word": "口座振替",
-      "choices": [
-        "hisobdan avtomatik yechish (to'lov)",
-        "tozalash",
-        "yomg'ir mavsumi fronti",
-        "kitob yozmoq, nashr etmoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "口座振替 → hisobdan avtomatik yechish (to'lov)"
-    },
-    {
-      "id": 83,
-      "questionType": "word",
-      "question": "『kundalik』ning yaponcha ifodasi qaysi?",
-      "word": "手帳",
-      "choices": [
-        "汚い手",
-        "心配する",
-        "宗",
-        "手帳"
-      ],
-      "correctAnswer": 3,
-      "explanation": "kundalik → 手帳"
-    },
-    {
-      "id": 84,
-      "questionType": "sentence",
-      "question": "『残高照会』ning ma'nosi qaysi?",
-      "word": "残高照会",
-      "choices": [
-        "turli maqsadda ishlatsa bo'ladigan",
-        "ertalabki gazeta",
-        "chiroyli",
-        "qoldiqni so'rash (balans)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "残高照会 → qoldiqni so'rash (balans)"
-    },
-    {
-      "id": 85,
-      "questionType": "reading",
-      "question": "『振』ning o'qilishi qaysi?",
-      "word": "振",
-      "choices": [
-        "しん",
-        "ちいきじゅうみん",
-        "ちょしゃ",
-        "りょうりつする"
-      ],
-      "correctAnswer": 0,
-      "explanation": "振 → しん"
-    },
-    {
-      "id": 86,
-      "questionType": "recognition",
-      "question": "『振』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "針が振れる",
-      "choices": [
-        "問題用紙を配る",
-        "針が振れる",
-        "快い返事",
-        "汚染された川"
-      ],
-      "correctAnswer": 1,
-      "explanation": "振 → 針が振れる"
-    },
-    {
-      "id": 87,
-      "questionType": "sentence",
-      "question": "『手を振る』ning ma'nosi qaysi?",
-      "word": "手を振る",
-      "choices": [
-        "shartnoma",
-        "qo'lni silkitish",
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
-        "kuch, vaziyat"
-      ],
-      "correctAnswer": 1,
-      "explanation": "手を振る → qo'lni silkitish"
-    },
-    {
-      "id": 88,
-      "questionType": "recognition",
-      "question": "『預』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "預金する",
-      "choices": [
-        "教室の清掃をする",
-        "仮",
-        "預金する",
-        "駅の改札口"
-      ],
-      "correctAnswer": 2,
-      "explanation": "預 → 預金する"
-    },
-    {
-      "id": 89,
-      "questionType": "meaning",
-      "question": "『雑貨』ning ma'nosi qaysi?",
-      "word": "雑貨",
-      "choices": [
-        "suv bilan ta'mni me'yorlashtirish",
-        "tartibga keltirmoq, tayyorlamoq",
-        "pochtaxona",
-        "turli xil mahsulotlar"
-      ],
-      "correctAnswer": 3,
-      "explanation": "雑貨 → turli xil mahsulotlar"
-    },
-    {
-      "id": 90,
-      "questionType": "recognition",
-      "question": "『貨』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "通貨",
-      "choices": [
-        "通貨",
-        "子宝に恵まれる",
-        "居間",
-        "照"
-      ],
-      "correctAnswer": 0,
-      "explanation": "貨 → 通貨"
-    },
-    {
-      "id": 91,
-      "questionType": "meaning",
-      "question": "『帳』ning ma'nosi qaysi?",
-      "word": "帳",
-      "choices": [
-        "daftar",
-        "jurnal, yozuv",
-        "oddiy maktab",
-        "go'zal, chiroyli"
-      ],
-      "correctAnswer": 0,
-      "explanation": "帳 → daftar"
-    },
-    {
-      "id": 92,
+      "id": 64,
       "questionType": "reading",
       "question": "『札』ning o'qilishi qaysi?",
       "word": "札",
       "choices": [
-        "バスのていりゅうじょ",
-        "よざくら",
-        "わになる",
-        "さつ・ふだ"
+        "さつ・ふだ",
+        "うでまえをみせる",
+        "ふきょう",
+        "ぞう・くら"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "札 → さつ・ふだ"
     },
     {
-      "id": 93,
+      "id": 65,
+      "questionType": "meaning",
+      "question": "『通貨』ning ma'nosi qaysi?",
+      "word": "通貨",
+      "choices": [
+        "valyuta",
+        "yo'l haqi",
+        "chiqib ketish, ajralish",
+        "ko'krak qafasi og'rishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "通貨 → valyuta"
+    },
+    {
+      "id": 66,
+      "questionType": "recognition",
+      "question": "『預』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "貴重品を預かる",
+      "choices": [
+        "態度が軟化する",
+        "症",
+        "異国",
+        "貴重品を預かる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "預 → 貴重品を預かる"
+    },
+    {
+      "id": 67,
+      "questionType": "sentence",
+      "question": "『残高照会』ning ma'nosi qaysi?",
+      "word": "残高照会",
+      "choices": [
+        "qoldiqni so'rash (balans)",
+        "jonli efir",
+        "chiroyli ayol",
+        "shakl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "残高照会 → qoldiqni so'rash (balans)"
+    },
+    {
+      "id": 68,
+      "questionType": "reading",
+      "question": "『帳』ning o'qilishi qaysi?",
+      "word": "帳",
+      "choices": [
+        "すぎる",
+        "いのけんさ",
+        "じょうきょうがいっぺんする",
+        "ちょう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "帳 → ちょう"
+    },
+    {
+      "id": 69,
+      "questionType": "meaning",
+      "question": "『照る』ning ma'nosi qaysi?",
+      "word": "照る",
+      "choices": [
+        "chet davlati",
+        "murakkab hisob-kitob",
+        "yoritmoq, nur sochmoq",
+        "qon bosimin o'lchash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "照る → yoritmoq, nur sochmoq"
+    },
+    {
+      "id": 70,
+      "questionType": "reading",
+      "question": "『預』ning o'qilishi qaysi?",
+      "word": "預",
+      "choices": [
+        "よ",
+        "おせんされたかわ",
+        "しんてんする",
+        "てっきん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "預 → よ"
+    },
+    {
+      "id": 71,
+      "questionType": "kanji",
+      "question": "『ちょう』qaysi yozuvga mos?",
+      "word": "帳",
+      "choices": [
+        "帳",
+        "台風の勢力",
+        "雑貨",
+        "交通違反"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ちょう → 帳"
+    },
+    {
+      "id": 72,
+      "questionType": "meaning",
+      "question": "『照明』ning ma'nosi qaysi?",
+      "word": "照明",
+      "choices": [
+        "tayyorlangan kun, oy, yil",
+        "yoritish, iluminatsiya",
+        "ma'no bermoq",
+        "parlament yig'ilishini chaqirmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "照明 → yoritish, iluminatsiya"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『しんどう』qaysi yozuvga mos?",
+      "word": "振動",
+      "choices": [
+        "脳の働き",
+        "高気圧",
+        "振動",
+        "進展する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しんどう → 振動"
+    },
+    {
+      "id": 74,
+      "questionType": "kanji",
+      "question": "『しん』qaysi yozuvga mos?",
+      "word": "振",
+      "choices": [
+        "絵画展",
+        "清い心",
+        "振",
+        "違法"
+      ],
+      "correctAnswer": 2,
+      "explanation": "しん → 振"
+    },
+    {
+      "id": 75,
+      "questionType": "word",
+      "question": "『univermag, universal magazin』ning yaponcha ifodasi qaysi?",
+      "word": "百貨店",
+      "choices": [
+        "地震に因る被害",
+        "居間",
+        "杉の木",
+        "百貨店"
+      ],
+      "correctAnswer": 3,
+      "explanation": "univermag, universal magazin → 百貨店"
+    },
+    {
+      "id": 76,
       "questionType": "sentence",
       "question": "『玄関の表札』ning ma'nosi qaysi?",
       "word": "玄関の表札",
       "choices": [
-        "nomiga dog' tushirmoq",
-        "sho'rva, suyuqlik",
         "eshik taxtachasi (familiya yozilgan)",
-        "holidan xabar olmoq"
+        "munosabat yumshashi",
+        "kitobni pochta orqali yuborish",
+        "kayfiyatni o'zgartirish, havo almashtirish"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "玄関の表札 → eshik taxtachasi (familiya yozilgan)"
     },
     {
-      "id": 94,
-      "questionType": "kanji",
-      "question": "『よきんする』qaysi yozuvga mos?",
-      "word": "預金する",
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『名札をつける』ning ma'nosi qaysi?",
+      "word": "名札をつける",
       "choices": [
-        "席に戻る",
-        "米を貯蔵する",
-        "汚染された川",
-        "預金する"
+        "yapon usulidagi bog'",
+        "in'om qilmoq, sadaqa bermoq",
+        "ismi yozilgan beyjik tayyorlash",
+        "belgi, standart"
       ],
-      "correctAnswer": 3,
-      "explanation": "よきんする → 預金する"
+      "correctAnswer": 2,
+      "explanation": "名札をつける → ismi yozilgan beyjik tayyorlash"
     },
     {
-      "id": 95,
+      "id": 78,
+      "questionType": "word",
+      "question": "『bank orqali to'lov qilish』ning yaponcha ifodasi qaysi?",
+      "word": "振り込み",
+      "choices": [
+        "振り込み",
+        "進展する",
+        "換える",
+        "途方にくれる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "bank orqali to'lov qilish → 振り込み"
+    },
+    {
+      "id": 79,
+      "questionType": "sentence",
+      "question": "『恋人に振られる』ning ma'nosi qaysi?",
+      "word": "恋人に振られる",
+      "choices": [
+        "sevgan inson tomonidan tashlab ketilish",
+        "orqa, quymich",
+        "tungi sakura daraxti",
+        "kundalik"
+      ],
+      "correctAnswer": 0,
+      "explanation": "恋人に振られる → sevgan inson tomonidan tashlab ketilish"
+    },
+    {
+      "id": 80,
+      "questionType": "reading",
+      "question": "『振動』ning o'qilishi qaysi?",
+      "word": "振動",
+      "choices": [
+        "うでだめし",
+        "しんどう",
+        "けんとうをたたえる",
+        "まとにめいちゅうする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "振動 → しんどう"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『しょう』qaysi yozuvga mos?",
+      "word": "照",
+      "choices": [
+        "照",
+        "家賃",
+        "旅券",
+        "論文の清書をする"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しょう → 照"
+    },
+    {
+      "id": 82,
+      "questionType": "meaning",
+      "question": "『手を振る』ning ma'nosi qaysi?",
+      "word": "手を振る",
+      "choices": [
+        "to'xtab turmoq, joylashmoq",
+        "sovg'a",
+        "qo'lni silkitish",
+        "brokerlik kompaniyasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "手を振る → qo'lni silkitish"
+    },
+    {
+      "id": 83,
+      "questionType": "kanji",
+      "question": "『さつ・ふだ』qaysi yozuvga mos?",
+      "word": "札",
+      "choices": [
+        "桜",
+        "札",
+        "証明する",
+        "接骨院"
+      ],
+      "correctAnswer": 1,
+      "explanation": "さつ・ふだ → 札"
+    },
+    {
+      "id": 84,
+      "questionType": "reading",
+      "question": "『貨』ning o'qilishi qaysi?",
+      "word": "貨",
+      "choices": [
+        "うつくしい",
+        "ぞう・くら",
+        "か",
+        "しょうめいする"
+      ],
+      "correctAnswer": 2,
+      "explanation": "貨 → か"
+    },
+    {
+      "id": 85,
+      "questionType": "meaning",
+      "question": "『針が振れる』ning ma'nosi qaysi?",
+      "word": "針が振れる",
+      "choices": [
+        "kirish chiptasi",
+        "mil (strelka) tebranishi",
+        "sovg'a qilmoq",
+        "jiddiy muammo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "針が振れる → mil (strelka) tebranishi"
+    },
+    {
+      "id": 86,
       "questionType": "recognition",
       "question": "『帳』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
       "word": "手帳",
       "choices": [
-        "港",
-        "服を脱ぐ",
         "手帳",
-        "振り込み"
+        "牛乳にカルシウムが含まれている",
+        "週刊誌",
+        "発展途上国"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "帳 → 手帳"
     },
     {
-      "id": 96,
-      "questionType": "meaning",
-      "question": "『振』ning ma'nosi qaysi?",
-      "word": "振",
+      "id": 87,
+      "questionType": "kanji",
+      "question": "『かもつれっしゃ』qaysi yozuvga mos?",
+      "word": "貨物列車",
       "choices": [
-        "silkitmoq, tebranmoq",
-        "o'tmishdagi shon-sharaf",
-        "turli xil mahsulotlar",
-        "vaqtinchalik yashash manzili"
+        "車両",
+        "貨物列車",
+        "居",
+        "鉄筋"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かもつれっしゃ → 貨物列車"
+    },
+    {
+      "id": 88,
+      "questionType": "reading",
+      "question": "『照明』ning o'qilishi qaysi?",
+      "word": "照明",
+      "choices": [
+        "しょうこうぐん",
+        "しょうめい",
+        "はくじょうする",
+        "けいじょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "照明 → しょうめい"
+    },
+    {
+      "id": 89,
+      "questionType": "kanji",
+      "question": "『てちょう』qaysi yozuvga mos?",
+      "word": "手帳",
+      "choices": [
+        "杉",
+        "券",
+        "論文の清書をする",
+        "手帳"
+      ],
+      "correctAnswer": 3,
+      "explanation": "てちょう → 手帳"
+    },
+    {
+      "id": 90,
+      "questionType": "meaning",
+      "question": "『荷物を預ける』ning ma'nosi qaysi?",
+      "word": "荷物を預ける",
+      "choices": [
+        "bardam, tetik, g'ayrat bilan",
+        "dzyudo",
+        "yukni qoldirish",
+        "marhamat, in'om"
+      ],
+      "correctAnswer": 2,
+      "explanation": "荷物を預ける → yukni qoldirish"
+    },
+    {
+      "id": 91,
+      "questionType": "recognition",
+      "question": "『札』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "千円札",
+      "choices": [
+        "千円札",
+        "丼",
+        "汚染された川",
+        "証券会社"
       ],
       "correctAnswer": 0,
-      "explanation": "振 → silkitmoq, tebranmoq"
+      "explanation": "札 → 千円札"
+    },
+    {
+      "id": 92,
+      "questionType": "kanji",
+      "question": "『よ』qaysi yozuvga mos?",
+      "word": "預",
+      "choices": [
+        "劇",
+        "異常気象",
+        "診る",
+        "預"
+      ],
+      "correctAnswer": 3,
+      "explanation": "よ → 預"
+    },
+    {
+      "id": 93,
+      "questionType": "meaning",
+      "question": "『預』ning ma'nosi qaysi?",
+      "word": "預",
+      "choices": [
+        "sariqyog'ni eritish",
+        "omonat qoldirmoq",
+        "kasallik sababi",
+        "baxtli oila qurish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "預 → omonat qoldirmoq"
+    },
+    {
+      "id": 94,
+      "questionType": "word",
+      "question": "『oddiy bank hisobi』ning yaponcha ifodasi qaysi?",
+      "word": "普通預金",
+      "choices": [
+        "普通預金",
+        "胃炎",
+        "手帳",
+        "過去の栄光"
+      ],
+      "correctAnswer": 0,
+      "explanation": "oddiy bank hisobi → 普通預金"
+    },
+    {
+      "id": 95,
+      "questionType": "recognition",
+      "question": "『預』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "荷物を預ける",
+      "choices": [
+        "足の筋",
+        "停戦",
+        "普通の家庭",
+        "荷物を預ける"
+      ],
+      "correctAnswer": 3,
+      "explanation": "預 → 荷物を預ける"
+    },
+    {
+      "id": 96,
+      "questionType": "recognition",
+      "question": "『札』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "名札をつける",
+      "choices": [
+        "発展途上国",
+        "硬貨",
+        "脳科学",
+        "名札をつける"
+      ],
+      "correctAnswer": 3,
+      "explanation": "札 → 名札をつける"
     },
     {
       "id": 97,
-      "questionType": "kanji",
-      "question": "『さつたば』qaysi yozuvga mos?",
-      "word": "札束",
+      "questionType": "sentence",
+      "question": "『貴重品を預かる』ning ma'nosi qaysi?",
+      "word": "貴重品を預かる",
       "choices": [
-        "輸入する",
-        "国際情勢",
-        "お見舞い",
-        "札束"
+        "qasr shahar",
+        "qimmatbaho narsani omonatga olish",
+        "kitob yozmoq, nashr etmoq",
+        "hozirgi holat"
       ],
-      "correctAnswer": 3,
-      "explanation": "さつたば → 札束"
+      "correctAnswer": 1,
+      "explanation": "貴重品を預かる → qimmatbaho narsani omonatga olish"
     },
     {
       "id": 98,
-      "questionType": "kanji",
-      "question": "『こうか』qaysi yozuvga mos?",
-      "word": "硬貨",
+      "questionType": "word",
+      "question": "『yuk poyezdi』ning yaponcha ifodasi qaysi?",
+      "word": "貨物列車",
       "choices": [
-        "硬貨",
-        "輪になる",
-        "城",
-        "布団を掛ける"
+        "柔",
+        "越",
+        "途中",
+        "貨物列車"
       ],
-      "correctAnswer": 0,
-      "explanation": "こうか → 硬貨"
+      "correctAnswer": 3,
+      "explanation": "yuk poyezdi → 貨物列車"
     },
     {
       "id": 99,
-      "questionType": "kanji",
-      "question": "『てる』qaysi yozuvga mos?",
-      "word": "照る",
+      "questionType": "recognition",
+      "question": "『札』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "札束",
       "choices": [
-        "居酒屋",
-        "郵便が届く",
-        "照る",
-        "賃"
+        "込",
+        "満開",
+        "甘やかす",
+        "札束"
       ],
-      "correctAnswer": 2,
-      "explanation": "てる → 照る"
+      "correctAnswer": 3,
+      "explanation": "札 → 札束"
+    },
+    {
+      "id": 100,
+      "questionType": "reading",
+      "question": "『照』ning o'qilishi qaysi?",
+      "word": "照",
+      "choices": [
+        "ぜんとたなん",
+        "しょう",
+        "さつたば",
+        "はえあるじゅしょう"
+      ],
+      "correctAnswer": 1,
+      "explanation": "照 → しょう"
+    },
+    {
+      "id": 101,
+      "questionType": "kanji",
+      "question": "『きちょうする』qaysi yozuvga mos?",
+      "word": "記帳する",
+      "choices": [
+        "換気する",
+        "記帳する",
+        "汁",
+        "心配する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "きちょうする → 記帳する"
     }
   ]
 }

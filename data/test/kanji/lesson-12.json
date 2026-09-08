@@ -6,1402 +6,1360 @@
     {
       "id": 1,
       "questionType": "sentence",
-      "question": "『日本の姿』ning ma'nosi qaysi?",
-      "word": "日本の姿",
+      "question": "『軟らかく煮る』ning ma'nosi qaysi?",
+      "word": "軟らかく煮る",
       "choices": [
-        "parlament yig'ilishini chaqirmoq",
-        "yozmoq, ko'zga ko'rinarli",
-        "Yaponiya shamoyili, holati",
-        "yumshoq, egiluvchan"
+        "oldingi va orqa g'ildiraklar",
+        "yumshoq qilib qaynatib pishirish",
+        "qorin",
+        "to'ldirmoq, tiqmoq"
       ],
-      "correctAnswer": 2,
-      "explanation": "日本の姿 → Yaponiya shamoyili, holati"
+      "correctAnswer": 1,
+      "explanation": "軟らかく煮る → yumshoq qilib qaynatib pishirish"
     },
     {
       "id": 2,
+      "questionType": "sentence",
+      "question": "『気掛かりなこと』ning ma'nosi qaysi?",
+      "word": "気掛かりなこと",
+      "choices": [
+        "almashtirmoq",
+        "xavotir, ko'ngil g'ashligi",
+        "yurakning to'xtashi",
+        "sovg'a jo'natmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "気掛かりなこと → xavotir, ko'ngil g'ashligi"
+    },
+    {
+      "id": 3,
+      "questionType": "recognition",
+      "question": "『軟』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "軟らかいごはん",
+      "choices": [
+        "軟らかいごはん",
+        "健康美",
+        "証",
+        "展示する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "軟 → 軟らかいごはん"
+    },
+    {
+      "id": 4,
       "questionType": "kanji",
       "question": "『きものすがた』qaysi yozuvga mos?",
       "word": "着物姿",
       "choices": [
-        "宗",
-        "到",
+        "異変",
+        "固定する",
         "着物姿",
-        "軟"
+        "滝で心身を清める"
       ],
       "correctAnswer": 2,
       "explanation": "きものすがた → 着物姿"
     },
     {
-      "id": 3,
-      "questionType": "reading",
-      "question": "『着物姿』ning o'qilishi qaysi?",
-      "word": "着物姿",
-      "choices": [
-        "みなと",
-        "こうつういはん",
-        "さかんなせいえん",
-        "きものすがた"
-      ],
-      "correctAnswer": 3,
-      "explanation": "着物姿 → きものすがた"
-    },
-    {
-      "id": 4,
-      "questionType": "sentence",
-      "question": "『チームに勢いがある』ning ma'nosi qaysi?",
-      "word": "チームに勢いがある",
-      "choices": [
-        "vaqt, lahza",
-        "jamoani ruhiyati bor",
-        "adashmoq",
-        "belgi, standart"
-      ],
-      "correctAnswer": 1,
-      "explanation": "チームに勢いがある → jamoani ruhiyati bor"
-    },
-    {
       "id": 5,
-      "questionType": "sentence",
-      "question": "『軟らかいごはん』ning ma'nosi qaysi?",
-      "word": "軟らかいごはん",
+      "questionType": "recognition",
+      "question": "『掛』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "布団を掛ける",
       "choices": [
-        "qoldiqni so'rash (balans)",
-        "yumshoq, og'izda erib ketadigan ovqat",
-        "maqsadga erishmoq",
-        "sof, pok"
+        "布団を掛ける",
+        "平均寿命",
+        "丼",
+        "異変"
       ],
-      "correctAnswer": 1,
-      "explanation": "軟らかいごはん → yumshoq, og'izda erib ketadigan ovqat"
+      "correctAnswer": 0,
+      "explanation": "掛 → 布団を掛ける"
     },
     {
       "id": 6,
       "questionType": "reading",
-      "question": "『姿勢』ning o'qilishi qaysi?",
-      "word": "姿勢",
+      "question": "『柔軟』ning o'qilishi qaysi?",
+      "word": "柔軟",
       "choices": [
-        "のりまき",
-        "ひなんのひょうてきとなる",
-        "しせい",
-        "なまえをけがす"
+        "おすい",
+        "じゅうなん",
+        "しんてんする",
+        "むねやけがする"
       ],
-      "correctAnswer": 2,
-      "explanation": "姿勢 → しせい"
+      "correctAnswer": 1,
+      "explanation": "柔軟 → じゅうなん"
     },
     {
       "id": 7,
-      "questionType": "recognition",
-      "question": "『姿』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "日本の姿",
+      "questionType": "word",
+      "question": "『yumshoq』ning yaponcha ifodasi qaysi?",
+      "word": "柔",
       "choices": [
-        "汁",
-        "両手",
-        "日本の姿",
-        "輸送する"
+        "到",
+        "柔",
+        "立ち入り禁止区域",
+        "山腹"
       ],
-      "correctAnswer": 2,
-      "explanation": "姿 → 日本の姿"
+      "correctAnswer": 1,
+      "explanation": "yumshoq → 柔"
     },
     {
       "id": 8,
-      "questionType": "sentence",
-      "question": "『体が柔らかい』ning ma'nosi qaysi?",
-      "word": "体が柔らかい",
+      "questionType": "reading",
+      "question": "『軟』ning o'qilishi qaysi?",
+      "word": "軟",
       "choices": [
-        "sinf xonasini tozalash",
-        "tanasi egiluvchan",
-        "salobatli, viqorli",
-        "yapon o'rigi"
+        "けんちくし",
+        "なん",
+        "けんこうこつ",
+        "とほうにくれる"
       ],
       "correctAnswer": 1,
-      "explanation": "体が柔らかい → tanasi egiluvchan"
+      "explanation": "軟 → なん"
     },
     {
       "id": 9,
       "questionType": "word",
-      "question": "『yumshoq ko'rpa』ning yaponcha ifodasi qaysi?",
-      "word": "柔らかな布団",
+      "question": "『jamoani ruhiyati bor』ning yaponcha ifodasi qaysi?",
+      "word": "チームに勢いがある",
       "choices": [
-        "清",
-        "柔らかな布団",
-        "どうぞお掛けください",
-        "梅雨"
+        "チームに勢いがある",
+        "甘",
+        "仮説を立てる",
+        "命に別状はない"
       ],
-      "correctAnswer": 1,
-      "explanation": "yumshoq ko'rpa → 柔らかな布団"
+      "correctAnswer": 0,
+      "explanation": "jamoani ruhiyati bor → チームに勢いがある"
     },
     {
       "id": 10,
-      "questionType": "sentence",
-      "question": "『軟らかく煮る』ning ma'nosi qaysi?",
-      "word": "軟らかく煮る",
-      "choices": [
-        "yumshoq qilib qaynatib pishirish",
-        "kechikish",
-        "tungi sakura daraxti",
-        "tozalash"
-      ],
-      "correctAnswer": 0,
-      "explanation": "軟らかく煮る → yumshoq qilib qaynatib pishirish"
-    },
-    {
-      "id": 11,
-      "questionType": "kanji",
-      "question": "『だつ』qaysi yozuvga mos?",
-      "word": "脱",
-      "choices": [
-        "複雑な計算",
-        "脱",
-        "危機を脱する",
-        "駅の改札口"
-      ],
-      "correctAnswer": 1,
-      "explanation": "だつ → 脱"
-    },
-    {
-      "id": 12,
-      "questionType": "kanji",
-      "question": "『いきおいよく』qaysi yozuvga mos?",
-      "word": "勢いよく",
-      "choices": [
-        "米を貯蔵する",
-        "勢いよく",
-        "自国領域",
-        "針が振れる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "いきおいよく → 勢いよく"
-    },
-    {
-      "id": 13,
-      "questionType": "meaning",
-      "question": "『日本の姿』ning ma'nosi qaysi?",
-      "word": "日本の姿",
-      "choices": [
-        "brokerlik kompaniyasi",
-        "musiqiy nota",
-        "qotmoq",
-        "Yaponiya shamoyili, holati"
-      ],
-      "correctAnswer": 3,
-      "explanation": "日本の姿 → Yaponiya shamoyili, holati"
-    },
-    {
-      "id": 14,
-      "questionType": "meaning",
-      "question": "『柔』ning ma'nosi qaysi?",
-      "word": "柔",
-      "choices": [
-        "ikkalasi ham",
-        "yumshoq",
-        "yumshoq qilib qaynatib pishirish",
-        "sudda guvohlik bermoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "柔 → yumshoq"
-    },
-    {
-      "id": 15,
-      "questionType": "word",
-      "question": "『yumshoq qilib qaynatib pishirish』ning yaponcha ifodasi qaysi?",
-      "word": "軟らかく煮る",
-      "choices": [
-        "払い戻す",
-        "仮説を立てる",
-        "部屋を汚す",
-        "軟らかく煮る"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yumshoq qilib qaynatib pishirish → 軟らかく煮る"
-    },
-    {
-      "id": 16,
-      "questionType": "meaning",
-      "question": "『態度が軟化する』ning ma'nosi qaysi?",
-      "word": "態度が軟化する",
-      "choices": [
-        "transport",
-        "yumshoq qilib qaynatib pishirish",
-        "yumshoq, og'izda erib ketadigan ovqat",
-        "munosabat yumshashi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "態度が軟化する → munosabat yumshashi"
-    },
-    {
-      "id": 17,
-      "questionType": "meaning",
-      "question": "『勢』ning ma'nosi qaysi?",
-      "word": "勢",
-      "choices": [
-        "ta'mi to'q (quyuq)",
-        "kuch, vaziyat",
-        "hayot oson emas",
-        "pasport (xorijiy)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "勢 → kuch, vaziyat"
-    },
-    {
-      "id": 18,
-      "questionType": "meaning",
-      "question": "『チームに勢いがある』ning ma'nosi qaysi?",
-      "word": "チームに勢いがある",
-      "choices": [
-        "bank daftarchasi",
-        "qalbga joylab olish, bir narsani unutmaslik",
-        "pulni qaytarib bermoq",
-        "jamoani ruhiyati bor"
-      ],
-      "correctAnswer": 3,
-      "explanation": "チームに勢いがある → jamoani ruhiyati bor"
-    },
-    {
-      "id": 19,
-      "questionType": "recognition",
-      "question": "『脱』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "靴が脱げる",
-      "choices": [
-        "靴が脱げる",
-        "輪",
-        "百貨店",
-        "過つ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "脱 → 靴が脱げる"
-    },
-    {
-      "id": 20,
-      "questionType": "recognition",
-      "question": "『柔』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "柔らかな布団",
-      "choices": [
-        "柔らかな布団",
-        "為替レート",
-        "指輪",
-        "ファッション誌"
-      ],
-      "correctAnswer": 0,
-      "explanation": "柔 → 柔らかな布団"
-    },
-    {
-      "id": 21,
       "questionType": "meaning",
       "question": "『姿』ning ma'nosi qaysi?",
       "word": "姿",
       "choices": [
-        "shakl, qomat",
-        "xavotirlanmoq",
-        "yog'ochdan tayyorlangan uy jihozi",
-        "o'z davlati hududi"
+        "katta portsiya ovqat",
+        "kiyimni yechmoq",
+        "qiyofa, shakl",
+        "ikki qo'l"
+      ],
+      "correctAnswer": 2,
+      "explanation": "姿 → qiyofa, shakl"
+    },
+    {
+      "id": 11,
+      "questionType": "word",
+      "question": "『Yaponiya shamoyili, holati』ning yaponcha ifodasi qaysi?",
+      "word": "日本の姿",
+      "choices": [
+        "電車の切符",
+        "雑談",
+        "腕白な子供",
+        "日本の姿"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Yaponiya shamoyili, holati → 日本の姿"
+    },
+    {
+      "id": 12,
+      "questionType": "word",
+      "question": "『munosabat yumshashi』ning yaponcha ifodasi qaysi?",
+      "word": "態度が軟化する",
+      "choices": [
+        "気を配る",
+        "圧勝",
+        "製",
+        "態度が軟化する"
+      ],
+      "correctAnswer": 3,
+      "explanation": "munosabat yumshashi → 態度が軟化する"
+    },
+    {
+      "id": 13,
+      "questionType": "word",
+      "question": "『yumshoq, egiluvchan』ning yaponcha ifodasi qaysi?",
+      "word": "軟",
+      "choices": [
+        "符",
+        "到",
+        "軟",
+        "目標に到達する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yumshoq, egiluvchan → 軟"
+    },
+    {
+      "id": 14,
+      "questionType": "meaning",
+      "question": "『脱退』ning ma'nosi qaysi?",
+      "word": "脱退",
+      "choices": [
+        "oldingi va orqa g'ildiraklar",
+        "chiqib ketish, tashlab ketish",
+        "yozuvchi",
+        "milliy boylik"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脱退 → chiqib ketish, tashlab ketish"
+    },
+    {
+      "id": 15,
+      "questionType": "sentence",
+      "question": "『大勢の人』ning ma'nosi qaysi?",
+      "word": "大勢の人",
+      "choices": [
+        "yangi yilda yeyiladigan soba",
+        "ko'p odam",
+        "tufli yechilib ketishi",
+        "soliq ichida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "大勢の人 → ko'p odam"
+    },
+    {
+      "id": 16,
+      "questionType": "reading",
+      "question": "『勢』ning o'qilishi qaysi?",
+      "word": "勢",
+      "choices": [
+        "わたる",
+        "せい・いきおい",
+        "けいやくしょ",
+        "ゆうびんきょく"
+      ],
+      "correctAnswer": 1,
+      "explanation": "勢 → せい・いきおい"
+    },
+    {
+      "id": 17,
+      "questionType": "word",
+      "question": "『marhamat o'tiring』ning yaponcha ifodasi qaysi?",
+      "word": "どうぞお掛けください",
+      "choices": [
+        "違法",
+        "運転を替わる",
+        "物を渡す",
+        "どうぞお掛けください"
+      ],
+      "correctAnswer": 3,
+      "explanation": "marhamat o'tiring → どうぞお掛けください"
+    },
+    {
+      "id": 18,
+      "questionType": "kanji",
+      "question": "『こくさいじょうせい』qaysi yozuvga mos?",
+      "word": "国際情勢",
+      "choices": [
+        "杉の花粉",
+        "国際情勢",
+        "輸出する",
+        "腕相撲"
+      ],
+      "correctAnswer": 1,
+      "explanation": "こくさいじょうせい → 国際情勢"
+    },
+    {
+      "id": 19,
+      "questionType": "word",
+      "question": "『egiluvchan, moslashuvchan』ning yaponcha ifodasi qaysi?",
+      "word": "柔軟",
+      "choices": [
+        "柔軟",
+        "胃炎",
+        "欠席届",
+        "振"
       ],
       "correctAnswer": 0,
-      "explanation": "姿 → shakl, qomat"
+      "explanation": "egiluvchan, moslashuvchan → 柔軟"
+    },
+    {
+      "id": 20,
+      "questionType": "kanji",
+      "question": "『じゅう・にゅう』qaysi yozuvga mos?",
+      "word": "柔",
+      "choices": [
+        "柔",
+        "居間",
+        "音符",
+        "振"
+      ],
+      "correctAnswer": 0,
+      "explanation": "じゅう・にゅう → 柔"
+    },
+    {
+      "id": 21,
+      "questionType": "reading",
+      "question": "『姿勢』ning o'qilishi qaysi?",
+      "word": "姿勢",
+      "choices": [
+        "せいめい",
+        "しせい",
+        "じんせいはあまくない",
+        "びとけんこうをたもつ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "姿勢 → しせい"
     },
     {
       "id": 22,
       "questionType": "meaning",
-      "question": "『軟』ning ma'nosi qaysi?",
-      "word": "軟",
+      "question": "『掛』ning ma'nosi qaysi?",
+      "word": "掛",
       "choices": [
-        "arxitektor, quruvchi",
-        "yumshoq, egiluvchan",
-        "farq qilmoq, noto'g'ri",
-        "orqaga qaytish"
+        "orqa, quymich",
+        "yo'lovchi chiptasi",
+        "osmoq, ilmoq",
+        "adashmoq, xato qilmoq"
       ],
-      "correctAnswer": 1,
-      "explanation": "軟 → yumshoq, egiluvchan"
+      "correctAnswer": 2,
+      "explanation": "掛 → osmoq, ilmoq"
     },
     {
       "id": 23,
-      "questionType": "sentence",
-      "question": "『布団を掛ける』ning ma'nosi qaysi?",
-      "word": "布団を掛ける",
+      "questionType": "recognition",
+      "question": "『脱』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "靴が脱げる",
       "choices": [
-        "chipta tekshirish (turniket) darvozasi",
-        "ko'p bo'yangan",
-        "dzyudo",
-        "ko'rpa yopish"
+        "肩入れする",
+        "立ち入り禁止区域",
+        "時刻",
+        "靴が脱げる"
       ],
       "correctAnswer": 3,
-      "explanation": "布団を掛ける → ko'rpa yopish"
+      "explanation": "脱 → 靴が脱げる"
     },
     {
       "id": 24,
-      "questionType": "recognition",
-      "question": "『脱』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "離脱",
+      "questionType": "reading",
+      "question": "『柔』ning o'qilishi qaysi?",
+      "word": "柔",
       "choices": [
-        "届",
-        "停車する",
-        "支払い",
-        "離脱"
+        "どうどう",
+        "かたいれする",
+        "ぜんりんとこうりん",
+        "じゅう・にゅう"
       ],
       "correctAnswer": 3,
-      "explanation": "脱 → 離脱"
+      "explanation": "柔 → じゅう・にゅう"
     },
     {
       "id": 25,
-      "questionType": "kanji",
-      "question": "『にほんのすがた』qaysi yozuvga mos?",
-      "word": "日本の姿",
+      "questionType": "meaning",
+      "question": "『大勢の人』ning ma'nosi qaysi?",
+      "word": "大勢の人",
       "choices": [
-        "目標に到達する",
-        "払",
-        "日本の姿",
-        "蔵"
+        "oqqa ko'chirish",
+        "farzand bilan siylanmoq",
+        "ko'p odam",
+        "tarqatmoq, taqsimlamoq"
       ],
       "correctAnswer": 2,
-      "explanation": "にほんのすがた → 日本の姿"
+      "explanation": "大勢の人 → ko'p odam"
     },
     {
       "id": 26,
-      "questionType": "recognition",
-      "question": "『軟』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "態度が軟化する",
+      "questionType": "meaning",
+      "question": "『服を脱ぐ』ning ma'nosi qaysi?",
+      "word": "服を脱ぐ",
       "choices": [
-        "態度が軟化する",
-        "快気祝い",
-        "各駅停車",
-        "論文の清書をする"
+        "kasallik sababi",
+        "sahna asari, drama",
+        "kiyimni yechmoq",
+        "erimoq, eritmoq"
       ],
-      "correctAnswer": 0,
-      "explanation": "軟 → 態度が軟化する"
+      "correctAnswer": 2,
+      "explanation": "服を脱ぐ → kiyimni yechmoq"
     },
     {
       "id": 27,
       "questionType": "kanji",
-      "question": "『じゅうどう』qaysi yozuvga mos?",
-      "word": "柔道",
+      "question": "『おおぜいのひと』qaysi yozuvga mos?",
+      "word": "大勢の人",
       "choices": [
-        "柔道",
-        "車両",
-        "士",
-        "招"
+        "胸を打つ",
+        "大勢の人",
+        "牛乳にカルシウムが含まれている",
+        "脳科学"
       ],
-      "correctAnswer": 0,
-      "explanation": "じゅうどう → 柔道"
+      "correctAnswer": 1,
+      "explanation": "おおぜいのひと → 大勢の人"
     },
     {
       "id": 28,
-      "questionType": "kanji",
-      "question": "『だったい』qaysi yozuvga mos?",
-      "word": "脱退",
+      "questionType": "sentence",
+      "question": "『危機を脱する』ning ma'nosi qaysi?",
+      "word": "危機を脱する",
       "choices": [
-        "化粧が濃い",
-        "姿勢",
-        "脱退",
-        "住居"
+        "davlat chegarasidan kesib o'tish",
+        "tarqatmoq, taqsimlamoq",
+        "taxlamoq",
+        "xavfdan qutulish"
       ],
-      "correctAnswer": 2,
-      "explanation": "だったい → 脱退"
+      "correctAnswer": 3,
+      "explanation": "危機を脱する → xavfdan qutulish"
     },
     {
       "id": 29,
+      "questionType": "reading",
+      "question": "『姿』ning o'qilishi qaysi?",
+      "word": "姿",
+      "choices": [
+        "てん",
+        "きょう",
+        "し・すがた",
+        "めいれい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "姿 → し・すがた"
+    },
+    {
+      "id": 30,
+      "questionType": "word",
+      "question": "『yumshoq ko'rpa』ning yaponcha ifodasi qaysi?",
+      "word": "柔らかな布団",
+      "choices": [
+        "贈り物",
+        "記帳する",
+        "香辛料",
+        "柔らかな布団"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yumshoq ko'rpa → 柔らかな布団"
+    },
+    {
+      "id": 31,
+      "questionType": "sentence",
+      "question": "『柔和な性格』ning ma'nosi qaysi?",
+      "word": "柔和な性格",
+      "choices": [
+        "ko'krak qafasi og'rishi",
+        "og'izga suv olish",
+        "muzni erishi",
+        "yumshoq, muloyim xarakter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "柔和な性格 → yumshoq, muloyim xarakter"
+    },
+    {
+      "id": 32,
+      "questionType": "sentence",
+      "question": "『軟らかいごはん』ning ma'nosi qaysi?",
+      "word": "軟らかいごはん",
+      "choices": [
+        "yumshoq, og'izda erib ketadigan ovqat",
+        "shartnoma",
+        "sivilizatsiya gullab yashnashi",
+        "vaziyat o'zgarishi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "軟らかいごはん → yumshoq, og'izda erib ketadigan ovqat"
+    },
+    {
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『じゅうなん』qaysi yozuvga mos?",
+      "word": "柔軟",
+      "choices": [
+        "柔軟",
+        "症候群",
+        "小麦粉と卵を混ぜる",
+        "雑談"
+      ],
+      "correctAnswer": 0,
+      "explanation": "じゅうなん → 柔軟"
+    },
+    {
+      "id": 34,
+      "questionType": "meaning",
+      "question": "『姿勢』ning ma'nosi qaysi?",
+      "word": "姿勢",
+      "choices": [
+        "gavda turishi, holati",
+        "o'rtacha umr",
+        "o'tmoq, kesib o'tmoq",
+        "qarama-qarshi jins"
+      ],
+      "correctAnswer": 0,
+      "explanation": "姿勢 → gavda turishi, holati"
+    },
+    {
+      "id": 35,
+      "questionType": "word",
+      "question": "『kuch, vaziyat』ning yaponcha ifodasi qaysi?",
+      "word": "勢",
+      "choices": [
+        "夕刊",
+        "勢",
+        "固定する",
+        "異変"
+      ],
+      "correctAnswer": 1,
+      "explanation": "kuch, vaziyat → 勢"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『脱税』ning o'qilishi qaysi?",
+      "word": "脱税",
+      "choices": [
+        "さかんなせいえん",
+        "だつぜい",
+        "ずのうめいせき",
+        "もる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脱税 → だつぜい"
+    },
+    {
+      "id": 37,
+      "questionType": "meaning",
+      "question": "『台風の勢力』ning ma'nosi qaysi?",
+      "word": "台風の勢力",
+      "choices": [
+        "qimmatbaho narsani omonatga olish",
+        "supurmoq, tozalamoq",
+        "shamol kuchi",
+        "qon bosimin o'lchash"
+      ],
+      "correctAnswer": 2,
+      "explanation": "台風の勢力 → shamol kuchi"
+    },
+    {
+      "id": 38,
       "questionType": "recognition",
       "question": "『軟』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
       "word": "軟らかく煮る",
       "choices": [
-        "香",
-        "到着する",
-        "雑貨",
-        "軟らかく煮る"
+        "軟らかく煮る",
+        "どうぞお掛けください",
+        "勢いよく",
+        "軟"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 0,
       "explanation": "軟 → 軟らかく煮る"
     },
     {
-      "id": 30,
+      "id": 39,
       "questionType": "meaning",
       "question": "『脱税』ning ma'nosi qaysi?",
       "word": "脱税",
       "choices": [
-        "erimoq, eritmoq",
-        "orqaga qaytish",
-        "o'z davlati hududi",
+        "gastrit",
+        "xonani iflos qilish",
+        "yurakdan bajarish",
         "soliqdan qochish"
       ],
       "correctAnswer": 3,
       "explanation": "脱税 → soliqdan qochish"
     },
     {
-      "id": 31,
+      "id": 40,
       "questionType": "reading",
       "question": "『柔道』ning o'qilishi qaysi?",
       "word": "柔道",
       "choices": [
         "じゅうどう",
-        "りょうをする",
-        "せきにもどる",
-        "あともどり"
+        "おう・さくら",
+        "あじがうすまる",
+        "おくりもの"
       ],
       "correctAnswer": 0,
       "explanation": "柔道 → じゅうどう"
     },
     {
-      "id": 32,
-      "questionType": "sentence",
-      "question": "『柔らかな布団』ning ma'nosi qaysi?",
-      "word": "柔らかな布団",
-      "choices": [
-        "gullamoq, yashnamoq",
-        "ish turg'unlashishi, sekinlashishi",
-        "yumshoq ko'rpa",
-        "yoqimli javob"
-      ],
-      "correctAnswer": 2,
-      "explanation": "柔らかな布団 → yumshoq ko'rpa"
-    },
-    {
-      "id": 33,
-      "questionType": "meaning",
-      "question": "『掛かる』ning ma'nosi qaysi?",
-      "word": "掛かる",
-      "choices": [
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)",
-        "daftar",
-        "solmoq, gullamoq",
-        "osilib turmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "掛かる → osilib turmoq"
-    },
-    {
-      "id": 34,
-      "questionType": "meaning",
-      "question": "『柔軟』ning ma'nosi qaysi?",
-      "word": "柔軟",
-      "choices": [
-        "turli xil mahsulotlar",
-        "kuch, vaziyat",
-        "egiluvchan, moslashuvchan",
-        "sho'rva, suyuqlik"
-      ],
-      "correctAnswer": 2,
-      "explanation": "柔軟 → egiluvchan, moslashuvchan"
-    },
-    {
-      "id": 35,
-      "questionType": "word",
-      "question": "『kimono kiygan qiyofa』ning yaponcha ifodasi qaysi?",
-      "word": "着物姿",
-      "choices": [
-        "刊",
-        "混",
-        "汚水",
-        "着物姿"
-      ],
-      "correctAnswer": 3,
-      "explanation": "kimono kiygan qiyofa → 着物姿"
-    },
-    {
-      "id": 36,
-      "questionType": "meaning",
-      "question": "『危機を脱する』ning ma'nosi qaysi?",
-      "word": "危機を脱する",
-      "choices": [
-        "maroqli vaqt o'tkazish",
-        "men bilan 4 kishi",
-        "xavfdan qutulish",
-        "vaqtinchalik, faraz"
-      ],
-      "correctAnswer": 2,
-      "explanation": "危機を脱する → xavfdan qutulish"
-    },
-    {
-      "id": 37,
-      "questionType": "meaning",
-      "question": "『体が柔らかい』ning ma'nosi qaysi?",
-      "word": "体が柔らかい",
-      "choices": [
-        "sinf xonasini tozalash",
-        "tanasi egiluvchan",
-        "musiqiy nota",
-        "qasr"
-      ],
-      "correctAnswer": 1,
-      "explanation": "体が柔らかい → tanasi egiluvchan"
-    },
-    {
-      "id": 38,
-      "questionType": "kanji",
-      "question": "『せい・いきおい』qaysi yozuvga mos?",
-      "word": "勢",
-      "choices": [
-        "換気する",
-        "勢",
-        "域",
-        "恩恵を受ける"
-      ],
-      "correctAnswer": 1,
-      "explanation": "せい・いきおい → 勢"
-    },
-    {
-      "id": 39,
-      "questionType": "meaning",
-      "question": "『姿』ning ma'nosi qaysi?",
-      "word": "姿",
-      "choices": [
-        "sinf xonasini tozalash",
-        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish",
-        "qiyofa, shakl",
-        "aralashmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "姿 → qiyofa, shakl"
-    },
-    {
-      "id": 40,
-      "questionType": "kanji",
-      "question": "『かける・かかる』qaysi yozuvga mos?",
-      "word": "掛",
-      "choices": [
-        "著しい進歩",
-        "頭が固い",
-        "掛",
-        "並ぶ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かける・かかる → 掛"
-    },
-    {
       "id": 41,
-      "questionType": "recognition",
-      "question": "『柔』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "柔和な性格",
-      "choices": [
-        "宝物",
-        "服にラーメンの汁がついた",
-        "柔和な性格",
-        "城"
-      ],
-      "correctAnswer": 2,
-      "explanation": "柔 → 柔和な性格"
-    },
-    {
-      "id": 42,
-      "questionType": "recognition",
-      "question": "『柔』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "柔道",
-      "choices": [
-        "郵",
-        "柔道",
-        "席を換わる",
-        "前輪と後輪"
-      ],
-      "correctAnswer": 1,
-      "explanation": "柔 → 柔道"
-    },
-    {
-      "id": 43,
-      "questionType": "reading",
-      "question": "『軟』ning o'qilishi qaysi?",
-      "word": "軟",
-      "choices": [
-        "よごれたふく",
-        "りょうをする",
-        "おおもり",
-        "なん"
-      ],
-      "correctAnswer": 3,
-      "explanation": "軟 → なん"
-    },
-    {
-      "id": 44,
-      "questionType": "sentence",
-      "question": "『危機を脱する』ning ma'nosi qaysi?",
-      "word": "危機を脱する",
-      "choices": [
-        "sariqyog'ni eritish",
-        "xavfdan qutulish",
-        "bo'lmoq, yashamoq",
-        "aeroport"
-      ],
-      "correctAnswer": 1,
-      "explanation": "危機を脱する → xavfdan qutulish"
-    },
-    {
-      "id": 45,
-      "questionType": "sentence",
-      "question": "『勢いよく』ning ma'nosi qaysi?",
-      "word": "勢いよく",
-      "choices": [
-        "bardam, tetik, g'ayrat bilan",
-        "baliqchilik biznesini boshlash",
-        "kir bo'lgan kiyim",
-        "oddiy savol, muammo"
-      ],
-      "correctAnswer": 0,
-      "explanation": "勢いよく → bardam, tetik, g'ayrat bilan"
-    },
-    {
-      "id": 46,
-      "questionType": "word",
-      "question": "『shamol kuchi』ning yaponcha ifodasi qaysi?",
-      "word": "台風の勢力",
-      "choices": [
-        "イタリア製の靴",
-        "劇",
-        "台風の勢力",
-        "木製の家具"
-      ],
-      "correctAnswer": 2,
-      "explanation": "shamol kuchi → 台風の勢力"
-    },
-    {
-      "id": 47,
-      "questionType": "kanji",
-      "question": "『かかる』qaysi yozuvga mos?",
-      "word": "掛かる",
-      "choices": [
-        "悲劇",
-        "盛んな声援",
-        "掛かる",
-        "庭"
-      ],
-      "correctAnswer": 2,
-      "explanation": "かかる → 掛かる"
-    },
-    {
-      "id": 48,
-      "questionType": "reading",
-      "question": "『掛』ning o'qilishi qaysi?",
-      "word": "掛",
-      "choices": [
-        "かける・かかる",
-        "こうすい",
-        "あまいせいかつ",
-        "じゅんじょうなひと"
-      ],
-      "correctAnswer": 0,
-      "explanation": "掛 → かける・かかる"
-    },
-    {
-      "id": 49,
-      "questionType": "reading",
-      "question": "『柔軟』ning o'qilishi qaysi?",
-      "word": "柔軟",
-      "choices": [
-        "じゅうなん",
-        "ほんをゆうそうする",
-        "ぼうりょくだんをいっそうする",
-        "きぶんてんかん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "柔軟 → じゅうなん"
-    },
-    {
-      "id": 50,
-      "questionType": "kanji",
-      "question": "『し・すがた』qaysi yozuvga mos?",
-      "word": "姿",
-      "choices": [
-        "人並みに生活する",
-        "前の車を追い越す",
-        "姿",
-        "快く引き受ける"
-      ],
-      "correctAnswer": 2,
-      "explanation": "し・すがた → 姿"
-    },
-    {
-      "id": 51,
-      "questionType": "sentence",
-      "question": "『靴が脱げる』ning ma'nosi qaysi?",
-      "word": "靴が脱げる",
-      "choices": [
-        "tufli yechilib ketishi",
-        "chiqib ketish, ajralish",
-        "halqa, g'ildirak",
-        "oddiy maktab"
-      ],
-      "correctAnswer": 0,
-      "explanation": "靴が脱げる → tufli yechilib ketishi"
-    },
-    {
-      "id": 52,
-      "questionType": "meaning",
-      "question": "『靴が脱げる』ning ma'nosi qaysi?",
-      "word": "靴が脱げる",
-      "choices": [
-        "tufli yechilib ketishi",
-        "Yangi mahsulot",
-        "pasport (xorijiy)",
-        "tortmoq, solmoq (idishga)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "靴が脱げる → tufli yechilib ketishi"
-    },
-    {
-      "id": 53,
-      "questionType": "meaning",
-      "question": "『どうぞお掛けください』ning ma'nosi qaysi?",
-      "word": "どうぞお掛けください",
-      "choices": [
-        "tarqalmoq, mashhur bo'lmoq",
-        "mustahkamlash",
-        "oddiy maktab",
-        "marhamat o'tiring"
-      ],
-      "correctAnswer": 3,
-      "explanation": "どうぞお掛けください → marhamat o'tiring"
-    },
-    {
-      "id": 54,
-      "questionType": "reading",
-      "question": "『離脱』ning o'qilishi qaysi?",
-      "word": "離脱",
-      "choices": [
-        "えいよう",
-        "りだつ",
-        "ふつうよきん",
-        "えい"
-      ],
-      "correctAnswer": 1,
-      "explanation": "離脱 → りだつ"
-    },
-    {
-      "id": 55,
       "questionType": "kanji",
       "question": "『だつぜい』qaysi yozuvga mos?",
       "word": "脱税",
       "choices": [
         "脱税",
-        "空港",
-        "電車の切符",
-        "発展する"
+        "標準",
+        "航空便",
+        "柔和な性格"
       ],
       "correctAnswer": 0,
       "explanation": "だつぜい → 脱税"
     },
     {
-      "id": 56,
-      "questionType": "recognition",
-      "question": "『掛』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "布団を掛ける",
-      "choices": [
-        "軟",
-        "布団を掛ける",
-        "準備が整う",
-        "停"
-      ],
-      "correctAnswer": 1,
-      "explanation": "掛 → 布団を掛ける"
-    },
-    {
-      "id": 57,
-      "questionType": "sentence",
-      "question": "『気掛かりなこと』ning ma'nosi qaysi?",
-      "word": "気掛かりなこと",
-      "choices": [
-        "xavotir, ko'ngil g'ashligi",
-        "saqlamoq",
-        "sinf xonasini tozalash",
-        "ismi yozilgan beyjik tayyorlash"
-      ],
-      "correctAnswer": 0,
-      "explanation": "気掛かりなこと → xavotir, ko'ngil g'ashligi"
-    },
-    {
-      "id": 58,
-      "questionType": "recognition",
-      "question": "『勢』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "大勢の人",
-      "choices": [
-        "親と同居する",
-        "大勢の人",
-        "夕刊",
-        "皿におかずを盛る"
-      ],
-      "correctAnswer": 1,
-      "explanation": "勢 → 大勢の人"
-    },
-    {
-      "id": 59,
-      "questionType": "reading",
-      "question": "『勢』ning o'qilishi qaysi?",
-      "word": "勢",
-      "choices": [
-        "たい",
-        "せい・いきおい",
-        "あじがうすまる",
-        "しはらい"
-      ],
-      "correctAnswer": 1,
-      "explanation": "勢 → せい・いきおい"
-    },
-    {
-      "id": 60,
-      "questionType": "kanji",
-      "question": "『しせい』qaysi yozuvga mos?",
-      "word": "姿勢",
-      "choices": [
-        "薄い紙",
-        "姿勢",
-        "峠を越す",
-        "風に舞う"
-      ],
-      "correctAnswer": 1,
-      "explanation": "しせい → 姿勢"
-    },
-    {
-      "id": 61,
-      "questionType": "word",
-      "question": "『chiqib ketish, tashlab ketish』ning yaponcha ifodasi qaysi?",
-      "word": "脱退",
-      "choices": [
-        "脱退",
-        "純粋な心",
-        "純",
-        "保証人"
-      ],
-      "correctAnswer": 0,
-      "explanation": "chiqib ketish, tashlab ketish → 脱退"
-    },
-    {
-      "id": 62,
-      "questionType": "meaning",
-      "question": "『掛』ning ma'nosi qaysi?",
-      "word": "掛",
-      "choices": [
-        "sudda guvohlik bermoq",
-        "men bilan 4 kishi",
-        "osmoq, ilmoq",
-        "shirin hayot"
-      ],
-      "correctAnswer": 2,
-      "explanation": "掛 → osmoq, ilmoq"
-    },
-    {
-      "id": 63,
-      "questionType": "word",
-      "question": "『yumshoq, og'izda erib ketadigan ovqat』ning yaponcha ifodasi qaysi?",
-      "word": "軟らかいごはん",
-      "choices": [
-        "杉の木",
-        "恵",
-        "軟らかいごはん",
-        "換"
-      ],
-      "correctAnswer": 2,
-      "explanation": "yumshoq, og'izda erib ketadigan ovqat → 軟らかいごはん"
-    },
-    {
-      "id": 64,
-      "questionType": "kanji",
-      "question": "『りだつ』qaysi yozuvga mos?",
-      "word": "離脱",
-      "choices": [
-        "離脱",
-        "空港",
-        "地域住民",
-        "気分転換"
-      ],
-      "correctAnswer": 0,
-      "explanation": "りだつ → 離脱"
-    },
-    {
-      "id": 65,
-      "questionType": "reading",
-      "question": "『掛かる』ning o'qilishi qaysi?",
-      "word": "掛かる",
-      "choices": [
-        "さつ・ふだ",
-        "かかる",
-        "こうくうき",
-        "ほんをあらわす"
-      ],
-      "correctAnswer": 1,
-      "explanation": "掛かる → かかる"
-    },
-    {
-      "id": 66,
-      "questionType": "reading",
-      "question": "『脱退』ning o'qilishi qaysi?",
-      "word": "脱退",
-      "choices": [
-        "だったい",
-        "さらにおかずをもる",
-        "はらう",
-        "じゅんびがととのう"
-      ],
-      "correctAnswer": 0,
-      "explanation": "脱退 → だったい"
-    },
-    {
-      "id": 67,
-      "questionType": "meaning",
-      "question": "『服を脱ぐ』ning ma'nosi qaysi?",
-      "word": "服を脱ぐ",
-      "choices": [
-        "din, mazhab",
-        "kelmaslik haqidagi xabarnoma (ariza)",
-        "kiyimni yechmoq",
-        "yoqmaydigan shovqin qilmoq (radio,tv,telefondagi)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "服を脱ぐ → kiyimni yechmoq"
-    },
-    {
-      "id": 68,
-      "questionType": "reading",
-      "question": "『姿』ning o'qilishi qaysi?",
-      "word": "姿",
-      "choices": [
-        "しんどう",
-        "あまやかす",
-        "じゅんすいなこころ",
-        "し・すがた"
-      ],
-      "correctAnswer": 3,
-      "explanation": "姿 → し・すがた"
-    },
-    {
-      "id": 69,
-      "questionType": "kanji",
-      "question": "『なん』qaysi yozuvga mos?",
-      "word": "軟",
-      "choices": [
-        "払い戻す",
-        "身分証明書",
-        "軟",
-        "記帳する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "なん → 軟"
-    },
-    {
-      "id": 70,
-      "questionType": "word",
-      "question": "『yumshoq, muloyim xarakter』ning yaponcha ifodasi qaysi?",
-      "word": "柔和な性格",
-      "choices": [
-        "著名人",
-        "賃貸マンション",
-        "柔和な性格",
-        "軟らかいごはん"
-      ],
-      "correctAnswer": 2,
-      "explanation": "yumshoq, muloyim xarakter → 柔和な性格"
-    },
-    {
-      "id": 71,
-      "questionType": "kanji",
-      "question": "『じゅう・にゅう』qaysi yozuvga mos?",
-      "word": "柔",
-      "choices": [
-        "快気祝い",
-        "柔",
-        "育ち盛り",
-        "到"
-      ],
-      "correctAnswer": 1,
-      "explanation": "じゅう・にゅう → 柔"
-    },
-    {
-      "id": 72,
-      "questionType": "meaning",
-      "question": "『脱』ning ma'nosi qaysi?",
-      "word": "脱",
-      "choices": [
-        "hovli, bog'",
-        "ifloslantirilgan daryo",
-        "yechmoq, chiqib ketmoq",
-        "yoqimli javob"
-      ],
-      "correctAnswer": 2,
-      "explanation": "脱 → yechmoq, chiqib ketmoq"
-    },
-    {
-      "id": 73,
-      "questionType": "kanji",
-      "question": "『じゅうなん』qaysi yozuvga mos?",
-      "word": "柔軟",
-      "choices": [
-        "宝くじ",
-        "柔軟",
-        "展",
-        "並"
-      ],
-      "correctAnswer": 1,
-      "explanation": "じゅうなん → 柔軟"
-    },
-    {
-      "id": 74,
-      "questionType": "sentence",
-      "question": "『柔和な性格』ning ma'nosi qaysi?",
-      "word": "柔和な性格",
-      "choices": [
-        "yo'nalish, siyosat",
-        "yoqimli, xushnud",
-        "yumshoq, muloyim xarakter",
-        "almashtirmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "柔和な性格 → yumshoq, muloyim xarakter"
-    },
-    {
-      "id": 75,
-      "questionType": "reading",
-      "question": "『姿』ning o'qilishi qaysi?",
-      "word": "姿",
-      "choices": [
-        "きものすがた",
-        "わ",
-        "すがた",
-        "じゅん"
-      ],
-      "correctAnswer": 2,
-      "explanation": "姿 → すがた"
-    },
-    {
-      "id": 76,
-      "questionType": "word",
-      "question": "『bardam, tetik, g'ayrat bilan』ning yaponcha ifodasi qaysi?",
-      "word": "勢いよく",
-      "choices": [
-        "勢いよく",
-        "並べる",
-        "契約書",
-        "映画を製作する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "bardam, tetik, g'ayrat bilan → 勢いよく"
-    },
-    {
-      "id": 77,
+      "id": 42,
       "questionType": "kanji",
       "question": "『すがた』qaysi yozuvga mos?",
       "word": "姿",
       "choices": [
-        "後戻り",
-        "子供を送り届ける",
+        "圧力",
+        "胃の検査",
         "姿",
-        "夏が過ぎる"
+        "雑音がする"
       ],
       "correctAnswer": 2,
       "explanation": "すがた → 姿"
     },
     {
-      "id": 78,
-      "questionType": "recognition",
-      "question": "『勢』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "姿勢",
-      "choices": [
-        "日本庭園",
-        "途方にくれる",
-        "各駅停車",
-        "姿勢"
-      ],
-      "correctAnswer": 3,
-      "explanation": "勢 → 姿勢"
-    },
-    {
-      "id": 79,
-      "questionType": "sentence",
-      "question": "『国際情勢』ning ma'nosi qaysi?",
-      "word": "国際情勢",
-      "choices": [
-        "o'ramoq",
-        "xalqaro vaziyat",
-        "chuqur kosa (donburi)",
-        "erkalanmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "国際情勢 → xalqaro vaziyat"
-    },
-    {
-      "id": 80,
-      "questionType": "kanji",
-      "question": "『ふくをぬぐ』qaysi yozuvga mos?",
-      "word": "服を脱ぐ",
-      "choices": [
-        "大盛り",
-        "居",
-        "服を脱ぐ",
-        "金融機関"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ふくをぬぐ → 服を脱ぐ"
-    },
-    {
-      "id": 81,
-      "questionType": "sentence",
-      "question": "『大勢の人』ning ma'nosi qaysi?",
-      "word": "大勢の人",
-      "choices": [
-        "yuklarni zichlab tiqmoq",
-        "shartnoma tuzish",
-        "tayyorlash, ishlab chiqarish",
-        "ko'p odam"
-      ],
-      "correctAnswer": 3,
-      "explanation": "大勢の人 → ko'p odam"
-    },
-    {
-      "id": 82,
-      "questionType": "recognition",
-      "question": "『軟』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "柔軟",
-      "choices": [
-        "席に戻る",
-        "柔軟",
-        "両側",
-        "舞"
-      ],
-      "correctAnswer": 1,
-      "explanation": "軟 → 柔軟"
-    },
-    {
-      "id": 83,
-      "questionType": "reading",
-      "question": "『柔』ning o'qilishi qaysi?",
-      "word": "柔",
-      "choices": [
-        "にもつをつめこむ",
-        "じゅう・にゅう",
-        "くつがぬげる",
-        "こめをちょぞうする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "柔 → じゅう・にゅう"
-    },
-    {
-      "id": 84,
-      "questionType": "sentence",
-      "question": "『態度が軟化する』ning ma'nosi qaysi?",
-      "word": "態度が軟化する",
-      "choices": [
-        "munosabat yumshashi",
-        "bo'yinbog' (hayvon uchun)",
-        "yozmoq, ko'zga ko'rinarli",
-        "tayyorlash, ishlab chiqarish"
-      ],
-      "correctAnswer": 0,
-      "explanation": "態度が軟化する → munosabat yumshashi"
-    },
-    {
-      "id": 85,
-      "questionType": "sentence",
-      "question": "『どうぞお掛けください』ning ma'nosi qaysi?",
-      "word": "どうぞお掛けください",
-      "choices": [
-        "qasr",
-        "teatr tomoshasi, spektakl",
-        "yengiltak, mulohazasiz odam",
-        "marhamat o'tiring"
-      ],
-      "correctAnswer": 3,
-      "explanation": "どうぞお掛けください → marhamat o'tiring"
-    },
-    {
-      "id": 86,
-      "questionType": "word",
-      "question": "『ko'rpa yopish』ning yaponcha ifodasi qaysi?",
-      "word": "布団を掛ける",
-      "choices": [
-        "梅雨前線",
-        "快適な部屋",
-        "方針を固める",
-        "布団を掛ける"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ko'rpa yopish → 布団を掛ける"
-    },
-    {
-      "id": 87,
-      "questionType": "word",
-      "question": "『gavda turishi, holati』ning yaponcha ifodasi qaysi?",
-      "word": "姿勢",
-      "choices": [
-        "手を振る",
-        "姿勢",
-        "展開",
-        "融通がきかない人"
-      ],
-      "correctAnswer": 1,
-      "explanation": "gavda turishi, holati → 姿勢"
-    },
-    {
-      "id": 88,
-      "questionType": "meaning",
-      "question": "『柔道』ning ma'nosi qaysi?",
-      "word": "柔道",
-      "choices": [
-        "silkitmoq, tebranmoq",
-        "mazhab, tariqat",
-        "dzyudo",
-        "tiqilinch, gavjumlik"
-      ],
-      "correctAnswer": 2,
-      "explanation": "柔道 → dzyudo"
-    },
-    {
-      "id": 89,
-      "questionType": "reading",
-      "question": "『脱税』ning o'qilishi qaysi?",
-      "word": "脱税",
-      "choices": [
-        "だつぜい",
-        "こだからにめぐまれる",
-        "すがた",
-        "おんけいをうける"
-      ],
-      "correctAnswer": 0,
-      "explanation": "脱税 → だつぜい"
-    },
-    {
-      "id": 90,
-      "questionType": "kanji",
-      "question": "『こくさいじょうせい』qaysi yozuvga mos?",
-      "word": "国際情勢",
-      "choices": [
-        "交通違反",
-        "軟らかいごはん",
-        "仮定する",
-        "国際情勢"
-      ],
-      "correctAnswer": 3,
-      "explanation": "こくさいじょうせい → 国際情勢"
-    },
-    {
-      "id": 91,
-      "questionType": "word",
-      "question": "『ko'p odam』ning yaponcha ifodasi qaysi?",
-      "word": "大勢の人",
-      "choices": [
-        "航空機",
-        "国宝",
-        "大勢の人",
-        "漁業を営む"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ko'p odam → 大勢の人"
-    },
-    {
-      "id": 92,
+      "id": 43,
       "questionType": "meaning",
       "question": "『気掛かりなこと』ning ma'nosi qaysi?",
       "word": "気掛かりなこと",
       "choices": [
-        "qotmoq",
+        "adashmoq, xato qilmoq",
         "xavotir, ko'ngil g'ashligi",
-        "chiroyli ayol",
-        "ikkalasi ham"
+        "ta'mi suyulishi",
+        "ikkala"
       ],
       "correctAnswer": 1,
       "explanation": "気掛かりなこと → xavotir, ko'ngil g'ashligi"
     },
     {
-      "id": 93,
+      "id": 44,
+      "questionType": "sentence",
+      "question": "『柔らかな布団』ning ma'nosi qaysi?",
+      "word": "柔らかな布団",
+      "choices": [
+        "yumshoq ko'rpa",
+        "yelka qotib qolishi",
+        "o'tmishdagi shon-sharaf",
+        "kafil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "柔らかな布団 → yumshoq ko'rpa"
+    },
+    {
+      "id": 45,
+      "questionType": "sentence",
+      "question": "『体が柔らかい』ning ma'nosi qaysi?",
+      "word": "体が柔らかい",
+      "choices": [
+        "qalbga joylab olish, bir narsani unutmaslik",
+        "tanasi egiluvchan",
+        "nashr qilish",
+        "sivilizatsiya gullab yashnashi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "体が柔らかい → tanasi egiluvchan"
+    },
+    {
+      "id": 46,
+      "questionType": "meaning",
+      "question": "『勢いよく』ning ma'nosi qaysi?",
+      "word": "勢いよく",
+      "choices": [
+        "to'qima shikastlanishi",
+        "bardam, tetik, g'ayrat bilan",
+        "favqulotda vaziyat",
+        "o'ramoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "勢いよく → bardam, tetik, g'ayrat bilan"
+    },
+    {
+      "id": 47,
+      "questionType": "sentence",
+      "question": "『どうぞお掛けください』ning ma'nosi qaysi?",
+      "word": "どうぞお掛けください",
+      "choices": [
+        "miya faoliyati",
+        "marhamat o'tiring",
+        "vaqtinchalik, faraz",
+        "marhamat, in'om"
+      ],
+      "correctAnswer": 1,
+      "explanation": "どうぞお掛けください → marhamat o'tiring"
+    },
+    {
+      "id": 48,
+      "questionType": "meaning",
+      "question": "『体が柔らかい』ning ma'nosi qaysi?",
+      "word": "体が柔らかい",
+      "choices": [
+        "mustahkamlash",
+        "qimmatbaho buyum",
+        "xotirasi yomonlashmoq",
+        "tanasi egiluvchan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "体が柔らかい → tanasi egiluvchan"
+    },
+    {
+      "id": 49,
+      "questionType": "kanji",
+      "question": "『じゅうどう』qaysi yozuvga mos?",
+      "word": "柔道",
+      "choices": [
+        "間違える",
+        "柔道",
+        "症",
+        "皿におかずを盛る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "じゅうどう → 柔道"
+    },
+    {
+      "id": 50,
+      "questionType": "recognition",
+      "question": "『勢』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "国際情勢",
+      "choices": [
+        "頭脳明晰",
+        "違法",
+        "国際情勢",
+        "日誌をつける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "勢 → 国際情勢"
+    },
+    {
+      "id": 51,
+      "questionType": "word",
+      "question": "『yumshoq, muloyim xarakter』ning yaponcha ifodasi qaysi?",
+      "word": "柔和な性格",
+      "choices": [
+        "新しいクラスに溶け込む",
+        "柔和な性格",
+        "駅の改札口",
+        "梅"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yumshoq, muloyim xarakter → 柔和な性格"
+    },
+    {
+      "id": 52,
+      "questionType": "sentence",
+      "question": "『態度が軟化する』ning ma'nosi qaysi?",
+      "word": "態度が軟化する",
+      "choices": [
+        "qiyin kechmoq (ish, muzokara)",
+        "munosabat yumshashi",
+        "yuborish, jo'natish",
+        "univermag, universal magazin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "態度が軟化する → munosabat yumshashi"
+    },
+    {
+      "id": 53,
+      "questionType": "reading",
+      "question": "『着物姿』ning o'qilishi qaysi?",
+      "word": "着物姿",
+      "choices": [
+        "けがのこういしょう",
+        "しばい",
+        "きものすがた",
+        "のりまき"
+      ],
+      "correctAnswer": 2,
+      "explanation": "着物姿 → きものすがた"
+    },
+    {
+      "id": 54,
+      "questionType": "sentence",
+      "question": "『服を脱ぐ』ning ma'nosi qaysi?",
+      "word": "服を脱ぐ",
+      "choices": [
+        "uy ijarasi haqi",
+        "kiyimni yechmoq",
+        "sovg'a qilmoq",
+        "sutda kalsiy bor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "服を脱ぐ → kiyimni yechmoq"
+    },
+    {
+      "id": 55,
+      "questionType": "sentence",
+      "question": "『靴が脱げる』ning ma'nosi qaysi?",
+      "word": "靴が脱げる",
+      "choices": [
+        "shamolda raqsga tushmoq",
+        "tufli yechilib ketishi",
+        "qarama-qarshi jins",
+        "tanadagi holatni buzilishi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "靴が脱げる → tufli yechilib ketishi"
+    },
+    {
+      "id": 56,
+      "questionType": "recognition",
+      "question": "『脱』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "脱退",
+      "choices": [
+        "肩を並べる",
+        "清",
+        "整える",
+        "脱退"
+      ],
+      "correctAnswer": 3,
+      "explanation": "脱 → 脱退"
+    },
+    {
+      "id": 57,
+      "questionType": "word",
+      "question": "『yumshoq qilib qaynatib pishirish』ning yaponcha ifodasi qaysi?",
+      "word": "軟らかく煮る",
+      "choices": [
+        "腹が立つ",
+        "軟らかく煮る",
+        "白状する",
+        "清"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yumshoq qilib qaynatib pishirish → 軟らかく煮る"
+    },
+    {
+      "id": 58,
+      "questionType": "meaning",
+      "question": "『靴が脱げる』ning ma'nosi qaysi?",
+      "word": "靴が脱げる",
+      "choices": [
+        "tufli yechilib ketishi",
+        "o'tib ketish (to'xtamasdan)",
+        "ombor, saqlash",
+        "o'lim sababi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "靴が脱げる → tufli yechilib ketishi"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『かかる』qaysi yozuvga mos?",
+      "word": "掛かる",
+      "choices": [
+        "掛かる",
+        "心に刻む",
+        "違",
+        "人並みに生活する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "かかる → 掛かる"
+    },
+    {
+      "id": 60,
+      "questionType": "sentence",
+      "question": "『チームに勢いがある』ning ma'nosi qaysi?",
+      "word": "チームに勢いがある",
+      "choices": [
+        "jamoani ruhiyati bor",
+        "yaxshi hayot",
+        "shamolda raqsga tushmoq",
+        "yuklarni zichlab tiqmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "チームに勢いがある → jamoani ruhiyati bor"
+    },
+    {
+      "id": 61,
+      "questionType": "sentence",
+      "question": "『布団を掛ける』ning ma'nosi qaysi?",
+      "word": "布団を掛ける",
+      "choices": [
+        "hovli",
+        "eksport qilish",
+        "iflos qo'l",
+        "ko'rpa yopish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "布団を掛ける → ko'rpa yopish"
+    },
+    {
+      "id": 62,
+      "questionType": "meaning",
+      "question": "『軟らかいごはん』ning ma'nosi qaysi?",
+      "word": "軟らかいごはん",
+      "choices": [
+        "xavotir, ko'ngil g'ashligi",
+        "erish, moliya",
+        "o'zini yengil his qilmoq",
+        "yumshoq, og'izda erib ketadigan ovqat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "軟らかいごはん → yumshoq, og'izda erib ketadigan ovqat"
+    },
+    {
+      "id": 63,
+      "questionType": "reading",
+      "question": "『脱退』ning o'qilishi qaysi?",
+      "word": "脱退",
+      "choices": [
+        "よごす",
+        "だったい",
+        "わたしをふくめてよにん",
+        "いけんをこうかんする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脱退 → だったい"
+    },
+    {
+      "id": 64,
+      "questionType": "meaning",
+      "question": "『柔道』ning ma'nosi qaysi?",
+      "word": "柔道",
+      "choices": [
+        "dzyudo",
+        "suv bilan ta'mni me'yorlashtirish",
+        "daftarga yozib qo'yish",
+        "kasal ko'rgani borish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "柔道 → dzyudo"
+    },
+    {
+      "id": 65,
+      "questionType": "recognition",
+      "question": "『柔』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "柔和な性格",
+      "choices": [
+        "混ざる",
+        "柔和な性格",
+        "前の車を追い越す",
+        "文明が栄える"
+      ],
+      "correctAnswer": 1,
+      "explanation": "柔 → 柔和な性格"
+    },
+    {
+      "id": 66,
+      "questionType": "sentence",
+      "question": "『日本の姿』ning ma'nosi qaysi?",
+      "word": "日本の姿",
+      "choices": [
+        "foyda olish",
+        "o'zgartirish",
+        "yashash xonasi (zal)",
+        "Yaponiya shamoyili, holati"
+      ],
+      "correctAnswer": 3,
+      "explanation": "日本の姿 → Yaponiya shamoyili, holati"
+    },
+    {
+      "id": 67,
+      "questionType": "kanji",
+      "question": "『かける・かかる』qaysi yozuvga mos?",
+      "word": "掛",
+      "choices": [
+        "航",
+        "薄",
+        "松ぼっくり",
+        "掛"
+      ],
+      "correctAnswer": 3,
+      "explanation": "かける・かかる → 掛"
+    },
+    {
+      "id": 68,
+      "questionType": "word",
+      "question": "『ko'rpa yopish』ning yaponcha ifodasi qaysi?",
+      "word": "布団を掛ける",
+      "choices": [
+        "布団を掛ける",
+        "入場券",
+        "融通がきかない人",
+        "胃腸薬"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ko'rpa yopish → 布団を掛ける"
+    },
+    {
+      "id": 69,
+      "questionType": "kanji",
+      "question": "『だったい』qaysi yozuvga mos?",
+      "word": "脱退",
+      "choices": [
+        "本の背表紙",
+        "甘やかす",
+        "脱退",
+        "溶"
+      ],
+      "correctAnswer": 2,
+      "explanation": "だったい → 脱退"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『りだつ』qaysi yozuvga mos?",
+      "word": "離脱",
+      "choices": [
+        "離脱",
+        "靴が脱げる",
+        "色が薄い",
+        "札束"
+      ],
+      "correctAnswer": 0,
+      "explanation": "りだつ → 離脱"
+    },
+    {
+      "id": 71,
+      "questionType": "reading",
+      "question": "『掛』ning o'qilishi qaysi?",
+      "word": "掛",
+      "choices": [
+        "かける・かかる",
+        "こたい",
+        "ほんのせびょうし",
+        "いんねん"
+      ],
+      "correctAnswer": 0,
+      "explanation": "掛 → かける・かかる"
+    },
+    {
+      "id": 72,
+      "questionType": "kanji",
+      "question": "『せい・いきおい』qaysi yozuvga mos?",
+      "word": "勢",
+      "choices": [
+        "年越しそば",
+        "受け入れ態勢",
+        "勢",
+        "違"
+      ],
+      "correctAnswer": 2,
+      "explanation": "せい・いきおい → 勢"
+    },
+    {
+      "id": 73,
+      "questionType": "meaning",
+      "question": "『姿』ning ma'nosi qaysi?",
+      "word": "姿",
+      "choices": [
+        "shakl, qomat",
+        "manzarasi, holati",
+        "orqaga qaytish",
+        "sovg'a qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "姿 → shakl, qomat"
+    },
+    {
+      "id": 74,
+      "questionType": "recognition",
+      "question": "『脱』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "危機を脱する",
+      "choices": [
+        "混ざる",
+        "危機を脱する",
+        "意向を打診する",
+        "腹を割って話す"
+      ],
+      "correctAnswer": 1,
+      "explanation": "脱 → 危機を脱する"
+    },
+    {
+      "id": 75,
+      "questionType": "kanji",
+      "question": "『にほんのすがた』qaysi yozuvga mos?",
+      "word": "日本の姿",
+      "choices": [
+        "日本の姿",
+        "輸血用の血液",
+        "方針を固める",
+        "著名人"
+      ],
+      "correctAnswer": 0,
+      "explanation": "にほんのすがた → 日本の姿"
+    },
+    {
+      "id": 76,
+      "questionType": "sentence",
+      "question": "『台風の勢力』ning ma'nosi qaysi?",
+      "word": "台風の勢力",
+      "choices": [
+        "qobiliyatini ko'rsatmoq",
+        "quyuq",
+        "miya",
+        "shamol kuchi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "台風の勢力 → shamol kuchi"
+    },
+    {
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『危機を脱する』ning ma'nosi qaysi?",
+      "word": "危機を脱する",
+      "choices": [
+        "xavfdan qutulish",
+        "tashvish",
+        "tekshiruv bo'lmaydigan kun, dam kuni",
+        "sevgan inson tomonidan tashlab ketilish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "危機を脱する → xavfdan qutulish"
+    },
+    {
+      "id": 78,
+      "questionType": "word",
+      "question": "『xalqaro vaziyat』ning yaponcha ifodasi qaysi?",
+      "word": "国際情勢",
+      "choices": [
+        "国際情勢",
+        "輪になる",
+        "国境を越える",
+        "週刊誌"
+      ],
+      "correctAnswer": 0,
+      "explanation": "xalqaro vaziyat → 国際情勢"
+    },
+    {
+      "id": 79,
+      "questionType": "kanji",
+      "question": "『だつ』qaysi yozuvga mos?",
+      "word": "脱",
+      "choices": [
+        "脱",
+        "違",
+        "私を含めて四人",
+        "腕時計"
+      ],
+      "correctAnswer": 0,
+      "explanation": "だつ → 脱"
+    },
+    {
+      "id": 80,
+      "questionType": "word",
+      "question": "『osilib turmoq』ning yaponcha ifodasi qaysi?",
+      "word": "掛かる",
+      "choices": [
+        "肩入れする",
+        "輸送する",
+        "心に刻む",
+        "掛かる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "osilib turmoq → 掛かる"
+    },
+    {
+      "id": 81,
+      "questionType": "sentence",
+      "question": "『勢いよく』ning ma'nosi qaysi?",
+      "word": "勢いよく",
+      "choices": [
+        "bardam, tetik, g'ayrat bilan",
+        "mashhur inson",
+        "kelmaslik haqidagi xabarnoma (ariza)",
+        "sevgan inson tomonidan tashlab ketilish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "勢いよく → bardam, tetik, g'ayrat bilan"
+    },
+    {
+      "id": 82,
+      "questionType": "reading",
+      "question": "『掛かる』ning o'qilishi qaysi?",
+      "word": "掛かる",
+      "choices": [
+        "のうのはたらき",
+        "すがた",
+        "くうふくをおぼえる",
+        "かかる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "掛かる → かかる"
+    },
+    {
+      "id": 83,
+      "questionType": "recognition",
+      "question": "『脱』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "離脱",
+      "choices": [
+        "離脱",
+        "宝石",
+        "白状する",
+        "間違える"
+      ],
+      "correctAnswer": 0,
+      "explanation": "脱 → 離脱"
+    },
+    {
+      "id": 84,
+      "questionType": "meaning",
+      "question": "『離脱』ning ma'nosi qaysi?",
+      "word": "離脱",
+      "choices": [
+        "turli xil mahsulotlar",
+        "sabab va oqibat munosabati",
+        "chiqib ketish, ajralish",
+        "hayot oson emas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "離脱 → chiqib ketish, ajralish"
+    },
+    {
+      "id": 85,
+      "questionType": "reading",
+      "question": "『姿』ning o'qilishi qaysi?",
+      "word": "姿",
+      "choices": [
+        "つうか",
+        "こうくうびん",
+        "こめをちょぞうする",
+        "すがた"
+      ],
+      "correctAnswer": 3,
+      "explanation": "姿 → すがた"
+    },
+    {
+      "id": 86,
+      "questionType": "reading",
+      "question": "『離脱』ning o'qilishi qaysi?",
+      "word": "離脱",
+      "choices": [
+        "りだつ",
+        "げきじょう",
+        "りょうがえ",
+        "じょう・しろ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "離脱 → りだつ"
+    },
+    {
+      "id": 87,
+      "questionType": "word",
+      "question": "『yechmoq, chiqib ketmoq』ning yaponcha ifodasi qaysi?",
+      "word": "脱",
+      "choices": [
+        "栄",
+        "違法",
+        "航",
+        "脱"
+      ],
+      "correctAnswer": 3,
+      "explanation": "yechmoq, chiqib ketmoq → 脱"
+    },
+    {
+      "id": 88,
+      "questionType": "kanji",
+      "question": "『なん』qaysi yozuvga mos?",
+      "word": "軟",
+      "choices": [
+        "腹筋",
+        "軟",
+        "緊急事態",
+        "席に戻る"
+      ],
+      "correctAnswer": 1,
+      "explanation": "なん → 軟"
+    },
+    {
+      "id": 89,
+      "questionType": "recognition",
+      "question": "『勢』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "チームに勢いがある",
+      "choices": [
+        "用途が広い",
+        "季節",
+        "けがの後遺症",
+        "チームに勢いがある"
+      ],
+      "correctAnswer": 3,
+      "explanation": "勢 → チームに勢いがある"
+    },
+    {
+      "id": 90,
+      "questionType": "recognition",
+      "question": "『軟』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "態度が軟化する",
+      "choices": [
+        "態度が軟化する",
+        "芳香剤",
+        "医療機器",
+        "胃腸薬"
+      ],
+      "correctAnswer": 0,
+      "explanation": "軟 → 態度が軟化する"
+    },
+    {
+      "id": 91,
       "questionType": "reading",
       "question": "『脱』ning o'qilishi qaysi?",
       "word": "脱",
       "choices": [
-        "よざくら",
-        "ちょう",
+        "たからくじ",
+        "しんてんする",
         "だつ",
-        "こうたいする"
+        "じこくりょういき"
       ],
       "correctAnswer": 2,
       "explanation": "脱 → だつ"
     },
     {
-      "id": 94,
-      "questionType": "meaning",
+      "id": 92,
+      "questionType": "sentence",
       "question": "『国際情勢』ning ma'nosi qaysi?",
       "word": "国際情勢",
       "choices": [
+        "qurilish xomashyosi",
+        "yenni dollarga almashtirish",
         "xalqaro vaziyat",
-        "tarqalmoq, mashhur bo'lmoq",
-        "sevgan inson tomonidan tashlab ketilish",
-        "tasdiqlamoq, ko'rsatmoq"
+        "tarqatmoq, taqsimlamoq"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": "国際情勢 → xalqaro vaziyat"
     },
     {
-      "id": 95,
-      "questionType": "meaning",
-      "question": "『離脱』ning ma'nosi qaysi?",
-      "word": "離脱",
+      "id": 93,
+      "questionType": "kanji",
+      "question": "『いきおいよく』qaysi yozuvga mos?",
+      "word": "勢いよく",
       "choices": [
-        "yoyilish, rivojlanish",
-        "chiqib ketish, ajralish",
-        "elektr ta'minotidan uzilish",
-        "marhamat, in'om"
+        "勢いよく",
+        "漁港",
+        "輸送する",
+        "節分"
+      ],
+      "correctAnswer": 0,
+      "explanation": "いきおいよく → 勢いよく"
+    },
+    {
+      "id": 94,
+      "questionType": "kanji",
+      "question": "『し・すがた』qaysi yozuvga mos?",
+      "word": "姿",
+      "choices": [
+        "融通がきかない人",
+        "姿",
+        "圧倒的な",
+        "心臓"
       ],
       "correctAnswer": 1,
-      "explanation": "離脱 → chiqib ketish, ajralish"
+      "explanation": "し・すがた → 姿"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『しせい』qaysi yozuvga mos?",
+      "word": "姿勢",
+      "choices": [
+        "建築士",
+        "姿勢",
+        "梅雨",
+        "混乱"
+      ],
+      "correctAnswer": 1,
+      "explanation": "しせい → 姿勢"
     },
     {
       "id": 96,
       "questionType": "kanji",
-      "question": "『おおぜいのひと』qaysi yozuvga mos?",
-      "word": "大勢の人",
+      "question": "『ふくをぬぐ』qaysi yozuvga mos?",
+      "word": "服を脱ぐ",
       "choices": [
-        "満開",
-        "大勢の人",
-        "前途多難",
-        "残高照会"
+        "証",
+        "掛",
+        "契約をする",
+        "服を脱ぐ"
       ],
-      "correctAnswer": 1,
-      "explanation": "おおぜいのひと → 大勢の人"
+      "correctAnswer": 3,
+      "explanation": "ふくをぬぐ → 服を脱ぐ"
     },
     {
       "id": 97,
-      "questionType": "recognition",
-      "question": "『柔』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "体が柔らかい",
-      "choices": [
-        "体が柔らかい",
-        "方針を固める",
-        "甘",
-        "掃除する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "柔 → 体が柔らかい"
-    },
-    {
-      "id": 98,
-      "questionType": "sentence",
-      "question": "『服を脱ぐ』ning ma'nosi qaysi?",
-      "word": "服を脱ぐ",
-      "choices": [
-        "chiroyli ayol",
-        "taklif qilmoq, chaqirmoq",
-        "taklif qilmoq",
-        "kiyimni yechmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "服を脱ぐ → kiyimni yechmoq"
-    },
-    {
-      "id": 99,
-      "questionType": "recognition",
-      "question": "『姿』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "questionType": "meaning",
+      "question": "『着物姿』ning ma'nosi qaysi?",
       "word": "着物姿",
       "choices": [
-        "刻",
-        "着物姿",
-        "手を振る",
-        "どうぞお掛けください"
+        "og'ir kasallik",
+        "yangi sinfga moslashib ketmoq",
+        "kimono kiygan qiyofa",
+        "kechikish"
       ],
-      "correctAnswer": 1,
-      "explanation": "姿 → 着物姿"
-    },
-    {
-      "id": 100,
-      "questionType": "sentence",
-      "question": "『台風の勢力』ning ma'nosi qaysi?",
-      "word": "台風の勢力",
-      "choices": [
-        "mahalliy aholi",
-        "shamol kuchi",
-        "tashish, jo'natish",
-        "turli xil mahsulotlar"
-      ],
-      "correctAnswer": 1,
-      "explanation": "台風の勢力 → shamol kuchi"
+      "correctAnswer": 2,
+      "explanation": "着物姿 → kimono kiygan qiyofa"
     }
   ]
 }

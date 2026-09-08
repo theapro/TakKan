@@ -6,296 +6,296 @@
     {
       "id": 1,
       "questionType": "meaning",
-      "question": "『梨』ning ma'nosi qaysi?",
-      "word": "梨",
+      "question": "『桃』ning ma'nosi qaysi?",
+      "word": "桃",
       "choices": [
-        "norozilik bildirmoq",
-        "ozor bermoq, jarohatlamoq",
-        "sochilib ketmoq",
-        "nok"
+        "shaftoli",
+        "qaror",
+        "ortga qaramoq; 2. o'tmishni eslamoq",
+        "chuqur, chin dildan (感じる bilan ishlatiladi)"
       ],
-      "correctAnswer": 3,
-      "explanation": "梨 → nok"
+      "correctAnswer": 0,
+      "explanation": "桃 → shaftoli"
     },
     {
       "id": 2,
-      "questionType": "kanji",
-      "question": "『きぎょう』qaysi yozuvga mos?",
-      "word": "企業",
+      "questionType": "reading",
+      "question": "『親元』ning o'qilishi qaysi?",
+      "word": "親元",
       "choices": [
-        "投票する",
-        "頼る",
-        "企業",
-        "ご馳走する"
+        "うつむく",
+        "いんしょう",
+        "でたらめな",
+        "おやもと"
       ],
-      "correctAnswer": 2,
-      "explanation": "きぎょう → 企業"
+      "correctAnswer": 3,
+      "explanation": "親元 → おやもと"
     },
     {
       "id": 3,
+      "questionType": "kanji",
+      "question": "『たった』qaysi yozuvga mos?",
+      "word": "たった",
+      "choices": [
+        "愛",
+        "頼もしい",
+        "たった",
+        "悔やむ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "たった → たった"
+    },
+    {
+      "id": 4,
+      "questionType": "reading",
+      "question": "『盛んな』ning o'qilishi qaysi?",
+      "word": "盛んな",
+      "choices": [
+        "さかん",
+        "ガーデニング",
+        "みつめあう",
+        "じゅうたくローン"
+      ],
+      "correctAnswer": 0,
+      "explanation": "盛んな → さかん"
+    },
+    {
+      "id": 5,
+      "questionType": "word",
+      "question": "『tarix, qaydlar』ning yaponcha ifodasi qaysi?",
+      "word": "履歴",
+      "choices": [
+        "肉まん",
+        "もてなす",
+        "うらむ",
+        "履歴"
+      ],
+      "correctAnswer": 3,
+      "explanation": "tarix, qaydlar → 履歴"
+    },
+    {
+      "id": 6,
+      "questionType": "word",
+      "question": "『ish joyi』ning yaponcha ifodasi qaysi?",
+      "word": "職場",
+      "choices": [
+        "抗議する",
+        "職場",
+        "ルール",
+        "どうせ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ish joyi → 職場"
+    },
+    {
+      "id": 7,
+      "questionType": "word",
+      "question": "『rivojlangan, gullab-yashnagan』ning yaponcha ifodasi qaysi?",
+      "word": "盛んな",
+      "choices": [
+        "高〜",
+        "好景気",
+        "歓声",
+        "盛んな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "rivojlangan, gullab-yashnagan → 盛んな"
+    },
+    {
+      "id": 8,
+      "questionType": "word",
+      "question": "『rivojlangan, gullab-yashnagan』ning yaponcha ifodasi qaysi?",
+      "word": "盛んな",
+      "choices": [
+        "久しい",
+        "気楽な",
+        "[〜を]結び付ける",
+        "盛んな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "rivojlangan, gullab-yashnagan → 盛んな"
+    },
+    {
+      "id": 9,
+      "questionType": "meaning",
+      "question": "『たった』ning ma'nosi qaysi?",
+      "word": "たった",
+      "choices": [
+        "tushkunlikka tushmoq",
+        "tug'moq, farzand ko'rmoq",
+        "atigi, bor-yo'g'i",
+        "qo'lga kiritish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "たった → atigi, bor-yo'g'i"
+    },
+    {
+      "id": 10,
+      "questionType": "meaning",
+      "question": "『殴る』ning ma'nosi qaysi?",
+      "word": "殴る",
+      "choices": [
+        "diskvalifikatsiya qilinmoq",
+        "urmoq, musht tushirmoq",
+        "jamoat tartibi",
+        "taassurot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "殴る → urmoq, musht tushirmoq"
+    },
+    {
+      "id": 11,
       "questionType": "reading",
       "question": "『履歴』ning o'qilishi qaysi?",
       "word": "履歴",
       "choices": [
         "りれき",
-        "ちしき",
-        "あいつ",
-        "悪ふざけ"
+        "にがおえ",
+        "ゆうじんたち",
+        "せっせと"
       ],
       "correctAnswer": 0,
       "explanation": "履歴 → りれき"
     },
     {
-      "id": 4,
-      "questionType": "reading",
-      "question": "『伝統』ning o'qilishi qaysi?",
-      "word": "伝統",
-      "choices": [
-        "うつむく",
-        "じぶんかってな",
-        "ろうけん",
-        "でんとう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "伝統 → でんとう"
-    },
-    {
-      "id": 5,
-      "questionType": "word",
-      "question": "『yetib bormoq』ning yaponcha ifodasi qaysi?",
-      "word": "たどり着く",
-      "choices": [
-        "たどり着く",
-        "効く",
-        "名曲",
-        "集中力"
-      ],
-      "correctAnswer": 0,
-      "explanation": "yetib bormoq → たどり着く"
-    },
-    {
-      "id": 6,
-      "questionType": "kanji",
-      "question": "『くずれる』qaysi yozuvga mos?",
-      "word": "崩れる",
-      "choices": [
-        "友人",
-        "受け継ぐ",
-        "手元",
-        "崩れる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "くずれる → 崩れる"
-    },
-    {
-      "id": 7,
+      "id": 12,
       "questionType": "meaning",
       "question": "『注意報』ning ma'nosi qaysi?",
       "word": "注意報",
       "choices": [
-        "katsudon (qovurilgan go'sht qo'yilgan guruch)",
-        "ataylab, maqsadli",
-        "boqmoq, ta'minlamoq",
-        "(ob-havo) ogohlantirishi"
+        "tomoq",
+        "(ob-havo) ogohlantirishi",
+        "asl muallif",
+        "to'lab qo'ymoq (hisobga, bankomatda)"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "注意報 → (ob-havo) ogohlantirishi"
     },
     {
-      "id": 8,
-      "questionType": "kanji",
-      "question": "『ちゅういほう』qaysi yozuvga mos?",
-      "word": "注意報",
-      "choices": [
-        "手ぶら",
-        "注意報",
-        "企業",
-        "頼りになる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ちゅういほう → 注意報"
-    },
-    {
-      "id": 9,
-      "questionType": "kanji",
-      "question": "『りれき』qaysi yozuvga mos?",
-      "word": "履歴",
-      "choices": [
-        "履歴",
-        "手ぶら",
-        "わが国",
-        "手前"
-      ],
-      "correctAnswer": 0,
-      "explanation": "りれき → 履歴"
-    },
-    {
-      "id": 10,
-      "questionType": "reading",
-      "question": "『たどり着く』ning o'qilishi qaysi?",
-      "word": "たどり着く",
-      "choices": [
-        "こころない",
-        "たどりつく",
-        "もしかすると",
-        "きおく"
-      ],
-      "correctAnswer": 1,
-      "explanation": "たどり着く → たどりつく"
-    },
-    {
-      "id": 11,
-      "questionType": "meaning",
-      "question": "『殴る』ning ma'nosi qaysi?",
-      "word": "殴る",
-      "choices": [
-        "urmoq, musht tushirmoq",
-        "kuyov",
-        "muloqot qilmoq, aloqada bo'lmoq",
-        "jo'nash va yetib kelish (qatnov)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "殴る → urmoq, musht tushirmoq"
-    },
-    {
-      "id": 12,
-      "questionType": "kanji",
-      "question": "『さかん』qaysi yozuvga mos?",
-      "word": "盛んな",
-      "choices": [
-        "手ぶら",
-        "散る",
-        "盛んな",
-        "肌"
-      ],
-      "correctAnswer": 2,
-      "explanation": "さかん → 盛んな"
-    },
-    {
       "id": 13,
-      "questionType": "kanji",
-      "question": "『ちゅういほう』qaysi yozuvga mos?",
-      "word": "注意報",
+      "questionType": "word",
+      "question": "『aloqa qilmoq (onlayn)』ning yaponcha ifodasi qaysi?",
+      "word": "通信する",
       "choices": [
-        "注意報",
-        "賃貸",
-        "ネットワーク",
-        "ホラ"
+        "通信する",
+        "久しぶり",
+        "花嫁",
+        "ひとたび"
       ],
       "correctAnswer": 0,
-      "explanation": "ちゅういほう → 注意報"
+      "explanation": "aloqa qilmoq (onlayn) → 通信する"
     },
     {
       "id": 14,
-      "questionType": "reading",
-      "question": "『崩れる』ning o'qilishi qaysi?",
-      "word": "崩れる",
+      "questionType": "meaning",
+      "question": "『桃』ning ma'nosi qaysi?",
+      "word": "桃",
       "choices": [
-        "ペア",
-        "ほうこくする",
-        "コミュニケーション",
-        "くずれる"
+        "jozibali",
+        "shaftoli",
+        "esnamoq",
+        "hisob-kitob, taxminiy narx"
       ],
-      "correctAnswer": 3,
-      "explanation": "崩れる → くずれる"
+      "correctAnswer": 1,
+      "explanation": "桃 → shaftoli"
     },
     {
       "id": 15,
-      "questionType": "kanji",
-      "question": "『うたがう』qaysi yozuvga mos?",
-      "word": "疑う",
+      "questionType": "sentence",
+      "question": "『通信する』ning ma'nosi qaysi?",
+      "word": "通信する",
       "choices": [
-        "疑う",
-        "介助犬",
-        "怠け者",
-        "賃貸住宅"
+        "hurmat qilmoq, qadrlamoq",
+        "maqtamoq, olqishlamoq",
+        "aloqa qilmoq (onlayn)",
+        "aldamoq"
       ],
-      "correctAnswer": 0,
-      "explanation": "うたがう → 疑う"
+      "correctAnswer": 2,
+      "explanation": "通信する → aloqa qilmoq (onlayn)"
     },
     {
       "id": 16,
-      "questionType": "sentence",
-      "question": "『たどり着く』ning ma'nosi qaysi?",
-      "word": "たどり着く",
-      "choices": [
-        "mumkin bo'lmagan narsa, taqiqlangan narsa",
-        "usta, daho",
-        "yetib bormoq",
-        "ombor"
-      ],
-      "correctAnswer": 2,
-      "explanation": "たどり着く → yetib bormoq"
-    },
-    {
-      "id": 17,
-      "questionType": "kanji",
-      "question": "『さかん』qaysi yozuvga mos?",
-      "word": "盛んな",
-      "choices": [
-        "募集する",
-        "盛んな",
-        "放っておく",
-        "低姿勢"
-      ],
-      "correctAnswer": 1,
-      "explanation": "さかん → 盛んな"
-    },
-    {
-      "id": 18,
       "questionType": "meaning",
       "question": "『伝統』ning ma'nosi qaysi?",
       "word": "伝統",
       "choices": [
-        "to'g'ridan to'g'ri",
-        "an'ana",
-        "o'zaro, bir biriga",
-        "yuqori (atmosfera) bosim(i)"
+        "bog'dorchilik",
+        "yig'lamoq",
+        "o'ylamasdan qilingan, rahmsiz",
+        "an'ana"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "伝統 → an'ana"
     },
     {
-      "id": 19,
-      "questionType": "sentence",
-      "question": "『うらやましい』ning ma'nosi qaysi?",
+      "id": 17,
+      "questionType": "meaning",
+      "question": "『夢中な』ning ma'nosi qaysi?",
+      "word": "夢中な",
+      "choices": [
+        "sochilib ketmoq",
+        "shubhalanmoq",
+        "berilib ketgan",
+        "avtomatik yechib olish (hisobdan)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "夢中な → berilib ketgan"
+    },
+    {
+      "id": 18,
+      "questionType": "kanji",
+      "question": "『うらやましい』qaysi yozuvga mos?",
       "word": "うらやましい",
       "choices": [
-        "portret",
-        "havas qiladigan, hasad qilinadigan",
-        "maqtamoq, olqishlamoq",
-        "gaplashmoq/muloqot qilmoq"
+        "舌",
+        "うらやましい",
+        "口が軽い",
+        "息を切らす"
       ],
       "correctAnswer": 1,
-      "explanation": "うらやましい → havas qiladigan, hasad qilinadigan"
+      "explanation": "うらやましい → うらやましい"
+    },
+    {
+      "id": 19,
+      "questionType": "kanji",
+      "question": "『むちゅう』qaysi yozuvga mos?",
+      "word": "夢中な",
+      "choices": [
+        "愛する",
+        "夢中な",
+        "高血圧",
+        "そらす"
+      ],
+      "correctAnswer": 1,
+      "explanation": "むちゅう → 夢中な"
     },
     {
       "id": 20,
-      "questionType": "reading",
-      "question": "『桃』ning o'qilishi qaysi?",
-      "word": "桃",
+      "questionType": "kanji",
+      "question": "『きぎょう』qaysi yozuvga mos?",
+      "word": "企業",
       "choices": [
-        "うらやましい",
-        "のりきる",
-        "もも",
-        "きんく"
+        "企業",
+        "ありがたい",
+        "一気に",
+        "納める"
       ],
-      "correctAnswer": 2,
-      "explanation": "桃 → もも"
+      "correctAnswer": 0,
+      "explanation": "きぎょう → 企業"
     },
     {
       "id": 21,
-      "questionType": "kanji",
-      "question": "『ぎろんする』qaysi yozuvga mos?",
-      "word": "議論する",
+      "questionType": "meaning",
+      "question": "『たった』ning ma'nosi qaysi?",
+      "word": "たった",
       "choices": [
-        "合コン",
-        "貸し借りする",
-        "議論する",
-        "悪天候"
+        "avtomatik yechib olish (hisobdan)",
+        "atigi, bor-yo'g'i",
+        "balog'at, o'smirlik davri",
+        "iqtisodiy farovonlik"
       ],
-      "correctAnswer": 2,
-      "explanation": "ぎろんする → 議論する"
+      "correctAnswer": 1,
+      "explanation": "たった → atigi, bor-yo'g'i"
     },
     {
       "id": 22,
@@ -303,895 +303,895 @@
       "question": "『梨』ning o'qilishi qaysi?",
       "word": "梨",
       "choices": [
-        "けっしん",
-        "しょうじきな",
+        "じんけんひ",
         "なし",
-        "のど"
+        "はなむこ",
+        "こうしゅうにゅう"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "梨 → なし"
     },
     {
       "id": 23,
       "questionType": "reading",
+      "question": "『たどり着く』ning o'qilishi qaysi?",
+      "word": "たどり着く",
+      "choices": [
+        "たどりつく",
+        "ひきおとし",
+        "かんしんする",
+        "あこがれる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "たどり着く → たどりつく"
+    },
+    {
+      "id": 24,
+      "questionType": "meaning",
+      "question": "『殴る』ning ma'nosi qaysi?",
+      "word": "殴る",
+      "choices": [
+        "urmoq, musht tushirmoq",
+        "suhbatlashmoq, dil so'zlashmoq",
+        "yaxshi iqtisodiy holat",
+        "turmush qurishni taklif qilmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "殴る → urmoq, musht tushirmoq"
+    },
+    {
+      "id": 25,
+      "questionType": "kanji",
+      "question": "『りれき』qaysi yozuvga mos?",
+      "word": "履歴",
+      "choices": [
+        "産婦人科",
+        "履歴",
+        "対策する",
+        "しつける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "りれき → 履歴"
+    },
+    {
+      "id": 26,
+      "questionType": "word",
+      "question": "『keng qamrovli』ning yaponcha ifodasi qaysi?",
+      "word": "多岐にわたる",
+      "choices": [
+        "出し入れ",
+        "防犯カメラ",
+        "多岐にわたる",
+        "名文"
+      ],
+      "correctAnswer": 2,
+      "explanation": "keng qamrovli → 多岐にわたる"
+    },
+    {
+      "id": 27,
+      "questionType": "word",
+      "question": "『keng qamrovli』ning yaponcha ifodasi qaysi?",
+      "word": "多岐にわたる",
+      "choices": [
+        "散らかる",
+        "多岐にわたる",
+        "迷惑行為",
+        "復帰する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "keng qamrovli → 多岐にわたる"
+    },
+    {
+      "id": 28,
+      "questionType": "kanji",
+      "question": "『くずれる』qaysi yozuvga mos?",
+      "word": "崩れる",
+      "choices": [
+        "産む",
+        "老犬",
+        "施設",
+        "崩れる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "くずれる → 崩れる"
+    },
+    {
+      "id": 29,
+      "questionType": "meaning",
+      "question": "『親元』ning ma'nosi qaysi?",
+      "word": "親元",
+      "choices": [
+        "xatosini anglab mulohaza qilmoq",
+        "buzmoq, tartibsiz holga keltirmoq",
+        "aralashmoq, vositachilik qilmoq",
+        "ota-ona uyi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "親元 → ota-ona uyi"
+    },
+    {
+      "id": 30,
+      "questionType": "kanji",
+      "question": "『なぐる』qaysi yozuvga mos?",
+      "word": "殴る",
+      "choices": [
+        "殴る",
+        "差別する",
+        "高〜",
+        "他人同士"
+      ],
+      "correctAnswer": 0,
+      "explanation": "なぐる → 殴る"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『ちゅういほう』qaysi yozuvga mos?",
+      "word": "注意報",
+      "choices": [
+        "引き落とす",
+        "悪影響",
+        "注意報",
+        "人通り"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちゅういほう → 注意報"
+    },
+    {
+      "id": 32,
+      "questionType": "reading",
       "question": "『通信する』ning o'qilishi qaysi?",
       "word": "通信する",
       "choices": [
         "つうしんする",
-        "コンパ",
-        "ぬくもり",
-        "おおや"
+        "そっとする",
+        "あくえいきょう",
+        "しょたいめん"
       ],
       "correctAnswer": 0,
       "explanation": "通信する → つうしんする"
     },
     {
-      "id": 24,
-      "questionType": "reading",
-      "question": "『たった』ning o'qilishi qaysi?",
-      "word": "たった",
+      "id": 33,
+      "questionType": "kanji",
+      "question": "『さかん』qaysi yozuvga mos?",
+      "word": "盛んな",
       "choices": [
-        "たった",
-        "けっしょうせん",
-        "こうきあつ",
-        "ていよさん"
+        "到着する",
+        "視点",
+        "報告する",
+        "盛んな"
+      ],
+      "correctAnswer": 3,
+      "explanation": "さかん → 盛んな"
+    },
+    {
+      "id": 34,
+      "questionType": "reading",
+      "question": "『履歴』ning o'qilishi qaysi?",
+      "word": "履歴",
+      "choices": [
+        "りれき",
+        "ふあんていな",
+        "かいにゅうする",
+        "しょうご"
       ],
       "correctAnswer": 0,
-      "explanation": "たった → たった"
+      "explanation": "履歴 → りれき"
     },
     {
-      "id": 25,
+      "id": 35,
       "questionType": "meaning",
-      "question": "『桃』ning ma'nosi qaysi?",
-      "word": "桃",
+      "question": "『崩れる』ning ma'nosi qaysi?",
+      "word": "崩れる",
       "choices": [
-        "do'konlar ko'chasi, savdo maydoni",
-        "shaftoli",
-        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
-        "g'amxo'rlik qilmoq"
+        "buzilmoq, qulamoq (ob-havo buzilishi)",
+        "brend (nomlari)",
+        "ko'ndirmoq, ishontirmoq",
+        "mashhur rasm; mashhur film"
+      ],
+      "correctAnswer": 0,
+      "explanation": "崩れる → buzilmoq, qulamoq (ob-havo buzilishi)"
+    },
+    {
+      "id": 36,
+      "questionType": "reading",
+      "question": "『注意報』ning o'qilishi qaysi?",
+      "word": "注意報",
+      "choices": [
+        "つうしんする",
+        "せっとくする",
+        "おさめる",
+        "ちゅういほう"
+      ],
+      "correctAnswer": 3,
+      "explanation": "注意報 → ちゅういほう"
+    },
+    {
+      "id": 37,
+      "questionType": "reading",
+      "question": "『秘密』ning o'qilishi qaysi?",
+      "word": "秘密",
+      "choices": [
+        "きっぱり",
+        "きんぞくする",
+        "ひみつ",
+        "だまる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "秘密 → ひみつ"
+    },
+    {
+      "id": 38,
+      "questionType": "reading",
+      "question": "『人通り』ning o'qilishi qaysi?",
+      "word": "人通り",
+      "choices": [
+        "うつす",
+        "ひとどおり",
+        "けいびがいしゃ",
+        "あいする"
       ],
       "correctAnswer": 1,
-      "explanation": "桃 → shaftoli"
+      "explanation": "人通り → ひとどおり"
     },
     {
-      "id": 26,
+      "id": 39,
+      "questionType": "reading",
+      "question": "『桃』ning o'qilishi qaysi?",
+      "word": "桃",
+      "choices": [
+        "ぼうはん",
+        "もも",
+        "じぇねれーしょん",
+        "げんかい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "桃 → もも"
+    },
+    {
+      "id": 40,
+      "questionType": "reading",
+      "question": "『疑う』ning o'qilishi qaysi?",
+      "word": "疑う",
+      "choices": [
+        "ぼうはんかめら",
+        "うたがう",
+        "せめる",
+        "ふりこむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "疑う → うたがう"
+    },
+    {
+      "id": 41,
+      "questionType": "word",
+      "question": "『nok』ning yaponcha ifodasi qaysi?",
+      "word": "梨",
+      "choices": [
+        "仲",
+        "世代",
+        "悪影響",
+        "梨"
+      ],
+      "correctAnswer": 3,
+      "explanation": "nok → 梨"
+    },
+    {
+      "id": 42,
       "questionType": "kanji",
       "question": "『てぶら』qaysi yozuvga mos?",
       "word": "手ぶら",
       "choices": [
-        "ばらす",
-        "一気に",
+        "失格する",
+        "会費",
         "手ぶら",
-        "妊婦"
+        "野外"
       ],
       "correctAnswer": 2,
       "explanation": "てぶら → 手ぶら"
     },
     {
-      "id": 27,
-      "questionType": "meaning",
-      "question": "『人通り』ning ma'nosi qaysi?",
-      "word": "人通り",
-      "choices": [
-        "rostgo'y, halol",
-        "olomon qatnovi",
-        "odatda, kundalik",
-        "maslahat bermoq, dardini eshitmoq"
-      ],
-      "correctAnswer": 1,
-      "explanation": "人通り → olomon qatnovi"
-    },
-    {
-      "id": 28,
+      "id": 43,
       "questionType": "kanji",
       "question": "『つうしんする』qaysi yozuvga mos?",
       "word": "通信する",
       "choices": [
-        "手前",
+        "呼び止める",
         "通信する",
-        "都市開発",
-        "アプローチする"
+        "抗議する",
+        "交通費"
       ],
       "correctAnswer": 1,
       "explanation": "つうしんする → 通信する"
     },
     {
-      "id": 29,
+      "id": 44,
       "questionType": "word",
-      "question": "『buzilmoq, qulamoq (ob-havo buzilishi)』ning yaponcha ifodasi qaysi?",
-      "word": "崩れる",
+      "question": "『sir』ning yaponcha ifodasi qaysi?",
+      "word": "秘密",
       "choices": [
-        "わが国",
-        "うらやましい",
-        "仲",
-        "崩れる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "buzilmoq, qulamoq (ob-havo buzilishi) → 崩れる"
-    },
-    {
-      "id": 30,
-      "questionType": "meaning",
-      "question": "『たった』ning ma'nosi qaysi?",
-      "word": "たった",
-      "choices": [
-        "hurmoq (it)",
-        "atigi, bor-yo'g'i",
-        "dalda bermoq, ruhlantirmoq",
-        "yaxshi fikr"
+        "怒鳴る",
+        "秘密",
+        "尊重する",
+        "耕す"
       ],
       "correctAnswer": 1,
-      "explanation": "たった → atigi, bor-yo'g'i"
+      "explanation": "sir → 秘密"
     },
     {
-      "id": 31,
-      "questionType": "reading",
-      "question": "『疑う』ning o'qilishi qaysi?",
+      "id": 45,
+      "questionType": "word",
+      "question": "『shubhalanmoq』ning yaponcha ifodasi qaysi?",
       "word": "疑う",
       "choices": [
-        "しききん",
-        "かたりあう",
-        "うたがう",
-        "おいだす"
+        "疑う",
+        "空っぽな",
+        "もしかすると",
+        "悪趣味"
       ],
-      "correctAnswer": 2,
-      "explanation": "疑う → うたがう"
+      "correctAnswer": 0,
+      "explanation": "shubhalanmoq → 疑う"
     },
     {
-      "id": 32,
-      "questionType": "kanji",
-      "question": "『なし』qaysi yozuvga mos?",
-      "word": "梨",
+      "id": 46,
+      "questionType": "reading",
+      "question": "『殴る』ning o'qilishi qaysi?",
+      "word": "殴る",
       "choices": [
-        "自己紹介",
-        "抑える",
-        "追い出す",
-        "梨"
+        "がくひ",
+        "なぐる",
+        "むくちな",
+        "ちょうりする"
       ],
-      "correctAnswer": 3,
-      "explanation": "なし → 梨"
+      "correctAnswer": 1,
+      "explanation": "殴る → なぐる"
     },
     {
-      "id": 33,
+      "id": 47,
       "questionType": "kanji",
       "question": "『たった』qaysi yozuvga mos?",
       "word": "たった",
       "choices": [
-        "募集する",
-        "たった",
-        "言いつける",
-        "励ます"
+        "利便性",
+        "議論する",
+        "低学年",
+        "たった"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "たった → たった"
     },
     {
-      "id": 34,
-      "questionType": "meaning",
-      "question": "『桃』ning ma'nosi qaysi?",
-      "word": "桃",
-      "choices": [
-        "yuvinish xonasi",
-        "shaftoli",
-        "gina qilmoq, kek saqlamoq",
-        "xudbin, o'zboshimcha"
-      ],
-      "correctAnswer": 1,
-      "explanation": "桃 → shaftoli"
-    },
-    {
-      "id": 35,
-      "questionType": "reading",
-      "question": "『議論する』ning o'qilishi qaysi?",
+      "id": 48,
+      "questionType": "word",
+      "question": "『muhokama qilmoq, bahs yuritmoq』ning yaponcha ifodasi qaysi?",
       "word": "議論する",
       "choices": [
-        "しっかくする",
-        "アプローチする",
-        "ぎろんする",
-        "じゅうたくローン"
+        "一気に",
+        "議論する",
+        "同士",
+        "見積もり"
       ],
-      "correctAnswer": 2,
-      "explanation": "議論する → ぎろんする"
+      "correctAnswer": 1,
+      "explanation": "muhokama qilmoq, bahs yuritmoq → 議論する"
     },
     {
-      "id": 36,
+      "id": 49,
       "questionType": "kanji",
-      "question": "『なぐる』qaysi yozuvga mos?",
-      "word": "殴る",
+      "question": "『なし』qaysi yozuvga mos?",
+      "word": "梨",
       "choices": [
-        "抗議する",
-        "乗り切る",
-        "殴る",
-        "ガーデニング"
+        "梨",
+        "マニュアル",
+        "肌",
+        "収入"
       ],
-      "correctAnswer": 2,
-      "explanation": "なぐる → 殴る"
+      "correctAnswer": 0,
+      "explanation": "なし → 梨"
     },
     {
-      "id": 37,
-      "questionType": "meaning",
-      "question": "『盛んな』ning ma'nosi qaysi?",
-      "word": "盛んな",
-      "choices": [
-        "munosabat",
-        "rivojlangan, gullab-yashnagan",
-        "akusherlik-ginekologiya (bo'limi)",
-        "o'sha inson, anovi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "盛んな → rivojlangan, gullab-yashnagan"
-    },
-    {
-      "id": 38,
-      "questionType": "reading",
-      "question": "『夢中な』ning o'qilishi qaysi?",
-      "word": "夢中な",
-      "choices": [
-        "めいが",
-        "むちゅう",
-        "やつ",
-        "いっか"
-      ],
-      "correctAnswer": 1,
-      "explanation": "夢中な → むちゅう"
-    },
-    {
-      "id": 39,
-      "questionType": "word",
-      "question": "『ota-ona uyi』ning yaponcha ifodasi qaysi?",
-      "word": "親元",
-      "choices": [
-        "称賛する",
-        "親元",
-        "借金する",
-        "高学年"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ota-ona uyi → 親元"
-    },
-    {
-      "id": 40,
+      "id": 50,
       "questionType": "reading",
       "question": "『人通り』ning o'qilishi qaysi?",
       "word": "人通り",
       "choices": [
         "ひとどおり",
-        "あいする",
-        "せだいこうたい",
-        "さっする"
+        "げんかい",
+        "うまい",
+        "わるちえ"
       ],
       "correctAnswer": 0,
       "explanation": "人通り → ひとどおり"
     },
     {
-      "id": 41,
-      "questionType": "reading",
-      "question": "『親元』ning o'qilishi qaysi?",
-      "word": "親元",
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『ひとどおり』qaysi yozuvga mos?",
+      "word": "人通り",
       "choices": [
-        "じつりょく",
-        "いっこだて",
-        "きく",
-        "おやもと"
+        "頑丈な",
+        "併せる",
+        "愛",
+        "人通り"
       ],
       "correctAnswer": 3,
-      "explanation": "親元 → おやもと"
+      "explanation": "ひとどおり → 人通り"
     },
     {
-      "id": 42,
+      "id": 52,
+      "questionType": "word",
+      "question": "『olomon qatnovi』ning yaponcha ifodasi qaysi?",
+      "word": "人通り",
+      "choices": [
+        "夢中な",
+        "人通り",
+        "台無し",
+        "同士"
+      ],
+      "correctAnswer": 1,
+      "explanation": "olomon qatnovi → 人通り"
+    },
+    {
+      "id": 53,
+      "questionType": "word",
+      "question": "『buzilmoq, qulamoq (ob-havo buzilishi)』ning yaponcha ifodasi qaysi?",
+      "word": "崩れる",
+      "choices": [
+        "幹事",
+        "崩れる",
+        "自己流",
+        "行為"
+      ],
+      "correctAnswer": 1,
+      "explanation": "buzilmoq, qulamoq (ob-havo buzilishi) → 崩れる"
+    },
+    {
+      "id": 54,
+      "questionType": "kanji",
+      "question": "『てぶら』qaysi yozuvga mos?",
+      "word": "手ぶら",
+      "choices": [
+        "ちらりと",
+        "手ぶら",
+        "税金",
+        "うらむ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "てぶら → 手ぶら"
+    },
+    {
+      "id": 55,
+      "questionType": "reading",
+      "question": "『疑う』ning o'qilishi qaysi?",
+      "word": "疑う",
+      "choices": [
+        "うたがう",
+        "わるちえ",
+        "こころない",
+        "かわす"
+      ],
+      "correctAnswer": 0,
+      "explanation": "疑う → うたがう"
+    },
+    {
+      "id": 56,
+      "questionType": "word",
+      "question": "『muhokama qilmoq, bahs yuritmoq』ning yaponcha ifodasi qaysi?",
+      "word": "議論する",
+      "choices": [
+        "議論する",
+        "向き合う",
+        "原子力発電所",
+        "土砂降り"
+      ],
+      "correctAnswer": 0,
+      "explanation": "muhokama qilmoq, bahs yuritmoq → 議論する"
+    },
+    {
+      "id": 57,
+      "questionType": "meaning",
+      "question": "『職場』ning ma'nosi qaysi?",
+      "word": "職場",
+      "choices": [
+        "jim bo'lmoq",
+        "keksa it",
+        "ish joyi",
+        "boqmoq, ta'minlamoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "職場 → ish joyi"
+    },
+    {
+      "id": 58,
+      "questionType": "kanji",
+      "question": "『なぐる』qaysi yozuvga mos?",
+      "word": "殴る",
+      "choices": [
+        "一目",
+        "ばらす",
+        "殴る",
+        "励ます"
+      ],
+      "correctAnswer": 2,
+      "explanation": "なぐる → 殴る"
+    },
+    {
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『むちゅう』qaysi yozuvga mos?",
+      "word": "夢中な",
+      "choices": [
+        "てっきり",
+        "夢中な",
+        "バイキング",
+        "見つめる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "むちゅう → 夢中な"
+    },
+    {
+      "id": 60,
+      "questionType": "reading",
+      "question": "『秘密』ning o'qilishi qaysi?",
+      "word": "秘密",
+      "choices": [
+        "ほうこくする",
+        "なつかしい",
+        "わがまち",
+        "ひみつ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "秘密 → ひみつ"
+    },
+    {
+      "id": 61,
+      "questionType": "kanji",
+      "question": "『もも』qaysi yozuvga mos?",
+      "word": "桃",
+      "choices": [
+        "うまい",
+        "頑丈な",
+        "操作する",
+        "桃"
+      ],
+      "correctAnswer": 3,
+      "explanation": "もも → 桃"
+    },
+    {
+      "id": 62,
+      "questionType": "reading",
+      "question": "『殴る』ning o'qilishi qaysi?",
+      "word": "殴る",
+      "choices": [
+        "なぐる",
+        "めいしょ",
+        "いっかだんらん",
+        "ボリューム"
+      ],
+      "correctAnswer": 0,
+      "explanation": "殴る → なぐる"
+    },
+    {
+      "id": 63,
+      "questionType": "kanji",
+      "question": "『うたがう』qaysi yozuvga mos?",
+      "word": "疑う",
+      "choices": [
+        "疑う",
+        "解決策",
+        "他人同士",
+        "誓う"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うたがう → 疑う"
+    },
+    {
+      "id": 64,
+      "questionType": "kanji",
+      "question": "『うたがう』qaysi yozuvga mos?",
+      "word": "疑う",
+      "choices": [
+        "疑う",
+        "蜂",
+        "察する",
+        "言い訳"
+      ],
+      "correctAnswer": 0,
+      "explanation": "うたがう → 疑う"
+    },
+    {
+      "id": 65,
+      "questionType": "kanji",
+      "question": "『ぎろんする』qaysi yozuvga mos?",
+      "word": "議論する",
+      "choices": [
+        "議論する",
+        "説得する",
+        "愛称",
+        "カップル"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぎろんする → 議論する"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『企業』ning o'qilishi qaysi?",
+      "word": "企業",
+      "choices": [
+        "ていこうする",
+        "きぎょう",
+        "りょうかいする",
+        "さかん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "企業 → きぎょう"
+    },
+    {
+      "id": 67,
+      "questionType": "reading",
+      "question": "『手ぶら』ning o'qilishi qaysi?",
+      "word": "手ぶら",
+      "choices": [
+        "フルコース",
+        "か",
+        "バイキング",
+        "てぶら"
+      ],
+      "correctAnswer": 3,
+      "explanation": "手ぶら → てぶら"
+    },
+    {
+      "id": 68,
+      "questionType": "word",
+      "question": "『(ob-havo) ogohlantirishi』ning yaponcha ifodasi qaysi?",
+      "word": "注意報",
+      "choices": [
+        "借金する",
+        "難民",
+        "注意報",
+        "支援する"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(ob-havo) ogohlantirishi → 注意報"
+    },
+    {
+      "id": 69,
+      "questionType": "reading",
+      "question": "『たった』ning o'qilishi qaysi?",
+      "word": "たった",
+      "choices": [
+        "ふような",
+        "くちをきく",
+        "たった",
+        "うたがう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "たった → たった"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『さかん』qaysi yozuvga mos?",
+      "word": "盛んな",
+      "choices": [
+        "引き落とす",
+        "盛んな",
+        "役目",
+        "見つめる"
+      ],
+      "correctAnswer": 1,
+      "explanation": "さかん → 盛んな"
+    },
+    {
+      "id": 71,
+      "questionType": "reading",
+      "question": "『崩れる』ning o'qilishi qaysi?",
+      "word": "崩れる",
+      "choices": [
+        "くずれる",
+        "めいぶん",
+        "あいしょう",
+        "ただいま"
+      ],
+      "correctAnswer": 0,
+      "explanation": "崩れる → くずれる"
+    },
+    {
+      "id": 72,
+      "questionType": "meaning",
+      "question": "『通信する』ning ma'nosi qaysi?",
+      "word": "通信する",
+      "choices": [
+        "yadro quroli",
+        "aloqa qilmoq (onlayn)",
+        "turmush qurishni taklif qilmoq",
+        "qo'shnilar bilan munosabat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "通信する → aloqa qilmoq (onlayn)"
+    },
+    {
+      "id": 73,
+      "questionType": "meaning",
+      "question": "『たどり着く』ning ma'nosi qaysi?",
+      "word": "たどり着く",
+      "choices": [
+        "undamoq",
+        "yetib bormoq",
+        "sochilib yotmoq, to'zib ketmoq",
+        "qarshilik ko'rsatmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "たどり着く → yetib bormoq"
+    },
+    {
+      "id": 74,
+      "questionType": "kanji",
+      "question": "『たきにわたる』qaysi yozuvga mos?",
+      "word": "多岐にわたる",
+      "choices": [
+        "世代",
+        "お互い",
+        "多岐にわたる",
+        "[〜を]結び付ける"
+      ],
+      "correctAnswer": 2,
+      "explanation": "たきにわたる → 多岐にわたる"
+    },
+    {
+      "id": 75,
       "questionType": "reading",
       "question": "『注意報』ning o'qilishi qaysi?",
       "word": "注意報",
       "choices": [
-        "ちゅういほう",
-        "タイムセール",
-        "ちしき",
-        "こんなんな"
+        "じゅうたくローン",
+        "はち",
+        "せんきょする",
+        "ちゅういほう"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "注意報 → ちゅういほう"
     },
     {
-      "id": 43,
-      "questionType": "meaning",
-      "question": "『うらやましい』ning ma'nosi qaysi?",
+      "id": 76,
+      "questionType": "reading",
+      "question": "『うらやましい』ning o'qilishi qaysi?",
       "word": "うらやましい",
       "choices": [
-        "aql tish",
-        "iliq, mo'tadil (iqlim)",
-        "shunday deb qat'iy o'ylab olmoq (aslida unday emas)",
-        "havas qiladigan, hasad qilinadigan"
+        "ふりこむ",
+        "コミュニケーション",
+        "うらやましい",
+        "けいびする"
       ],
-      "correctAnswer": 3,
-      "explanation": "うらやましい → havas qiladigan, hasad qilinadigan"
+      "correctAnswer": 2,
+      "explanation": "うらやましい → うらやましい"
     },
     {
-      "id": 44,
-      "questionType": "meaning",
-      "question": "『秘密』ning ma'nosi qaysi?",
-      "word": "秘密",
+      "id": 77,
+      "questionType": "reading",
+      "question": "『夢中な』ning o'qilishi qaysi?",
+      "word": "夢中な",
       "choices": [
-        "qarz olmoq",
-        "sir",
-        "beixtiyor, oddiy",
-        "rahmat"
+        "がんじょうな",
+        "おさめる",
+        "むちゅう",
+        "こうじょうけん"
+      ],
+      "correctAnswer": 2,
+      "explanation": "夢中な → むちゅう"
+    },
+    {
+      "id": 78,
+      "questionType": "reading",
+      "question": "『親元』ning o'qilishi qaysi?",
+      "word": "親元",
+      "choices": [
+        "あくてんこう",
+        "おやもと",
+        "ひとりぐらし",
+        "むすびつく"
       ],
       "correctAnswer": 1,
-      "explanation": "秘密 → sir"
+      "explanation": "親元 → おやもと"
     },
     {
-      "id": 45,
-      "questionType": "sentence",
-      "question": "『多岐にわたる』ning ma'nosi qaysi?",
-      "word": "多岐にわたる",
+      "id": 79,
+      "questionType": "reading",
+      "question": "『梨』ning o'qilishi qaysi?",
+      "word": "梨",
       "choices": [
-        "keng qamrovli",
-        "a'zo to'lovi",
-        "berilib ketgan",
-        "to'g'ridan to'g'ri"
+        "なし",
+        "どうき",
+        "ていしせい",
+        "はなよめ"
       ],
       "correctAnswer": 0,
-      "explanation": "多岐にわたる → keng qamrovli"
+      "explanation": "梨 → なし"
     },
     {
-      "id": 46,
+      "id": 80,
+      "questionType": "kanji",
+      "question": "『ぎろんする』qaysi yozuvga mos?",
+      "word": "議論する",
+      "choices": [
+        "議論する",
+        "決勝戦",
+        "ひとたび",
+        "募集する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ぎろんする → 議論する"
+    },
+    {
+      "id": 81,
       "questionType": "meaning",
       "question": "『手ぶら』ning ma'nosi qaysi?",
       "word": "手ぶら",
       "choices": [
-        "ozor bermoq, jarohatlamoq",
-        "iqtisodiy farovonlik",
-        "ilk uchrashuv",
+        "xotira",
+        "rishta, taqdiriy bog'liqlik",
+        "qo'shmoq, kiritmoq",
         "qo'li bo'sh, hech narsa olib kelmasdan"
       ],
       "correctAnswer": 3,
       "explanation": "手ぶら → qo'li bo'sh, hech narsa olib kelmasdan"
     },
     {
-      "id": 47,
-      "questionType": "meaning",
-      "question": "『伝統』ning ma'nosi qaysi?",
-      "word": "伝統",
-      "choices": [
-        "keng ko'lamli, sezilarli",
-        "hayratlanmoq, qoyil qolmoq",
-        "an'ana",
-        "kiyinish, tayyorlanish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "伝統 → an'ana"
-    },
-    {
-      "id": 48,
-      "questionType": "word",
-      "question": "『nok』ning yaponcha ifodasi qaysi?",
-      "word": "梨",
-      "choices": [
-        "梨",
-        "一気に",
-        "大企業",
-        "才能"
-      ],
-      "correctAnswer": 0,
-      "explanation": "nok → 梨"
-    },
-    {
-      "id": 49,
-      "questionType": "kanji",
-      "question": "『うらやましい』qaysi yozuvga mos?",
-      "word": "うらやましい",
-      "choices": [
-        "尽くす",
-        "仲間はずれ",
-        "都市開発",
-        "うらやましい"
-      ],
-      "correctAnswer": 3,
-      "explanation": "うらやましい → うらやましい"
-    },
-    {
-      "id": 50,
-      "questionType": "reading",
-      "question": "『殴る』ning o'qilishi qaysi?",
-      "word": "殴る",
-      "choices": [
-        "コンパ",
-        "れんあいする",
-        "ネットワーク",
-        "なぐる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "殴る → なぐる"
-    },
-    {
-      "id": 51,
-      "questionType": "reading",
-      "question": "『盛んな』ning o'qilishi qaysi?",
-      "word": "盛んな",
-      "choices": [
-        "なっとくする",
-        "そうだんにのる",
-        "つみをおかす",
-        "さかん"
-      ],
-      "correctAnswer": 3,
-      "explanation": "盛んな → さかん"
-    },
-    {
-      "id": 52,
-      "questionType": "word",
-      "question": "『aloqa qilmoq (onlayn)』ning yaponcha ifodasi qaysi?",
-      "word": "通信する",
-      "choices": [
-        "うらむ",
-        "通信する",
-        "けなす",
-        "ささやく"
-      ],
-      "correctAnswer": 1,
-      "explanation": "aloqa qilmoq (onlayn) → 通信する"
-    },
-    {
-      "id": 53,
-      "questionType": "reading",
-      "question": "『崩れる』ning o'qilishi qaysi?",
-      "word": "崩れる",
-      "choices": [
-        "どうし",
-        "なかよし",
-        "くずれる",
-        "こうけいき"
-      ],
-      "correctAnswer": 2,
-      "explanation": "崩れる → くずれる"
-    },
-    {
-      "id": 54,
-      "questionType": "reading",
-      "question": "『企業』ning o'qilishi qaysi?",
-      "word": "企業",
-      "choices": [
-        "きぎょう",
-        "とうちゃくする",
-        "じさんする",
-        "なにげない"
-      ],
-      "correctAnswer": 0,
-      "explanation": "企業 → きぎょう"
-    },
-    {
-      "id": 55,
-      "questionType": "reading",
-      "question": "『手ぶら』ning o'qilishi qaysi?",
-      "word": "手ぶら",
-      "choices": [
-        "ローン",
-        "てぶら",
-        "しんぱん",
-        "つりあう"
-      ],
-      "correctAnswer": 1,
-      "explanation": "手ぶら → てぶら"
-    },
-    {
-      "id": 56,
-      "questionType": "reading",
-      "question": "『人通り』ning o'qilishi qaysi?",
-      "word": "人通り",
-      "choices": [
-        "じさんする",
-        "ひとどおり",
-        "あらす",
-        "こうじんぶつ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "人通り → ひとどおり"
-    },
-    {
-      "id": 57,
-      "questionType": "kanji",
-      "question": "『てぶら』qaysi yozuvga mos?",
-      "word": "手ぶら",
-      "choices": [
-        "秘密",
-        "手ぶら",
-        "プロポーズする",
-        "ささやく"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てぶら → 手ぶら"
-    },
-    {
-      "id": 58,
-      "questionType": "sentence",
-      "question": "『議論する』ning ma'nosi qaysi?",
-      "word": "議論する",
-      "choices": [
-        "yangilamoq (shartnoma)",
-        "uyimiz",
-        "muhokama qilmoq, bahs yuritmoq",
-        "dangasa odam"
-      ],
-      "correctAnswer": 2,
-      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
-    },
-    {
-      "id": 59,
-      "questionType": "meaning",
-      "question": "『議論する』ning ma'nosi qaysi?",
-      "word": "議論する",
-      "choices": [
-        "parvarish qilmoq (keksa, bemorni)",
-        "muhokama qilmoq, bahs yuritmoq",
-        "farzand ko'rganlik tabrigi, sovg'asi",
-        "mening uyim"
-      ],
-      "correctAnswer": 1,
-      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
-    },
-    {
-      "id": 60,
-      "questionType": "reading",
-      "question": "『桃』ning o'qilishi qaysi?",
-      "word": "桃",
-      "choices": [
-        "もも",
-        "いし",
-        "けなす",
-        "きのうせい"
-      ],
-      "correctAnswer": 0,
-      "explanation": "桃 → もも"
-    },
-    {
-      "id": 61,
-      "questionType": "meaning",
-      "question": "『夢中な』ning ma'nosi qaysi?",
-      "word": "夢中な",
-      "choices": [
-        "a'zo to'lovi",
-        "berilib ketgan",
-        "diskvalifikatsiya qilinmoq",
-        "mamlakatim"
-      ],
-      "correctAnswer": 1,
-      "explanation": "夢中な → berilib ketgan"
-    },
-    {
-      "id": 62,
-      "questionType": "kanji",
-      "question": "『ひみつ』qaysi yozuvga mos?",
-      "word": "秘密",
-      "choices": [
-        "廃止する",
-        "誤解する",
-        "再会する",
-        "秘密"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ひみつ → 秘密"
-    },
-    {
-      "id": 63,
-      "questionType": "meaning",
-      "question": "『秘密』ning ma'nosi qaysi?",
-      "word": "秘密",
-      "choices": [
-        "namlik",
-        "bog'dorchilik",
-        "mamlakatim",
-        "sir"
-      ],
-      "correctAnswer": 3,
-      "explanation": "秘密 → sir"
-    },
-    {
-      "id": 64,
-      "questionType": "meaning",
-      "question": "『議論する』ning ma'nosi qaysi?",
-      "word": "議論する",
-      "choices": [
-        "xavotirlanmoq, tashvishlanmoq",
-        "past daraja",
-        "yomon hazil",
-        "muhokama qilmoq, bahs yuritmoq"
-      ],
-      "correctAnswer": 3,
-      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
-    },
-    {
-      "id": 65,
-      "questionType": "reading",
-      "question": "『殴る』ning o'qilishi qaysi?",
-      "word": "殴る",
-      "choices": [
-        "ガーデニング",
-        "なぐる",
-        "せけんしらず",
-        "めがさめる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "殴る → なぐる"
-    },
-    {
-      "id": 66,
-      "questionType": "kanji",
-      "question": "『おやもと』qaysi yozuvga mos?",
-      "word": "親元",
-      "choices": [
-        "親元",
-        "都市開発",
-        "一気に",
-        "悪循環"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おやもと → 親元"
-    },
-    {
-      "id": 67,
-      "questionType": "reading",
-      "question": "『うらやましい』ning o'qilishi qaysi?",
-      "word": "うらやましい",
-      "choices": [
-        "スムーズな",
-        "ガーデニング",
-        "ろうどうする",
-        "うらやましい"
-      ],
-      "correctAnswer": 3,
-      "explanation": "うらやましい → うらやましい"
-    },
-    {
-      "id": 68,
-      "questionType": "kanji",
-      "question": "『もも』qaysi yozuvga mos?",
-      "word": "桃",
-      "choices": [
-        "桃",
-        "ルール",
-        "懐かしい",
-        "好人物"
-      ],
-      "correctAnswer": 0,
-      "explanation": "もも → 桃"
-    },
-    {
-      "id": 69,
-      "questionType": "meaning",
-      "question": "『手ぶら』ning ma'nosi qaysi?",
-      "word": "手ぶら",
-      "choices": [
-        "vazifa, burch",
-        "o'ylamasdan qilingan, rahmsiz",
-        "qo'li bo'sh, hech narsa olib kelmasdan",
-        "yo'naltirmoq, rahbarlik qilmoq, o'rgatmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "手ぶら → qo'li bo'sh, hech narsa olib kelmasdan"
-    },
-    {
-      "id": 70,
-      "questionType": "sentence",
-      "question": "『通信する』ning ma'nosi qaysi?",
-      "word": "通信する",
-      "choices": [
-        "jon kuydirib xizmat qilmoq, bag'ishlamoq",
-        "yuqori daromad",
-        "aloqa qilmoq (onlayn)",
-        "minnatdorlik uyg'otadigan, qadrli"
-      ],
-      "correctAnswer": 2,
-      "explanation": "通信する → aloqa qilmoq (onlayn)"
-    },
-    {
-      "id": 71,
-      "questionType": "kanji",
-      "question": "『むちゅう』qaysi yozuvga mos?",
-      "word": "夢中な",
-      "choices": [
-        "ご馳走する",
-        "夢中な",
-        "とっさに",
-        "徹夜する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "むちゅう → 夢中な"
-    },
-    {
-      "id": 72,
-      "questionType": "reading",
-      "question": "『秘密』ning o'qilishi qaysi?",
-      "word": "秘密",
-      "choices": [
-        "めいい",
-        "いっけんや",
-        "ひみつ",
-        "おもいやり"
-      ],
-      "correctAnswer": 2,
-      "explanation": "秘密 → ひみつ"
-    },
-    {
-      "id": 73,
-      "questionType": "reading",
-      "question": "『秘密』ning o'qilishi qaysi?",
-      "word": "秘密",
-      "choices": [
-        "なかよし",
-        "やね",
-        "ひみつ",
-        "あいする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "秘密 → ひみつ"
-    },
-    {
-      "id": 74,
-      "questionType": "reading",
-      "question": "『職場』ning o'qilishi qaysi?",
-      "word": "職場",
-      "choices": [
-        "しょくば",
-        "じかんをさす",
-        "がくしょく",
-        "めいが"
-      ],
-      "correctAnswer": 0,
-      "explanation": "職場 → しょくば"
-    },
-    {
-      "id": 75,
-      "questionType": "reading",
-      "question": "『履歴』ning o'qilishi qaysi?",
-      "word": "履歴",
-      "choices": [
-        "めいさく",
-        "いやみな",
-        "もしかすると",
-        "りれき"
-      ],
-      "correctAnswer": 3,
-      "explanation": "履歴 → りれき"
-    },
-    {
-      "id": 76,
-      "questionType": "word",
-      "question": "『shubhalanmoq』ning yaponcha ifodasi qaysi?",
-      "word": "疑う",
-      "choices": [
-        "つり合う",
-        "産婦人科",
-        "尽くす",
-        "疑う"
-      ],
-      "correctAnswer": 3,
-      "explanation": "shubhalanmoq → 疑う"
-    },
-    {
-      "id": 77,
-      "questionType": "kanji",
-      "question": "『おやもと』qaysi yozuvga mos?",
-      "word": "親元",
-      "choices": [
-        "抗議する",
-        "介護する",
-        "親元",
-        "ブランド"
-      ],
-      "correctAnswer": 2,
-      "explanation": "おやもと → 親元"
-    },
-    {
-      "id": 78,
-      "questionType": "reading",
-      "question": "『注意報』ning o'qilishi qaysi?",
-      "word": "注意報",
-      "choices": [
-        "かんじ",
-        "ちゅういほう",
-        "つぶやく",
-        "かいごする"
-      ],
-      "correctAnswer": 1,
-      "explanation": "注意報 → ちゅういほう"
-    },
-    {
-      "id": 79,
-      "questionType": "kanji",
-      "question": "『しょくば』qaysi yozuvga mos?",
-      "word": "職場",
-      "choices": [
-        "甘やかす",
-        "思いやり",
-        "合コン",
-        "職場"
-      ],
-      "correctAnswer": 3,
-      "explanation": "しょくば → 職場"
-    },
-    {
-      "id": 80,
-      "questionType": "meaning",
-      "question": "『うらやましい』ning ma'nosi qaysi?",
-      "word": "うらやましい",
-      "choices": [
-        "bog'dorchilik",
-        "avjiga chiqmoq, qizimoq (davra); 2. ko'tarilmoq",
-        "ne'matga muyassar bo'lmoq, omadi kulmoq",
-        "havas qiladigan, hasad qilinadigan"
-      ],
-      "correctAnswer": 3,
-      "explanation": "うらやましい → havas qiladigan, hasad qilinadigan"
-    },
-    {
-      "id": 81,
-      "questionType": "word",
-      "question": "『kompaniyalar』ning yaponcha ifodasi qaysi?",
-      "word": "企業",
-      "choices": [
-        "企業",
-        "友達同士",
-        "ありがとう",
-        "退屈な"
-      ],
-      "correctAnswer": 0,
-      "explanation": "kompaniyalar → 企業"
-    },
-    {
       "id": 82,
-      "questionType": "reading",
-      "question": "『職場』ning o'qilishi qaysi?",
-      "word": "職場",
+      "questionType": "sentence",
+      "question": "『多岐にわたる』ning ma'nosi qaysi?",
+      "word": "多岐にわたる",
       "choices": [
-        "くもがかかる",
-        "うつす",
-        "しょくば",
-        "ちる"
+        "bezovta bo'lish",
+        "final",
+        "keng qamrovli",
+        "ko'mak qilmoq"
       ],
       "correctAnswer": 2,
-      "explanation": "職場 → しょくば"
+      "explanation": "多岐にわたる → keng qamrovli"
     },
     {
       "id": 83,
-      "questionType": "meaning",
-      "question": "『注意報』ning ma'nosi qaysi?",
-      "word": "注意報",
+      "questionType": "sentence",
+      "question": "『うらやましい』ning ma'nosi qaysi?",
+      "word": "うらやましい",
       "choices": [
-        "past saviya, sayoz",
-        "ombor",
-        "yuragi g'ash, o'zini yolg'iz his qiladigan",
-        "(ob-havo) ogohlantirishi"
+        "iqtisodiy farovonlik",
+        "go'l, hayot tajribasi yo'q (odam)",
+        "havas qiladigan, hasad qilinadigan",
+        "shaxsiy metod"
       ],
-      "correctAnswer": 3,
-      "explanation": "注意報 → (ob-havo) ogohlantirishi"
+      "correctAnswer": 2,
+      "explanation": "うらやましい → havas qiladigan, hasad qilinadigan"
     },
     {
       "id": 84,
-      "questionType": "word",
-      "question": "『shubhalanmoq』ning yaponcha ifodasi qaysi?",
-      "word": "疑う",
+      "questionType": "kanji",
+      "question": "『おやもと』qaysi yozuvga mos?",
+      "word": "親元",
       "choices": [
-        "通信する",
-        "聡明な",
-        "疑う",
-        "養う"
+        "悪習慣",
+        "親元",
+        "普段",
+        "視点"
       ],
-      "correctAnswer": 2,
-      "explanation": "shubhalanmoq → 疑う"
+      "correctAnswer": 1,
+      "explanation": "おやもと → 親元"
     },
     {
       "id": 85,
-      "questionType": "meaning",
-      "question": "『親元』ning ma'nosi qaysi?",
-      "word": "親元",
+      "questionType": "kanji",
+      "question": "『でんとう』qaysi yozuvga mos?",
+      "word": "伝統",
       "choices": [
-        "boshqarmoq",
-        "ozor bermoq, jarohatlamoq",
-        "sochilib yotmoq, to'zib ketmoq",
-        "ota-ona uyi"
+        "領土",
+        "伝統",
+        "低姿勢",
+        "納める"
       ],
-      "correctAnswer": 3,
-      "explanation": "親元 → ota-ona uyi"
+      "correctAnswer": 1,
+      "explanation": "でんとう → 伝統"
     },
     {
       "id": 86,
@@ -1199,237 +1199,237 @@
       "question": "『ひとどおり』qaysi yozuvga mos?",
       "word": "人通り",
       "choices": [
-        "領土",
-        "人通り",
-        "説得する",
-        "高性能"
+        "税金",
+        "好人物",
+        "見積もり",
+        "人通り"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "ひとどおり → 人通り"
     },
     {
       "id": 87,
-      "questionType": "kanji",
-      "question": "『りれき』qaysi yozuvga mos?",
-      "word": "履歴",
+      "questionType": "reading",
+      "question": "『夢中な』ning o'qilishi qaysi?",
+      "word": "夢中な",
       "choices": [
-        "書面",
-        "温暖な",
-        "賃貸",
-        "履歴"
+        "ストライキ",
+        "あわせる",
+        "むちゅう",
+        "じゅうたくローン"
       ],
-      "correctAnswer": 3,
-      "explanation": "りれき → 履歴"
+      "correctAnswer": 2,
+      "explanation": "夢中な → むちゅう"
     },
     {
       "id": 88,
       "questionType": "kanji",
-      "question": "『なし』qaysi yozuvga mos?",
-      "word": "梨",
+      "question": "『でんとう』qaysi yozuvga mos?",
+      "word": "伝統",
       "choices": [
-        "梨",
-        "こっそり",
-        "接する",
-        "才能"
+        "伝統",
+        "介入する",
+        "同士",
+        "うまい"
       ],
       "correctAnswer": 0,
-      "explanation": "なし → 梨"
+      "explanation": "でんとう → 伝統"
     },
     {
       "id": 89,
-      "questionType": "kanji",
-      "question": "『むちゅう』qaysi yozuvga mos?",
-      "word": "夢中な",
+      "questionType": "meaning",
+      "question": "『伝統』ning ma'nosi qaysi?",
+      "word": "伝統",
       "choices": [
-        "行為",
-        "夢中な",
-        "尊重する",
-        "同意する"
+        "aloqa qilmoq (onlayn)",
+        "yadro quroli",
+        "shaftoli",
+        "an'ana"
       ],
-      "correctAnswer": 1,
-      "explanation": "むちゅう → 夢中な"
+      "correctAnswer": 3,
+      "explanation": "伝統 → an'ana"
     },
     {
       "id": 90,
-      "questionType": "reading",
-      "question": "『梨』ning o'qilishi qaysi?",
-      "word": "梨",
+      "questionType": "sentence",
+      "question": "『議論する』ning ma'nosi qaysi?",
+      "word": "議論する",
       "choices": [
-        "じりつする",
-        "いいわけ",
-        "いまさら",
-        "なし"
+        "hamkasb",
+        "bezovta qiluvchi xatti-harakat",
+        "mehmon qilmoq",
+        "muhokama qilmoq, bahs yuritmoq"
       ],
       "correctAnswer": 3,
-      "explanation": "梨 → なし"
+      "explanation": "議論する → muhokama qilmoq, bahs yuritmoq"
     },
     {
       "id": 91,
-      "questionType": "kanji",
-      "question": "『たどりつく』qaysi yozuvga mos?",
-      "word": "たどり着く",
+      "questionType": "reading",
+      "question": "『職場』ning o'qilishi qaysi?",
+      "word": "職場",
       "choices": [
-        "通信する",
-        "たどり着く",
-        "介護する",
-        "一家団らん"
+        "しょくば",
+        "カーディガン",
+        "あくてんこう",
+        "ひとくち"
       ],
-      "correctAnswer": 1,
-      "explanation": "たどりつく → たどり着く"
+      "correctAnswer": 0,
+      "explanation": "職場 → しょくば"
     },
     {
       "id": 92,
       "questionType": "meaning",
-      "question": "『人通り』ning ma'nosi qaysi?",
-      "word": "人通り",
+      "question": "『親元』ning ma'nosi qaysi?",
+      "word": "親元",
       "choices": [
-        "chaqirib to'xtatmoq",
-        "bilvosita",
-        "tomoq",
-        "olomon qatnovi"
+        "ota-ona uyi",
+        "nigoh, qarash",
+        "ko'rsatmoq, aks ettirmoq (ekranda)",
+        "mahalliy mahsulot"
       ],
-      "correctAnswer": 3,
-      "explanation": "人通り → olomon qatnovi"
+      "correctAnswer": 0,
+      "explanation": "親元 → ota-ona uyi"
     },
     {
       "id": 93,
-      "questionType": "kanji",
-      "question": "『くずれる』qaysi yozuvga mos?",
-      "word": "崩れる",
+      "questionType": "word",
+      "question": "『sir』ning yaponcha ifodasi qaysi?",
+      "word": "秘密",
       "choices": [
-        "崩れる",
-        "久しぶり",
-        "介護する",
-        "一気に"
+        "施設",
+        "慰める",
+        "実力",
+        "秘密"
       ],
-      "correctAnswer": 0,
-      "explanation": "くずれる → 崩れる"
+      "correctAnswer": 3,
+      "explanation": "sir → 秘密"
     },
     {
       "id": 94,
-      "questionType": "reading",
-      "question": "『疑う』ning o'qilishi qaysi?",
-      "word": "疑う",
+      "questionType": "meaning",
+      "question": "『たどり着く』ning ma'nosi qaysi?",
+      "word": "たどり着く",
       "choices": [
-        "みとめる",
-        "うたがう",
-        "しゅっしん",
-        "あくじゅんかん"
+        "xotira",
+        "yetib bormoq",
+        "cheklamoq",
+        "hozir; keldim (uyga)"
       ],
       "correctAnswer": 1,
-      "explanation": "疑う → うたがう"
+      "explanation": "たどり着く → yetib bormoq"
     },
     {
       "id": 95,
       "questionType": "reading",
-      "question": "『たった』ning o'qilishi qaysi?",
-      "word": "たった",
+      "question": "『企業』ning o'qilishi qaysi?",
+      "word": "企業",
       "choices": [
-        "うんめい",
-        "さくせいする",
-        "たった",
-        "いまさら"
+        "ちらっと",
+        "きぎょう",
+        "くやむ",
+        "おいだす"
       ],
-      "correctAnswer": 2,
-      "explanation": "たった → たった"
+      "correctAnswer": 1,
+      "explanation": "企業 → きぎょう"
     },
     {
       "id": 96,
       "questionType": "kanji",
-      "question": "『なぐる』qaysi yozuvga mos?",
-      "word": "殴る",
+      "question": "『おやもと』qaysi yozuvga mos?",
+      "word": "親元",
       "choices": [
-        "名作",
-        "殴る",
-        "名所",
-        "せい"
+        "立て替える",
+        "手元",
+        "大金",
+        "親元"
       ],
-      "correctAnswer": 1,
-      "explanation": "なぐる → 殴る"
+      "correctAnswer": 3,
+      "explanation": "おやもと → 親元"
     },
     {
       "id": 97,
-      "questionType": "kanji",
-      "question": "『しょくば』qaysi yozuvga mos?",
-      "word": "職場",
+      "questionType": "word",
+      "question": "『havas qiladigan, hasad qilinadigan』ning yaponcha ifodasi qaysi?",
+      "word": "うらやましい",
       "choices": [
-        "職場",
-        "万引きする",
-        "運命",
-        "出産祝い"
+        "蚊",
+        "うらやましい",
+        "〜未満",
+        "集中力"
       ],
-      "correctAnswer": 0,
-      "explanation": "しょくば → 職場"
+      "correctAnswer": 1,
+      "explanation": "havas qiladigan, hasad qilinadigan → うらやましい"
     },
     {
       "id": 98,
-      "questionType": "word",
-      "question": "『tarix, qaydlar』ning yaponcha ifodasi qaysi?",
-      "word": "履歴",
+      "questionType": "reading",
+      "question": "『桃』ning o'qilishi qaysi?",
+      "word": "桃",
       "choices": [
-        "呼び出す",
-        "質素な",
-        "野外",
-        "履歴"
+        "もも",
+        "たきにわたる",
+        "ひさしぶり",
+        "のど"
       ],
-      "correctAnswer": 3,
-      "explanation": "tarix, qaydlar → 履歴"
+      "correctAnswer": 0,
+      "explanation": "桃 → もも"
     },
     {
       "id": 99,
-      "questionType": "kanji",
-      "question": "『でんとう』qaysi yozuvga mos?",
-      "word": "伝統",
+      "questionType": "word",
+      "question": "『havas qiladigan, hasad qilinadigan』ning yaponcha ifodasi qaysi?",
+      "word": "うらやましい",
       "choices": [
-        "親元",
-        "名文",
-        "伝統",
-        "介護する"
+        "容疑者",
+        "同士",
+        "心無い",
+        "うらやましい"
       ],
-      "correctAnswer": 2,
-      "explanation": "でんとう → 伝統"
+      "correctAnswer": 3,
+      "explanation": "havas qiladigan, hasad qilinadigan → うらやましい"
     },
     {
       "id": 100,
-      "questionType": "kanji",
-      "question": "『ひとどおり』qaysi yozuvga mos?",
-      "word": "人通り",
+      "questionType": "meaning",
+      "question": "『疑う』ning ma'nosi qaysi?",
+      "word": "疑う",
       "choices": [
-        "人通り",
-        "食べ盛り",
-        "借金する",
-        "接する"
+        "shubhalanmoq",
+        "an'ana",
+        "xo'jayin, egasi (hayvonning)",
+        "tarmoq; aloqalar tarmog'i"
       ],
       "correctAnswer": 0,
-      "explanation": "ひとどおり → 人通り"
+      "explanation": "疑う → shubhalanmoq"
     },
     {
       "id": 101,
-      "questionType": "word",
-      "question": "『ish joyi』ning yaponcha ifodasi qaysi?",
-      "word": "職場",
+      "questionType": "kanji",
+      "question": "『くずれる』qaysi yozuvga mos?",
+      "word": "崩れる",
       "choices": [
-        "職場",
-        "憧れる",
-        "口を利く",
-        "介入する"
+        "説得する",
+        "野外",
+        "崩れる",
+        "大幅な"
       ],
-      "correctAnswer": 0,
-      "explanation": "ish joyi → 職場"
+      "correctAnswer": 2,
+      "explanation": "くずれる → 崩れる"
     },
     {
       "id": 102,
       "questionType": "meaning",
-      "question": "『盛んな』ning ma'nosi qaysi?",
-      "word": "盛んな",
+      "question": "『手ぶら』ning ma'nosi qaysi?",
+      "word": "手ぶら",
       "choices": [
-        "erkalik",
-        "talabalar oshxonasi",
-        "rivojlangan, gullab-yashnagan",
-        "atayin, ovora bo'lib"
+        "bilmaslikka olish",
+        "norozilik bildirmoq",
+        "omadsiz",
+        "qo'li bo'sh, hech narsa olib kelmasdan"
       ],
-      "correctAnswer": 2,
-      "explanation": "盛んな → rivojlangan, gullab-yashnagan"
+      "correctAnswer": 3,
+      "explanation": "手ぶら → qo'li bo'sh, hech narsa olib kelmasdan"
     },
     {
       "id": 103,
@@ -1437,377 +1437,377 @@
       "question": "『伝統』ning o'qilishi qaysi?",
       "word": "伝統",
       "choices": [
-        "ふる",
         "でんとう",
-        "なかよし",
-        "こころほそい"
+        "こんなんな",
+        "おおまかな",
+        "こうせいのう"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "伝統 → でんとう"
     },
     {
       "id": 104,
-      "questionType": "meaning",
-      "question": "『崩れる』ning ma'nosi qaysi?",
-      "word": "崩れる",
+      "questionType": "kanji",
+      "question": "『りれき』qaysi yozuvga mos?",
+      "word": "履歴",
       "choices": [
-        "buzilmoq, qulamoq (ob-havo buzilishi)",
-        "chaqirib to'xtatmoq",
-        "ortga qaramoq; 2. o'tmishni eslamoq",
-        "yordamchi"
+        "てっきり",
+        "誓う",
+        "履歴",
+        "気配りする"
       ],
-      "correctAnswer": 0,
-      "explanation": "崩れる → buzilmoq, qulamoq (ob-havo buzilishi)"
+      "correctAnswer": 2,
+      "explanation": "りれき → 履歴"
     },
     {
       "id": 105,
-      "questionType": "kanji",
-      "question": "『たきにわたる』qaysi yozuvga mos?",
-      "word": "多岐にわたる",
+      "questionType": "word",
+      "question": "『tarix, qaydlar』ning yaponcha ifodasi qaysi?",
+      "word": "履歴",
       "choices": [
-        "操作する",
-        "悪影響",
-        "多岐にわたる",
-        "せい"
+        "ありがとう",
+        "履歴",
+        "蜂",
+        "世代"
       ],
-      "correctAnswer": 2,
-      "explanation": "たきにわたる → 多岐にわたる"
+      "correctAnswer": 1,
+      "explanation": "tarix, qaydlar → 履歴"
     },
     {
       "id": 106,
-      "questionType": "word",
-      "question": "『keng qamrovli』ning yaponcha ifodasi qaysi?",
-      "word": "多岐にわたる",
+      "questionType": "kanji",
+      "question": "『しょくば』qaysi yozuvga mos?",
+      "word": "職場",
       "choices": [
-        "株価",
-        "ホームヘルパー",
-        "表情",
-        "多岐にわたる"
+        "出費する",
+        "職場",
+        "振る",
+        "蚊"
       ],
-      "correctAnswer": 3,
-      "explanation": "keng qamrovli → 多岐にわたる"
+      "correctAnswer": 1,
+      "explanation": "しょくば → 職場"
     },
     {
       "id": 107,
       "questionType": "kanji",
-      "question": "『でんとう』qaysi yozuvga mos?",
-      "word": "伝統",
+      "question": "『たどりつく』qaysi yozuvga mos?",
+      "word": "たどり着く",
       "choices": [
-        "おかげ",
-        "介助犬",
-        "カップル",
-        "伝統"
+        "たどり着く",
+        "高〜",
+        "ユニークな",
+        "おじぎする"
       ],
-      "correctAnswer": 3,
-      "explanation": "でんとう → 伝統"
+      "correctAnswer": 0,
+      "explanation": "たどりつく → たどり着く"
     },
     {
       "id": 108,
-      "questionType": "meaning",
-      "question": "『多岐にわたる』ning ma'nosi qaysi?",
-      "word": "多岐にわたる",
+      "questionType": "kanji",
+      "question": "『ちゅういほう』qaysi yozuvga mos?",
+      "word": "注意報",
       "choices": [
-        "qo'l ostida",
-        "yaxshi fikr",
-        "uyda parvarish qiluvchi xodim",
-        "keng qamrovli"
+        "注意報",
+        "教育費",
+        "見つめる",
+        "桃"
       ],
-      "correctAnswer": 3,
-      "explanation": "多岐にわたる → keng qamrovli"
+      "correctAnswer": 0,
+      "explanation": "ちゅういほう → 注意報"
     },
     {
       "id": 109,
-      "questionType": "kanji",
-      "question": "『もも』qaysi yozuvga mos?",
-      "word": "桃",
-      "choices": [
-        "禁物",
-        "聡明な",
-        "疑う",
-        "桃"
-      ],
-      "correctAnswer": 3,
-      "explanation": "もも → 桃"
-    },
-    {
-      "id": 110,
       "questionType": "meaning",
       "question": "『夢中な』ning ma'nosi qaysi?",
       "word": "夢中な",
       "choices": [
-        "yuqori ma'lumotli",
+        "kuyov va kelin",
+        "yomon sharoit",
         "berilib ketgan",
-        "mumkin bo'lmagan narsa, taqiqlangan narsa",
-        "bahslashmoq"
+        "(ob-havo) ogohlantirishi"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "夢中な → berilib ketgan"
     },
     {
-      "id": 111,
-      "questionType": "kanji",
-      "question": "『つうしんする』qaysi yozuvga mos?",
-      "word": "通信する",
-      "choices": [
-        "独立する",
-        "都市開発",
-        "通信する",
-        "吠える"
-      ],
-      "correctAnswer": 2,
-      "explanation": "つうしんする → 通信する"
-    },
-    {
-      "id": 112,
-      "questionType": "kanji",
-      "question": "『ぎろんする』qaysi yozuvga mos?",
-      "word": "議論する",
-      "choices": [
-        "議論する",
-        "久しぶり",
-        "頼もしい",
-        "叶う"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ぎろんする → 議論する"
-    },
-    {
-      "id": 113,
-      "questionType": "reading",
-      "question": "『企業』ning o'qilishi qaysi?",
-      "word": "企業",
-      "choices": [
-        "スムーズな",
-        "きぎょう",
-        "コンパ",
-        "はち"
-      ],
-      "correctAnswer": 1,
-      "explanation": "企業 → きぎょう"
-    },
-    {
-      "id": 114,
-      "questionType": "reading",
-      "question": "『手ぶら』ning o'qilishi qaysi?",
-      "word": "手ぶら",
-      "choices": [
-        "しょめん",
-        "いわば",
-        "しつけ",
-        "てぶら"
-      ],
-      "correctAnswer": 3,
-      "explanation": "手ぶら → てぶら"
-    },
-    {
-      "id": 115,
-      "questionType": "reading",
-      "question": "『多岐にわたる』ning o'qilishi qaysi?",
-      "word": "多岐にわたる",
-      "choices": [
-        "きぎょう",
-        "にらむ",
-        "ちんたい",
-        "たきにわたる"
-      ],
-      "correctAnswer": 3,
-      "explanation": "多岐にわたる → たきにわたる"
-    },
-    {
-      "id": 116,
-      "questionType": "word",
-      "question": "『urmoq, musht tushirmoq』ning yaponcha ifodasi qaysi?",
-      "word": "殴る",
-      "choices": [
-        "きっぱり",
-        "殴る",
-        "仲",
-        "俺"
-      ],
-      "correctAnswer": 1,
-      "explanation": "urmoq, musht tushirmoq → 殴る"
-    },
-    {
-      "id": 117,
-      "questionType": "reading",
-      "question": "『親元』ning o'qilishi qaysi?",
-      "word": "親元",
-      "choices": [
-        "さんふじんか",
-        "どうせ",
-        "おやもと",
-        "おしゃべりする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "親元 → おやもと"
-    },
-    {
-      "id": 118,
+      "id": 110,
       "questionType": "kanji",
       "question": "『ひみつ』qaysi yozuvga mos?",
       "word": "秘密",
       "choices": [
-        "覚え",
-        "抑える",
-        "機能性",
+        "視線",
+        "志望する",
+        "だまる",
         "秘密"
       ],
       "correctAnswer": 3,
       "explanation": "ひみつ → 秘密"
     },
     {
-      "id": 119,
-      "questionType": "kanji",
-      "question": "『きぎょう』qaysi yozuvga mos?",
-      "word": "企業",
+      "id": 111,
+      "questionType": "reading",
+      "question": "『手ぶら』ning o'qilishi qaysi?",
+      "word": "手ぶら",
       "choices": [
-        "込める",
-        "[〜を]結び付ける",
-        "企業",
-        "継ぐ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "きぎょう → 企業"
-    },
-    {
-      "id": 120,
-      "questionType": "meaning",
-      "question": "『企業』ning ma'nosi qaysi?",
-      "word": "企業",
-      "choices": [
-        "bahslashmoq",
-        "ombor",
-        "kompaniyalar",
-        "sharqqa qaragan"
-      ],
-      "correctAnswer": 2,
-      "explanation": "企業 → kompaniyalar"
-    },
-    {
-      "id": 121,
-      "questionType": "kanji",
-      "question": "『うたがう』qaysi yozuvga mos?",
-      "word": "疑う",
-      "choices": [
-        "かつ丼",
-        "疑う",
-        "きっぱり",
-        "出身"
-      ],
-      "correctAnswer": 1,
-      "explanation": "うたがう → 疑う"
-    },
-    {
-      "id": 122,
-      "questionType": "word",
-      "question": "『atigi, bor-yo'g'i』ning yaponcha ifodasi qaysi?",
-      "word": "たった",
-      "choices": [
-        "つぶやく",
-        "仲間はずれ",
-        "たった",
-        "愛称"
-      ],
-      "correctAnswer": 2,
-      "explanation": "atigi, bor-yo'g'i → たった"
-    },
-    {
-      "id": 123,
-      "questionType": "kanji",
-      "question": "『たった』qaysi yozuvga mos?",
-      "word": "たった",
-      "choices": [
-        "あくびする",
-        "たった",
-        "親知らず",
-        "名文"
-      ],
-      "correctAnswer": 1,
-      "explanation": "たった → たった"
-    },
-    {
-      "id": 124,
-      "questionType": "word",
-      "question": "『yetib bormoq』ning yaponcha ifodasi qaysi?",
-      "word": "たどり着く",
-      "choices": [
-        "たどり着く",
-        "覚え",
-        "ご馳走する",
-        "吠える"
+        "てぶら",
+        "しめす",
+        "むくちな",
+        "なみだをながす"
       ],
       "correctAnswer": 0,
-      "explanation": "yetib bormoq → たどり着く"
+      "explanation": "手ぶら → てぶら"
     },
     {
-      "id": 125,
+      "id": 112,
+      "questionType": "reading",
+      "question": "『多岐にわたる』ning o'qilishi qaysi?",
+      "word": "多岐にわたる",
+      "choices": [
+        "たきにわたる",
+        "さいのう",
+        "きまり",
+        "ペア"
+      ],
+      "correctAnswer": 0,
+      "explanation": "多岐にわたる → たきにわたる"
+    },
+    {
+      "id": 113,
+      "questionType": "kanji",
+      "question": "『もも』qaysi yozuvga mos?",
+      "word": "桃",
+      "choices": [
+        "桃",
+        "誇らしい",
+        "今さら",
+        "意志"
+      ],
+      "correctAnswer": 0,
+      "explanation": "もも → 桃"
+    },
+    {
+      "id": 114,
+      "questionType": "reading",
+      "question": "『議論する』ning o'qilishi qaysi?",
+      "word": "議論する",
+      "choices": [
+        "ぎろんする",
+        "ホラ",
+        "いっきに",
+        "こんなんな"
+      ],
+      "correctAnswer": 0,
+      "explanation": "議論する → ぎろんする"
+    },
+    {
+      "id": 115,
+      "questionType": "word",
+      "question": "『kompaniyalar』ning yaponcha ifodasi qaysi?",
+      "word": "企業",
+      "choices": [
+        "友達同士",
+        "税",
+        "企業",
+        "久しぶり"
+      ],
+      "correctAnswer": 2,
+      "explanation": "kompaniyalar → 企業"
+    },
+    {
+      "id": 116,
+      "questionType": "meaning",
+      "question": "『梨』ning ma'nosi qaysi?",
+      "word": "梨",
+      "choices": [
+        "nok",
+        "xayolga keladigan narsa, taxmin",
+        "ko'zni olib qochish",
+        "qarash, ko'z qarashi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "梨 → nok"
+    },
+    {
+      "id": 117,
+      "questionType": "kanji",
+      "question": "『ひみつ』qaysi yozuvga mos?",
+      "word": "秘密",
+      "choices": [
+        "秘密",
+        "支援する",
+        "ブランド",
+        "養育費"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ひみつ → 秘密"
+    },
+    {
+      "id": 118,
       "questionType": "reading",
       "question": "『盛んな』ning o'qilishi qaysi?",
       "word": "盛んな",
       "choices": [
-        "やがい",
-        "がくしょく",
+        "せいさく",
+        "おたがい",
         "さかん",
-        "おちこむ"
+        "やしなう"
       ],
       "correctAnswer": 2,
       "explanation": "盛んな → さかん"
     },
     {
-      "id": 126,
+      "id": 119,
       "questionType": "word",
-      "question": "『ish joyi』ning yaponcha ifodasi qaysi?",
+      "question": "『olomon qatnovi』ning yaponcha ifodasi qaysi?",
+      "word": "人通り",
+      "choices": [
+        "人通り",
+        "温暖な",
+        "防犯カメラ",
+        "身支度する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "olomon qatnovi → 人通り"
+    },
+    {
+      "id": 120,
+      "questionType": "kanji",
+      "question": "『しょくば』qaysi yozuvga mos?",
       "word": "職場",
       "choices": [
-        "災害",
         "職場",
-        "友達同士",
-        "おじぎする"
+        "舌",
+        "察する",
+        "作成する"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しょくば → 職場"
+    },
+    {
+      "id": 121,
+      "questionType": "kanji",
+      "question": "『きぎょう』qaysi yozuvga mos?",
+      "word": "企業",
+      "choices": [
+        "高収入",
+        "企業",
+        "乱暴な",
+        "出産する"
       ],
       "correctAnswer": 1,
-      "explanation": "ish joyi → 職場"
+      "explanation": "きぎょう → 企業"
+    },
+    {
+      "id": 122,
+      "questionType": "kanji",
+      "question": "『つうしんする』qaysi yozuvga mos?",
+      "word": "通信する",
+      "choices": [
+        "友人",
+        "出費する",
+        "通信する",
+        "コミュニケーション"
+      ],
+      "correctAnswer": 2,
+      "explanation": "つうしんする → 通信する"
+    },
+    {
+      "id": 123,
+      "questionType": "kanji",
+      "question": "『なし』qaysi yozuvga mos?",
+      "word": "梨",
+      "choices": [
+        "納得する",
+        "友人",
+        "高くつく",
+        "梨"
+      ],
+      "correctAnswer": 3,
+      "explanation": "なし → 梨"
+    },
+    {
+      "id": 124,
+      "questionType": "reading",
+      "question": "『職場』ning o'qilishi qaysi?",
+      "word": "職場",
+      "choices": [
+        "らんぼうな",
+        "しょくば",
+        "かいひ",
+        "みぎにでるものはいない"
+      ],
+      "correctAnswer": 1,
+      "explanation": "職場 → しょくば"
+    },
+    {
+      "id": 125,
+      "questionType": "reading",
+      "question": "『崩れる』ning o'qilishi qaysi?",
+      "word": "崩れる",
+      "choices": [
+        "くずれる",
+        "ひとたび",
+        "のうそん",
+        "あかじ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "崩れる → くずれる"
+    },
+    {
+      "id": 126,
+      "questionType": "meaning",
+      "question": "『企業』ning ma'nosi qaysi?",
+      "word": "企業",
+      "choices": [
+        "kompaniyalar",
+        "qila olmoq, (issiq non va tarvuz) yaxshi ketadi",
+        "oila",
+        "bahslashmoq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "企業 → kompaniyalar"
     },
     {
       "id": 127,
-      "questionType": "meaning",
-      "question": "『通信する』ning ma'nosi qaysi?",
-      "word": "通信する",
+      "questionType": "reading",
+      "question": "『伝統』ning o'qilishi qaysi?",
+      "word": "伝統",
       "choices": [
-        "aqlli",
-        "olib kelmoq (o'zi bilan)",
-        "aloqa qilmoq (onlayn)",
-        "do'konlar ko'chasi, savdo maydoni"
+        "ひみつ",
+        "かいけつする",
+        "もしかしたら、もしかして、ひょっとすると",
+        "でんとう"
       ],
-      "correctAnswer": 2,
-      "explanation": "通信する → aloqa qilmoq (onlayn)"
+      "correctAnswer": 3,
+      "explanation": "伝統 → でんとう"
     },
     {
       "id": 128,
-      "questionType": "word",
-      "question": "『tarix, qaydlar』ning yaponcha ifodasi qaysi?",
-      "word": "履歴",
+      "questionType": "sentence",
+      "question": "『たどり着く』ning ma'nosi qaysi?",
+      "word": "たどり着く",
       "choices": [
-        "見習う",
-        "履歴",
-        "正直な",
-        "懸念する"
+        "kiyinish, tayyorlanish",
+        "yetib bormoq",
+        "yangilamoq",
+        "rahmat"
       ],
       "correctAnswer": 1,
-      "explanation": "tarix, qaydlar → 履歴"
+      "explanation": "たどり着く → yetib bormoq"
     },
     {
       "id": 129,
       "questionType": "reading",
-      "question": "『夢中な』ning o'qilishi qaysi?",
-      "word": "夢中な",
+      "question": "『たった』ning o'qilishi qaysi?",
+      "word": "たった",
       "choices": [
-        "むちゅう",
-        "しつど",
-        "ホームヘルパー",
-        "とっさに"
+        "たった",
+        "せけんしらず",
+        "マイホーム",
+        "どうき"
       ],
       "correctAnswer": 0,
-      "explanation": "夢中な → むちゅう"
+      "explanation": "たった → たった"
     }
   ]
 }

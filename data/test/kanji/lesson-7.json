@@ -5,1445 +5,1417 @@
   "questions": [
     {
       "id": 1,
-      "questionType": "reading",
-      "question": "『違』ning o'qilishi qaysi?",
-      "word": "違",
+      "questionType": "meaning",
+      "question": "『停車する』ning ma'nosi qaysi?",
+      "word": "停車する",
       "choices": [
-        "りょうほう",
-        "こだからにめぐまれる",
-        "おおもり",
-        "ちがう"
+        "poyezdni to'xtashi",
+        "o'z davlati hududi",
+        "to'ldirmoq, tiqmoq",
+        "muzni erishi"
       ],
-      "correctAnswer": 3,
-      "explanation": "違 → ちがう"
+      "correctAnswer": 0,
+      "explanation": "停車する → poyezdni to'xtashi"
     },
     {
       "id": 2,
-      "questionType": "sentence",
-      "question": "『電車の切符』ning ma'nosi qaysi?",
-      "word": "電車の切符",
+      "questionType": "word",
+      "question": "『maqsadni aniq qilib olish』ning yaponcha ifodasi qaysi?",
+      "word": "目標を定める",
       "choices": [
-        "yoz o'tib ketishi",
-        "ikki tomon",
-        "un bilan tuxumni aralashtirmoq",
-        "poyezd chiptasi"
+        "白状する",
+        "目標を定める",
+        "靴が脱げる",
+        "重症"
       ],
-      "correctAnswer": 3,
-      "explanation": "電車の切符 → poyezd chiptasi"
+      "correctAnswer": 1,
+      "explanation": "maqsadni aniq qilib olish → 目標を定める"
     },
     {
       "id": 3,
       "questionType": "reading",
-      "question": "『音符』ning o'qilishi qaysi?",
-      "word": "音符",
+      "question": "『違法』ning o'qilishi qaysi?",
+      "word": "違法",
       "choices": [
-        "おんぷ",
-        "おおぜいのひと",
-        "じゅうなん",
-        "いほう"
+        "いほう",
+        "いりょうほけんせいど",
+        "ひきだしのなかをせいりする",
+        "ふくむ"
       ],
       "correctAnswer": 0,
-      "explanation": "音符 → おんぷ"
+      "explanation": "違法 → いほう"
     },
     {
       "id": 4,
       "questionType": "recognition",
       "question": "『停』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "業務が停滞する",
+      "word": "停学",
       "choices": [
-        "業務が停滞する",
-        "食堂",
-        "駐車禁止",
-        "米の中に麦が混じっている"
+        "米の中に麦が混じっている",
+        "口座振替",
+        "実況中継",
+        "停学"
       ],
-      "correctAnswer": 0,
-      "explanation": "停 → 業務が停滞する"
+      "correctAnswer": 3,
+      "explanation": "停 → 停学"
     },
     {
       "id": 5,
-      "questionType": "meaning",
-      "question": "『標』ning ma'nosi qaysi?",
-      "word": "標",
+      "questionType": "word",
+      "question": "『elektr ta'minotidan uzilish』ning yaponcha ifodasi qaysi?",
+      "word": "停電",
       "choices": [
-        "egiluvchan, moslashuvchan",
-        "rivojlanayotgan davlatlar",
-        "belgi, standart",
-        "munosabat yumshashi"
+        "保証人",
+        "停電",
+        "製",
+        "宗派"
       ],
-      "correctAnswer": 2,
-      "explanation": "標 → belgi, standart"
+      "correctAnswer": 1,
+      "explanation": "elektr ta'minotidan uzilish → 停電"
     },
     {
       "id": 6,
-      "questionType": "word",
-      "question": "『oddiy maktab』ning yaponcha ifodasi qaysi?",
-      "word": "普通高校",
+      "questionType": "meaning",
+      "question": "『普通の家庭』ning ma'nosi qaysi?",
+      "word": "普通の家庭",
       "choices": [
-        "普通高校",
-        "郵",
-        "照",
-        "著しい進歩"
+        "oshqozon",
+        "oddiy xonadon",
+        "shamollash alomati",
+        "ota-ona umidiga qarshi borish"
       ],
-      "correctAnswer": 0,
-      "explanation": "oddiy maktab → 普通高校"
+      "correctAnswer": 1,
+      "explanation": "普通の家庭 → oddiy xonadon"
     },
     {
       "id": 7,
-      "questionType": "recognition",
-      "question": "『違』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "交通違反",
-      "choices": [
-        "堂",
-        "交通違反",
-        "身分証明書",
-        "美人"
-      ],
-      "correctAnswer": 1,
-      "explanation": "違 → 交通違反"
-    },
-    {
-      "id": 8,
-      "questionType": "kanji",
-      "question": "『ふだんぎ』qaysi yozuvga mos?",
-      "word": "普段着",
-      "choices": [
-        "券",
-        "新聞配達",
-        "新製品",
-        "普段着"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ふだんぎ → 普段着"
-    },
-    {
-      "id": 9,
-      "questionType": "recognition",
-      "question": "『刻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "時刻",
-      "choices": [
-        "時刻",
-        "標",
-        "招待する",
-        "宗"
-      ],
-      "correctAnswer": 0,
-      "explanation": "刻 → 時刻"
-    },
-    {
-      "id": 10,
-      "questionType": "reading",
-      "question": "『停学』ning o'qilishi qaysi?",
-      "word": "停学",
-      "choices": [
-        "まえのくるまをおいこす",
-        "ていがく",
-        "ゆうかん",
-        "かい"
-      ],
-      "correctAnswer": 1,
-      "explanation": "停学 → ていがく"
-    },
-    {
-      "id": 11,
-      "questionType": "sentence",
-      "question": "『各駅停車』ning ma'nosi qaysi?",
-      "word": "各駅停車",
-      "choices": [
-        "faraz qilmoq",
-        "har bir bekatda to'xtaydigan poyezd",
-        "og'riq susayishi",
-        "moda jurnali"
-      ],
-      "correctAnswer": 1,
-      "explanation": "各駅停車 → har bir bekatda to'xtaydigan poyezd"
-    },
-    {
-      "id": 12,
-      "questionType": "meaning",
-      "question": "『非難の標的となる』ning ma'nosi qaysi?",
-      "word": "非難の標的となる",
-      "choices": [
-        "xavfdan qutulish",
-        "o'rtacha hayot kechirish",
-        "navbat almashinmoq",
-        "tanqid nishoniga aylanish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "非難の標的となる → tanqid nishoniga aylanish"
-    },
-    {
-      "id": 13,
-      "questionType": "meaning",
-      "question": "『普段着』ning ma'nosi qaysi?",
-      "word": "普段着",
-      "choices": [
-        "baxtli oila qurish",
-        "hid, xushbo'y",
-        "kunlik kiyim",
-        "suv bilan ta'mni me'yorlashtirish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "普段着 → kunlik kiyim"
-    },
-    {
-      "id": 14,
-      "questionType": "kanji",
-      "question": "『ひょう』qaysi yozuvga mos?",
-      "word": "標",
-      "choices": [
-        "標",
-        "混雑",
-        "お金を恵む",
-        "悲劇"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ひょう → 標"
-    },
-    {
-      "id": 15,
-      "questionType": "sentence",
-      "question": "『ねぎを刻む』ning ma'nosi qaysi?",
-      "word": "ねぎを刻む",
-      "choices": [
-        "izakaya (yapon mayxonasi)",
-        "piyoz to'g'rash",
-        "almashtirmoq",
-        "baliqchilik biznesini boshlash"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ねぎを刻む → piyoz to'g'rash"
-    },
-    {
-      "id": 16,
-      "questionType": "meaning",
-      "question": "『刻』ning ma'nosi qaysi?",
-      "word": "刻",
-      "choices": [
-        "kesmoq, vaqt",
-        "muqim turmoq (xizmatda, chet elda)",
-        "hid, xushbo'y",
-        "ma'ruza (majlis) zali"
-      ],
-      "correctAnswer": 0,
-      "explanation": "刻 → kesmoq, vaqt"
-    },
-    {
-      "id": 17,
-      "questionType": "recognition",
-      "question": "『刻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "心に刻む",
-      "choices": [
-        "間違える",
-        "夕刊",
-        "親と同居する",
-        "心に刻む"
-      ],
-      "correctAnswer": 3,
-      "explanation": "刻 → 心に刻む"
-    },
-    {
-      "id": 18,
-      "questionType": "recognition",
-      "question": "『符』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "音符",
-      "choices": [
-        "針が振れる",
-        "前の車を追い越す",
-        "音符",
-        "非難の標的となる"
-      ],
-      "correctAnswer": 2,
-      "explanation": "符 → 音符"
-    },
-    {
-      "id": 19,
-      "questionType": "sentence",
-      "question": "『心臓が停止する』ning ma'nosi qaysi?",
-      "word": "心臓が停止する",
-      "choices": [
-        "kundalik yozib borish",
-        "chiroyli",
-        "yurakning to'xtashi",
-        "shartnoma tuzish"
-      ],
-      "correctAnswer": 2,
-      "explanation": "心臓が停止する → yurakning to'xtashi"
-    },
-    {
-      "id": 20,
-      "questionType": "reading",
-      "question": "『違う』ning o'qilishi qaysi?",
-      "word": "違う",
-      "choices": [
-        "おやとどうきょする",
-        "みまう",
-        "び・うつくしい",
-        "ちがう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "違う → ちがう"
-    },
-    {
-      "id": 21,
-      "questionType": "kanji",
-      "question": "『かくえきていしゃ』qaysi yozuvga mos?",
-      "word": "各駅停車",
-      "choices": [
-        "絵の具を溶く",
-        "各駅停車",
-        "為替レート",
-        "駅の改札口"
-      ],
-      "correctAnswer": 1,
-      "explanation": "かくえきていしゃ → 各駅停車"
-    },
-    {
-      "id": 22,
-      "questionType": "meaning",
-      "question": "『違法』ning ma'nosi qaysi?",
-      "word": "違法",
-      "choices": [
-        "yumshoq, og'izda erib ketadigan ovqat",
-        "noqonuniy",
-        "oldingi va orqa g'ildiraklar",
-        "baliqchilik porti"
-      ],
-      "correctAnswer": 1,
-      "explanation": "違法 → noqonuniy"
-    },
-    {
-      "id": 23,
-      "questionType": "recognition",
-      "question": "『普』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "普及する",
-      "choices": [
-        "普及する",
-        "牛乳にカルシウムが含まれている",
-        "込",
-        "税込み"
-      ],
-      "correctAnswer": 0,
-      "explanation": "普 → 普及する"
-    },
-    {
-      "id": 24,
-      "questionType": "kanji",
-      "question": "『ていせん』qaysi yozuvga mos?",
-      "word": "停戦",
-      "choices": [
-        "庭",
-        "停戦",
-        "お金を恵む",
-        "新聞配達"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ていせん → 停戦"
-    },
-    {
-      "id": 25,
       "questionType": "kanji",
       "question": "『ちがう』qaysi yozuvga mos?",
       "word": "違う",
       "choices": [
         "違う",
-        "純",
-        "著者",
-        "後戻り"
+        "勢",
+        "筋道を立てる",
+        "講堂"
       ],
       "correctAnswer": 0,
       "explanation": "ちがう → 違う"
     },
     {
-      "id": 26,
-      "questionType": "kanji",
-      "question": "『いほう』qaysi yozuvga mos?",
-      "word": "違法",
+      "id": 8,
+      "questionType": "word",
+      "question": "『kechikish』ning yaponcha ifodasi qaysi?",
+      "word": "遅刻",
       "choices": [
-        "越",
-        "停学",
-        "違法",
-        "定期券"
+        "香",
+        "論文の清書をする",
+        "遅刻",
+        "百貨店"
       ],
       "correctAnswer": 2,
-      "explanation": "いほう → 違法"
+      "explanation": "kechikish → 遅刻"
     },
     {
-      "id": 27,
-      "questionType": "kanji",
-      "question": "『ふきゅうする』qaysi yozuvga mos?",
-      "word": "普及する",
-      "choices": [
-        "道路を渡る",
-        "混",
-        "普及する",
-        "大盛り"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ふきゅうする → 普及する"
-    },
-    {
-      "id": 28,
-      "questionType": "kanji",
-      "question": "『ていがく』qaysi yozuvga mos?",
-      "word": "停学",
-      "choices": [
-        "停学",
-        "換気する",
-        "停電",
-        "港"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ていがく → 停学"
-    },
-    {
-      "id": 29,
-      "questionType": "kanji",
-      "question": "『どうろひょうしき』qaysi yozuvga mos?",
-      "word": "道路標識",
-      "choices": [
-        "道路標識",
-        "香辛料",
-        "舞",
-        "停車する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "どうろひょうしき → 道路標識"
-    },
-    {
-      "id": 30,
+      "id": 9,
       "questionType": "sentence",
-      "question": "『普及する』ning ma'nosi qaysi?",
-      "word": "普及する",
+      "question": "『心臓が停止する』ning ma'nosi qaysi?",
+      "word": "心臓が停止する",
       "choices": [
-        "holidan xabar olmoq",
-        "oylik chipta",
-        "tarqalmoq, mashhur bo'lmoq",
-        "to'ldirmoq, tiqmoq"
-      ],
-      "correctAnswer": 2,
-      "explanation": "普及する → tarqalmoq, mashhur bo'lmoq"
-    },
-    {
-      "id": 31,
-      "questionType": "kanji",
-      "question": "『ひょうじゅん』qaysi yozuvga mos?",
-      "word": "標準",
-      "choices": [
-        "貴重品を預かる",
-        "賃貸マンション",
-        "過去の栄光",
-        "標準"
+        "abnormal obhavo",
+        "yapon o'rigi",
+        "shikastlanish oqibati",
+        "yurakning to'xtashi"
       ],
       "correctAnswer": 3,
-      "explanation": "ひょうじゅん → 標準"
+      "explanation": "心臓が停止する → yurakning to'xtashi"
     },
     {
-      "id": 32,
-      "questionType": "reading",
-      "question": "『時刻』ning o'qilishi qaysi?",
-      "word": "時刻",
-      "choices": [
-        "じこく",
-        "びとけんこうをたもつ",
-        "もくひょうにとうたつする",
-        "ようとがひろい"
-      ],
-      "correctAnswer": 0,
-      "explanation": "時刻 → じこく"
-    },
-    {
-      "id": 33,
-      "questionType": "meaning",
-      "question": "『バスの停留所』ning ma'nosi qaysi?",
-      "word": "バスの停留所",
-      "choices": [
-        "din, mazhab",
-        "avtobus bekati",
-        "qarag'ay daraxti",
-        "foyda olish"
-      ],
-      "correctAnswer": 1,
-      "explanation": "バスの停留所 → avtobus bekati"
-    },
-    {
-      "id": 34,
+      "id": 10,
       "questionType": "sentence",
       "question": "『非難の標的となる』ning ma'nosi qaysi?",
       "word": "非難の標的となる",
       "choices": [
-        "baliqchilik biznesini boshlash",
-        "narsalarni tartibga keltirish, kerak bo'lmagan narsalarni tashlab yuborish",
-        "salobatli, viqorli",
+        "qalb tozalanmoq",
+        "shamolda raqsga tushmoq",
+        "oqqa ko'chirish",
         "tanqid nishoniga aylanish"
       ],
       "correctAnswer": 3,
       "explanation": "非難の標的となる → tanqid nishoniga aylanish"
     },
     {
-      "id": 35,
-      "questionType": "reading",
-      "question": "『標』ning o'qilishi qaysi?",
-      "word": "標",
+      "id": 11,
+      "questionType": "meaning",
+      "question": "『ねぎを刻む』ning ma'nosi qaysi?",
+      "word": "ねぎを刻む",
       "choices": [
-        "ちょしゃ",
-        "やわらかいごはん",
-        "もくせいのかぐ",
-        "ひょう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "標 → ひょう"
-    },
-    {
-      "id": 36,
-      "questionType": "recognition",
-      "question": "『刻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "遅刻",
-      "choices": [
-        "遅刻",
-        "招待する",
-        "家賃",
-        "振り込み"
+        "piyoz to'g'rash",
+        "hazm qildiruvchi dori",
+        "taklif qilmoq, chaqirmoq",
+        "baxtli oila qurish"
       ],
       "correctAnswer": 0,
-      "explanation": "刻 → 遅刻"
+      "explanation": "ねぎを刻む → piyoz to'g'rash"
     },
     {
-      "id": 37,
+      "id": 12,
       "questionType": "recognition",
-      "question": "『停』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "停車する",
+      "question": "『普』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "普及する",
       "choices": [
-        "お香を焚く",
-        "国際情勢",
-        "前払い",
-        "停車する"
+        "普及する",
+        "証明する",
+        "並べる",
+        "宗派"
       ],
-      "correctAnswer": 3,
-      "explanation": "停 → 停車する"
+      "correctAnswer": 0,
+      "explanation": "普 → 普及する"
     },
     {
-      "id": 38,
-      "questionType": "sentence",
-      "question": "『道路標識』ning ma'nosi qaysi?",
-      "word": "道路標識",
-      "choices": [
-        "bo'yinbog' (hayvon uchun)",
-        "yo'l belgisi",
-        "gavda turishi, holati",
-        "iflos, kir"
-      ],
-      "correctAnswer": 1,
-      "explanation": "道路標識 → yo'l belgisi"
-    },
-    {
-      "id": 39,
+      "id": 13,
       "questionType": "kanji",
-      "question": "『こうつういはん』qaysi yozuvga mos?",
-      "word": "交通違反",
+      "question": "『じこく』qaysi yozuvga mos?",
+      "word": "時刻",
       "choices": [
-        "米の中に麦が混じっている",
-        "円をドルに替える",
-        "名札をつける",
-        "交通違反"
-      ],
-      "correctAnswer": 3,
-      "explanation": "こうつういはん → 交通違反"
-    },
-    {
-      "id": 40,
-      "questionType": "reading",
-      "question": "『普』ning o'qilishi qaysi?",
-      "word": "普",
-      "choices": [
-        "こうたいする",
-        "ふ",
-        "とける",
-        "たちいりきんしくいき"
-      ],
-      "correctAnswer": 1,
-      "explanation": "普 → ふ"
-    },
-    {
-      "id": 41,
-      "questionType": "meaning",
-      "question": "『遅刻』ning ma'nosi qaysi?",
-      "word": "遅刻",
-      "choices": [
-        "taklif qilmoq, chaqirmoq",
-        "yoritmoq",
-        "kechikish",
-        "tayyorgarlik pishmoq (tayyor bo'lmoq)"
+        "診療時間",
+        "バラの香り",
+        "時刻",
+        "絵の具を溶く"
       ],
       "correctAnswer": 2,
-      "explanation": "遅刻 → kechikish"
+      "explanation": "じこく → 時刻"
     },
     {
-      "id": 42,
+      "id": 14,
+      "questionType": "meaning",
+      "question": "『普段着』ning ma'nosi qaysi?",
+      "word": "普段着",
+      "choices": [
+        "foyda olish",
+        "qo'l soat",
+        "kunlik kiyim",
+        "faraz qilmoq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "普段着 → kunlik kiyim"
+    },
+    {
+      "id": 15,
+      "questionType": "meaning",
+      "question": "『バスの停留所』ning ma'nosi qaysi?",
+      "word": "バスの停留所",
+      "choices": [
+        "avtobus bekati",
+        "fasl",
+        "oshqozon tahlili",
+        "niyat bildirish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "バスの停留所 → avtobus bekati"
+    },
+    {
+      "id": 16,
       "questionType": "reading",
       "question": "『普段着』ning o'qilishi qaysi?",
       "word": "普段着",
       "choices": [
-        "せんえんさつ",
-        "ざつ",
-        "じゅうどう",
+        "えきのかいさつぐち",
+        "あたらしいクラスにとけこむ",
+        "きおくがうすれる",
         "ふだんぎ"
       ],
       "correctAnswer": 3,
       "explanation": "普段着 → ふだんぎ"
     },
     {
-      "id": 43,
-      "questionType": "reading",
-      "question": "『停』ning o'qilishi qaysi?",
-      "word": "停",
-      "choices": [
-        "てい",
-        "こむぎことたまごをまぜる",
-        "てる",
-        "じゅうなん"
-      ],
-      "correctAnswer": 0,
-      "explanation": "停 → てい"
-    },
-    {
-      "id": 44,
-      "questionType": "reading",
-      "question": "『停電』ning o'qilishi qaysi?",
-      "word": "停電",
-      "choices": [
-        "まんかい",
-        "ていでん",
-        "いま",
-        "こ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "停電 → ていでん"
-    },
-    {
-      "id": 45,
-      "questionType": "kanji",
-      "question": "『ていしゃする』qaysi yozuvga mos?",
-      "word": "停車する",
-      "choices": [
-        "味が薄まる",
-        "快く引き受ける",
-        "論文の清書をする",
-        "停車する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "ていしゃする → 停車する"
-    },
-    {
-      "id": 46,
-      "questionType": "sentence",
-      "question": "『普通高校』ning ma'nosi qaysi?",
-      "word": "普通高校",
-      "choices": [
-        "oddiy maktab",
-        "katta portsiya ovqat",
-        "sevgan inson tomonidan tashlab ketilish",
-        "hayot oson emas"
-      ],
-      "correctAnswer": 0,
-      "explanation": "普通高校 → oddiy maktab"
-    },
-    {
-      "id": 47,
-      "questionType": "kanji",
-      "question": "『まちがえる』qaysi yozuvga mos?",
-      "word": "間違える",
-      "choices": [
-        "間違える",
-        "円をドルに替える",
-        "劇",
-        "美と健康を保つ"
-      ],
-      "correctAnswer": 0,
-      "explanation": "まちがえる → 間違える"
-    },
-    {
-      "id": 48,
-      "questionType": "sentence",
-      "question": "『交通違反』ning ma'nosi qaysi?",
-      "word": "交通違反",
-      "choices": [
-        "to'xtamoq",
-        "yo'l qoidasini buzish",
-        "sovg'a jo'natmoq",
-        "milliy boylik"
-      ],
-      "correctAnswer": 1,
-      "explanation": "交通違反 → yo'l qoidasini buzish"
-    },
-    {
-      "id": 49,
-      "questionType": "word",
-      "question": "『qalbga joylab olish, bir narsani unutmaslik』ning yaponcha ifodasi qaysi?",
-      "word": "心に刻む",
-      "choices": [
-        "心に刻む",
-        "展開",
-        "掃除する",
-        "身分証明書"
-      ],
-      "correctAnswer": 0,
-      "explanation": "qalbga joylab olish, bir narsani unutmaslik → 心に刻む"
-    },
-    {
-      "id": 50,
-      "questionType": "word",
-      "question": "『elektr ta'minotidan uzilish』ning yaponcha ifodasi qaysi?",
-      "word": "停電",
-      "choices": [
-        "針が振れる",
-        "勢いよく",
-        "停電",
-        "運賃"
-      ],
-      "correctAnswer": 2,
-      "explanation": "elektr ta'minotidan uzilish → 停電"
-    },
-    {
-      "id": 51,
-      "questionType": "recognition",
-      "question": "『普』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "普通高校",
-      "choices": [
-        "換える",
-        "バター溶かす",
-        "普通高校",
-        "立ち入り禁止区域"
-      ],
-      "correctAnswer": 2,
-      "explanation": "普 → 普通高校"
-    },
-    {
-      "id": 52,
-      "questionType": "word",
-      "question": "『oddiy, keng tarqalgan』ning yaponcha ifodasi qaysi?",
-      "word": "普",
-      "choices": [
-        "普",
-        "前の車を追い越す",
-        "自国領域",
-        "通貨"
-      ],
-      "correctAnswer": 0,
-      "explanation": "oddiy, keng tarqalgan → 普"
-    },
-    {
-      "id": 53,
-      "questionType": "kanji",
-      "question": "『おんぷ』qaysi yozuvga mos?",
-      "word": "音符",
-      "choices": [
-        "音符",
-        "汚水",
-        "脱退",
-        "堂々"
-      ],
-      "correctAnswer": 0,
-      "explanation": "おんぷ → 音符"
-    },
-    {
-      "id": 54,
-      "questionType": "kanji",
-      "question": "『ちこく』qaysi yozuvga mos?",
-      "word": "遅刻",
-      "choices": [
-        "含",
-        "遅刻",
-        "映画を製作する",
-        "日誌をつける"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ちこく → 遅刻"
-    },
-    {
-      "id": 55,
+      "id": 17,
       "questionType": "meaning",
-      "question": "『交通違反』ning ma'nosi qaysi?",
-      "word": "交通違反",
+      "question": "『普及する』ning ma'nosi qaysi?",
+      "word": "普及する",
       "choices": [
-        "osilib turmoq",
-        "yo'l qoidasini buzish",
-        "sinf xonasini tozalash",
-        "kitob yozmoq, nashr etmoq"
+        "qimmatbaho tosh",
+        "tarqalmoq, mashhur bo'lmoq",
+        "bankka pul qo'yish",
+        "o'tib ketish (to'xtamasdan)"
       ],
       "correctAnswer": 1,
-      "explanation": "交通違反 → yo'l qoidasini buzish"
+      "explanation": "普及する → tarqalmoq, mashhur bo'lmoq"
     },
     {
-      "id": 56,
-      "questionType": "kanji",
-      "question": "『ていでん』qaysi yozuvga mos?",
-      "word": "停電",
-      "choices": [
-        "勢いよく",
-        "停電",
-        "宗派",
-        "並べる"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ていでん → 停電"
-    },
-    {
-      "id": 57,
-      "questionType": "reading",
-      "question": "『標準』ning o'qilishi qaysi?",
-      "word": "標準",
-      "choices": [
-        "ひょうじゅん",
-        "あかるいかていをきずく",
-        "いろがうすい",
-        "ひげき"
-      ],
-      "correctAnswer": 0,
-      "explanation": "標準 → ひょうじゅん"
-    },
-    {
-      "id": 58,
-      "questionType": "meaning",
-      "question": "『ねぎを刻む』ning ma'nosi qaysi?",
-      "word": "ねぎを刻む",
-      "choices": [
-        "yetib kelmoq",
-        "ijaraga olingan ko'p qavatli uy",
-        "piyoz to'g'rash",
-        "yo'l, davom"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ねぎを刻む → piyoz to'g'rash"
-    },
-    {
-      "id": 59,
-      "questionType": "reading",
-      "question": "『符』ning o'qilishi qaysi?",
-      "word": "符",
-      "choices": [
-        "ぜんりんとこうりん",
-        "ふ",
-        "ほうせき",
-        "すがた"
-      ],
-      "correctAnswer": 1,
-      "explanation": "符 → ふ"
-    },
-    {
-      "id": 60,
-      "questionType": "word",
-      "question": "『yurakning to'xtashi』ning yaponcha ifodasi qaysi?",
-      "word": "心臓が停止する",
-      "choices": [
-        "輸送する",
-        "固定する",
-        "川の流域",
-        "心臓が停止する"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yurakning to'xtashi → 心臓が停止する"
-    },
-    {
-      "id": 61,
-      "questionType": "meaning",
-      "question": "『符』ning ma'nosi qaysi?",
-      "word": "符",
-      "choices": [
-        "belgi, chipta",
-        "tashish, jo'natish",
-        "har bir bekatda to'xtaydigan poyezd",
-        "solmoq, gullamoq"
-      ],
-      "correctAnswer": 0,
-      "explanation": "符 → belgi, chipta"
-    },
-    {
-      "id": 62,
-      "questionType": "reading",
-      "question": "『停戦』ning o'qilishi qaysi?",
-      "word": "停戦",
-      "choices": [
-        "たのしいときをすごす",
-        "ていせん",
-        "よざくら",
-        "けん"
-      ],
-      "correctAnswer": 1,
-      "explanation": "停戦 → ていせん"
-    },
-    {
-      "id": 63,
-      "questionType": "sentence",
-      "question": "『バスの停留所』ning ma'nosi qaysi?",
-      "word": "バスの停留所",
-      "choices": [
-        "yuklarni zichlab tiqmoq",
-        "avtobus bekati",
-        "yakunlanmagan",
-        "ertalabki gazeta"
-      ],
-      "correctAnswer": 1,
-      "explanation": "バスの停留所 → avtobus bekati"
-    },
-    {
-      "id": 64,
-      "questionType": "recognition",
-      "question": "『標』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "標準",
-      "choices": [
-        "家賃",
-        "漁港",
-        "標準",
-        "見舞う"
-      ],
-      "correctAnswer": 2,
-      "explanation": "標 → 標準"
-    },
-    {
-      "id": 65,
-      "questionType": "word",
-      "question": "『sulh, o't ochishni to'xtatish』ning yaponcha ifodasi qaysi?",
-      "word": "停戦",
-      "choices": [
-        "住居",
-        "停戦",
-        "柔軟",
-        "預"
-      ],
-      "correctAnswer": 1,
-      "explanation": "sulh, o't ochishni to'xtatish → 停戦"
-    },
-    {
-      "id": 66,
-      "questionType": "sentence",
-      "question": "『目標を定める』ning ma'nosi qaysi?",
-      "word": "目標を定める",
-      "choices": [
-        "murakkab hisob-kitob",
-        "xato qilish",
-        "kedr daraxti",
-        "maqsadni aniq qilib olish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "目標を定める → maqsadni aniq qilib olish"
-    },
-    {
-      "id": 67,
-      "questionType": "word",
-      "question": "『musiqiy nota』ning yaponcha ifodasi qaysi?",
-      "word": "音符",
-      "choices": [
-        "本を著す",
-        "宝石",
-        "美容室",
-        "音符"
-      ],
-      "correctAnswer": 3,
-      "explanation": "musiqiy nota → 音符"
-    },
-    {
-      "id": 68,
-      "questionType": "meaning",
-      "question": "『違』ning ma'nosi qaysi?",
-      "word": "違",
-      "choices": [
-        "maqsadga erishmoq",
-        "go'zal, chiroyli",
-        "farq qilmoq, noto'g'ri",
-        "o'z davlati hududi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "違 → farq qilmoq, noto'g'ri"
-    },
-    {
-      "id": 69,
-      "questionType": "reading",
-      "question": "『刻』ning o'qilishi qaysi?",
-      "word": "刻",
-      "choices": [
-        "きざむ",
-        "ファッションし",
-        "せきにもどる",
-        "えい"
-      ],
-      "correctAnswer": 0,
-      "explanation": "刻 → きざむ"
-    },
-    {
-      "id": 70,
-      "questionType": "reading",
-      "question": "『違法』ning o'qilishi qaysi?",
-      "word": "違法",
-      "choices": [
-        "ふくざつなけいさん",
-        "しょうたいする",
-        "しゃりょう",
-        "いほう"
-      ],
-      "correctAnswer": 3,
-      "explanation": "違法 → いほう"
-    },
-    {
-      "id": 71,
-      "questionType": "word",
-      "question": "『vaqt, lahza』ning yaponcha ifodasi qaysi?",
-      "word": "時刻",
-      "choices": [
-        "道路を渡る",
-        "時刻",
-        "冷蔵庫",
-        "議会を招集する"
-      ],
-      "correctAnswer": 1,
-      "explanation": "vaqt, lahza → 時刻"
-    },
-    {
-      "id": 72,
-      "questionType": "sentence",
-      "question": "『深刻な問題』ning ma'nosi qaysi?",
-      "word": "深刻な問題",
-      "choices": [
-        "jiddiy muammo",
-        "yengiltak, mulohazasiz odam",
-        "sho'rva, suyuqlik",
-        "xat yetib kelishi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "深刻な問題 → jiddiy muammo"
-    },
-    {
-      "id": 73,
-      "questionType": "sentence",
-      "question": "『心に刻む』ning ma'nosi qaysi?",
-      "word": "心に刻む",
-      "choices": [
-        "elektr ta'minotidan uzilish",
-        "sovg'ani eltib berish",
-        "kuch, vaziyat",
-        "qalbga joylab olish, bir narsani unutmaslik"
-      ],
-      "correctAnswer": 3,
-      "explanation": "心に刻む → qalbga joylab olish, bir narsani unutmaslik"
-    },
-    {
-      "id": 74,
-      "questionType": "word",
-      "question": "『to'xtamoq』ning yaponcha ifodasi qaysi?",
-      "word": "停",
-      "choices": [
-        "普通預金",
-        "着物姿",
-        "停",
-        "劇"
-      ],
-      "correctAnswer": 2,
-      "explanation": "to'xtamoq → 停"
-    },
-    {
-      "id": 75,
-      "questionType": "recognition",
-      "question": "『違』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "違法",
-      "choices": [
-        "態度が軟化する",
-        "パーティーに招く",
-        "融通がきかない人",
-        "違法"
-      ],
-      "correctAnswer": 3,
-      "explanation": "違 → 違法"
-    },
-    {
-      "id": 76,
-      "questionType": "sentence",
-      "question": "『停車する』ning ma'nosi qaysi?",
-      "word": "停車する",
-      "choices": [
-        "poyezdni to'xtashi",
-        "daftarga yozib qo'yish",
-        "oddiy maktab",
-        "ertalabki gazeta"
-      ],
-      "correctAnswer": 0,
-      "explanation": "停車する → poyezdni to'xtashi"
-    },
-    {
-      "id": 77,
-      "questionType": "word",
-      "question": "『yo'l belgisi』ning yaponcha ifodasi qaysi?",
-      "word": "道路標識",
-      "choices": [
-        "両方",
-        "暴力団を一掃する",
-        "庭",
-        "道路標識"
-      ],
-      "correctAnswer": 3,
-      "explanation": "yo'l belgisi → 道路標識"
-    },
-    {
-      "id": 78,
-      "questionType": "kanji",
-      "question": "『ふつうこうこう』qaysi yozuvga mos?",
-      "word": "普通高校",
-      "choices": [
-        "普通高校",
-        "混乱",
-        "円をドルに替える",
-        "両手"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ふつうこうこう → 普通高校"
-    },
-    {
-      "id": 79,
-      "questionType": "meaning",
-      "question": "『普通の家庭』ning ma'nosi qaysi?",
-      "word": "普通の家庭",
-      "choices": [
-        "maqsadni aniq qilib olish",
-        "kitob yozmoq, nashr etmoq",
-        "oddiy xonadon",
-        "kirish mumkin bo'lmagan hudud"
-      ],
-      "correctAnswer": 2,
-      "explanation": "普通の家庭 → oddiy xonadon"
-    },
-    {
-      "id": 80,
-      "questionType": "recognition",
-      "question": "『普』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "普通の家庭",
-      "choices": [
-        "汚",
-        "証明する",
-        "着物姿",
-        "普通の家庭"
-      ],
-      "correctAnswer": 3,
-      "explanation": "普 → 普通の家庭"
-    },
-    {
-      "id": 81,
-      "questionType": "kanji",
-      "question": "『ふ』qaysi yozuvga mos?",
-      "word": "符",
-      "choices": [
-        "間違える",
-        "著名人",
-        "符",
-        "心臓が停止する"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ふ → 符"
-    },
-    {
-      "id": 82,
-      "questionType": "kanji",
-      "question": "『ふ』qaysi yozuvga mos?",
-      "word": "普",
-      "choices": [
-        "貴重品を預かる",
-        "普",
-        "航空便",
-        "両"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ふ → 普"
-    },
-    {
-      "id": 83,
-      "questionType": "meaning",
-      "question": "『停学』ning ma'nosi qaysi?",
-      "word": "停学",
-      "choices": [
-        "o'tib ketish (to'xtamasdan)",
-        "samolyot",
-        "murakkab hisob-kitob",
-        "o'qishdan vaqtincha chetlatish"
-      ],
-      "correctAnswer": 3,
-      "explanation": "停学 → o'qishdan vaqtincha chetlatish"
-    },
-    {
-      "id": 84,
+      "id": 18,
       "questionType": "sentence",
       "question": "『間違える』ning ma'nosi qaysi?",
       "word": "間違える",
       "choices": [
-        "atirgul hidi",
-        "kafil",
-        "oshxona (umumiy)",
+        "kitob nashr etilishi, bosib chiqarilishi",
+        "izakaya (yapon mayxonasi)",
+        "tiqilinch, gavjumlik",
         "adashmoq"
       ],
       "correctAnswer": 3,
       "explanation": "間違える → adashmoq"
     },
     {
-      "id": 85,
+      "id": 19,
       "questionType": "word",
-      "question": "『standart, norma』ning yaponcha ifodasi qaysi?",
-      "word": "標準",
+      "question": "『oddiy, keng tarqalgan』ning yaponcha ifodasi qaysi?",
+      "word": "普",
       "choices": [
-        "溶岩",
-        "宗教を信仰する",
-        "住居",
-        "標準"
+        "血筋",
+        "普",
+        "堂々",
+        "胃袋"
       ],
-      "correctAnswer": 3,
-      "explanation": "standart, norma → 標準"
+      "correctAnswer": 1,
+      "explanation": "oddiy, keng tarqalgan → 普"
     },
     {
-      "id": 86,
-      "questionType": "word",
-      "question": "『maqsadni aniq qilib olish』ning yaponcha ifodasi qaysi?",
+      "id": 20,
+      "questionType": "sentence",
+      "question": "『停車する』ning ma'nosi qaysi?",
+      "word": "停車する",
+      "choices": [
+        "javon ichini tartibga keltirish",
+        "muntazam tekshiruv",
+        "xavotir, ko'ngil g'ashligi",
+        "poyezdni to'xtashi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "停車する → poyezdni to'xtashi"
+    },
+    {
+      "id": 21,
+      "questionType": "kanji",
+      "question": "『ふ』qaysi yozuvga mos?",
+      "word": "普",
+      "choices": [
+        "普",
+        "漁港",
+        "軟",
+        "郵便局"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ふ → 普"
+    },
+    {
+      "id": 22,
+      "questionType": "kanji",
+      "question": "『こころにきざむ』qaysi yozuvga mos?",
+      "word": "心に刻む",
+      "choices": [
+        "心に刻む",
+        "夜桜",
+        "郵便が届く",
+        "腕時計"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こころにきざむ → 心に刻む"
+    },
+    {
+      "id": 23,
+      "questionType": "recognition",
+      "question": "『普』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "普通高校",
+      "choices": [
+        "前払い",
+        "日本の姿",
+        "普通高校",
+        "後戻り"
+      ],
+      "correctAnswer": 2,
+      "explanation": "普 → 普通高校"
+    },
+    {
+      "id": 24,
+      "questionType": "sentence",
+      "question": "『目標を定める』ning ma'nosi qaysi?",
       "word": "目標を定める",
       "choices": [
-        "払",
-        "甘",
-        "過去の栄光",
-        "目標を定める"
+        "ismi yozilgan beyjik tayyorlash",
+        "maqsadni aniq qilib olish",
+        "aralashmoq",
+        "yumshoq, muloyim xarakter"
       ],
-      "correctAnswer": 3,
-      "explanation": "maqsadni aniq qilib olish → 目標を定める"
+      "correctAnswer": 1,
+      "explanation": "目標を定める → maqsadni aniq qilib olish"
     },
     {
-      "id": 87,
+      "id": 25,
+      "questionType": "reading",
+      "question": "『遅刻』ning o'qilishi qaysi?",
+      "word": "遅刻",
+      "choices": [
+        "かぶけん",
+        "さんぷく",
+        "ひなんのひょうてきとなる",
+        "ちこく"
+      ],
+      "correctAnswer": 3,
+      "explanation": "遅刻 → ちこく"
+    },
+    {
+      "id": 26,
       "questionType": "sentence",
+      "question": "『普通高校』ning ma'nosi qaysi?",
+      "word": "普通高校",
+      "choices": [
+        "oddiy maktab",
+        "nishonga urush",
+        "umurtqa suyagi",
+        "yo'nalish, siyosat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "普通高校 → oddiy maktab"
+    },
+    {
+      "id": 27,
+      "questionType": "reading",
+      "question": "『停電』ning o'qilishi qaysi?",
+      "word": "停電",
+      "choices": [
+        "じょうきょうがいっぺんする",
+        "ていでん",
+        "えいよう",
+        "むねがどきどきする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "停電 → ていでん"
+    },
+    {
+      "id": 28,
+      "questionType": "sentence",
+      "question": "『バスの停留所』ning ma'nosi qaysi?",
+      "word": "バスの停留所",
+      "choices": [
+        "birinchi tibbiy tekshiruv",
+        "yapon usulidagi bog'",
+        "mustahkamlash",
+        "avtobus bekati"
+      ],
+      "correctAnswer": 3,
+      "explanation": "バスの停留所 → avtobus bekati"
+    },
+    {
+      "id": 29,
+      "questionType": "recognition",
+      "question": "『違』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "間違える",
+      "choices": [
+        "健康的な生活",
+        "間違える",
+        "展示する",
+        "金融機関"
+      ],
+      "correctAnswer": 1,
+      "explanation": "違 → 間違える"
+    },
+    {
+      "id": 30,
+      "questionType": "recognition",
+      "question": "『標』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "目標を定める",
+      "choices": [
+        "変換",
+        "目標を定める",
+        "桜前線",
+        "両替"
+      ],
+      "correctAnswer": 1,
+      "explanation": "標 → 目標を定める"
+    },
+    {
+      "id": 31,
+      "questionType": "kanji",
+      "question": "『ふだんぎ』qaysi yozuvga mos?",
+      "word": "普段着",
+      "choices": [
+        "文明が栄える",
+        "緊急事態",
+        "普段着",
+        "振動"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ふだんぎ → 普段着"
+    },
+    {
+      "id": 32,
+      "questionType": "kanji",
+      "question": "『ふ』qaysi yozuvga mos?",
+      "word": "符",
+      "choices": [
+        "振動",
+        "肩入れする",
+        "符",
+        "届"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ふ → 符"
+    },
+    {
+      "id": 33,
+      "questionType": "sentence",
+      "question": "『電車の切符』ning ma'nosi qaysi?",
+      "word": "電車の切符",
+      "choices": [
+        "orqaga qaytish",
+        "poyezd chiptasi",
+        "maqsadga erishmoq",
+        "bolaning jismoniy rivojlanish davri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "電車の切符 → poyezd chiptasi"
+    },
+    {
+      "id": 34,
+      "questionType": "kanji",
+      "question": "『ひょうじゅん』qaysi yozuvga mos?",
+      "word": "標準",
+      "choices": [
+        "標準",
+        "筋道を立てる",
+        "荷物を預ける",
+        "日本の姿"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ひょうじゅん → 標準"
+    },
+    {
+      "id": 35,
+      "questionType": "recognition",
+      "question": "『違』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "違法",
+      "choices": [
+        "難航する",
+        "美と健康を保つ",
+        "通貨",
+        "違法"
+      ],
+      "correctAnswer": 3,
+      "explanation": "違 → 違法"
+    },
+    {
+      "id": 36,
+      "questionType": "kanji",
+      "question": "『ていがく』qaysi yozuvga mos?",
+      "word": "停学",
+      "choices": [
+        "旅券",
+        "議会を招集する",
+        "停学",
+        "届"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ていがく → 停学"
+    },
+    {
+      "id": 37,
+      "questionType": "kanji",
+      "question": "『ていしゃする』qaysi yozuvga mos?",
+      "word": "停車する",
+      "choices": [
+        "停車する",
+        "度胸がある",
+        "腹を決める",
+        "冷蔵庫"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ていしゃする → 停車する"
+    },
+    {
+      "id": 38,
+      "questionType": "kanji",
+      "question": "『ふつうこうこう』qaysi yozuvga mos?",
+      "word": "普通高校",
+      "choices": [
+        "胃",
+        "普通高校",
+        "死因",
+        "胃痛がひどい"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ふつうこうこう → 普通高校"
+    },
+    {
+      "id": 39,
+      "questionType": "kanji",
+      "question": "『きざむ』qaysi yozuvga mos?",
+      "word": "刻",
+      "choices": [
+        "刻",
+        "千円札",
+        "手を振る",
+        "峠を越す"
+      ],
+      "correctAnswer": 0,
+      "explanation": "きざむ → 刻"
+    },
+    {
+      "id": 40,
+      "questionType": "word",
+      "question": "『yo'l belgisi』ning yaponcha ifodasi qaysi?",
+      "word": "道路標識",
+      "choices": [
+        "雑談",
+        "道路標識",
+        "異",
+        "胸"
+      ],
+      "correctAnswer": 1,
+      "explanation": "yo'l belgisi → 道路標識"
+    },
+    {
+      "id": 41,
+      "questionType": "reading",
+      "question": "『刻』ning o'qilishi qaysi?",
+      "word": "刻",
+      "choices": [
+        "りょうようちゅう",
+        "ぞうきいしょく",
+        "きざむ",
+        "きよい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "刻 → きざむ"
+    },
+    {
+      "id": 42,
+      "questionType": "reading",
+      "question": "『違う』ning o'qilishi qaysi?",
+      "word": "違う",
+      "choices": [
+        "あたまがかたい",
+        "ていでん",
+        "ちがう",
+        "わたる"
+      ],
+      "correctAnswer": 2,
+      "explanation": "違う → ちがう"
+    },
+    {
+      "id": 43,
+      "questionType": "meaning",
+      "question": "『停』ning ma'nosi qaysi?",
+      "word": "停",
+      "choices": [
+        "to'xtamoq",
+        "oddiy, keng tarqalgan",
+        "yashash xonasi (zal)",
+        "yelka, kurak"
+      ],
+      "correctAnswer": 0,
+      "explanation": "停 → to'xtamoq"
+    },
+    {
+      "id": 44,
+      "questionType": "sentence",
+      "question": "『深刻な問題』ning ma'nosi qaysi?",
+      "word": "深刻な問題",
+      "choices": [
+        "jiddiy muammo",
+        "aeroport",
+        "hazm qildiruvchi dori",
+        "o'tib ketish (to'xtamasdan)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "深刻な問題 → jiddiy muammo"
+    },
+    {
+      "id": 45,
+      "questionType": "kanji",
+      "question": "『ひょう』qaysi yozuvga mos?",
+      "word": "標",
+      "choices": [
+        "巻",
+        "標",
+        "物を渡す",
+        "駐"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ひょう → 標"
+    },
+    {
+      "id": 46,
+      "questionType": "reading",
+      "question": "『標準』ning o'qilishi qaysi?",
+      "word": "標準",
+      "choices": [
+        "かていする",
+        "たからもの",
+        "どうどう",
+        "ひょうじゅん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "標準 → ひょうじゅん"
+    },
+    {
+      "id": 47,
+      "questionType": "kanji",
+      "question": "『いほう』qaysi yozuvga mos?",
+      "word": "違法",
+      "choices": [
+        "肩がこる",
+        "違法",
+        "振",
+        "胃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "いほう → 違法"
+    },
+    {
+      "id": 48,
+      "questionType": "sentence",
+      "question": "『道路標識』ning ma'nosi qaysi?",
+      "word": "道路標識",
+      "choices": [
+        "yo'l belgisi",
+        "solmoq, gullamoq",
+        "savollar varag'ini tarqatish",
+        "qon rishtasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "道路標識 → yo'l belgisi"
+    },
+    {
+      "id": 49,
+      "questionType": "sentence",
+      "question": "『交通違反』ning ma'nosi qaysi?",
+      "word": "交通違反",
+      "choices": [
+        "yo'l qoidasini buzish",
+        "yengiltak, mulohazasiz odam",
+        "yo'l, davom",
+        "mahalliy aholi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "交通違反 → yo'l qoidasini buzish"
+    },
+    {
+      "id": 50,
+      "questionType": "reading",
+      "question": "『停』ning o'qilishi qaysi?",
+      "word": "停",
+      "choices": [
+        "ちりょう",
+        "じこく",
+        "ひなんのひょうてきとなる",
+        "てい"
+      ],
+      "correctAnswer": 3,
+      "explanation": "停 → てい"
+    },
+    {
+      "id": 51,
+      "questionType": "kanji",
+      "question": "『ふきゅうする』qaysi yozuvga mos?",
+      "word": "普及する",
+      "choices": [
+        "普及する",
+        "符",
+        "裁判所で証言する",
+        "掛"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ふきゅうする → 普及する"
+    },
+    {
+      "id": 52,
+      "questionType": "kanji",
+      "question": "『こうつういはん』qaysi yozuvga mos?",
+      "word": "交通違反",
+      "choices": [
+        "交通違反",
+        "色が薄い",
+        "宝",
+        "梅"
+      ],
+      "correctAnswer": 0,
+      "explanation": "こうつういはん → 交通違反"
+    },
+    {
+      "id": 53,
+      "questionType": "word",
+      "question": "『farq qilmoq』ning yaponcha ifodasi qaysi?",
+      "word": "違う",
+      "choices": [
+        "戻",
+        "違う",
+        "実況中継",
+        "業務が停滞する"
+      ],
+      "correctAnswer": 1,
+      "explanation": "farq qilmoq → 違う"
+    },
+    {
+      "id": 54,
+      "questionType": "recognition",
+      "question": "『違』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "違う",
+      "choices": [
+        "違う",
+        "近況",
+        "駐在する",
+        "異変"
+      ],
+      "correctAnswer": 0,
+      "explanation": "違 → 違う"
+    },
+    {
+      "id": 55,
+      "questionType": "word",
+      "question": "『sulh, o't ochishni to'xtatish』ning yaponcha ifodasi qaysi?",
+      "word": "停戦",
+      "choices": [
+        "停戦",
+        "柔道",
+        "度胸がある",
+        "健闘をたたえる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sulh, o't ochishni to'xtatish → 停戦"
+    },
+    {
+      "id": 56,
+      "questionType": "kanji",
+      "question": "『ちこく』qaysi yozuvga mos?",
+      "word": "遅刻",
+      "choices": [
+        "漁港",
+        "仮説を立てる",
+        "遅刻",
+        "定期券"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ちこく → 遅刻"
+    },
+    {
+      "id": 57,
+      "questionType": "meaning",
       "question": "『業務が停滞する』ning ma'nosi qaysi?",
       "word": "業務が停滞する",
       "choices": [
-        "rivojlanayotgan davlatlar",
-        "farzand bilan siylanmoq",
+        "umurtqa suyagi",
+        "pochta",
         "ish turg'unlashishi, sekinlashishi",
-        "qiyin kechmoq (ish, muzokara)"
+        "o'tib ketish (to'xtamasdan)"
       ],
       "correctAnswer": 2,
       "explanation": "業務が停滞する → ish turg'unlashishi, sekinlashishi"
     },
     {
-      "id": 88,
-      "questionType": "sentence",
-      "question": "『普通の家庭』ning ma'nosi qaysi?",
-      "word": "普通の家庭",
+      "id": 58,
+      "questionType": "word",
+      "question": "『o'qishdan vaqtincha chetlatish』ning yaponcha ifodasi qaysi?",
+      "word": "停学",
       "choices": [
-        "yashash xonasi (zal)",
-        "qasr",
-        "gavda turishi, holati",
-        "oddiy xonadon"
+        "賃金",
+        "停学",
+        "筋肉を鍛える",
+        "保健室"
       ],
-      "correctAnswer": 3,
-      "explanation": "普通の家庭 → oddiy xonadon"
+      "correctAnswer": 1,
+      "explanation": "o'qishdan vaqtincha chetlatish → 停学"
     },
     {
-      "id": 89,
+      "id": 59,
+      "questionType": "kanji",
+      "question": "『ていでん』qaysi yozuvga mos?",
+      "word": "停電",
+      "choices": [
+        "欠席届",
+        "洗脳",
+        "症",
+        "停電"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ていでん → 停電"
+    },
+    {
+      "id": 60,
       "questionType": "reading",
-      "question": "『遅刻』ning o'qilishi qaysi?",
-      "word": "遅刻",
+      "question": "『停学』ning o'qilishi qaysi?",
+      "word": "停学",
       "choices": [
-        "こうつういはん",
-        "ちんたいマンション",
-        "ちこく",
-        "ばい・うめ"
-      ],
-      "correctAnswer": 2,
-      "explanation": "遅刻 → ちこく"
-    },
-    {
-      "id": 90,
-      "questionType": "word",
-      "question": "『adashmoq』ning yaponcha ifodasi qaysi?",
-      "word": "間違える",
-      "choices": [
-        "時刻",
-        "招",
-        "間違える",
-        "契約をする"
-      ],
-      "correctAnswer": 2,
-      "explanation": "adashmoq → 間違える"
-    },
-    {
-      "id": 91,
-      "questionType": "meaning",
-      "question": "『普及する』ning ma'nosi qaysi?",
-      "word": "普及する",
-      "choices": [
-        "baxtli oila qurish",
-        "parlament yig'ilishini chaqirmoq",
-        "tarqalmoq, mashhur bo'lmoq",
-        "egiluvchan, moslashuvchan"
-      ],
-      "correctAnswer": 2,
-      "explanation": "普及する → tarqalmoq, mashhur bo'lmoq"
-    },
-    {
-      "id": 92,
-      "questionType": "recognition",
-      "question": "『停』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
-      "word": "停戦",
-      "choices": [
-        "預金する",
-        "戻",
-        "停戦",
-        "清"
-      ],
-      "correctAnswer": 2,
-      "explanation": "停 → 停戦"
-    },
-    {
-      "id": 93,
-      "questionType": "kanji",
-      "question": "『じこく』qaysi yozuvga mos?",
-      "word": "時刻",
-      "choices": [
-        "時刻",
-        "電車が込む",
-        "見舞う",
-        "宝物"
-      ],
-      "correctAnswer": 0,
-      "explanation": "じこく → 時刻"
-    },
-    {
-      "id": 94,
-      "questionType": "word",
-      "question": "『poyezdni to'xtashi』ning yaponcha ifodasi qaysi?",
-      "word": "停車する",
-      "choices": [
-        "停車する",
-        "溶",
-        "日誌をつける",
-        "意見を交換する"
-      ],
-      "correctAnswer": 0,
-      "explanation": "poyezdni to'xtashi → 停車する"
-    },
-    {
-      "id": 95,
-      "questionType": "word",
-      "question": "『jiddiy muammo』ning yaponcha ifodasi qaysi?",
-      "word": "深刻な問題",
-      "choices": [
-        "薄",
-        "絵の具を溶く",
-        "汚染された川",
-        "深刻な問題"
+        "せなか",
+        "けがのこういしょう",
+        "しる",
+        "ていがく"
       ],
       "correctAnswer": 3,
-      "explanation": "jiddiy muammo → 深刻な問題"
+      "explanation": "停学 → ていがく"
     },
     {
-      "id": 96,
-      "questionType": "meaning",
-      "question": "『違う』ning ma'nosi qaysi?",
-      "word": "違う",
-      "choices": [
-        "farq qilmoq",
-        "guruch ustiga tempura qo'yib tayyorlangan taom",
-        "maqsadga erishmoq",
-        "shartnoma, ahd"
-      ],
-      "correctAnswer": 0,
-      "explanation": "違う → farq qilmoq"
-    },
-    {
-      "id": 97,
-      "questionType": "kanji",
-      "question": "『きざむ』qaysi yozuvga mos?",
-      "word": "刻",
-      "choices": [
-        "脱",
-        "清い心",
-        "梅雨前線",
-        "刻"
-      ],
-      "correctAnswer": 3,
-      "explanation": "きざむ → 刻"
-    },
-    {
-      "id": 98,
+      "id": 61,
       "questionType": "word",
       "question": "『poyezd chiptasi』ning yaponcha ifodasi qaysi?",
       "word": "電車の切符",
       "choices": [
         "電車の切符",
-        "居酒屋",
-        "味が薄まる",
-        "漁をする"
+        "筋肉を鍛える",
+        "新製品",
+        "航空機"
       ],
       "correctAnswer": 0,
       "explanation": "poyezd chiptasi → 電車の切符"
     },
     {
-      "id": 99,
-      "questionType": "kanji",
-      "question": "『こころにきざむ』qaysi yozuvga mos?",
-      "word": "心に刻む",
+      "id": 62,
+      "questionType": "recognition",
+      "question": "『刻』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "時刻",
       "choices": [
-        "杉の花粉",
-        "心に刻む",
-        "招待する",
-        "本を著す"
+        "前払い",
+        "株券",
+        "洗脳",
+        "時刻"
       ],
-      "correctAnswer": 1,
-      "explanation": "こころにきざむ → 心に刻む"
+      "correctAnswer": 3,
+      "explanation": "刻 → 時刻"
     },
     {
-      "id": 100,
-      "questionType": "kanji",
-      "question": "『てい』qaysi yozuvga mos?",
-      "word": "停",
-      "choices": [
-        "夏が過ぎる",
-        "停",
-        "普通預金",
-        "心を込める"
-      ],
-      "correctAnswer": 1,
-      "explanation": "てい → 停"
-    },
-    {
-      "id": 101,
+      "id": 63,
       "questionType": "word",
       "question": "『har bir bekatda to'xtaydigan poyezd』ning yaponcha ifodasi qaysi?",
       "word": "各駅停車",
       "choices": [
-        "柔道",
-        "お金を恵む",
-        "各駅停車",
-        "仮"
+        "どうぞお掛けください",
+        "気掛かりなこと",
+        "絵画展",
+        "各駅停車"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "har bir bekatda to'xtaydigan poyezd → 各駅停車"
     },
     {
-      "id": 102,
+      "id": 64,
+      "questionType": "reading",
+      "question": "『音符』ning o'qilishi qaysi?",
+      "word": "音符",
+      "choices": [
+        "おんぷ",
+        "こていする",
+        "さんぷく",
+        "そだちざかり"
+      ],
+      "correctAnswer": 0,
+      "explanation": "音符 → おんぷ"
+    },
+    {
+      "id": 65,
+      "questionType": "reading",
+      "question": "『時刻』ning o'qilishi qaysi?",
+      "word": "時刻",
+      "choices": [
+        "あつ",
+        "じこく",
+        "やわらかなふとん",
+        "けいやくをする"
+      ],
+      "correctAnswer": 1,
+      "explanation": "時刻 → じこく"
+    },
+    {
+      "id": 66,
+      "questionType": "reading",
+      "question": "『普』ning o'qilishi qaysi?",
+      "word": "普",
+      "choices": [
+        "わんりょく",
+        "こたい",
+        "ふ",
+        "こう"
+      ],
+      "correctAnswer": 2,
+      "explanation": "普 → ふ"
+    },
+    {
+      "id": 67,
       "questionType": "meaning",
+      "question": "『音符』ning ma'nosi qaysi?",
+      "word": "音符",
+      "choices": [
+        "qon quyishda foydalaniladigan qon",
+        "tiklanish jarayoni",
+        "musiqiy nota",
+        "pochta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "音符 → musiqiy nota"
+    },
+    {
+      "id": 68,
+      "questionType": "word",
+      "question": "『tanqid nishoniga aylanish』ning yaponcha ifodasi qaysi?",
+      "word": "非難の標的となる",
+      "choices": [
+        "バター溶かす",
+        "非難の標的となる",
+        "柔",
+        "日誌をつける"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tanqid nishoniga aylanish → 非難の標的となる"
+    },
+    {
+      "id": 69,
+      "questionType": "word",
+      "question": "『oddiy maktab』ning yaponcha ifodasi qaysi?",
+      "word": "普通高校",
+      "choices": [
+        "通過",
+        "並ぶ",
+        "普通高校",
+        "胸が痛む"
+      ],
+      "correctAnswer": 2,
+      "explanation": "oddiy maktab → 普通高校"
+    },
+    {
+      "id": 70,
+      "questionType": "kanji",
+      "question": "『おんぷ』qaysi yozuvga mos?",
+      "word": "音符",
+      "choices": [
+        "音符",
+        "固まる",
+        "純情な人",
+        "汚染された川"
+      ],
+      "correctAnswer": 0,
+      "explanation": "おんぷ → 音符"
+    },
+    {
+      "id": 71,
+      "questionType": "sentence",
       "question": "『業務が停滞する』ning ma'nosi qaysi?",
       "word": "業務が停滞する",
       "choices": [
-        "ish turg'unlashishi, sekinlashishi",
-        "bank daftarchasi",
-        "o'rik (yapon o'rigi)",
-        "tashish, jo'natish"
+        "farqli, boshqa",
+        "o'tmoq, bermoq",
+        "tungi sakura daraxti",
+        "ish turg'unlashishi, sekinlashishi"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": "業務が停滞する → ish turg'unlashishi, sekinlashishi"
     },
     {
-      "id": 103,
+      "id": 72,
+      "questionType": "kanji",
+      "question": "『ていせん』qaysi yozuvga mos?",
+      "word": "停戦",
+      "choices": [
+        "梅",
+        "心が清まる",
+        "停戦",
+        "足の筋"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ていせん → 停戦"
+    },
+    {
+      "id": 73,
+      "questionType": "kanji",
+      "question": "『てい』qaysi yozuvga mos?",
+      "word": "停",
+      "choices": [
+        "腕",
+        "物を渡す",
+        "不況",
+        "停"
+      ],
+      "correctAnswer": 3,
+      "explanation": "てい → 停"
+    },
+    {
+      "id": 74,
+      "questionType": "meaning",
+      "question": "『刻』ning ma'nosi qaysi?",
+      "word": "刻",
+      "choices": [
+        "hayot",
+        "kesmoq, vaqt",
+        "jiddiy muammo",
+        "kir bo'lgan kiyim"
+      ],
+      "correctAnswer": 1,
+      "explanation": "刻 → kesmoq, vaqt"
+    },
+    {
+      "id": 75,
+      "questionType": "sentence",
+      "question": "『ねぎを刻む』ning ma'nosi qaysi?",
+      "word": "ねぎを刻む",
+      "choices": [
+        "piyoz to'g'rash",
+        "butunlay tugatish, tozalash",
+        "xonani iflos qilish",
+        "namoyish etish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ねぎを刻む → piyoz to'g'rash"
+    },
+    {
+      "id": 76,
+      "questionType": "reading",
+      "question": "『標』ning o'qilishi qaysi?",
+      "word": "標",
+      "choices": [
+        "かおをそむける",
+        "けいしょう",
+        "ひょう",
+        "だつぜい"
+      ],
+      "correctAnswer": 2,
+      "explanation": "標 → ひょう"
+    },
+    {
+      "id": 77,
+      "questionType": "meaning",
+      "question": "『違』ning ma'nosi qaysi?",
+      "word": "違",
+      "choices": [
+        "farq qilmoq, noto'g'ri",
+        "qo'lni silkitish",
+        "har bir bekatda to'xtaydigan poyezd",
+        "yo'lovchi chiptasi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "違 → farq qilmoq, noto'g'ri"
+    },
+    {
+      "id": 78,
+      "questionType": "reading",
+      "question": "『停戦』ning o'qilishi qaysi?",
+      "word": "停戦",
+      "choices": [
+        "ていがく",
+        "ぎょこう",
+        "おくる",
+        "ていせん"
+      ],
+      "correctAnswer": 3,
+      "explanation": "停戦 → ていせん"
+    },
+    {
+      "id": 79,
+      "questionType": "meaning",
+      "question": "『深刻な問題』ning ma'nosi qaysi?",
+      "word": "深刻な問題",
+      "choices": [
+        "shakl",
+        "yo'l, davom",
+        "yangi sinfga moslashib ketmoq",
+        "jiddiy muammo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "深刻な問題 → jiddiy muammo"
+    },
+    {
+      "id": 80,
+      "questionType": "sentence",
+      "question": "『普及する』ning ma'nosi qaysi?",
+      "word": "普及する",
+      "choices": [
+        "turg'unlik",
+        "yelka qotib qolishi",
+        "go'zal, chiroyli",
+        "tarqalmoq, mashhur bo'lmoq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "普及する → tarqalmoq, mashhur bo'lmoq"
+    },
+    {
+      "id": 81,
+      "questionType": "kanji",
+      "question": "『どうろひょうしき』qaysi yozuvga mos?",
+      "word": "道路標識",
+      "choices": [
+        "首脳会談",
+        "航",
+        "堂々",
+        "道路標識"
+      ],
+      "correctAnswer": 3,
+      "explanation": "どうろひょうしき → 道路標識"
+    },
+    {
+      "id": 82,
+      "questionType": "sentence",
+      "question": "『普通の家庭』ning ma'nosi qaysi?",
+      "word": "普通の家庭",
+      "choices": [
+        "chalkashlik, sarosima",
+        "oddiy xonadon",
+        "oddiy savol, muammo",
+        "yuklarni zichlab tiqmoq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "普通の家庭 → oddiy xonadon"
+    },
+    {
+      "id": 83,
+      "questionType": "recognition",
+      "question": "『標』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "非難の標的となる",
+      "choices": [
+        "朝刊",
+        "両方",
+        "手紙が届く",
+        "非難の標的となる"
+      ],
+      "correctAnswer": 3,
+      "explanation": "標 → 非難の標的となる"
+    },
+    {
+      "id": 84,
+      "questionType": "sentence",
+      "question": "『心に刻む』ning ma'nosi qaysi?",
+      "word": "心に刻む",
+      "choices": [
+        "moslashuvchan emas, gap uqmaydigan odam",
+        "qalbga joylab olish, bir narsani unutmaslik",
+        "belgi, banknota",
+        "mashhur inson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "心に刻む → qalbga joylab olish, bir narsani unutmaslik"
+    },
+    {
+      "id": 85,
+      "questionType": "meaning",
+      "question": "『標準』ning ma'nosi qaysi?",
+      "word": "標準",
+      "choices": [
+        "bosim",
+        "tartibga keltirmoq, tayyorlamoq",
+        "standart, norma",
+        "egiluvchan, moslashuvchan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "標準 → standart, norma"
+    },
+    {
+      "id": 86,
+      "questionType": "recognition",
+      "question": "『標』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "道路標識",
+      "choices": [
+        "航空便",
+        "乗車券",
+        "預金する",
+        "道路標識"
+      ],
+      "correctAnswer": 3,
+      "explanation": "標 → 道路標識"
+    },
+    {
+      "id": 87,
+      "questionType": "word",
+      "question": "『belgi, chipta』ning yaponcha ifodasi qaysi?",
+      "word": "符",
+      "choices": [
+        "症",
+        "電車の切符",
+        "服を脱ぐ",
+        "符"
+      ],
+      "correctAnswer": 3,
+      "explanation": "belgi, chipta → 符"
+    },
+    {
+      "id": 88,
+      "questionType": "word",
+      "question": "『vaqt, lahza』ning yaponcha ifodasi qaysi?",
+      "word": "時刻",
+      "choices": [
+        "心に刻む",
+        "宗教を信仰する",
+        "時刻",
+        "整"
+      ],
+      "correctAnswer": 2,
+      "explanation": "vaqt, lahza → 時刻"
+    },
+    {
+      "id": 89,
+      "questionType": "word",
+      "question": "『noqonuniy』ning yaponcha ifodasi qaysi?",
+      "word": "違法",
+      "choices": [
+        "異なる",
+        "仮定する",
+        "違法",
+        "乗車券"
+      ],
+      "correctAnswer": 2,
+      "explanation": "noqonuniy → 違法"
+    },
+    {
+      "id": 90,
+      "questionType": "kanji",
+      "question": "『かくえきていしゃ』qaysi yozuvga mos?",
+      "word": "各駅停車",
+      "choices": [
+        "医療保険制度",
+        "各駅停車",
+        "恩恵を受ける",
+        "停"
+      ],
+      "correctAnswer": 1,
+      "explanation": "かくえきていしゃ → 各駅停車"
+    },
+    {
+      "id": 91,
+      "questionType": "word",
+      "question": "『belgi, standart』ning yaponcha ifodasi qaysi?",
+      "word": "標",
+      "choices": [
+        "標",
+        "軽薄な人",
+        "肩甲骨",
+        "異国"
+      ],
+      "correctAnswer": 0,
+      "explanation": "belgi, standart → 標"
+    },
+    {
+      "id": 92,
+      "questionType": "meaning",
+      "question": "『心臓が停止する』ning ma'nosi qaysi?",
+      "word": "心臓が停止する",
+      "choices": [
+        "kasallik sababi",
+        "yurak hapqirishi",
+        "chipta tekshirish (turniket) darvozasi",
+        "yurakning to'xtashi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "心臓が停止する → yurakning to'xtashi"
+    },
+    {
+      "id": 93,
       "questionType": "kanji",
       "question": "『ちがう』qaysi yozuvga mos?",
       "word": "違",
       "choices": [
-        "水で味を薄める",
-        "新しいクラスに溶け込む",
-        "お土産を届ける",
-        "違"
+        "預",
+        "違",
+        "健康美",
+        "年越しそば"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちがう → 違"
+    },
+    {
+      "id": 94,
+      "questionType": "reading",
+      "question": "『違』ning o'qilishi qaysi?",
+      "word": "違",
+      "choices": [
+        "ちがう",
+        "にほんのすがた",
+        "ていがく",
+        "もる"
+      ],
+      "correctAnswer": 0,
+      "explanation": "違 → ちがう"
+    },
+    {
+      "id": 95,
+      "questionType": "kanji",
+      "question": "『まちがえる』qaysi yozuvga mos?",
+      "word": "間違える",
+      "choices": [
+        "胃腸薬",
+        "間違える",
+        "親の期待に背く",
+        "新製品"
+      ],
+      "correctAnswer": 1,
+      "explanation": "まちがえる → 間違える"
+    },
+    {
+      "id": 96,
+      "questionType": "word",
+      "question": "『adashmoq』ning yaponcha ifodasi qaysi?",
+      "word": "間違える",
+      "choices": [
+        "脳科学",
+        "風邪の症状",
+        "心を込める",
+        "間違える"
       ],
       "correctAnswer": 3,
-      "explanation": "ちがう → 違"
+      "explanation": "adashmoq → 間違える"
+    },
+    {
+      "id": 97,
+      "questionType": "sentence",
+      "question": "『各駅停車』ning ma'nosi qaysi?",
+      "word": "各駅停車",
+      "choices": [
+        "muzni erishi",
+        "rahbarlar yig'ilishi, eng yuqori darajadagi uchrashuv",
+        "yallig'lantirmoq",
+        "har bir bekatda to'xtaydigan poyezd"
+      ],
+      "correctAnswer": 3,
+      "explanation": "各駅停車 → har bir bekatda to'xtaydigan poyezd"
+    },
+    {
+      "id": 98,
+      "questionType": "reading",
+      "question": "『符』ning o'qilishi qaysi?",
+      "word": "符",
+      "choices": [
+        "ふ",
+        "こうすい",
+        "ファッションし",
+        "おやのきたいにそむく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "符 → ふ"
+    },
+    {
+      "id": 99,
+      "questionType": "recognition",
+      "question": "『符』kanjisi qaysi so‘zda to‘g‘ri ishlatilgan?",
+      "word": "音符",
+      "choices": [
+        "越",
+        "背中",
+        "音符",
+        "イタリア製の靴"
+      ],
+      "correctAnswer": 2,
+      "explanation": "符 → 音符"
+    },
+    {
+      "id": 100,
+      "questionType": "meaning",
+      "question": "『心に刻む』ning ma'nosi qaysi?",
+      "word": "心に刻む",
+      "choices": [
+        "o'zini ko'rmagandek tutish",
+        "qalbga joylab olish, bir narsani unutmaslik",
+        "eshik taxtachasi (familiya yozilgan)",
+        "sof qalb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "心に刻む → qalbga joylab olish, bir narsani unutmaslik"
+    },
+    {
+      "id": 101,
+      "questionType": "word",
+      "question": "『yo'l qoidasini buzish』ning yaponcha ifodasi qaysi?",
+      "word": "交通違反",
+      "choices": [
+        "快い返事",
+        "梅雨前線",
+        "交通違反",
+        "甘"
+      ],
+      "correctAnswer": 2,
+      "explanation": "yo'l qoidasini buzish → 交通違反"
     }
   ]
 }
