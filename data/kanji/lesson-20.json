@@ -1,0 +1,105 @@
+{
+    "title": "Lesson 20",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "忙",
+          "reading": "ぼう・いそがしい",
+          "meaning": "band, mashg'ul",
+          "onyomi": "ボウ",
+          "kunyomi": "いそが(しい)"
+        },
+        "examples": [
+          { "id": 1, "word": "忙しい", "reading": "いそがしい", "meaning": "band" },
+          { "id": 2, "word": "多忙な毎日", "reading": "たぼうなまいにち", "meaning": "band, ish ko'p har kun" },
+          { "id": 3, "word": "忙しいところ、すみません", "reading": "いそがしいところ、すみません", "meaning": "uzr, band bo'lsangiz ham bezovta qildim" },
+          { "id": 4, "word": "繁忙期", "reading": "はんぼうき", "meaning": "ish juda ham ko'p bo'lgan vaqt" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "疲",
+          "reading": "ひ・つかれる",
+          "meaning": "charchamoq",
+          "onyomi": "ヒ",
+          "kunyomi": "つか(れる)"
+        },
+        "examples": [
+          { "id": 1, "word": "疲れる", "reading": "つかれる", "meaning": "charchamoq" },
+          { "id": 2, "word": "疲労がたまる", "reading": "ひろうがたまる", "meaning": "charchoqni to'planishi" },
+          { "id": 3, "word": "疲労回復", "reading": "ひろうかいふく", "meaning": "charchoqni ketkazish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "慣",
+          "reading": "かん・なれる",
+          "meaning": "o'rganmoq, moslashmoq",
+          "onyomi": "カン",
+          "kunyomi": "な(れる)・な(らす)"
+        },
+        "examples": [
+          { "id": 1, "word": "生活に慣れる", "reading": "せいかつになれる", "meaning": "hayotga ko'nikish, moslashish" },
+          { "id": 2, "word": "仕事に慣れる", "reading": "しごとになれる", "meaning": "ishga moslashish" },
+          { "id": 3, "word": "外国語に耳を慣らす", "reading": "がいこくごにみみをならす", "meaning": "chet tiliga quloqni o'rgatmoq" },
+          { "id": 4, "word": "使い慣れたペン", "reading": "つかいなれたペン", "meaning": "foydalanishga o'rganib qolingan ruchka" },
+          { "id": 5, "word": "生活習慣", "reading": "せいかつしゅうかん", "meaning": "hayot tarzi, odati" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "競",
+          "reading": "きょう・けい・きそう",
+          "meaning": "musobaqa qilmoq",
+          "onyomi": "キョウ・ケイ",
+          "kunyomi": "きそ(う)・せ(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "競う", "reading": "きそう", "meaning": "musoboqa qilmoq" },
+          { "id": 2, "word": "ゴール直前まで競る", "reading": "ゴールちょくぜんまでせる", "meaning": "oxirigacha, marragacha bahslashmoq" },
+          { "id": 3, "word": "競争", "reading": "きょうそう", "meaning": "raqobat" },
+          { "id": 4, "word": "競技", "reading": "きょうぎ", "meaning": "musobaqa" },
+          { "id": 5, "word": "競馬", "reading": "けいば", "meaning": "ot poygasi" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "養",
+          "reading": "よう・やしなう",
+          "meaning": "boqmoq, tarbiyalamoq",
+          "onyomi": "ヨウ",
+          "kunyomi": "やしな(う)"
+        },
+        "examples": [
+          { "id": 1, "word": "家族を養う", "reading": "かぞくをやしなう", "meaning": "oilani ta'minlamoq" },
+          { "id": 2, "word": "体力を養う", "reading": "たいりょくをやしなう", "meaning": "jismoniy kuchni rivojlantirish" },
+          { "id": 3, "word": "休養", "reading": "きゅうよう", "meaning": "dam olish" },
+          { "id": 4, "word": "栄養", "reading": "えいよう", "meaning": "oziqlanish" },
+          { "id": 5, "word": "養殖", "reading": "ようしょく", "meaning": "akva madaniyat, baliqchilikni rivojlantirish" },
+          { "id": 6, "word": "養育", "reading": "よういく", "meaning": "tarbiya" },
+          { "id": 7, "word": "教師を養成する", "reading": "きょうしをようせいする", "meaning": "o'qituvchilar tayyorlash" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "兼",
+          "reading": "けん・かねる",
+          "meaning": "bir vaqtda bajarish",
+          "onyomi": "ケン",
+          "kunyomi": "か(ねる)"
+        },
+        "examples": [
+          { "id": 1, "word": "兼ねる", "reading": "かねる", "meaning": "bir vaqtda ikkita faoliyatni olib borish" },
+          { "id": 2, "word": "兼業", "reading": "けんぎょう", "meaning": "qo'shimcha biznes" },
+          { "id": 3, "word": "兼任", "reading": "けんにん", "meaning": "bir vaqtda uddalash kerak bo'lgan vazifa" },
+          { "id": 4, "word": "男女兼用", "reading": "だんじょけんよう", "meaning": "erkaklar ham, ayollar ham foydalanishi uchun" }
+        ]
+      }
+    ]
+  }

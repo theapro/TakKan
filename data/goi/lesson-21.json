@@ -1,0 +1,162 @@
+{
+    "title": "Lesson 21",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "トレイ", "reading": "トレイ", "meaning": "patnis", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "トレイ", "reading": "トレイ", "meaning": "patnis" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "器", "reading": "うつわ", "meaning": "idish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "器", "reading": "うつわ", "meaning": "idish" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "重ねる", "reading": "かさねる", "meaning": "ustma-ust qo'ymoq; 2. takrorlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "重ねる", "reading": "かさねる", "meaning": "ustma-ust qo'ymoq; 2. takrorlamoq" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "ずらり", "reading": "ずらり", "meaning": "qator qilib", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "ずらり", "reading": "ずらり", "meaning": "qator qilib" },
+          { "id": 2, "word": "ずらっと", "reading": "ずらっと", "meaning": "bir qator" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "主食", "reading": "しゅしょく", "meaning": "asosiy ovqat", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "主食", "reading": "しゅしょく", "meaning": "asosiy ovqat" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "生", "reading": "なま", "meaning": "xom, pishmagan", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "生", "reading": "なま", "meaning": "xom, pishmagan" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "なま物", "reading": "なまもの", "meaning": "pishmagan narsa", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "なま物", "reading": "なまもの", "meaning": "pishmagan narsa" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "特製", "reading": "とくせい", "meaning": "maxsus", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "特製", "reading": "とくせい", "meaning": "maxsus" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "粗末な", "reading": "そまつな", "meaning": "sifatsiz, dag'al; 2. (粗末にする) qadriga yetmaslik", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "粗末な", "reading": "そまつな", "meaning": "sifatsiz, dag'al; 2. (粗末にする) qadriga yetmaslik" },
+          { "id": 2, "word": "電話代", "reading": "でんわだい", "meaning": "telefon to'lovi" },
+          { "id": 3, "word": "部屋代", "reading": "へやだい", "meaning": "kvartira to'lovi" },
+          { "id": 4, "word": "電気代", "reading": "でんきだい", "meaning": "elektr to'lovi" },
+          { "id": 5, "word": "ガス代", "reading": "ガスだい", "meaning": "gaz to'lovi" },
+          { "id": 6, "word": "バイト代", "reading": "バイトだい", "meaning": "ishdan olinadigan pul (part-time ishdan)" },
+          { "id": 7, "word": "授業代", "reading": "じゅぎょうだい", "meaning": "o'qish to'lovi" },
+          { "id": 8, "word": "食事代", "reading": "しょくじだい", "meaning": "ovqat to'lovi" },
+          { "id": 9, "word": "品代", "reading": "しなだい", "meaning": "mahsulot uchun to'langan xarajat" }
+        ]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "購入する", "reading": "こうにゅうする", "meaning": "sotib olmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "購入する", "reading": "こうにゅうする", "meaning": "sotib olmoq" },
+          { "id": 2, "word": "買う", "reading": "かう", "meaning": "sotib olmoq" }
+        ]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "お買い得", "reading": "おかいどく", "meaning": "foydali, arzon xarid", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "お買い得", "reading": "おかいどく", "meaning": "foydali, arzon xarid" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "手頃な", "reading": "てごろな", "meaning": "qulay, arzon (narx)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "手頃な", "reading": "てごろな", "meaning": "qulay, arzon (narx)" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "値引く", "reading": "ねびく", "meaning": "chegirma qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "値引く", "reading": "ねびく", "meaning": "chegirma qilmoq" },
+          { "id": 2, "word": "まける", "reading": "まける", "meaning": "chegirma qilmoq, arzonlamoq" }
+        ]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "おまけする", "reading": "おまけする", "meaning": "bonus qilib berish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "おまけする", "reading": "おまけする", "meaning": "bonus qilib berish" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "返品する", "reading": "へんぴんする", "meaning": "mahsulotni qaytarish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "返品する", "reading": "へんぴんする", "meaning": "mahsulotni qaytarish" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "返金する", "reading": "へんきんする", "meaning": "pul qaytarish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "返金する", "reading": "へんきんする", "meaning": "pul qaytarish" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "価格", "reading": "かかく", "meaning": "narx", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "価格", "reading": "かかく", "meaning": "narx" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "高価な", "reading": "こうかな", "meaning": "qimmat", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "高価な", "reading": "こうかな", "meaning": "qimmat" },
+          { "id": 2, "word": "安価な", "reading": "あんかな", "meaning": "arzon" }
+        ]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "金額", "reading": "きんがく", "meaning": "pul miqdori", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "金額", "reading": "きんがく", "meaning": "pul miqdori" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "価値", "reading": "かち", "meaning": "qiymat", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "価値", "reading": "かち", "meaning": "qiymat" },
+          { "id": 2, "word": "価値観", "reading": "かちかん", "meaning": "qadriyatlar" }
+        ]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "品質", "reading": "ひんしつ", "meaning": "sifat", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "品質", "reading": "ひんしつ", "meaning": "sifat" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "消費税", "reading": "しょうひぜい", "meaning": "iste'mol solig'i", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "消費税", "reading": "しょうひぜい", "meaning": "iste'mol solig'i" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "オークション", "reading": "オークション", "meaning": "auksion", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "オークション", "reading": "オークション", "meaning": "auksion" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "名物", "reading": "めいぶつ", "meaning": "mashhur (hududga xos) mahsulot", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "名物", "reading": "めいぶつ", "meaning": "mashhur (hududga xos) mahsulot" },
+          { "id": 2, "word": "特産", "reading": "とくさん", "meaning": "faqat shu hududda yetishtiriladigan mahsulot" },
+          { "id": 3, "word": "名産", "reading": "めいさん", "meaning": "mashhur mahalliy mahsulot" }
+        ]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "取り寄せる", "reading": "とりよせる", "meaning": "buyurtma orqali sotib olish, buyurtma orqali keltirtirish", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "取り寄せる", "reading": "とりよせる", "meaning": "buyurtma orqali sotib olish, buyurtma orqali keltirtirish" },
+          { "id": 2, "word": "取り寄せ", "reading": "とりよせ", "meaning": "buyurtma orqali keltirtirish" }
+        ]
+      }
+    ]
+  }
