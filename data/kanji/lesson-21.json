@@ -1,0 +1,110 @@
+{
+    "title": "Lesson 21",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "就",
+          "reading": "しゅう・つく",
+          "meaning": "ishga kirmoq, o'rnashmoq",
+          "onyomi": "シュウ",
+          "kunyomi": "つ(く)・つ(ける)"
+        },
+        "examples": [
+          { "id": 1, "word": "仕事に就く", "reading": "しごとにつく", "meaning": "ish topish" },
+          { "id": 2, "word": "就職活動", "reading": "しゅうしょくかつどう", "meaning": "ish topish jarayoni" },
+          { "id": 3, "word": "就業規則を守る", "reading": "しゅうぎょうきそくをまもる", "meaning": "ish qoidalariga rioya etish" },
+          { "id": 4, "word": "社長に就任する", "reading": "しゃちょうにしゅうにんする", "meaning": "korxona rahbariga aylanish" },
+          { "id": 5, "word": "弁護士を就ける", "reading": "べんごしをつける", "meaning": "advokat yollash" },
+          { "id": 6, "word": "成就", "reading": "じょうじゅ", "meaning": "qanoat hosil qilish" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "従",
+          "reading": "じゅう・したがう",
+          "meaning": "bo'ysinmoq, ergashmoq",
+          "onyomi": "ジュウ・ショウ",
+          "kunyomi": "したが(う)・したが(える)"
+        },
+        "examples": [
+          { "id": 1, "word": "指示に従う", "reading": "しじにしたがう", "meaning": "ko'rsatmaga bo'ysinish" },
+          { "id": 2, "word": "部下を従える", "reading": "ぶかをしたがえる", "meaning": "o'zidan mansabi past insonlarni qonunlarni rioya etishlarini nazorat etish" },
+          { "id": 3, "word": "医者に従事した", "reading": "いしゃにじゅうじした", "meaning": "shifokor bo'lib ishlagan" },
+          { "id": 4, "word": "従順", "reading": "じゅうじゅん", "meaning": "itoat etish" },
+          { "id": 5, "word": "主従関係", "reading": "しゅじゅうかんけい", "meaning": "rahbar va bo'ysinuvchi munosabatlari" },
+          { "id": 6, "word": "従容", "reading": "しょうよう", "meaning": "bosilgan, yuvosh" },
+          { "id": 7, "word": "従五位", "reading": "じゅごい", "meaning": "beshinchi o'rindan past, oltinchi o'rindan yuqori" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "応",
+          "reading": "おう・こたえる",
+          "meaning": "javob bermoq",
+          "onyomi": "オウ",
+          "kunyomi": "こた(える)"
+        },
+        "examples": [
+          { "id": 1, "word": "応える", "reading": "こたえる", "meaning": "ga javob berish" },
+          { "id": 2, "word": "対応する", "reading": "たいおうする", "meaning": "kelib chiqqan ishlarni bartaraf etish" },
+          { "id": 3, "word": "応対する", "reading": "おうたいする", "meaning": "javob berish, muamolarini hal qilish" },
+          { "id": 4, "word": "応援", "reading": "おうえん", "meaning": "qo'llab-quvvatlash" },
+          { "id": 5, "word": "応用問題", "reading": "おうようもんだい", "meaning": "bilimlarni qo'llash orqali yechiladigan masala" },
+          { "id": 6, "word": "反応が鈍い", "reading": "はんのうがにぶい", "meaning": "sust reaksiya" },
+          { "id": 7, "word": "臨機応変", "reading": "りんきおうへん", "meaning": "moslashuvchan" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "訪",
+          "reading": "ほう・おとずれる・たずねる",
+          "meaning": "tashrif buyurmoq",
+          "onyomi": "ホウ",
+          "kunyomi": "おとず(れる)・たず(ねる)"
+        },
+        "examples": [
+          { "id": 1, "word": "訪れる", "reading": "おとずれる", "meaning": "yetib bormoq" },
+          { "id": 2, "word": "先生の家を訪ねる", "reading": "せんせいのいえをたずねる", "meaning": "tashrif buyurmoq" },
+          { "id": 3, "word": "他社を訪問する", "reading": "たしゃをほうもんする", "meaning": "boshqa ishxonaga tashrif buyurmoq" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "課",
+          "reading": "か",
+          "meaning": "vazifa, bo'lim",
+          "onyomi": "カ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "責任を課す", "reading": "せきにんをかす", "meaning": "ma'suliyatni olmoq" },
+          { "id": 2, "word": "宿題が課される", "reading": "しゅくだいがかされる", "meaning": "uyga topshiriq berilmoq" },
+          { "id": 3, "word": "課題", "reading": "かだい", "meaning": "vazifa, keyingi qilinadigan ish" },
+          { "id": 4, "word": "課税", "reading": "かぜい", "meaning": "soliqqa tortish" },
+          { "id": 5, "word": "営業課", "reading": "えいぎょうか", "meaning": "sotuv bo'limi" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "論",
+          "reading": "ろん",
+          "meaning": "fikr, mulohaza, munozara",
+          "onyomi": "ロン",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "議論", "reading": "ぎろん", "meaning": "munozara" },
+          { "id": 2, "word": "論点", "reading": "ろんてん", "meaning": "munozara asosini tashkil etuvchi nuqta" },
+          { "id": 3, "word": "論理的", "reading": "ろんりてき", "meaning": "mantiqiy" },
+          { "id": 4, "word": "小論文", "reading": "しょうろんぶん", "meaning": "thesis" },
+          { "id": 5, "word": "論拠", "reading": "ろんきょ", "meaning": "mantiqiy asos" }
+        ]
+      }
+    ]
+  }

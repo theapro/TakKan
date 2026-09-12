@@ -1,0 +1,115 @@
+{
+    "title": "Lesson 22",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "映像", "reading": "えいぞう", "meaning": "tasvir, videokadr", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "映像", "reading": "えいぞう", "meaning": "tasvir, videokadr" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "お姫様", "reading": "おひめさま", "meaning": "Malika", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "お姫様", "reading": "おひめさま", "meaning": "Malika" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "口コミ", "reading": "くちこみ", "meaning": "sharh, mijoz fikri", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "口コミ", "reading": "くちこみ", "meaning": "sharh, mijoz fikri" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "バッテリー", "reading": "バッテリー", "meaning": "batareya", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "バッテリー", "reading": "バッテリー", "meaning": "batareya" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "見た目", "reading": "みため", "meaning": "ko'rinish, tashqi qiyofa", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "見た目", "reading": "みため", "meaning": "ko'rinish, tashqi qiyofa" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "矢", "reading": "や", "meaning": "o'q (kamon o'qi)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "矢", "reading": "や", "meaning": "o'q (kamon o'qi)" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "夕焼け", "reading": "ゆうやけ", "meaning": "shafaq (kechki qizil osmon)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "夕焼け", "reading": "ゆうやけ", "meaning": "shafaq (kechki qizil osmon)" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "快適な", "reading": "かいてきな", "meaning": "qulay, shinam", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "快適な", "reading": "かいてきな", "meaning": "qulay, shinam" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "豪華な", "reading": "ごうかな", "meaning": "hashamatli", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "豪華な", "reading": "ごうかな", "meaning": "hashamatli" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "しなやかな", "reading": "しなやかな", "meaning": "moslashuvchan, yumshoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "しなやかな", "reading": "しなやかな", "meaning": "moslashuvchan, yumshoq" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "正確な", "reading": "せいかくな", "meaning": "aniq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "正確な", "reading": "せいかくな", "meaning": "aniq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "見事な", "reading": "みごとな", "meaning": "qoyilmaqom", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "見事な", "reading": "みごとな", "meaning": "qoyilmaqom" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "裏切る", "reading": "うらぎる", "meaning": "xiyonat qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "裏切る", "reading": "うらぎる", "meaning": "xiyonat qilmoq" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "削る", "reading": "けずる", "meaning": "qirqmoq, kamaytirmoq (vaqt, byudjet)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "削る", "reading": "けずる", "meaning": "qirqmoq, kamaytirmoq (vaqt, byudjet)" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "克服する", "reading": "こくふくする", "meaning": "qiyinchilikni yengmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "克服する", "reading": "こくふくする", "meaning": "qiyinchilikni yengmoq" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "優れる", "reading": "すぐれる", "meaning": "ustun bo'lmoq, ajralib turish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "優れる", "reading": "すぐれる", "meaning": "ustun bo'lmoq, ajralib turish" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "前進する", "reading": "ぜんしんする", "meaning": "maqsad sari ilgarilamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "前進する", "reading": "ぜんしんする", "meaning": "maqsad sari ilgarilamoq" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "染める", "reading": "そめる", "meaning": "bo'yamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "染める", "reading": "そめる", "meaning": "bo'yamoq" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "直面する", "reading": "ちょくめんする", "meaning": "duch kelmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "直面する", "reading": "ちょくめんする", "meaning": "duch kelmoq" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "飛び上がる", "reading": "とびあがる", "meaning": "sakrab chiqmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "飛び上がる", "reading": "とびあがる", "meaning": "sakrab chiqmoq" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "長持ちする", "reading": "ながもちする", "meaning": "uzoq davom etmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "長持ちする", "reading": "ながもちする", "meaning": "uzoq davom etmoq" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "息を引き取る", "reading": "いきをひきとる", "meaning": "so'nggi nafasini olmoq, olamdan o'tmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "息を引き取る", "reading": "いきをひきとる", "meaning": "so'nggi nafasini olmoq, olamdan o'tmoq" }]
+      }
+    ]
+  }
