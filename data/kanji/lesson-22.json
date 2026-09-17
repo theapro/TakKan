@@ -1,0 +1,106 @@
+{
+    "title": "Lesson 22",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "採",
+          "reading": "さい・とる",
+          "meaning": "olmoq, tanlamoq",
+          "onyomi": "サイ",
+          "kunyomi": "と(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "新入社員を採る", "reading": "しんにゅうしゃいんをとる", "meaning": "yangi ishchi olish" },
+          { "id": 2, "word": "血を採る", "reading": "ちをとる", "meaning": "qon olish" },
+          { "id": 3, "word": "採用試験", "reading": "さいようしけん", "meaning": "ishga kirish imtixoni" },
+          { "id": 4, "word": "採決", "reading": "さいけつ", "meaning": "ovoz berish" },
+          { "id": 5, "word": "昆虫採集", "reading": "こんちゅうさいしゅう", "meaning": "hashoratlarni to'plash" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "募",
+          "reading": "ぼ・つのる",
+          "meaning": "jalb qilmoq, to'plamoq",
+          "onyomi": "ボ",
+          "kunyomi": "つの(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "募る", "reading": "つのる", "meaning": "jalb qilish (recruit)" },
+          { "id": 2, "word": "寄付を募る", "reading": "きふをつのる", "meaning": "hayriya to'plash" },
+          { "id": 3, "word": "募集する", "reading": "ぼしゅうする", "meaning": "ishga qabul qilish" },
+          { "id": 4, "word": "採用試験に応募する", "reading": "さいようしけんにおうぼする", "meaning": "ishga kirish imtixoniga ariza topshirish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "雇",
+          "reading": "こ・やとう",
+          "meaning": "yollamoq",
+          "onyomi": "コ",
+          "kunyomi": "やと(う)"
+        },
+        "examples": [
+          { "id": 1, "word": "人を雇う", "reading": "ひとをやとう", "meaning": "odamni ishga yollash" },
+          { "id": 2, "word": "雇用問題", "reading": "こようもんだい", "meaning": "ish muammosi" },
+          { "id": 3, "word": "会社を解雇される", "reading": "かいしゃをかいこされる", "meaning": "ishdan bo'shatilish" },
+          { "id": 4, "word": "日雇い労働", "reading": "ひやといろうどう", "meaning": "kunlik mehnat" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "適",
+          "reading": "てき",
+          "meaning": "mos, muvofiq",
+          "onyomi": "テキ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "環境に適応する", "reading": "かんきょうにてきおうする", "meaning": "muhitga moslashish" },
+          { "id": 2, "word": "適職", "reading": "てきしょく", "meaning": "mos ish" },
+          { "id": 3, "word": "適性を調べる", "reading": "てきせいをしらべる", "meaning": "muvofiqligini tekshirish" },
+          { "id": 4, "word": "適切な指示", "reading": "てきせつなしじ", "meaning": "tegishli ko'rsatma" },
+          { "id": 5, "word": "適齢期", "reading": "てきれいき", "meaning": "mos keladigan yosh" },
+          { "id": 6, "word": "適度な", "reading": "てきどな", "meaning": "o'rtacha" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "般",
+          "reading": "はん",
+          "meaning": "umumiy, keng",
+          "onyomi": "ハン",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "一般的", "reading": "いっぱんてき", "meaning": "umumiy" },
+          { "id": 2, "word": "一般人", "reading": "いっぱんじん", "meaning": "oddiy odam" },
+          { "id": 3, "word": "一般職", "reading": "いっぱんしょく", "meaning": "umumiy xodimlar" },
+          { "id": 4, "word": "全般", "reading": "ぜんぱん", "meaning": "umumiy" }
+        ]
+      },
+      {
+        "id": 6,
+        "kanji": {
+          "word": "総",
+          "reading": "そう",
+          "meaning": "umumiy, jami",
+          "onyomi": "ソウ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "意見を総合する", "reading": "いけんをそうごうする", "meaning": "fikrlarni sintez qilish" },
+          { "id": 2, "word": "総合職", "reading": "そうごうしょく", "meaning": "kompleks ish" },
+          { "id": 3, "word": "総合病院", "reading": "そうごうびょういん", "meaning": "umumiy kasalxona" },
+          { "id": 4, "word": "総称", "reading": "そうしょう", "meaning": "umumiy atama" },
+          { "id": 5, "word": "総務部", "reading": "そうむぶ", "meaning": "umumiy ishlar bo'limi" },
+          { "id": 6, "word": "総力", "reading": "そうりょく", "meaning": "har tomonlama harakat" }
+        ]
+      }
+    ]
+  }

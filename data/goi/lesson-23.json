@@ -1,0 +1,148 @@
+{
+    "title": "Lesson 23",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "扱う", "reading": "あつかう", "meaning": "muomala qilmoq, ishlatmoq; 2. (do'konda) sotmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "扱う", "reading": "あつかう", "meaning": "muomala qilmoq, ishlatmoq; 2. (do'konda) sotmoq" },
+          { "id": 2, "word": "取り扱う", "reading": "とりあつかう", "meaning": "muomala qilmoq, (do'konda) sotmoq" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "買い替える", "reading": "かいかえる", "meaning": "bir narsani sotib yangisini olish", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "買い替える", "reading": "かいかえる", "meaning": "bir narsani sotib yangisini olish" },
+          { "id": 2, "word": "買い替え", "reading": "かいかえ", "meaning": "sotib yangisini olish" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "発売する", "reading": "はつばいする", "meaning": "sotuvga chiqarmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "発売する", "reading": "はつばいする", "meaning": "sotuvga chiqarmoq" },
+          { "id": 2, "word": "発売", "reading": "はつばい", "meaning": "sotuvga chiqarish" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "チラシ", "reading": "チラシ", "meaning": "reklama varaqasi (flayer)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "チラシ", "reading": "チラシ", "meaning": "reklama varaqasi (flayer)" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "切り取る", "reading": "きりとる", "meaning": "qirqib olmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "切り取る", "reading": "きりとる", "meaning": "qirqib olmoq" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "パックする", "reading": "パックする", "meaning": "qadoqlamoq; 2. yuzga niqob (maska) qo'ymoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "パックする", "reading": "パックする", "meaning": "qadoqlamoq; 2. yuzga niqob (maska) qo'ymoq" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "包装する", "reading": "ほうそうする", "meaning": "o'rab qadoqlamoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "包装する", "reading": "ほうそうする", "meaning": "o'rab qadoqlamoq" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "試食する", "reading": "ししょくする", "meaning": "totib ko'rmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "試食する", "reading": "ししょくする", "meaning": "totib ko'rmoq" },
+          { "id": 2, "word": "試食", "reading": "ししょく", "meaning": "totib ko'rish" }
+        ]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "試着する", "reading": "しちゃくする", "meaning": "kiyib ko'rmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "試着する", "reading": "しちゃくする", "meaning": "kiyib ko'rmoq" },
+          { "id": 2, "word": "試着", "reading": "しちゃく", "meaning": "kiyinish sinovi" }
+        ]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "わりあいに", "reading": "わりあいに", "meaning": "nisbatan", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "わりあいに", "reading": "わりあいに", "meaning": "nisbatan" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "ダブる", "reading": "ダブる", "meaning": "ustma-ust (dublikat bo'lib) tushmoq; ikkita bir xil bo'lib qolmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ダブる", "reading": "ダブる", "meaning": "ustma-ust (dublikat bo'lib) tushmoq; ikkita bir xil bo'lib qolmoq" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "よす", "reading": "よす", "meaning": "to'xtatmoq, bas qilmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "よす", "reading": "よす", "meaning": "to'xtatmoq, bas qilmoq" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "わりと", "reading": "わりと", "meaning": "nisbatan, ancha", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "わりと", "reading": "わりと", "meaning": "nisbatan, ancha" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "実物", "reading": "じつぶつ", "meaning": "haqiqiy narsa", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "実物", "reading": "じつぶつ", "meaning": "haqiqiy narsa" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "粒", "reading": "つぶ", "meaning": "don", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "粒", "reading": "つぶ", "meaning": "don" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "スペース", "reading": "スペース", "meaning": "hudud, joy", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "スペース", "reading": "スペース", "meaning": "hudud, joy" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "現在", "reading": "げんざい", "meaning": "hozirgi vaqtda", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "現在", "reading": "げんざい", "meaning": "hozirgi vaqtda" }]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "過去", "reading": "かこ", "meaning": "o'tmish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "過去", "reading": "かこ", "meaning": "o'tmish" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "年月", "reading": "ねんげつ", "meaning": "yillar, uzoq vaqt", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "年月", "reading": "ねんげつ", "meaning": "yillar, uzoq vaqt" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "月日", "reading": "つきひ", "meaning": "kunlar", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "月日", "reading": "つきひ", "meaning": "kunlar" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "日時", "reading": "にちじ", "meaning": "kuni va soati", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "日時", "reading": "にちじ", "meaning": "kuni va soati" },
+          { "id": 2, "word": "日程", "reading": "にってい", "meaning": "jadval, kun tartibi" }
+        ]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "今日", "reading": "こんにち", "meaning": "bugungi kunda", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "今日", "reading": "こんにち", "meaning": "bugungi kunda" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "年代", "reading": "ねんだい", "meaning": "yillar (10 yillik); 2. davr", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "年代", "reading": "ねんだい", "meaning": "yillar (10 yillik); 2. davr" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "年間", "reading": "ねんかん", "meaning": "yillik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "年間", "reading": "ねんかん", "meaning": "yillik" }]
+      },
+      {
+        "id": 25,
+        "kanji": { "word": "年中", "reading": "ねんじゅう", "meaning": "yil davomida", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "年中", "reading": "ねんじゅう", "meaning": "yil davomida" }]
+      }
+    ]
+  }

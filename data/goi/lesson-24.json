@@ -1,0 +1,134 @@
+{
+    "title": "Lesson 24",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "本年", "reading": "ほんねん", "meaning": "bu yil", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "本年", "reading": "ほんねん", "meaning": "bu yil" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "日中", "reading": "にっちゅう", "meaning": "kun davomida", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "日中", "reading": "にっちゅう", "meaning": "kun davomida" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "夜間", "reading": "やかん", "meaning": "tun davomida", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "夜間", "reading": "やかん", "meaning": "tun davomida" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "ただいま", "reading": "ただいま", "meaning": "hozir", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ただいま", "reading": "ただいま", "meaning": "hozir" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "先程", "reading": "さきほど", "meaning": "biroz avval", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "先程", "reading": "さきほど", "meaning": "biroz avval" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "近々", "reading": "ちかぢか", "meaning": "yaqin orada", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "近々", "reading": "ちかぢか", "meaning": "yaqin orada" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "後日", "reading": "ごじつ", "meaning": "keyinroq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "後日", "reading": "ごじつ", "meaning": "keyinroq" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "やがて", "reading": "やがて", "meaning": "ko'p o'tmay", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "やがて", "reading": "やがて", "meaning": "ko'p o'tmay" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "いずれ", "reading": "いずれ", "meaning": "bir kun kelib", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "いずれ", "reading": "いずれ", "meaning": "bir kun kelib" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "今後", "reading": "こんご", "meaning": "bundan keyingi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "今後", "reading": "こんご", "meaning": "bundan keyingi" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "すでに", "reading": "すでに", "meaning": "allaqachon", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "すでに", "reading": "すでに", "meaning": "allaqachon" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "あらかじめ", "reading": "あらかじめ", "meaning": "avvaldan, oldindan", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "あらかじめ", "reading": "あらかじめ", "meaning": "avvaldan, oldindan" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "従来", "reading": "じゅうらい", "meaning": "avvalgi, qadimgi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "従来", "reading": "じゅうらい", "meaning": "avvalgi, qadimgi" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "あくる〜", "reading": "あくる〜", "meaning": "keyingi", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "あくる〜", "reading": "あくる〜", "meaning": "keyingi" },
+          { "id": 2, "word": "あくる日", "reading": "あくるひ", "meaning": "keyingi kun" }
+        ]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "一時", "reading": "いちじ", "meaning": "bir payt; ma'lum bir muddat", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "一時", "reading": "いちじ", "meaning": "bir payt; ma'lum bir muddat" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "永遠に", "reading": "えいえんに", "meaning": "abadiy", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "永遠に", "reading": "えいえんに", "meaning": "abadiy" }]
+      },
+      {
+        "id": 17,
+        "kanji": { "word": "夜明け", "reading": "よあけ", "meaning": "quyosh chiqishi, kun boshi", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "夜明け", "reading": "よあけ", "meaning": "quyosh chiqishi, kun boshi" },
+          { "id": 2, "word": "明け方", "reading": "あけがた", "meaning": "tong" }
+        ]
+      },
+      {
+        "id": 18,
+        "kanji": { "word": "起床する", "reading": "きしょうする", "meaning": "uyg'onmoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "起床する", "reading": "きしょうする", "meaning": "uyg'onmoq" }]
+      },
+      {
+        "id": 19,
+        "kanji": { "word": "もたれる", "reading": "もたれる", "meaning": "devorga suyanmoq; 2. bosmoq (oshqozon)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "もたれる", "reading": "もたれる", "meaning": "devorga suyanmoq; 2. bosmoq (oshqozon)" }]
+      },
+      {
+        "id": 20,
+        "kanji": { "word": "フレッシュな", "reading": "フレッシュな", "meaning": "yangi, barra", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "フレッシュな", "reading": "フレッシュな", "meaning": "yangi, barra" }]
+      },
+      {
+        "id": 21,
+        "kanji": { "word": "気軽な", "reading": "きがるな", "meaning": "sust muolasiz, yengil (o'ylamasdan qilinadigan)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "気軽な", "reading": "きがるな", "meaning": "sust muolasiz, yengil (o'ylamasdan qilinadigan)" }]
+      },
+      {
+        "id": 22,
+        "kanji": { "word": "洗い物", "reading": "あらいもの", "meaning": "yuviladigan idish-tovoqlar", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "洗い物", "reading": "あらいもの", "meaning": "yuviladigan idish-tovoqlar" }]
+      },
+      {
+        "id": 23,
+        "kanji": { "word": "欠かす", "reading": "かかす", "meaning": "o'tkazib yubormoq", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "欠かす", "reading": "かかす", "meaning": "o'tkazib yubormoq" }]
+      },
+      {
+        "id": 24,
+        "kanji": { "word": "配達する", "reading": "はいたつする", "meaning": "eltib berish", "onyomi": "", "kunyomi": "" },
+        "examples": [
+          { "id": 1, "word": "配達する", "reading": "はいたつする", "meaning": "eltib berish" },
+          { "id": 2, "word": "新聞配達", "reading": "しんぶんはいたつ", "meaning": "gazeta tarqatish" }
+        ]
+      }
+    ]
+  }
