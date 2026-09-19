@@ -1,0 +1,87 @@
+{
+    "title": "Lesson 23",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": {
+          "word": "企",
+          "reading": "き・くわだてる",
+          "meaning": "rejalashtirmoq",
+          "onyomi": "キ",
+          "kunyomi": "くわだ(てる)"
+        },
+        "examples": [
+          { "id": 1, "word": "企てる", "reading": "くわだてる", "meaning": "rejalashtirish, maqsad qilish" },
+          { "id": 2, "word": "企画", "reading": "きかく", "meaning": "reja, loyiha" },
+          { "id": 3, "word": "有名企業", "reading": "ゆうめいきぎょう", "meaning": "mashhur sanoat, ishlab chiqarish" }
+        ]
+      },
+      {
+        "id": 2,
+        "kanji": {
+          "word": "案",
+          "reading": "あん",
+          "meaning": "reja, taklif",
+          "onyomi": "アン",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "具体的な案", "reading": "ぐたいてきなあん", "meaning": "aniq reja, g'oya" },
+          { "id": 2, "word": "案内する", "reading": "あんないする", "meaning": "tanishtirish, yo'l ko'rsatish" },
+          { "id": 3, "word": "提案する", "reading": "ていあんする", "meaning": "tanishtirish, tavsiya berish" },
+          { "id": 4, "word": "発案者", "reading": "はつあんしゃ", "meaning": "taklif beruvchi" },
+          { "id": 5, "word": "名案", "reading": "めいあん", "meaning": "yaxshi g'oya, reja" }
+        ]
+      },
+      {
+        "id": 3,
+        "kanji": {
+          "word": "依",
+          "reading": "い",
+          "meaning": "tayanmoq, bog'liq bo'lmoq",
+          "onyomi": "イ",
+          "kunyomi": ""
+        },
+        "examples": [
+          { "id": 1, "word": "依存心が強い", "reading": "いそんしんがつよい", "meaning": "kimgadir qattiq bog'lanib qolish" },
+          { "id": 2, "word": "依存する", "reading": "いぞんする", "meaning": "bir narsaga mukkasidan ketish" },
+          { "id": 3, "word": "依然として", "reading": "いぜんとして", "meaning": "hali ham" },
+          { "id": 4, "word": "帰依", "reading": "きえ", "meaning": "aqidaparast" }
+        ]
+      },
+      {
+        "id": 4,
+        "kanji": {
+          "word": "頼",
+          "reading": "らい・たのむ",
+          "meaning": "ishonmoq, so'ramoq",
+          "onyomi": "ライ",
+          "kunyomi": "たの(む)・たの(もしい)・たよ(る)"
+        },
+        "examples": [
+          { "id": 1, "word": "頼む", "reading": "たのむ", "meaning": "iltimos qilmoq, so'ramoq" },
+          { "id": 2, "word": "頼もしい", "reading": "たのもしい", "meaning": "umidli, ishonchli" },
+          { "id": 3, "word": "頼りがい", "reading": "たよりがい", "meaning": "ishonchlilik" },
+          { "id": 4, "word": "信頼関係", "reading": "しんらいかんけい", "meaning": "ishonchga asoslangan munosabat" },
+          { "id": 5, "word": "依頼", "reading": "いらい", "meaning": "so'rov, talab" }
+        ]
+      },
+      {
+        "id": 5,
+        "kanji": {
+          "word": "比",
+          "reading": "ひ・くらべる",
+          "meaning": "solishtirmoq",
+          "onyomi": "ヒ",
+          "kunyomi": "くら(べる)"
+        },
+        "examples": [
+          { "id": 1, "word": "比べる", "reading": "くらべる", "meaning": "solishtirmoq" },
+          { "id": 2, "word": "対比", "reading": "たいひ", "meaning": "qiyoslash" },
+          { "id": 3, "word": "恵比寿", "reading": "えびす", "meaning": "Ebisu" },
+          { "id": 4, "word": "比較する", "reading": "ひかくする", "meaning": "solishtirmoq" },
+          { "id": 5, "word": "比較的", "reading": "ひかくてき", "meaning": "qiyosan" }
+        ]
+      }
+    ]
+  }

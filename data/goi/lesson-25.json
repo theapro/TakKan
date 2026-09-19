@@ -1,0 +1,85 @@
+{
+    "title": "Lesson 25",
+    "groups": [
+      {
+        "id": 1,
+        "kanji": { "word": "居心地", "reading": "いごこち", "meaning": "qulaylik darajasi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "居心地", "reading": "いごこち", "meaning": "qulaylik darajasi" }]
+      },
+      {
+        "id": 2,
+        "kanji": { "word": "話し方", "reading": "はなしかた", "meaning": "gapirish uslubi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "話し方", "reading": "はなしかた", "meaning": "gapirish uslubi" }]
+      },
+      {
+        "id": 3,
+        "kanji": { "word": "シーフード", "reading": "シーフード", "meaning": "dengiz mahsulotlari", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "シーフード", "reading": "シーフード", "meaning": "dengiz mahsulotlari" }]
+      },
+      {
+        "id": 4,
+        "kanji": { "word": "締め切り", "reading": "しめきり", "meaning": "oxirgi muddat (dedlayn)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "締め切り", "reading": "しめきり", "meaning": "oxirgi muddat (dedlayn)" }]
+      },
+      {
+        "id": 5,
+        "kanji": { "word": "絶品", "reading": "ぜっぴん", "meaning": "juda ajoyib taom yoki buyum", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "絶品", "reading": "ぜっぴん", "meaning": "juda ajoyib taom yoki buyum" }]
+      },
+      {
+        "id": 6,
+        "kanji": { "word": "達成感", "reading": "たっせいかん", "meaning": "muvaffaqiyat tuyg'usi", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "達成感", "reading": "たっせいかん", "meaning": "muvaffaqiyat tuyg'usi" }]
+      },
+      {
+        "id": 7,
+        "kanji": { "word": "他人", "reading": "たにん", "meaning": "begona, boshqalar", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "他人", "reading": "たにん", "meaning": "begona, boshqalar" }]
+      },
+      {
+        "id": 8,
+        "kanji": { "word": "二次会", "reading": "にじかい", "meaning": "ziyofatning davomi (ikkinchi joyda)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "二次会", "reading": "にじかい", "meaning": "ziyofatning davomi (ikkinchi joyda)" }]
+      },
+      {
+        "id": 9,
+        "kanji": { "word": "バイオリン", "reading": "バイオリン", "meaning": "skripka", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "バイオリン", "reading": "バイオリン", "meaning": "skripka" }]
+      },
+      {
+        "id": 10,
+        "kanji": { "word": "宝石", "reading": "ほうせき", "meaning": "javohir, qimmatbaho tosh", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "宝石", "reading": "ほうせき", "meaning": "javohir, qimmatbaho tosh" }]
+      },
+      {
+        "id": 11,
+        "kanji": { "word": "源", "reading": "みなもと", "meaning": "manba", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "源", "reading": "みなもと", "meaning": "manba" }]
+      },
+      {
+        "id": 12,
+        "kanji": { "word": "無罪", "reading": "むざい", "meaning": "aybsizlik", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "無罪", "reading": "むざい", "meaning": "aybsizlik" }]
+      },
+      {
+        "id": 13,
+        "kanji": { "word": "緻密な", "reading": "ちみつな", "meaning": "puxta, sinchkov", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "緻密な", "reading": "ちみつな", "meaning": "puxta, sinchkov" }]
+      },
+      {
+        "id": 14,
+        "kanji": { "word": "流暢な", "reading": "りゅうちょうな", "meaning": "erkin (nutqda)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "流暢な", "reading": "りゅうちょうな", "meaning": "erkin (nutqda)" }]
+      },
+      {
+        "id": 15,
+        "kanji": { "word": "覚悟する", "reading": "かくごする", "meaning": "ruhiy tayyor bo'lish, qat'iy qaror qilish", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "覚悟する", "reading": "かくごする", "meaning": "ruhiy tayyor bo'lish, qat'iy qaror qilish" }]
+      },
+      {
+        "id": 16,
+        "kanji": { "word": "ちりばめる", "reading": "ちりばめる", "meaning": "qadab bezamoq (javohir bilan)", "onyomi": "", "kunyomi": "" },
+        "examples": [{ "id": 1, "word": "ちりばめる", "reading": "ちりばめる", "meaning": "qadab bezamoq (javohir bilan)" }]
+      }
+    ]
+  }
